@@ -23,7 +23,7 @@ collections:
       - {label: "Featured Image (Size 1200x680)", name: "image", widget: "image"}
       - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
       - {label: "Categories", name: "categories", widget: "relation", collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
-      - {label: "Body", name: "body", widget: "markdowns"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
 #Tags Collection
   - name: tags
