@@ -15,7 +15,7 @@
                             <div class="post-container-content">
                                 <div class="post-categories-container">
                                     <div class="post-categories"><a
-                                            href="{{.Site.BaseURL}}categories/{{ with .Params.categories }}{{index . 0 | urlize}}{{end}}">{{ with .Params.categories }}{{index . 0}}{{end}}</a>
+                                            href="{{.Site.BaseURL}}{{ with .Params.categories }}{{index . 0 | urlize}}{{end}}">{{ with .Params.categories }}{{index . 0}}{{end}}</a>
                                     </div>
                                 </div>
                                 <a href="{{.Permalink}}" class="post-title">

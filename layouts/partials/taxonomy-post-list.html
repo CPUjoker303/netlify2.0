@@ -1,6 +1,6 @@
 <div class="wrap">
     <div id="content" class="blog-page-list">
-        <h2 class="post-related-title">Showing Posts From {{.Section}} </h2>
+        <h2 class="post-related-title">Showing Posts From {{.Data.Term}} </h2>
         <div class="blog-list">
 
             {{ range .RegularPages }}
@@ -15,7 +15,7 @@
                             <div class="post-container-content">
                                 <div class="post-categories-container">
                                     <div class="post-categories"><a
-                                            href="{{.Site.BaseURL}}categories/{{ with .Params.categories }}{{index . 0 | urlize}}{{end}}">{{ with .Params.categories }}{{index . 0}}{{end}}</a>
+                                            href="{{.Site.BaseURL}}{{ with .Params.categories }}{{index . 0 | urlize}}{{end}}">{{ with .Params.categories }}{{index . 0}}{{end}}</a>
                                     </div>
                                 </div>
                                 <a href="{{.Permalink}}" class="post-title">

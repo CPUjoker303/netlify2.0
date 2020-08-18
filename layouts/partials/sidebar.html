@@ -1,6 +1,6 @@
 <div class="sidebar-container">
     <div id="sidebar" class="sidebar-right">
-        {{ $related := .Site.RegularPages.RelatedIndices . "categories" | first 5 }}
+        {{ $related := .Site.RegularPages.RelatedIndices . "categories" "date" | first 5 }}
         {{ with $related }}
         <div class="related-posts">
             <h3>Related Posts</h3>
