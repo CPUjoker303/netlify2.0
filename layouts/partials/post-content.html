@@ -29,13 +29,8 @@
     </div>
     <div class="single-post-content">
         <div class="r-s-p-b">
-            {{ .Content | safeHTML }}
+            {{ .Content | htmlUnescape | safeHTML }}
         </div>
-        {{ if .Params.products }}
-        <div class="r-s-p-b">
-            {{.Params.products}}
-        </div>
-        {{ end }}
     </div>
     {{ partial "post-author-meta" . }}
     {{ partial "post-related" . }}

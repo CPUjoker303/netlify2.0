@@ -3,14 +3,13 @@
         <h2 class="post-related-title">Latest Posts</h2>
         <div class="blog-list">
 
-            {{ $paginator := .Paginate (where .Data.Pages.ByDate.Reverse "Type" "post") }}
+            {{ $paginator := .Paginate (where .Site.Pages.ByDate.Reverse "Type" "post") }}
             {{ range $paginator.Pages }}
             <div class="articles-list-item">
                 <div class="articles-list-item">
                     <div class="blog-single-post">
                         <a href="{{.Permalink}}" class="post-img">
-                            <img src="{{.Params.image | absURL}}" alt="{{.Title}}" class="blog-single-post-img lazyload"
-                                loading="lazy" width="283" height="159" />
+                            <img src="{{.Params.image | absURL}}" alt="{{.Title}}" class="blog-single-post-img lazyload" loading="lazy" width="283" height="159" />
                         </a>
                         <div class="post-container">
                             <div class="post-container-content">

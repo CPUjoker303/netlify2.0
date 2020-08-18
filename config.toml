@@ -1,8 +1,13 @@
 baseURL = "https://netlify-first-theme-demo.netlify.app/" #This will be the URL of your Website
 languageCode = "en-us" #Your Website Language (Used for SEO)
-title = "The Website Name" #Your Website Name
+title = "MY NEW HUGO WEBSITE" #Your Website Name
 paginate = 6 #Number of Post on Homepage
 googleAnalytics = "UA-1920" #Google Analytics Tracking ID
+
+[[related.indices]]
+  name = "categories"
+  weight = 100
+  includeNewer = true
 
 [permalinks]
   categories = "/:title/"
@@ -10,8 +15,8 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
 
 [params]
     logo = "/images/logo.png" #Logo of your Website (Put Image in dir /static/images)
-    description = "TOP RATED PRODUCT REVIEWS" #SEO Discription of your Website
-    excrept = "This is my Website Custom SEO Description" #SEO Exprect of Your Website
+    description = "HUGO DISCRIPTION" #SEO Discription of your Website
+    excrept = "HUGO SEO DISCRIPTION" #SEO Exprect of Your Website
     image = "/images/site_banner.png" #Business Cover (1920x1080) Used in SEO
     icon = "/images/favicon.png" #Favicon
 

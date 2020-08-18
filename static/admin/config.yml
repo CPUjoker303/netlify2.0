@@ -6,6 +6,8 @@ media_folder: "static/uploads"
 public_folder: "/uploads"
 
 collections:
+
+#Posts Collection
   - name: "posts"
     label: "Posts"
     folder: "content/posts"
@@ -18,11 +20,10 @@ collections:
       - {label: "Slug", name: "url", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Modify Date", name: "updateDate", widget: "datetime"}
-      - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Featured Image (Size 1200x680)", name: "image", widget: "image"}
       - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
       - {label: "Categories", name: "categories", widget: "relation", collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
-      - {label: "Post Summary", name: "summary", widget: "text"}
-      - {label: "Post Products (Optional)", name: "products", widget: "text", required: false}
+      - {label: "Post Summary", name: "summary", widget: "markdowns"}
 
 #Tags Collection
   - name: tags
@@ -47,3 +48,5 @@ collections:
       - {name: name, label: Name}
       - {name: excrept, label: SEO Discription}
       - {name: url, label: Slug}
+
+#Pages Collection
