@@ -1,4 +1,4 @@
-baseURL = "https://netlify-first-theme-demo.netlify.app/" #This will be the URL of your Website
+baseURL = "https://netlify2-theme.netlify.app" #This will be the URL of your Website
 languageCode = "en-us" #Your Website Language (Used for SEO)
 title = "MY NEW HUGO WEBSITE" #Your Website Name
 paginate = 6 #Number of Post on Homepage
