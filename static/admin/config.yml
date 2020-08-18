@@ -38,7 +38,7 @@ collections:
       - {name: url, label: Slug}
 
 #Categories Collection
-  - name: tags
+  - name: categories
     label: Categories
     folder: content/categories/
     create: true
