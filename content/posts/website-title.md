@@ -3,9 +3,9 @@ title: Website Title
 draft: false
 SEOTitle: Website SEO Title
 excrept: Website SEO DESC Title
-url: seo-slug
-date: 2020-08-18T12:28:40.791Z
-updateDate: 2020-08-18T12:28:40.832Z
+url: seo-selfie-website
+date: 2020-08-18T12:58:36.282Z
+updateDate: 2020-08-18T12:58:37.542Z
 image: /uploads/graphics-card-explained.jpeg
 tags:
   - Information
