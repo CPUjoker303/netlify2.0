@@ -6,14 +6,13 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
 
 #Don't Change These Things
 [related]
-  includeNewer = false
+  includeNewer = true
   threshold = 80
   toLower = false
 
 [[related.indices]]
   name = "categories"
   weight = 100
-  includeNewer = true
 
 [[related.indices]]
   name = "date"
