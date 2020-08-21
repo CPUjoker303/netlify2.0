@@ -1,0 +1,94 @@
+.staff-pick{
+    display: block;
+}
+.spick {
+    color: #000;
+    font-size: 21px;
+    font-weight: bolder;
+    padding: 10px 30px;
+    background-color:#cef2e0;
+    text-align: center;
+}
+.suggest-card {
+    position: relative;
+    width: auto;
+    height: auto;
+    background: #122936;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.suggest-card::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    width: 100%;
+    height: 100%;
+    background: #f5fffa;
+    transform: skewY(345deg);
+    transition: 0.5s;
+}
+
+.suggest-card:hover::before {
+    top: -60%;
+    transform: skewY(390deg);
+}
+
+.suggest-card::after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-weight: 600;
+    font-size: 8em;
+    color: rgba(0, 0, 0, 0.1);
+}
+
+.suggest-card .imgBx {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0 0;
+}
+
+.suggest-card .imgBx img {
+    max-width: 90%;
+    transition: 0.5s;
+}
+
+.suggest-card:hover .imgBx img {
+    max-width: 70%;
+}
+
+.suggest-card .contextBx {
+    position: relative;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.suggest-card .pname {
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 0;
+}
+
+.suggest-card .contextBx .buy {
+    position: relative;
+    padding: 10px 30px;
+    color: #fff;
+    font-weight: bolder;
+    text-decoration: none;
+    background: #2196f3;
+    margin-top: 15px;
+    border-radius: 8px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: 0.5s;
+}

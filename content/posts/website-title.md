@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 MSI GeForce GT 710 2GD3 LP is built with all solid capacitors to maximize lifespan of the graphic card. This low profile design GPU saves space and allow users to build smaller gaming systems. Make your entire PC experience faster with this dedicated graphics card. Now, you can enjoy up to 10x better performance than integrated graphics in all your favorite PC applications.
 {{</singlep>}}
 
-### Another Single Product
+### Another Single Product with Good Long Title
 
 Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.
 
