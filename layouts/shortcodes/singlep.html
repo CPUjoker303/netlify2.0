@@ -1,0 +1,13 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<div class="product-card">
+    <div class="product-card_img">
+        <img src="{{.Get "pimg" }}" alt="{{.Get "pname"}}" title="{{.Get "pname"}}" />
+    </div>
+    <div class="product-card_info">
+        <h1 class="product-card_title">{{.Get "pname"}}</h1>
+        <p class="product-card_text">
+            {{.Inner}}
+        </p>
+        <a href="{{.Get "plink"}}" class="product-card_cta">View on Amazon</a>
+    </div>
+</div>

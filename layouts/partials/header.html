@@ -17,7 +17,7 @@
             <div id="mobilemenu">
                 <ul>
                     {{ range .Site.Menus.mainmenu }}
-                    <li><a href="{{.URL}}">{{.Name}}</a></li>
+                    <li><a href="{{.URL | absURL}}">{{.Name}}</a></li>
                     {{ end }}
                 </ul>
             </div>
