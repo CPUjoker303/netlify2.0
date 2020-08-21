@@ -18,6 +18,12 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
   name = "date"
   weight = 10
 
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = true
+    startLevel = 2
+
 #Don't Change These Things
 
 [permalinks]

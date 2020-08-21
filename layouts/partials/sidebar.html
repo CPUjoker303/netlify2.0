@@ -1,5 +1,14 @@
 <div class="sidebar-container">
     <div id="sidebar" class="sidebar-right">
+        {{ if .TableOfContents }}
+        <div id="toc-w-r-f" class="toc-w-r-f-r toc" role="navigation"
+        aria-labelledby="mw-toc-heading">
+        <div class="toctitle" lang="en" dir="ltr">
+            <h2 id="mw-toc-heading">Table of Contents</h2>
+        </div>
+        {{.TableOfContents }}
+        </div>
+        {{ end }}
         {{ $related := .Site.RegularPages.RelatedIndices . "categories" "date" | first 5 }}
         {{ with $related }}
         <div class="related-posts">
@@ -8,7 +17,8 @@
                 {{ range . }}
                 <li>
                     <a href="{{.RelPermalink}}">
-                        <img src="{{.Params.image}}" class="lazyload" loading="lazy" alt="{{.Title}}" width="283"
+                        <img src="{{.Params.image}}" class="lazyload"
+                            loading="lazy" alt="{{.Title}}" width="283"
                             height="159">
                         <h5 class="post-title">{{.Title}}</h5>
                     </a>
