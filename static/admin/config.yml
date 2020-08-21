@@ -27,6 +27,9 @@ collections:
       - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
       - {label: "Categories", name: "categories", widget: "relation", collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Staff Pick P.Name", name: "pickName", widget: "string"}
+      - {label: "Staff Pick P.Image", name: "pickImg", widget: "image"}
+      - {label: "Staff Pick P.Link", name: "pickLink", widget: "string"}
 
 #Categories Collection
   - name: categories

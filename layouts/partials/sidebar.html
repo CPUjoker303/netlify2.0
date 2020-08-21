@@ -6,18 +6,20 @@
             <h2 id="mw-toc-heading">Table of Contents</h2></div>
             {{ replace .Page.TableOfContents "li id=\"TableOfContents\"" "div class=\"toc\"" | safeHTML }}
         </div>
+        {{ if .Params.pickName }}
         <div class="staff-pick">
             <div class="spick">Staff Pick</div>
         <div class="suggest-card">
             <div class="imgBx">
-                <img src="https://www.lenovo.com/medias/lenovo-laptop-lenovo-chromebook-c330-hero.png?context=bWFzdGVyfHJvb3R8NTc1MDh8aW1hZ2UvcG5nfGhiYS9oZWYvOTc5NjYxMTE0NTc1OC5wbmd8ZjExMzlkYTI4ZTMyYmNkYWRmYmJmY2VlMGYzYWE0MjNiNzg5OWU3YTkyNTcyYTZmZjk3YjI2ZGRiNDc5ZTc3Ng" alt="">
+                <img src="{{.Params.pickImg}}" alt="Staff Pick">
             </div>
             <div class="contextBx">
-                <div class="pname">Lenovo Chromebook C330</div>
-                <a href="#" class="buy">View On Amazon</a>
+                <div class="pname">{{.Params.pickName}}</div>
+                <a href="{{.Params.pickLink}}" class="buy">View On Amazon</a>
             </div>
         </div>
         </div>
+        {{ end }}
         {{ $related := .Site.RegularPages.RelatedIndices . "categories" "date" | first 5 }}
         {{ with $related }}
         <div class="related-posts">
@@ -26,9 +28,7 @@
             {{ range . }}
             <li>
                 <a href="{{.RelPermalink}}">
-                    <img src="{{.Params.image}}" class="lazyload"
-                        loading="lazy" alt="{{.Title}}" width="283"
-                        height="159">
+                    <img src="{{.Params.image}}" class="lazyload" loading="lazy" alt="{{.Title}}" width="283" height="159">
                     <h5 class="post-title">{{.Title}}</h5>
                 </a>
             </li> {{ end }}
