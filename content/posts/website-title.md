@@ -11,6 +11,9 @@ tags:
   - Information
 categories:
   - Laptops
+pickName: Demo Staff Pick
+pickImg: https://www.rsa.com/content/dam/product/rsa-netwitness/laptop-rsa-netwitness-orchestrator.png
+pickLink: https://www.amazon.com/PlayStation-4-Pro-1TB-Console/dp/B01LOP8EZC/ref=sr_1_21?dchild=1&qid=1598035645&s=videogames-intl-ship&sr=1-21
 ---
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
 
