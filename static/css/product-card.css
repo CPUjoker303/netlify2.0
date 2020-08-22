@@ -37,7 +37,7 @@
   }
   
   .product-card_cta {
-    display: inline-block;
+    display: block;
     padding: 10px 30px;
     letter-spacing: 0.5px;
     text-transform: uppercase;
