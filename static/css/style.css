@@ -2038,8 +2038,8 @@ hr {
 /* BUY BUTTON CSS */
 .buy-button{
     display: block;
-    background-color: chocolate;
-    color: white;
+    background-color: #febd69;
+    color: #000;
     text-transform: uppercase;
     font-weight: bolder;
     padding: 10px 25px;
