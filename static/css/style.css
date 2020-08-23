@@ -245,6 +245,19 @@ footer .nav-link:hover {
     margin-bottom: 10px
 }
 
+.post-single-meta .post-categories {
+    display: inline-block;
+    padding: 2px 10px;
+    background-color: #febd69;
+    color: #000;
+    border-radius: 7px;
+}
+.post-single-meta .post-categories a {
+    color: #000;
+    font-weight: 700;
+    text-transform: uppercase
+}
+
 .post-categories a {
     color: #be7e06;
     font-weight: 700;

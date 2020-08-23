@@ -20,7 +20,7 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
 
 [markup]
   [markup.tableOfContents]
-    endLevel = 4
+    endLevel = 3
     ordered = false
     startLevel = 2
 
