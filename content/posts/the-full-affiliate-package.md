@@ -6,8 +6,8 @@ excrept: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
   accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo
   inventore veritatis
 url: full amazon affiliate package theme
-date: 2020-08-23T07:45:24.438Z
-updateDate: 2020-08-23T07:45:24.469Z
+date: 2020-08-23T08:07:06.345Z
+updateDate: 2020-08-23T08:07:08.341Z
 image: /uploads/linux-laptop-for-programming.jpg
 tags:
   - Information
