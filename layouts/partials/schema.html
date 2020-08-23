@@ -61,11 +61,12 @@
                     "image": { "@type": "ImageObject", "url": "{{.Site.Params.AuthorImage | absURL }}",}
                 },
                 "publisher": { "@type": "Organization", "name": "{{.Site.Title}}", "logo": { "@type": "ImageObject", "url": "{{.Site.Params.image | absURL}}" } },
-                "image": { "@type": "ImageObject", "url": "{{.Params.image | absURL}}", "height": 662, "width": 1308 },
+                "image": { "@type": "ImageObject", "url": "{{.Params.image | absURL}}"},
                 "commentCount": "0",
                 "comment": "",
                 "wordCount": {{.WordCount}}
             },
+    }
             {{ end }}
 </script>
 {{ end }}
