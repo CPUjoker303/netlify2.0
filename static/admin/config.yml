@@ -32,7 +32,7 @@ collections:
 #Categories Collection
   - name: categories
     label: Categories
-    folder: content/categories/
+    folder: data/categories/
     create: true
     slug: "{{name}}"
     identifier_field: name
@@ -44,7 +44,7 @@ collections:
 #Tags Collection
   - name: tags
     label: Tags
-    folder: content/tags/
+    folder: data/tags/
     create: true
     slug: "{{name}}"
     identifier_field: name

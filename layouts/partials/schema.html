@@ -34,9 +34,39 @@
         {{ if .Site.Params.SocialYouTube }}"{{.Site.Params.SocialYouTube}}",{{ end }}
         {{ if .Site.Params.SocialTumblr }}"{{.Site.Params.SocialTumblr}}",{{ end }}
         {{ if .Site.Params.SocialLinkedin }}"{{.Site.Params.SocialLinkedin}}",{{ end }}
-        {{ if .Site.Params.SocialPinterest }}"{{.Site.Params.SocialPinterest}}",{{ end }}
+        {{ if .Site.Params.SocialPinterest }}"{{.Site.Params.SocialPinterest}}"{{ end }}
         ]
     }
+</script>
+<script type="application/ld+json">
+    {
+        "@type": "Blog",
+        "url": "{{.Site.BaseURL}}",
+        "headline": "{{.Site.Title}}",
+        "description": "{{.Site.Params.description}}",
+        "blogPost": [
+        {{ range (where .Site.Pages "Kind" "page") }}
+            {
+                "@type": "BlogPosting",
+                "headline": "{{.Title}}",
+                "name": "{{.Title}}",
+                "url": "{{.Permalink}}",
+                "mainEntityOfPage": "{{.Permalink}}",
+                "dateModified": "{{.Params.updateDate}}",
+                "datePublished": "{{.Date}}",
+                "author": {
+                    "@type": "Person",
+                    "name": "{{.Site.Params.siteAuthor}}",
+                    "description": "{{.Site.Params.AuthorBio}}",
+                    "image": { "@type": "ImageObject", "url": "{{.Site.Params.AuthorImage | absURL }}",}
+                },
+                "publisher": { "@type": "Organization", "name": "{{.Site.Title}}", "logo": { "@type": "ImageObject", "url": "{{.Site.Params.image | absURL}}" } },
+                "image": { "@type": "ImageObject", "url": "{{.Params.image | absURL}}", "height": 662, "width": 1308 },
+                "commentCount": "0",
+                "comment": "",
+                "wordCount": {{.WordCount}}
+            },
+            {{ end }}
 </script>
 {{ end }}
 {{ range .Site.Menus.mainmenu }}
@@ -78,3 +108,6 @@
     {{.Params.schemaMarkup}}    
 </script>
 {{ end }}
+
+
+
