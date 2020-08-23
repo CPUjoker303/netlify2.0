@@ -1,6 +1,6 @@
 ---
 title: The Full Affiliate Package
-draft: true
+draft: false
 SEOTitle: The SEO Optimized Title
 excrept: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
   accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo
