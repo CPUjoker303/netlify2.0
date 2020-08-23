@@ -357,12 +357,13 @@ p a strong, p strong a {
     border-radius: 50%
 }
 
-.post-author-info h4 {
+.post-author-info .author-title {
     margin-bottom: 10px;
-    display: inline-block
+    display: inline-block;
+    font-weight: bolder;
 }
 
-.post-author-info h4:hover {
+.post-author-info .author-title:hover {
     color: #2db2c1
 }
 
@@ -1518,8 +1519,11 @@ hr {
     #post-share-links {
         padding-bottom: 10px
     }
-    h5.post-title {
-        max-width: 285px
+    div.post-title {
+        max-width: 285px;
+        font-weight: bolder;
+        margin: 0 0 20px;
+        
     }
     #content-wrapper {
         margin: 1rem auto
@@ -1647,7 +1651,7 @@ hr {
         display: none;
     }
     .related-posts {
-        width: 100%;
+        width: auto;
         text-align: center;
     }
     .r-s-buy-on-ama a, .wp-block-button a {
