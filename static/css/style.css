@@ -1641,10 +1641,14 @@ hr {
 
 @media(min-width:460px) and (max-width:749px) {
     .wrap {
-        width: 425px
+        width: 100%;
     }
-    .related-posts li {
-        width: 100%
+    .sidebar-container{
+        display: none;
+    }
+    .related-posts {
+        width: 100%;
+        text-align: center;
     }
     .r-s-buy-on-ama a, .wp-block-button a {
         width: auto;
