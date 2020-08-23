@@ -45,7 +45,7 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 {{<pros>}}
 <li>The Pros of a Product</li>
 <li>Another Product Name Pro </li>
-{{</pros}}
+{{</pros>}}
 {{<cons>}}
 <li>The Cons of a Product</li>
 <li>Another Product Name Con </li>
