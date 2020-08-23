@@ -32,13 +32,13 @@ Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, ad
 ## Product Single Card
 
 {{<singlep pimg="https://images-na.ssl-images-amazon.com/images/I/81v6VrI9ZML.*AC_SL1500*.jpg" pname="Dell XPS 13 7390 13.3 inch 4K UHD InfinityEdge" plink="https://www.amazon.com/Dell-InfinityEdge-Graphics-XPS7390-7681SLV-PUS-13-13-99/dp/B07XYTC8WG">}}
-
-- Infinityedge display, enabling a 13. 3" Screen In an 11-inch form Factor with an 80. 7% screen-to-body ratio
-- Vibrant colors: by maximizing the color spectrum with 100% sRGB color and a 1500: 1 contrast ratio, every Shadow takes shape and even bright scenes gain definition
-- Beautiful from every angle: The anti-reflective screen combined with superior 400-nit brightness frees you to enjoy your entertainment outdoors. Plus, the IPS panel provides a wider viewing angle, so you can share your screen without missing a thing.
-- Stunning strength: The XPS 13 is cut from a single block of aluminum
-- Seamless PC/smartphone integration: access multiple devices without dividing your attention mobile connect pairs your iOS or Android smartphone with your laptop.
-
+<ul>
+<li>Infinityedge display, enabling a 13. 3" Screen In an 11-inch form Factor with an 80. 7% screen-to-body ratio</li>
+<li>Vibrant colors: by maximizing the color spectrum with 100% sRGB color and a 1500: 1 contrast ratio, every Shadow takes shape and even bright scenes gain definition</li>
+<li>Beautiful from every angle: The anti-reflective screen combined with superior 400-nit brightness frees you to enjoy your entertainment outdoors. Plus, the IPS panel provides a wider viewing angle, so you can share your screen without missing a thing.</li>
+<li>Stunning strength: The XPS 13 is cut from a single block of aluminum</li>
+<li>Seamless PC/smartphone integration: access multiple devices without dividing your attention mobile connect pairs your iOS or Android smartphone with your laptop.</li>
+</ul>
 {{</singlep>}}
 
 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
