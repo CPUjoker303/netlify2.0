@@ -40,6 +40,7 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
     siteAuthor = "Erik Bolinder" #Your Name
     AuthorImage = "/images/author.png" #Your Profile Picure
     AuthorBio = "There is your Authoer Bio" #Your Author BIO
+    contactMail = "contact@thewebsite.com"
 
     googleSiteVerify = "code1" #Google Search Console Verification
     BingWebmaster = "code2" #Bing Verification
