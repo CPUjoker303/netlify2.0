@@ -14,30 +14,30 @@ tags:
 categories:
   - Laptops
 pickName: Demo Staff Product Name in Sidebar
-pickImg: /uploads/81v6vri9zml._ac_sl1500_.jpg
+pickImg: /uploads/dell-xps.png
 pickLink: https://www.amazon.com/Dell-InfinityEdge-Graphics-XPS7390-7681SLV-PUS-13-13-99/dp/B07XYTC8WG/
 ---
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
-\# Headings
+# Headings
 
-\## Heading 2
+## Heading 2
 
-\### Heading 3
+### Heading 3
 
-\#### Heading 4
+#### Heading 4
 
 Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
-\## Product Single Card
+## Product Single Card
 
 {{<singlep pimg="https://images-na.ssl-images-amazon.com/images/I/81v6VrI9ZML.*AC_SL1500*.jpg" pname="Dell XPS 13 7390 13.3 inch 4K UHD InfinityEdge" plink="https://www.amazon.com/Dell-InfinityEdge-Graphics-XPS7390-7681SLV-PUS-13-13-99/dp/B07XYTC8WG">}}
 
-* Infinityedge display, enabling a 13. 3" Screen In an 11-inch form Factor with an 80. 7% screen-to-body ratio
-* Vibrant colors: by maximizing the color spectrum with 100% sRGB color and a 1500: 1 contrast ratio, every Shadow takes shape and even bright scenes gain definition
-* Beautiful from every angle: The anti-reflective screen combined with superior 400-nit brightness frees you to enjoy your entertainment outdoors. Plus, the IPS panel provides a wider viewing angle, so you can share your screen without missing a thing.
-* Stunning strength: The XPS 13 is cut from a single block of aluminum
-* Seamless PC/smartphone integration: access multiple devices without dividing your attention mobile connect pairs your iOS or Android smartphone with your laptop.
+- Infinityedge display, enabling a 13. 3" Screen In an 11-inch form Factor with an 80. 7% screen-to-body ratio
+- Vibrant colors: by maximizing the color spectrum with 100% sRGB color and a 1500: 1 contrast ratio, every Shadow takes shape and even bright scenes gain definition
+- Beautiful from every angle: The anti-reflective screen combined with superior 400-nit brightness frees you to enjoy your entertainment outdoors. Plus, the IPS panel provides a wider viewing angle, so you can share your screen without missing a thing.
+- Stunning strength: The XPS 13 is cut from a single block of aluminum
+- Seamless PC/smartphone integration: access multiple devices without dividing your attention mobile connect pairs your iOS or Android smartphone with your laptop.
 
 {{</singlep>}}
 
