@@ -58,7 +58,7 @@
                     "@type": "Person",
                     "name": "{{.Site.Params.siteAuthor}}",
                     "description": "{{.Site.Params.AuthorBio}}",
-                    "image": { "@type": "ImageObject", "url": "{{.Site.Params.AuthorImage | absURL }}",}
+                    "image": { "@type": "ImageObject", "url": "{{.Site.Params.AuthorImage | absURL }}"}
                 },
                 "publisher": { "@type": "Organization", "name": "{{.Site.Title}}", "logo": { "@type": "ImageObject", "url": "{{.Site.Params.image | absURL}}" } },
                 "image": { "@type": "ImageObject", "url": "{{.Params.image | absURL}}"},
@@ -66,8 +66,9 @@
                 "comment": "",
                 "wordCount": {{.WordCount}}
             },
+        {{ end }}
+        ]
     }
-            {{ end }}
 </script>
 {{ end }}
 {{ range .Site.Menus.mainmenu }}
@@ -75,9 +76,7 @@
     {
         "@context": "https://schema.org/",
         "@type": "SiteNavigationElement",
-        "name": [
-            "{{.Name}}",
-        ],
+        "name": ["{{.Name}}",],
         "url": [
             "{{ .URL | absURL }}",
         ]
