@@ -1,58 +1,164 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
 
-publish_mode: editorial_workflow
-show_preview_links: true
+media_folder: "site/static/img" # Folder where user uploaded files should go
+public_folder: "img"
 
-media_folder: "static/uploads"
-public_folder: "/uploads"
+collections: # A list of collections the CMS should be able to edit
 
-collections:
-
-#Posts Collection
-  - name: "posts"
-    label: "Posts"
-    folder: "content/posts"
-    create: true
-    fields:
-      - {label: "Title", name: "title" , widget: "string", required: true}
-      - {label: "Draft", name: "draft", widget: "boolean", default: true}
-      - {label: "SEO Title", name: "SEOTitle", widget: "string", required: true}
-      - {label: "SEO Discription", name: "excrept", widget: "text", required: true}
-      - {label: "Slug", name: "url", widget: "string"}
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "site/content/post" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "SEO Title", name: "seotitle", widget: "string"}
+      - {label: "URL", name: "slug", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Modify Date", name: "updateDate", widget: "datetime"}
-      - {label: "Featured Image (Size 1200x680)", name: "image", widget: "image"}
-      - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
-      - {label: "Categories", name: "categories", widget: "relation", collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
+      - {label: "Categories", name: "categories", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Rating Count", name: "ratingcount", widget: "string", required: false}
+      - {label: "Rating Score", name: "ratingscore", widget: "string", required: false}
+      - {label: "Type", name: "type", widget: "string"}
+      - {label: "New", name: "new", widget: "string", required: false}
+      - {label: "Affiliate", name: "affiliate", widget: "string", required: false}
+      - {label: "Old", name: "old", widget: "string", required: false} 
+      - {label: "SEO Description", name: "description", widget: "text"}
+      - {label: "Full HD Image 1200 x 630", name: "hdimage", widget: "image", required: false}
+      - {label: "Featured Image 998 x 561", name: "image", widget: "image"}
+      - {label: "Thumbnail 283 x 159", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Staff Pick P.Name", name: "pickName", widget: "string"}
-      - {label: "Staff Pick P.Image", name: "pickImg", widget: "image"}
-      - {label: "Staff Pick P.Link", name: "pickLink", widget: "string"}
+      - {label: "Recommendations", name: "recommendations", widget: string, required: false} # TOC
+      - {label: "Product Name 1", name: "product1", widget: string, required: false}
+      - {label: "ID", name: "productid1", widget: "string", required: false}
+      - {label: "Product Name 2", name: "product2", widget: string, required: false}
+      - {label: "ID", name: "productid2", widget: "string", required: false}
+      - {label: "Product Name 3", name: "product3", widget: string, required: false}
+      - {label: "ID", name: "productid3", widget: "string", required: false}
+      - {label: "Product Name 4", name: "product4", widget: string, required: false}
+      - {label: "ID", name: "productid4", widget: "string", required: false}
+      - {label: "Product Name 5", name: "product5", widget: string, required: false}
+      - {label: "ID", name: "productid5", widget: "string", required: false}
+      - {label: "Product Name 6", name: "product6", widget: string, required: false}
+      - {label: "ID", name: "productid6", widget: "string", required: false}
+      - {label: "Product Name 7", name: "product7", widget: string, required: false}
+      - {label: "ID", name: "productid7", widget: "string", required: false}
+      - {label: "Product Name 8", name: "product8", widget: string, required: false}
+      - {label: "ID", name: "productid8", widget: "string", required: false}
+      - {label: "Product Name 9", name: "product9", widget: string, required: false}
+      - {label: "ID", name: "productid9", widget: "string", required: false}
+      - {label: "Product Name 10", name: "product10", widget: string, required: false}
+      - {label: "ID", name: "productid10", widget: "string", required: false}
+      - {label: "Summary", name: "summary", widget: string, required: false}
+      - {label: "Frequently Asked Questions", name: "faq", widget: string, required: false}
+      - {label: "Conclusion", name: "conclusion", widget: string, required: false}
+      - {label: "ID", name: "conclusionid", widget: "string", required: false}
+      - {label: "Staff Pick Link", name: "staffpicklink", widget: string, required: false}
+      - {label: "Staff Pick Img", name: "staffpickimg", widget: string, required: false}
+      - {label: "Staff Pick Name", name: "staffpickname", widget: string, required: false}
+      - {label: "Question", name: "question1", widget: "text", required: false} # Questions and Answers
+      - {label: "Answer", name: "answer1", widget: "text", required: false}
+      - {label: "Question", name: "question2", widget: "text", required: false}
+      - {label: "Answer", name: "answer2", widget: "text", required: false}
+      - {label: "Question", name: "question3", widget: "text", required: false}
+      - {label: "Answer", name: "answer3", widget: "text", required: false}
+      - {label: "Question", name: "question4", widget: "text", required: false}
+      - {label: "Answer", name: "answer4", widget: "text", required: false}
+      - {label: "Question", name: "question5", widget: "text", required: false}
+      - {label: "Answer", name: "answer5", widget: "text", required: false}
+      - {label: "Question", name: "question6", widget: "text", required: false}
+      - {label: "Answer", name: "answer6", widget: "text", required: false}
+      - {label: "Question", name: "question7", widget: "text", required: false}
+      - {label: "Answer", name: "answer7", widget: "text", required: false}
+      - {label: "Question", name: "question8", widget: "text", required: false}
+      - {label: "Answer", name: "answer8", widget: "text", required: false}
 
-#Categories Collection
-  - name: categories
-    label: Categories
-    folder: content/categories/
-    create: true
-    slug: "{{name}}"
-    identifier_field: name
-    fields: 
-      - {name: name, label: Name}
-      - {name: excrept, label: SEO Discription}
-      - {name: url, label: Slug}
-
-#Tags Collection
-  - name: tags
-    label: Tags
-    folder: content/tags/
-    create: true
-    slug: "{{name}}"
-    identifier_field: name
-    fields: 
-      - {name: name, label: Name}
-      - {name: excrept, label: SEO Discription}
-      - {name: url, label: Slug}
-
-#Pages Collection
+  - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "News" # Used in the UI, ie.: "New Post"
+    folder: "site/content/news" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "SEO Title", name: "seotitle", widget: "string"}
+      - {label: "URL", name: "slug", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Rating Count", name: "ratingcount", widget: "string", required: false}
+      - {label: "Rating Score", name: "ratingscore", widget: "string", required: false}
+      - {label: "Type", name: "type", widget: "string"}
+      - {label: "New", name: "new", widget: "string", required: false}
+      - {label: "Old", name: "old", widget: "string", required: false} 
+      - {label: "SEO Description", name: "description", widget: "text"}
+      - {label: "Full HD Image 1200 x 630", name: "hdimage", widget: "image", required: false}
+      - {label: "Featured Image 998 x 561", name: "image", widget: "image"}
+      - {label: "Thumbnail 283 x 159", name: "thumbnail", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "site/content/_index.md"
+        label: "Home Page"
+        name: "home"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: "Blurb", name: blurb, widget: object, fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Intro", name: intro, widget: object, fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Products", name: products, widget: list, fields: [
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Values", name: "values", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Text", name: "text", widget: "text"}]}
+              
+      - file: "site/content/contact/_index.md"
+        label: "Contact US"
+        name: "contact-us"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "SEO Title", name: "seotitle", widget: "string"}
+          - {label: "URL", name: "slug", widget: "string"}
+          - {label: "SEO Description", name: "description", widget: "text"}
+              
+      - file: "site/content/about-us/_index.md"
+        label: "About US"
+        name: "about-us"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "SEO Title", name: "seotitle", widget: "string"}
+          - {label: "URL", name: "slug", widget: "string"}
+          - {label: "SEO Description", name: "description", widget: "text"}
+              
+      - file: "site/content/privacypolicy/_index.md"
+        label: "Privacy Policy"
+        name: "privacy-policy"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "SEO Title", name: "seotitle", widget: "string"}
+          - {label: "URL", name: "slug", widget: "string"}
+          - {label: "SEO Description", name: "description", widget: "text"}
+              
+      - file: "site/content/termsofservice/_index.md"
+        label: "Terms of Service"
+        name: "terms-of-service"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "SEO Title", name: "seotitle", widget: "string"}
+          - {label: "URL", name: "slug", widget: "string"}
+          - {label: "SEO Description", name: "description", widget: "text"}
+              
+      - file: "site/content/affiliatedisclosure/_index.md"
+        label: "Affiliate Disclosure"
+        name: "affiliate-disclosure"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "SEO Title", name: "seotitle", widget: "string"}
+          - {label: "URL", name: "slug", widget: "string"}
+          - {label: "SEO Description", name: "description", widget: "text"}
