@@ -23,8 +23,8 @@
     <meta property="og:url" content="{{.Page.Permalink}}">
     <meta property="og:site_name" content="{{.Site.Title}}">
     <meta property="og:image" content="{{ if .IsHome }}{{.Site.Params.image}}{{else}}{{.Params.image}}{{end}}">
-    {{if .IsPage}}{{if .Params.tags}}<meta property="article:section" content="{{ with .Params.tags }}{{index . 0 }}{{end}}">{{end}}
-    {{ if .Params.categories }}<meta property="article:tag" content="{{ with .Params.categories }}{{index . 0 }}{{end}}">{{ end }}
+    {{if .IsPage}}{{if .Params.tags}}<meta property="article:tag" content="{{ with .Params.tags }}{{index . 0 }}{{end}}">{{end}}
+    {{ if .Params.categories }}<meta property="article:section" content="{{ with .Params.categories }}{{index . 0 }}{{end}}">{{ end }}
     <meta property="article:published_time" content="{{.Date}}">
     <meta property="article:modified_time" content="{{.Params.updateDate}}">
     <meta property="og:updated_time" content="{{.Params.updateDate}}">

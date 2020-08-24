@@ -90,6 +90,7 @@
     }
 </script>
 {{ if .IsPage }}
+{{ partial "article-schema" . }}
 <script type="application/ld+json">
     {
         "@context": "https:\/\/schema.org",
@@ -114,3 +115,4 @@
     {{.Params.schemaMarkup}}    
 </script>
 {{ end }}
+
