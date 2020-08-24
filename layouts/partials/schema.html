@@ -1,3 +1,4 @@
+{{- $comma := false -}}
 {{ if .IsHome }}
 <script type="application/ld+json">
     {
@@ -45,7 +46,9 @@
         "headline": "{{.Site.Title}}",
         "description": "{{.Site.Params.description}}",
         "blogPost": [
-        {{ range (where .Site.Pages "Kind" "page") }}
+        {{- range (where .Site.Pages "Kind" "page") -}}
+        {{- if $comma -}},{{- end -}}
+        {{- $comma = true -}}
             {
                 "@type": "BlogPosting",
                 "headline": "{{.Title}}",
@@ -65,24 +68,24 @@
                 "commentCount": "0",
                 "comment": "",
                 "wordCount": {{.WordCount}}
-            },
+            }
         {{ end }}
         ]
     }
 </script>
 {{ end }}
-{{ range .Site.Menus.mainmenu }}
 <script type="application/ld+json">
     {
+        {{- range .Site.Menus.mainmenu -}}
+        {{- if $comma -}},{{- end -}}
+        {{- $comma = true -}}
         "@context": "https://schema.org/",
         "@type": "SiteNavigationElement",
-        "name": ["{{.Name}}",],
-        "url": [
-            "{{ .URL | absURL }}",
-        ]
+        "name": ["{{.Name}}"],
+        "url": [ "{{ .URL | absURL }}"]
+        {{ end }}
     }
 </script>
-{{ end }}
 {{ if .IsPage }}
 <script type="application/ld+json">
     {
@@ -111,3 +114,9 @@
 
 
 
+
+
+{{- range seq 5 -}}
+  {{- if $comma -}},{{- end -}}{{ . }}
+  {{- $comma = true -}}
+{{- end -}}

@@ -73,6 +73,21 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
   url = "/"
   weight = 1
 
+[[menu.mainmenu]]
+  name = "Knowledge Base"
+  url = "/"
+  weight = 2
+
+[[menu.mainmenu]]
+  name = "Reviews"
+  url = "/"
+  weight = 3
+
+[[menu.mainmenu]]
+  name = "News"
+  url = "/"
+  weight = 4
+
   #Header Menu END
   #Footer Menu Start (Order By Weight)
 
