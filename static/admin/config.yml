@@ -30,26 +30,6 @@ collections:
       - {label: "Staff Pick P.Link", name: "pickLink", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-#KnowledgeBase Collection
-  - name: "posts"
-    label: "Knowledge Base"
-    folder: "content/knowledge-base"
-    create: true
-    fields:
-      - {label: "Title", name: "title" , widget: "string", required: true}
-      - {label: "Draft", name: "draft", widget: "boolean", default: true}
-      - {label: "SEO Title", name: "SEOTitle", widget: "string", required: true}
-      - {label: "SEO Discription", name: "excrept", widget: "text", required: true}
-      - {label: "Focus Keywords", name: "metaKeywords", widget: "string"}
-      - {label: "Slug", name: "url", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Modify Date", name: "updateDate", widget: "datetime"}
-      - {label: "Featured Image (Size 1200x680)", name: "image", widget: "image"}
-      - {label: "Tags", name: "tags", widget: "relation", collection: "tags", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
-      - {label: "Categories", name: "categories", widget: "relation", collection: "categories", searchFields: ["name"], valueField: "name", displayFields: ["name"], multiple: true}
-      - {label: "Schema Markup", name: "schemaMarkup", widget: "text"}
-      - {label: "Body", name: "body", widget: "markdown"}
-
 #Categories Collection
   - name: categories
     label: Categories
@@ -75,3 +55,18 @@ collections:
       - {name: url, label: Slug}
 
 #Pages Collection
+  - name: "pages"
+    label: "Pages"
+    folder: "content/pages"
+    create: true
+    fields:
+      - {label: "Title", name: "title" , widget: "string", required: true}
+      - {label: "Layout", name: "type", widget: "hidden", default: "pages"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "SEO Title", name: "SEOTitle", widget: "string", required: true}
+      - {label: "SEO Discription", name: "excrept", widget: "text", required: true}
+      - {label: "Slug", name: "url", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+#Config File

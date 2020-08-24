@@ -1888,15 +1888,17 @@ hr {
     margin: 30px 0;
 }
   
-  .product-card_img {
+.product-card_img {
     height: auto;
-    margin-right: 20px;
+    margin-left: 20px;
+    padding-right: 20px;
     position: relative;
   }
   
   .product-card_img img {
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: auto;
+    max-height: 200px;
     display: block;
   }
   
@@ -1921,10 +1923,14 @@ hr {
     text-decoration: none;
     font-size: 16px;
     font-weight: bolder;
-    color: #000;
-    background-color: #febd69;
-    border-radius: 6px;
     float: right;
+    border: 1px solid;
+    border-color: #9c7e31 #90742d #786025 !important;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(255,255,255,0.4) inset;
+    background: #f0c14b;
+    background: linear-gradient(to bottom, #f7dfa5, #f0c14b) repeat scroll 0 0 rgba(0,0,0,0);
+    color: #111 !important;
   }
   
   @media screen and (max-width: 1068px) {
@@ -2062,17 +2068,20 @@ hr {
 /* BUY BUTTON CSS */
 .buy-button{
     display: block;
-    background-color: #febd69;
-    color: #000;
     text-transform: uppercase;
     font-weight: bolder;
     padding: 10px 25px;
-    border-radius: 7px;
-    border: black 2px solid;
     width: 50%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
     margin-bottom:20px;
+    border: 1px solid;
+    border-color: #9c7e31 #90742d #786025 !important;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(255,255,255,0.4) inset;
+    background: #f0c14b;
+    background: linear-gradient(to bottom, #f7dfa5, #f0c14b) repeat scroll 0 0 rgba(0,0,0,0);
+    color: #111 !important;
 }

@@ -3,8 +3,8 @@
         <h2 class="post-related-title">Latest Posts</h2>
         <div class="blog-list">
 
-            {{ $paginator := .Paginate (where .Site.Pages.ByDate.Reverse "Type" "post") }}
-            {{ range $paginator.Pages }}
+            {{ $paginator := .Paginate (.Data.Pages.ByDate.Reverse) }}
+            {{ range where $paginator.Pages "Type" "ne" "pages" }}
             <div class="articles-list-item">
                 <div class="articles-list-item">
                     <div class="blog-single-post">
