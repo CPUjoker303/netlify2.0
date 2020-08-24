@@ -77,16 +77,16 @@
     {
         "@context": "https://schema.org/",
         "@type": "SiteNavigationElement",
-        "name": ["{{- $ncomma := false -}}
+        "name": [{{- $ncomma := false -}}
             {{- range .Site.Menus.mainmenu -}}
-            {{- if $ncomma -}},{{- end -}}{{ .Name }}
+            {{- if $ncomma -}},{{- end -}}"{{ .Name }}"
             {{- $ncomma = true -}}
-            {{- end -}}"],
-        "url": [ "{{- $ucomma := false -}}
+            {{- end -}}],
+        "url": [ {{- $ucomma := false -}}
                 {{- range .Site.Menus.mainmenu -}}
-                {{- if $ucomma -}},{{- end -}}{{ .URL | absURL }}
+                {{- if $ucomma -}},{{- end -}}"{{ .URL | absURL }}"
                 {{- $ucomma = true -}}
-                {{- end -}} "]
+                {{- end -}} ]
     }
 </script>
 {{ if .IsPage }}
