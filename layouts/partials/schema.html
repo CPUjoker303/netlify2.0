@@ -48,7 +48,6 @@
         "blogPost": [
         {{- range (where .Site.Pages "Kind" "page") -}}
         {{- if $comma -}},{{- end -}}
-        {{- $comma = true -}}
             {
                 "@type": "BlogPosting",
                 "headline": "{{.Title}}",
@@ -68,22 +67,26 @@
                 "commentCount": "0",
                 "comment": "",
                 "wordCount": {{.WordCount}}
-            }
-        {{ end }}
+            }{{- $comma = true -}}{{- end -}}
+
         ]
     }
 </script>
 {{ end }}
 <script type="application/ld+json">
     {
-        {{- range .Site.Menus.mainmenu -}}
-        {{- if $comma -}},{{- end -}}
-        {{- $comma = true -}}
         "@context": "https://schema.org/",
         "@type": "SiteNavigationElement",
-        "name": ["{{.Name}}"],
-        "url": [ "{{ .URL | absURL }}"]
-        {{ end }}
+        "name": ["{{- $ncomma := false -}}
+            {{- range .Site.Menus.mainmenu -}}
+            {{- if $ncomma -}},{{- end -}}{{ .Name }}
+            {{- $ncomma = true -}}
+            {{- end -}}"],
+        "url": [ "{{- $ucomma := false -}}
+                {{- range .Site.Menus.mainmenu -}}
+                {{- if $ucomma -}},{{- end -}}{{ .URL | absURL }}
+                {{- $ucomma = true -}}
+                {{- end -}} "]
     }
 </script>
 {{ if .IsPage }}
@@ -111,12 +114,3 @@
     {{.Params.schemaMarkup}}    
 </script>
 {{ end }}
-
-
-
-
-
-{{- range seq 5 -}}
-  {{- if $comma -}},{{- end -}}{{ . }}
-  {{- $comma = true -}}
-{{- end -}}
