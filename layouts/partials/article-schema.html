@@ -1,6 +1,6 @@
 <script type="application/ld+json"> {
     "@context": "http:\/\/schema.org", "@type":"Article", "dateCreated":"{{.Date}}", "datePublished":"{{.Date}}", "dateModified":"{{.Params.updateDate}}", "headline":"{{.Params.SEOTitle}}",
-     "name":"{{.Params.SEOTitle}}", "keywords":"{{.Params.metaKeywords}}", "url":"{{.Page.Permalink}}", "description":"{{.Params.excrept}}", "copyrightYear":"{{ .Date.Format "2006" }}", "articleSection":"{{ with .Params.categories }}{{index . 0 }}{{end}}", "articleBody":"{{.Content}}", "publisher": {
+     "name":"{{.Params.SEOTitle}}", {{if .Params.metaKeywords}} "keywords":"{{.Params.metaKeywords}}",{{end}} "url":"{{.Page.Permalink}}", "description":"{{.Params.excrept}}", "copyrightYear":"{{ .Date.Format "2006" }}", "articleSection":"{{ with .Params.categories }}{{index . 0 }}{{end}}", "articleBody":"{{.Content}}", "publisher": {
         "@id":"#Publisher", "@type":"Organization", "name":"{{.Site.Title}}", "logo": {
             "@type":"ImageObject", "url":"{{.Site.Params.logo}}"
         }

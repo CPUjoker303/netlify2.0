@@ -15,6 +15,9 @@
     {{ "<!-- SEO OPTIMIZATION TAGS -->" | safeHTML }}
     {{ if eq .Page.Kind "section" "taxonomy" "term" }}<meta name="robots" content="noindex, follow" />{{ end }}{{ if eq .RelPermalink "/" }}{{ if ne .Paginator.PageNumber 1 }} <meta name="robots" content="noindex, follow">{{ end }}{{ end }}{{if .IsPage}}<meta name="robots" content="index, follow" />{{end}}{{if .IsHome}}<meta name="robots" content="index, follow" />{{end}}
     <meta name="description" content="{{ if .IsHome }}{{.Site.Params.excrept}}{{ else }}{{.Params.excrept}}{{ end }}"/>
+    {{ if .IsPage }}
+    <meta name="keywords" content="{{.Params.metaKeywords}}">
+    {{ end }}
     <link rel="canonical" href="{{ .Permalink }}"/>
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="website">
