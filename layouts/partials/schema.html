@@ -1,4 +1,3 @@
-{{- $comma := false -}}
 {{ if .IsHome }}
 <script type="application/ld+json">
     {
@@ -45,7 +44,7 @@
         "url": "{{.Site.BaseURL}}",
         "headline": "{{.Site.Title}}",
         "description": "{{.Site.Params.description}}",
-        "blogPost": [
+        "blogPost": [{{- $comma := false -}}
         {{- range (where .Site.Pages "Kind" "page") -}}
         {{- if $comma -}},{{- end -}}
             {
