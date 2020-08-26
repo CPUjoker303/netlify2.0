@@ -54,7 +54,7 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
       ##OpenGraph Meta END
 
       ##Social Media Profiles Start
-      SocialFB = "https://facebook.com"
+      SocialFB = "https://facebook.com/technikaya"
       SocialTwitter = "https://twitter.com"
       SocialYouTube = "https://youtube.com"
       SocialTumblr = "https://tumblr.com"
