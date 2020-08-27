@@ -55,11 +55,11 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
 
       ##Social Media Profiles Start
       SocialFB = "https://facebook.com/technikaya"
-      SocialTwitter = "https://twitter.com"
+      SocialTwitter = "https://twitter.com/technikaya_"
       SocialYouTube = "https://youtube.com"
       SocialTumblr = "https://tumblr.com"
       SocialLinkedin = "https://linkedin.com"
-      SocialPinterest = "https://pinterest.com"
+      SocialPinterest = "https://pinterest.com/Technikaya_"
       ##Social Media Profiles END
 
 [taxonomies]
