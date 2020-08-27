@@ -1,6 +1,6 @@
 baseURL = "https://www.technikaya.com/" #This will be the URL of your Website
 languageCode = "en-us" #Your Website Language (Used for SEO)
-title = "MY NEW HUGO WEBSITE" #Your Website Name
+title = "Technikaya" #Your Website Name
 paginate = 6 #Number of Post on Homepage
 googleAnalytics = "UA-1920" #Google Analytics Tracking ID
 
@@ -32,8 +32,8 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
 
 [params]
     logo = "/images/logo.png" #Logo of your Website (Put Image in dir /static/images)
-    description = "HUGO DISCRIPTION" #SEO Discription of your Website
-    excrept = "HUGO SEO DISCRIPTION" #SEO Exprect of Your Website
+    description = "TECHNIKAYA DISCRIPTION" #SEO Discription of your Website
+    excrept = "TECHNIKAYA SEO DISCRIPTION" #SEO Exprect of Your Website
     image = "/images/site_banner.png" #Business Cover (1920x1080) Used in SEO
     icon = "/images/favicon.png" #Favicon
 
