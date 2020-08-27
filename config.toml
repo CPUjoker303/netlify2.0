@@ -32,7 +32,7 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
 
 [params]
     logo = "/images/logo.png" #Logo of your Website (Put Image in dir /static/images)
-    description = "TECHNIKAYA DISCRIPTION" #SEO Discription of your Website
+    description = "Technikaya" #SEO Discription of your Website
     excrept = "TECHNIKAYA SEO DISCRIPTION" #SEO Exprect of Your Website
     image = "/images/site_banner.png" #Business Cover (1920x1080) Used in SEO
     icon = "/images/favicon.png" #Favicon
