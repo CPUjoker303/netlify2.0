@@ -1,6 +1,6 @@
 ---
 title: 8 Best Motherboard for Ryzen 5 3600 (2020 Updated)
-draft: true
+draft: false
 SEOTitle: 8 Best Motherboard for Ryzen 5 3600 (2020 Updated)
 excrept: Ryzen 5 3500 is a great gaming processor and we have compiled a list of
   best motherboard for Ryzen 5 3600 you can get in the year 2020 for your build.
