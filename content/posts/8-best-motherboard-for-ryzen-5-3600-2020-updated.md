@@ -22,20 +22,14 @@ pickLink: http://amazon.com/
 
 ### ASRock B450M PRO4
 
-### 
-MSI B450 Tomahawk Max
+### MSI B450 Tomahawk Max
 
-### 
-Gigabyte B450 AORUS PRO WIFI
+### Gigabyte B450 AORUS PRO WIFI
 
-### 
-MSI X470 Gaming PRO Carbon
+### MSI X470 Gaming PRO Carbon
 
-### 
-Asus Prime X570-Pro
+### Asus Prime X570-Pro
 
-### 
-Gigabyte X570 AORUS Elite WIFI
+### Gigabyte X570 AORUS Elite WIFI
 
-### 
-MSI MPG X570 PRO Carbon Wi-Fi
+### MSI MPG X570 PRO Carbon Wi-Fi
