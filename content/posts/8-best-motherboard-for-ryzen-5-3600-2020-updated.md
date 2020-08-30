@@ -148,49 +148,49 @@ There was a noteworthy performance difference between Ryzen 5 2600 and i5 9600K,
 <th><strong>Check Price</strong></th>
 </tr>
 <tr>
-<td class="tdimg"><img src="M-ATX" alt="Gigabyte B450M DS3H" title="Gigabyte B450M DS3H"></td>
+<td class="tdimg"><img src="https://www.bestgamingreviews.com/upload/images/2020/7/Best-Motherboard-for-Ryzen-5-3600.jpg" alt="Gigabyte B450M DS3H" title="Gigabyte B450M DS3H"></td>
 <td>Gigabyte B450M DS3H</td>
 <td>Best Motherboard</td>
 <td><a class="table-button" href="Amazon.com" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="M-ATX" alt="ASRock B450M PRO4" title="ASRock B450M PRO4"></td>
+<td class="tdimg"><img src="https://www.bestgamingreviews.com/upload/images/2020/7/Best-Motherboard-for-Ryzen-5-3600.jpg" alt="ASRock B450M PRO4" title="ASRock B450M PRO4"></td>
 <td>ASRock B450M PRO4</td>
 <td>Best Motherboard</td>
 <td><a class="table-button" href="Amazon.com" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="M-ATX" alt="MSI B450 Tomahawk Max" title="MSI B450 Tomahawk Max"></td>
+<td class="tdimg"><img src="https://www.bestgamingreviews.com/upload/images/2020/7/Best-Motherboard-for-Ryzen-5-3600.jpg" alt="MSI B450 Tomahawk Max" title="MSI B450 Tomahawk Max"></td>
 <td>MSI B450 Tomahawk Max</td>
 <td>Best Motherboard</td>
 <td><a class="table-button" href="Amazon.com" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="M-ATX" alt="Gigabyte B450 AORUS PRO WIFI" title="Gigabyte B450 AORUS PRO WIFI"></td>
+<td class="tdimg"><img src="https://www.bestgamingreviews.com/upload/images/2020/7/Best-Motherboard-for-Ryzen-5-3600.jpg" alt="Gigabyte B450 AORUS PRO WIFI" title="Gigabyte B450 AORUS PRO WIFI"></td>
 <td>Gigabyte B450 AORUS PRO WIFI</td>
 <td>Best Motherboard</td>
 <td><a class="table-button" href="Amazon.com" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="M-ATX" alt="MSI X470 Gaming PRO Carbon" title="MSI X470 Gaming PRO Carbon"></td>
+<td class="tdimg"><img src="https://www.bestgamingreviews.com/upload/images/2020/7/Best-Motherboard-for-Ryzen-5-3600.jpg" alt="MSI X470 Gaming PRO Carbon" title="MSI X470 Gaming PRO Carbon"></td>
 <td>MSI X470 Gaming PRO Carbon</td>
 <td>Best Motherboard</td>
 <td><a class="table-button" href="Amazon.com" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="M-ATX" alt="Asus Prime X570-Pro" title="Asus Prime X570-Pro"></td>
+<td class="tdimg"><img src="https://www.bestgamingreviews.com/upload/images/2020/7/Best-Motherboard-for-Ryzen-5-3600.jpg" alt="Asus Prime X570-Pro" title="Asus Prime X570-Pro"></td>
 <td>Asus Prime X570-Pro</td>
 <td>Best Motherboard</td>
 <td><a class="table-button" href="Amazon.com" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="M-ATX" alt="Gigabyte X570 AORUS Elite WIFI" title="Gigabyte X570 AORUS Elite WIFI"></td>
+<td class="tdimg"><img src="https://www.bestgamingreviews.com/upload/images/2020/7/Best-Motherboard-for-Ryzen-5-3600.jpg" alt="Gigabyte X570 AORUS Elite WIFI" title="Gigabyte X570 AORUS Elite WIFI"></td>
 <td>Gigabyte X570 AORUS Elite WIFI</td>
 <td>Best Motherboard</td>
 <td><a class="table-button" href="Amazon.com" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="M-ATX" alt="MSI MPG X570 PRO Carbon Wi-Fi" title="MSI MPG X570 PRO Carbon Wi-Fi"></td>
+<td class="tdimg"><img src="https://www.bestgamingreviews.com/upload/images/2020/7/Best-Motherboard-for-Ryzen-5-3600.jpg" alt="MSI MPG X570 PRO Carbon Wi-Fi" title="MSI MPG X570 PRO Carbon Wi-Fi"></td>
 <td>MSI MPG X570 PRO Carbon Wi-Fi</td>
 <td>Best Motherboard</td>
 <td><a class="table-button" href="Amazon.com" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
