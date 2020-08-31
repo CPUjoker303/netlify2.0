@@ -1,6 +1,6 @@
 ---
 title: Activity Tracker For Tweens - Best Buy
-draft: true
+draft: false
 SEOTitle: Activity Tracker For Tweens - Best Buy
 excrept: 2021 Five Best Activity Trackers for Tweens. These activity trackers
   will automatically sync your data via Bluetooth to your mobile device in the
