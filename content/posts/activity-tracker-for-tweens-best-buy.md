@@ -21,7 +21,9 @@ pickLink: https://www.amazon.com/gp/product/B018SL790Q/ref=as_li_tl?ie=UTF8&camp
 ---
 ![]()
 
-### We are going to review the best activity trackers for tweens. These activity trackers are suitable for children. The activity tracker will uplift your children to do physical activities. The wrist band comes with a fitness tracker that supports your kid's health. By using an activity tracker, parents will get tracking information of their kids easily. The activity tracker monitors your kid's fitness progress. You can keep track of your child's physical activity by using an activity tracker. These trackers are very easy to use and are in many different colors. You can watch your kid's distance traveled. This fitness watch also has a sleep tracker, which gives your kid a better picture of their sleep habits. Kids love it.
+
+
+We are going to review the best activity trackers for tweens. These activity trackers are suitable for children. The activity tracker will uplift your children to do physical activities. The wrist band comes with a fitness tracker that supports your kid's health. By using an activity tracker, parents will get tracking information of their kids easily. The activity tracker monitors your kid's fitness progress. You can keep track of your child's physical activity by using an activity tracker. These trackers are very easy to use and are in many different colors. You can watch your kid's distance traveled. This fitness watch also has a sleep tracker, which gives your kid a better picture of their sleep habits. Kids love it.
 
 {{<html-code tag="div">}}
 
@@ -66,3 +68,56 @@ pickLink: https://www.amazon.com/gp/product/B018SL790Q/ref=as_li_tl?ie=UTF8&camp
 </tbody>
 </table>
 {{</html-code>}}
+
+## Garmin vivofit jr 2 Disney Pink
+
+![https://www.amazon.com/gp/product/B07GLVFVBM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GLVFVBM&linkCode=as2&tag=technikaya-20&linkId=53d5f9e08b96c31a3d95ec116c3afa4ehttps://www.amazon.com/gp/product/B07H6TVHD5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07H6TVHD5&linkCode=as2&tag=technikaya-20&linkId=6e60f5aedeaa4cfdb600d8335b7e7f72](/uploads/garmin-pink.jpg " Garmin vivofit Jr 2 Marvel ")
+
+The second product on our list is again Garmin vivofit Jr 2. This fitness tracker has Disney Princess, Pink design. The dimensions of this product are 2.3 x 0.9 x 1.6 inches. Its weight is 0.64 ounces. It is a very adjustable band & very easy to use. This fitness tracker band is water-resistant. It seems very durable. This health and fitness tracker band has an interactive app experience. Very easy to connect with your devices, and you can check all activity of your kids on your mobile devices or tablets. It comes with parent control app. Parents can access duty management and recompense tools on the parent-controlled app.
+By taking a look at battery timing, we come to know that the fitness tracker Vivo jr 2 comes with a user-replaceable battery. There is no recharge needed for one year. The Vivo jr2 fitness band requires 1 CR2 battery. The battery life is perfect, and no need to recharge for one year. If we talk about mobile connectivity with a fitness tracker, it is straightforward to connect with mobile devices. Both IOS  and android devices can connect with Vivo fit Jr 2. It has very smooth connectivity. This health and fitness band will motivate your kids to achieve active goals and challenges. Kids will like this fitness band very well.
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Product Dimensions	</td>
+<td>2.3 x 0.9 x 1.6 inches</td>
+</tr>
+<tr>
+<td>Batteries required	</td>
+<td>1 CR2 batteries (included)</td>
+</tr>
+<tr>
+<td>Color	</td>
+<td>Disney Princess - Pink</td>
+</tr>
+<tr>
+<td>Included Components	</td>
+<td>Vivofit Jr. 2, Documentation</td>
+</tr>
+<tr>
+<td>Item Weight	</td>
+<td>0.64 ounces</td>
+</tr>
+<tr>
+<td>ASIN</td>
+<td>B07GLVFVBM</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+Parents can track all fitness activities on the phone easily. The mobile application is not for the enjoyment of kids; it is used to manage fitness tracker. The best feature of this health and fitness tracker is schedule alerts parent app. The parent app will remind kids to do work on time Like it reminds brush teeth, do homework, and much more. The parent application is handy for parents to remind their kids to work on time. The manufacturer of this health and fitness band is GARMIN. The Included Components are Vivofit jr. and documentation only. The band has no touch screen. It has only a color screen. The health and fitness band has only one button. It is very easy to learn fast. To get the full experience, you must have to download the mobile application. The wrist band  made of silicone-like material. The watch comes with a battery installed already. It is a round watch battery. When the battery is finished, you have to purchase a new one. By taking a look at this health and fitness band, It has an elegant design and has silicon like a material band, which is very good for kids' skin. Kids will count their foot-steps on daily bases, and they will enjoy Toe-to-Toe step challenges with friends. The challenges will let them most foot-step counts and make competition with each other. This health and fitness band is perfect for kids, and you can gift this heath band to your kids, they will like it very well. If you are looking for a pink fitness band for your kids, then you can go with Garmin vivofit Jr2  Disney Princess, Pink.
+
+{{<pros>}}
+
+<li>1+ year battery life </li>
+<li>It has comfortable band</li>
+{{</pros>}}
+{{<cons>}}
+<li>No touch screen</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07GLVFVBM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GLVFVBM&linkCode=as2&tag=technikaya-20&linkId=53d5f9e08b96c31a3d95ec116c3afa4ehttps://www.amazon.com/gp/product/B07H6TVHD5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07H6TVHD5&linkCode=as2&tag=technikaya-20&linkId=6e60f5aedeaa4cfdb600d8335b7e7f72{{</button>}}
