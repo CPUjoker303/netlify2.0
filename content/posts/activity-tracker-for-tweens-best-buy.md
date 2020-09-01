@@ -69,7 +69,12 @@ We are going to review the best activity trackers for tweens. These activity tra
 
 
 
-![](/uploads/garmin-pink.jpg)
+![(/uploads/garmin-pink.jpg)](https://www.amazon.com/gp/product/B07GLVFVBM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GLVFVBM&linkCode=as2&tag=technikaya-20&linkId=81e3e8dc505011442e7c6c8a8c7bce32s) 
+
+
+> ```
+>
+> ```
 
 The First product on our list is again Garmin vivofit Jr 2. This fitness tracker has Disney Princess, Pink design. The dimensions of this product are 2.3 x 0.9 x 1.6 inches. Its weight is 0.64 ounces. It is a very adjustable band & very easy to use. This fitness tracker band is water-resistant. It seems very durable. This health and fitness tracker band has an interactive app experience. Very easy to connect with your devices, and you can check all activity of your kids on your mobile devices or tablets. It comes with parent control app. Parents can access duty management and recompense tools on the parent-controlled app.
 By taking a look at battery timing, we come to know that the fitness tracker Vivo jr 2 comes with a user-replaceable battery. There is no recharge needed for one year. The Vivo jr2 fitness band requires 1 CR2 battery. The battery life is perfect, and no need to recharge for one year. If we talk about mobile connectivity with a fitness tracker, it is straightforward to connect with mobile devices. Both IOS  and android devices can connect with Vivo fit Jr 2. It has very smooth connectivity. This health and fitness band will motivate your kids to achieve active goals and challenges. Kids will like this fitness band very well.
