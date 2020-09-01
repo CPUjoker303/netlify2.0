@@ -14,7 +14,182 @@ tags:
   - Information
 categories:
   - Laptops
-schemaMarkup: already
+schemaMarkup: >
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/activity-tracker-for-tweens/",
+
+  "name": "Activity Tracker For Tweens - Best Buy",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens//garmin-vivofit-jr-2-disney-pink",
+
+  "@id": "garmin-vivofit-jr-2-disney-pink ",
+
+  "name": "Garmin vivofit jr 2 Disney Pink"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens//garmin-vivofit-jr-2-marvel",
+
+  "@id": "garmin-vivofit-jr-2-marvel ",
+
+  "name": "Garmin vivofit Jr 2 Marvel"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens//fitfort-fitness-tracker",
+
+  "@id": "fitfort-fitness-tracker ",
+
+  "name": "FITFORT Fitness Tracker"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens//3plus-lite-activity-tracker",
+
+  "@id": "3plus-lite-activity-tracker ",
+
+  "name": "3Plus Lite Activity Tracker"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens//withings-move-smartwatch",
+
+  "@id": "withings-move-smartwatch ",
+
+  "name": "Withings Move Smartwatch"
+
+  }
+
+  ]
+
+  }
+
+  </script>
+
+  <script type="application/ld+json">
+
+  {
+
+  "@context": "https://schema.org",
+
+  "@type": "FAQPage",
+
+  "mainEntity": [
+
+  {
+
+  "@type": "Question",
+
+  "name": "what are the best activity tracker for tweens?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "This fitness tracker has Disney Princess, Pink design. The dimensions of this product are 2.3 x 0.9 x 1.6 inches. Its weight is 0.64 ounces. It is a very adjustable band & very easy to use. This fitness tracker band is water-resistant. It seems very durable. This health and fitness tracker band has an interactive app experience."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "Can parent track there kids by using activity tracker for tweens?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Parents can track all fitness activities on the phone easily. The mobile application is not for the enjoyment of kids; it is used to manage fitness tracker. The best feature of this health and fitness tracker is schedule alerts parent app. The parent app will remind kids to do work on time Like it reminds brush teeth, do homework, and much more. The parent application is handy for parents to remind their kids to work on time."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "How much exercises can track a health and fitness tracker?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "The watch can easily track up to 14 exercises. If you are running, dancing, jogging, it will accurately measure all exercises"
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "Is it eassy to connect the activity tracker with mobile devices?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "The connected GPS of this smartwatch allows your phone’s GPS to see a map of your distance and route and your session’s pace and altitudes. It is straightforward to connect this watch with your smartphone."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "health and activity tracker for twees are water-resistant?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "It is a water-resistant watch. If the user is washing hands or swimming, it will never have any effect on this durable watch. The watch can easily pair with a smartphone or any smart device. This health and fitness watch constantly measure daily activity. It has an auto-sync function"
+
+  }
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: "Withings Move Hybrid Smartwatch "
 pickImg: /uploads/maxresdefault.jpg
 pickLink: https://www.amazon.com/gp/product/B018SL790Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018SL790Q&linkCode=as2&tag=technikaya-20&linkId=cd3aa467900c409b1036419eeac5f231
@@ -53,7 +228,7 @@ We are going to review the best activity trackers for tweens. These activity tra
 <td class="tdimg"><img src="/uploads/3-plus.jpeg" alt="3Plus Lite Activity Tracker" title="3Plus Lite Activity Tracker"></td>
 <td>3Plus Lite Activity Tracker</td>
 <td>Good</td>
-<td><a class="table-button" href="https://www.amazon.com/gp/product/B07XVHX8BC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07XVHX8BC&linkCode=as2&tag=technikaya-20&linkId=0a91281f9435bdffbea8be7b071b4e40" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
+<td><a class="table-button" href="https://www.amazon.com/gp/product/B06Y1FX1FT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06Y1FX1FT&linkCode=as2&tag=technikaya-20&linkId=568f1bb9dead550b6d247ae15ddf59d1" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/maxresdefault.jpg" alt="Withings Move Smartwatch " title="Withings Move Smartwatch "></td>
@@ -220,7 +395,7 @@ This health and fitness watch is water-resistant. If you are swimming or dancing
 
 ## 4. 3Plus Lite Activity Tracker
 
-[![](/uploads/3-plus.jpeg)](https://www.amazon.com/gp/product/B07XVHX8BC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07XVHX8BC&linkCode=as2&tag=technikaya-20&linkId=0a91281f9435bdffbea8be7b071b4e40)
+[![](/uploads/3-plus.jpeg)](https://www.amazon.com/gp/product/B06Y1FX1FT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06Y1FX1FT&linkCode=as2&tag=technikaya-20&linkId=568f1bb9dead550b6d247ae15ddf59d1)
 
 The fourth product on our list is the 3Plus lite activity tracker. Its weight is 0.8 ounces. Its dimensions are 0.65 x 0.42 x 10.75 inches. It is also a sleep tracking device. It measures your sleep and improves your sleep habits. It tracks your sleep duration. It also shows notifications like incoming calls, emails, texts, social media alerts, etc. This health and fitness watch 3plus lite activity tracker has an OLED display with a clear picture.
 
@@ -281,7 +456,7 @@ The 3plus lite activity tracker records the number of steps walked. The watch al
 {{</pros>}}
 {{<cons>}}
 <li>Lite band cannot be changed</li>
-{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07XVHX8BC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07XVHX8BC&linkCode=as2&tag=technikaya-20&linkId=0a91281f9435bdffbea8be7b071b4e40{{</button>}}
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B06Y1FX1FT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06Y1FX1FT&linkCode=as2&tag=technikaya-20&linkId=568f1bb9dead550b6d247ae15ddf59d1{{</button>}}
 
 ## 5. Withings Move Smartwatch
 
