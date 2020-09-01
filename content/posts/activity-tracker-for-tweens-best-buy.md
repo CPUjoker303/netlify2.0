@@ -32,7 +32,7 @@ We are going to review the best activity trackers for tweens. These activity tra
 <th><strong>Check Price</strong></th>
 </tr>
 <tr>
-<td class="tdimg"><img src="(/uploads/garmin-pink.jpg)" alt="Garmin vivofit jr 2 Disney " title="Garmin vivofit jr 2 Disney "></td>
+<td class="tdimg"><img src="/uploads/garmin-pink.jpg" alt="Garmin vivofit jr 2 Disney " title="Garmin vivofit jr 2 Disney "></td>
 <td>Garmin vivofit jr 2 Disney </td>
 <td>Normal</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07GLVFVBM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GLVFVBM&linkCode=as2&tag=technikaya-20&linkId=53d5f9e08b96c31a3d95ec116c3afa4e" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
