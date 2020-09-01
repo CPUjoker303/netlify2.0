@@ -38,25 +38,25 @@ We are going to review the best activity trackers for tweens. These activity tra
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07GLVFVBM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GLVFVBM&linkCode=as2&tag=technikaya-20&linkId=53d5f9e08b96c31a3d95ec116c3afa4e" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="blob:https://www.technikaya.com/4863084d-21d3-4671-9f41-c1f66d23fcf5" alt="Garmin vivofit Jr 2 Marvel " title="Garmin vivofit Jr 2 Marvel "></td>
+<td class="tdimg"><img src="/uploads/marvel.jpg" alt="Garmin vivofit Jr 2 Marvel " title="Garmin vivofit Jr 2 Marvel "></td>
 <td>Garmin vivofit Jr 2 Marvel </td>
 <td>Normal</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07H6TVHD5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07H6TVHD5&linkCode=as2&tag=technikaya-20&linkId=6e60f5aedeaa4cfdb600d8335b7e7f72" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="blob:https://www.technikaya.com/affbeae4-9df8-4574-8c32-a40ca536af97" alt="FITFORT Fitness Tracker " title="FITFORT Fitness Tracker "></td>
+<td class="tdimg"><img src="/uploads/fitfort.jpg" alt="FITFORT Fitness Tracker " title="FITFORT Fitness Tracker "></td>
 <td>FITFORT Fitness Tracker </td>
 <td>Excellent</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07XVHX8BC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07XVHX8BC&linkCode=as2&tag=technikaya-20&linkId=2dda35d1313e8835d01f559b9800fab4" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="blob:https://www.technikaya.com/91f0a61b-af18-4e16-a203-3523b4b7e406" alt="3Plus Lite Activity Tracker" title="3Plus Lite Activity Tracker"></td>
+<td class="tdimg"><img src="/uploads/3-plus.jpeg" alt="3Plus Lite Activity Tracker" title="3Plus Lite Activity Tracker"></td>
 <td>3Plus Lite Activity Tracker</td>
 <td>Good</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07XVHX8BC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07XVHX8BC&linkCode=as2&tag=technikaya-20&linkId=0a91281f9435bdffbea8be7b071b4e40" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="blob:https://www.technikaya.com/c7a1de07-f067-4633-ada9-e6cafdccce30" alt="Withings Move Smartwatch " title="Withings Move Smartwatch "></td>
+<td class="tdimg"><img src="/uploads/maxresdefault.jpg" alt="Withings Move Smartwatch " title="Withings Move Smartwatch "></td>
 <td>Withings Move Smartwatch </td>
 <td>Great</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B018SL790Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018SL790Q&linkCode=as2&tag=technikaya-20&linkId=5b2bf3f5194c3d7a04472be19a8ef7a9" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
