@@ -289,7 +289,7 @@ The headset strap is long and not elastic, which is excellent curl up and tangle
 <li>Ear cups are not big enough</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e{{</button>}}
 
-## 4. Plantronics RIG Stereo
+## 4. Plantronics RIG Stereo Headset
 
 {{<singlep pimg="/uploads/plantronics.jpeg" pname="Plantronics RIG Stereo" plink="https://www.amazon.com/gp/product/B00EV00MZ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EV00MZ8&linkCode=as2&tag=technikaya-20&linkId=d1909aa675de79014b86cb1e9a24cdb6">}}
 •	It has headset has 40mm speakers
