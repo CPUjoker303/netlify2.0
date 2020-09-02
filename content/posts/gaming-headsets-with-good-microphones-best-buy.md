@@ -177,3 +177,56 @@ It is the best studio headphone for gaming. It is a great product. It is the rig
 •	supporting Bluetooth 3.0
 
 {{</singlep>}}
+
+
+
+[![](/uploads/turtle-beech.jpeg)](https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=e60aa2dcd6967f2611aece648b28834f)
+
+The second product on our list is Turtle Beach i30. Turtle Beach is an international gaming accessory producer company in California. It produces gaming headsets for Xbox One, PlayStation 4, gaming devices, personal computers Nintendo switch, and mobile devices. It is the advanced wireless Bluetooth technology, and it enables you to take full control of your audio tracks, and it adjusts volume and plane take calls without extending for your mobile device. It has an Invisible Microphone and Multiple built-in microphones, which is with the noise filtering technology and provides incredible voice pick up for all your chats or calls need. It has exceptional noise canceling feature which is the latest energetic noise cancellation technology silences undesired background noise so you can be concentrated on your sound experience easily. This headset is truly designed for comfort and With the rich memory foam ear headrest and a pulpy leather headband so that you can get easily lost in your music. This headset has a vibrant 50MM Speakers so you can hear your music clearly with that way it was wilful with four preset EQ levels, which is including very loud bass boost mode case you are watching movies or you are playing games, or you are listening to music, the headset Turtle Beach i30 Wireless Mobile phone Headset, with earcup dominance that let you change volume, and track selections and many more easily. The headset has vibrant stereo sound, which is With the Active Noise Cancellation that quietness undesired background noise. The headset is with the dual noise-canceling boomless mics, which are providing outstanding voice pickup.
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>ASIN	</td>
+<td>B00EDNLO32</td>
+</tr>
+<tr>
+<td>Dimensions	</td>
+<td>7.99 x 4.49 x 9.21 inches; 11 Ounces</td>
+</tr>
+<tr>
+<td>Item model number	</td>
+<td>TBS-7010-01</td>
+</tr>
+<tr>
+<td>Weight	</td>
+<td>11 ounces</td>
+</tr>
+<tr>
+<td>Manufacturer	</td>
+<td>Turtle Beach</td>
+</tr>
+<tr>
+<td>Batteries	</td>
+<td>1 Lithium Polymer </td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The headset comes with a built-in battery that allows you over fifteen hours of totally wireless use per charge. The Turtle Beach i30 is supporting Bluetooth 3.0 to connecting wirelessly to your mobile devices like iPhone,iPad,iPod touch, Samsung Galaxy, Android phones, etc. The turtle beach headset weight is 11 ounce with is equivalent to 311.845g. The headset comes with many useful features which are very useful in your gaming experience. Just only the mic quality is normal as compared to audio Technica BPHS1 because of the wired mic. The headset has no wired mic. It has an invisible mic. It is awe-inspiring and builds quality and sound quality. The headset is some kind of heavy and bulky as compares to other headphones. The body shape is awe-inspiring and builds quality but some sort of bulky and heavy because of their body weight and size. So If you looking for the best studio headphones for gaming So, you can go with turtle beach, but I will recommend you audio Technica BPHSI because it has both sound quality and mic quality.
+
+{{<pros>}}
+
+<li>These headphones are pretty powerful because of the 50 mm drivers</li>
+<li>Battery life  Excellent</li>
+<li>super easy to link with phone and computer via Bluetooth</li>
+{{</pros>}}
+{{<cons>}}
+<li>Ear cups are not big enough</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00EDNLO32/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EDNLO32&linkCode=as2&tag=technikaya-20&linkId=b52ff0f27c1912d0ae457f35ef83a5a9{{</button>}}
