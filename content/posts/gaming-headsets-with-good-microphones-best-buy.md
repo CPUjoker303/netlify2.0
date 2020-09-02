@@ -534,6 +534,6 @@ The headphones are very comfortable over the ear. The headset has good quality S
 •	Perfect voice capturing sensor
 •	USB connectivity
 
-{{</singlep>}
+{{</singlep>}}
 
-[![](/uploads/razer.jpg)](https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e)
+[![](/uploads/raxe.jpg)](https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e)
