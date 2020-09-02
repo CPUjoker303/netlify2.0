@@ -89,8 +89,11 @@ For a better experience in editing songs and films, best headphones will require
 
 {{<singlep pimg="/uploads/audio-technica-bphs1.jpg" pname="Audio-Technica BPHS1" plink="https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=e60aa2dcd6967f2611aece648b28834f">}}
 • It is broadcast stereo headset
+
 • It has dynamic cardioid boom microphone
+
 • It has three pins male XLR for the mic 
+
 • It has a Phono jack
 
 {{</singlep>}}
