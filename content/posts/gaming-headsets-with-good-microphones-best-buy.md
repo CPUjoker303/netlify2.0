@@ -343,3 +343,60 @@ The mic comes with wired, and the noise cancellation feature is perfect for crys
 {{<cons>}}
 <li>Possible software issues on Windows 8</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00EV00MZ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EV00MZ8&linkCode=as2&tag=technikaya-20&linkId=d1909aa675de79014b86cb1e9a24cdb6{{</button>}}
+
+## 5. HelloPower Gaming Headset
+
+{{<singlep pimg="/uploads/hellopower.jpg" pname="HelloPower Gaming Headset" plink="https://www.amazon.com/gp/product/B07G9XCTY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07G9XCTY4&linkCode=as2&tag=technikaya-20&linkId=31d44a28e7d66d1ee36437c8b8de1091">}}
+•	It has Glaring LED lights 
+•	The headset comes with braided wire
+•	Headset is very durable
+•	Comes noise controller
+
+{{</singlep>}}
+
+[![](/uploads/hello.jpg)](https://www.amazon.com/gp/product/B07G9XCTY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07G9XCTY4&linkCode=as2&tag=technikaya-20&linkId=31d44a28e7d66d1ee36437c8b8de1091)
+
+The fifth product on our list is HelloPower Gaming Headset. HelloPower is a brand. The headphone is for over-ear and comes with a volume controller. The headset has High exactness which is up to 50mm magnetic neodymium driver, that brings you authentic sound field and sound transparency, and shock feelings are able of various games with magnificent surrounding noise isolation. The hearing protection used with skin- favourable leather material, and it is super soft Over-ear pads that are furthermore relaxing and comfortable for very long time wear. The headset comes with Glaring LED lights which are designed on the earcups and Mic that is highlighting the climate of the game. The headset comes with Braided wire and a durable tensile which effectively reduce the external resistance. The Velcro cable tie, avert the line association.
+The headphone line is fit-out with a rotary volume controller, and one of the keys of Mic is mute for more convenient to users. It is beautiful craftsmanship and fashion appearance. It is the professional gaming headphone for your choice. The driver of the headset has High accuracy 50mm magnetic neodymium which will conduct you vivid sound field, clarity and shock feeling, capable of various games. The weight of the headset is 1.16 pounds which is equivalent to 0.5261671 kg.
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Manufacturer		</td>
+<td>HelloPower</td>
+</tr>
+<tr>
+<td>ASIN		         </td>
+<td>B07G9XCTY4</td>
+</tr>
+<tr>
+<td>Dimensions		</td>
+<td>8.5 x 7.72 x 4.17 inches</td>
+</tr>
+<tr>
+<td>Weight		         </td>
+<td>1.16 pounds</td>
+</tr>
+<tr>
+<td>Headphones Form Factor		</td>
+<td>Over Ear</td>
+</tr>
+<tr>
+<td>Noise Control		    </td>
+<td>Sound Isolation</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The headset is durable and very easy to use. The noise controller of the headset comes with sound isolation. A gamer needs a headset like which has the best sound quality and which has the best microphone quality to enhance the best gaming experience. More sound quality more the user will enjoy games and music. The headset is very comfortable, and it is made for long time wear. You can wear this headset for a long time as much as you can. The design of the headset is very pretty good. The body covers with pretty led Lights which were designed beautifully on the earcups and also on the microphone which is fully highlighting the atmosphere of the game. The light colours are RGB which are very looking pretty good and adjustable. The main dimensions of the headset are 8.5 x 7.72 x 4.17 inches. If we compare this headset with other headphones In our product list, then it has fewer features as compared to audio Technica BPHSI, Turtle Beach - i30 and Razer Kraken 7.1. So if you are looking for best studio headphones for gaming, then it is your choice you can buy it or not.
+
+{{<pros>}}
+
+<li>comfortable for long time wear</li>
+<li>dazzling LED lights are designed on the earcups and microphone</li>
+{{</pros>}}
+{{<cons>}}
+<li>None</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07G9XCTY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07G9XCTY4&linkCode=as2&tag=technikaya-20&linkId=31d44a28e7d66d1ee36437c8b8de1091{{</button>}}
