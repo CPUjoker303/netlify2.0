@@ -455,3 +455,73 @@ The microphone has to be pretty close to your mouth so that your voice will be c
 {{<cons>}}
 <li>The gain control on the head set comes set pretty low</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B084CZT5SX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084CZT5SX&linkCode=as2&tag=technikaya-20&linkId=72388e78cf7b46b101a70635f12c5879{{</button>}}
+
+## 7. Gaming Headset for PS4, Xbox One, PC, Laptop
+
+{{<singlep pimg="/uploads/gaming-headset-for-ps4-.jpg" pname="Gaming Headset for PS4, Xbox One, PC, Laptop" plink="https://www.amazon.com/gp/product/B07MLWVQSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MLWVQSY&linkCode=as2&tag=technikaya-20&linkId=3a209014ba13f727600b66e8e1c73ffb">}}
+•	stunning LED Lights
+•	high accuracy 50mm
+•	It is very lightweight
+
+{{</singlep>}}
+
+[![](/uploads/gaming-headset-for-ps4-.jpg)](https://www.amazon.com/gp/product/B07MLWVQSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MLWVQSY&linkCode=as2&tag=technikaya-20&linkId=3a209014ba13f727600b66e8e1c73ffb)
+
+The eighth product in on our list is a gaming headphone. 
+It is the Gaming Headphone for PS4, Xbox One, personal computers (Pc), Laptops and smartphones The headset has stereo Surround with Microphone, and Noise Cancelling feature which enables you to do crystal clear communication. The  LED Lights are stunning, and it looks pretty good. The headset has a volume Controller which control the volume and have 3.5 mm Jack  Camo.
+The headset has high-quality Sound, and it has precise sound control strong bass, magnificent surrounding noise isolation and high accuracy 50mm engaging neodymium driver, auditory positioning accuracy enhance the susceptivity of the speaker unit which bringing you the vivid sound field and sound clarity and shock feeling sound. The headset is perfect for your gaming experience. The headset is very lightweight and very comfortable.
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Speaker diameter</td>
+<td>50mm</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Over-the ear</td>
+</tr>
+<tr>
+<td>Frequency response </td>
+<td>20HZ-20KHZ</td>
+</tr>
+<tr>
+<td>Sensitivity </td>
+<td>105±3Db</td>
+</tr>
+<tr>
+<td>Cable Length </td>
+<td>2.1±0.15M</td>
+</tr>
+<tr>
+<td>LED operating coltage</td>
+<td>: DC5V±5%</td>
+</tr>
+<tr>
+<td>Headphone Interface </td>
+<td>USB±3.5mm4pin</td>
+</tr>
+<tr>
+<td>Item weight</td>
+<td>385g / 13.4oz</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The headset has an over-ear design with soft memory foam 
+and  Skin-friendly leather material that you can wear for a long period. The LED lights are designed on the earcups, which looks so perfect and elegant. The noise-cancelling feature is so perfect, and the headset can provide good sound quality. The headset is braided wire, and the durable tensile can effectively reduce the external resistance. The diameter of the headset is 50mm. The headset wire is 2.2M long cable which allows you to control the volume very quickly and you can mute the mic as effortless volume controller as one key mute. The weight of the headset is 385 g which is equivalent to 13.6 ounces. The headset is an amazing quality of price.
+The headset is of great style, and print on the headphones look so elegant.
+ The headset comes with an aux cable and a USB connector, and it is very easy to connect. The Headset RGB Lights will only work with USB connector. 
+The headphones are very comfortable over the ear. The headset has good quality Sound and microphone—such a pretty camouflage print. The headphones itself is very padded, and the headphones are very comfortable. The earmuffs go over the ears, and they are very comfortable to be worn for long periods. The headset comes with multiple connection cords, and it works great.
+
+{{<pros>}}
+
+<li>Headphones have amazing quality for the price</li>
+<li>Use for Nintendo switch. No adapter needed. Sounds great.</li>
+<li>Came with an aux and a USB connector</li>
+{{</pros>}}
+{{<cons>}}
+<li>The USB connector is only a power source for the blue lighting on the headphone</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07MLWVQSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MLWVQSY&linkCode=as2&tag=technikaya-20&linkId=3a209014ba13f727600b66e8e1c73ffb{{</button>}}
