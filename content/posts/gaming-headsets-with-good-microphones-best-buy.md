@@ -239,8 +239,6 @@ The headset comes with a built-in battery that allows you over fifteen hours of 
 
 {{</singlep>}}
 
-
-
 [![](/uploads/x.jpg)](https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e)
 
 The next is Razer Kraken X Ultra Gaming Headset. We know that Razer is an international gaming hardware design and manufacturing company. Razer is also esports and financial services providing company and it established by Robert Krakoff. The headquarter of the company is currently in California and even in Singapore.
@@ -290,3 +288,62 @@ The headset strap is long and not elastic, which is excellent curl up and tangle
 {{<cons>}}
 <li>Ear cups are not big enough</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e{{</button>}}
+
+## 4. Plantronics RIG Stereo
+
+{{<singlep pimg="/uploads/plantronics.jpeg" pname="Plantronics RIG Stereo" plink="https://www.amazon.com/gp/product/B00EV00MZ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EV00MZ8&linkCode=as2&tag=technikaya-20&linkId=d1909aa675de79014b86cb1e9a24cdb6">}}
+•	It has headset has 40mm speakers
+•	It has has dual microphones 
+•	It is wired headset
+•	Very Good Sound Quality
+
+{{</singlep>}}
+
+
+
+[![](/uploads/plantronics.jpg)](https://www.amazon.com/gp/product/B00EV00MZ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EV00MZ8&linkCode=as2&tag=technikaya-20&linkId=d1909aa675de79014b86cb1e9a24cdb6)
+
+The next product is Plantronics RIG gaming headset. The company, Plantronics, is an electronics manufacturing audio communication device for business and purchasers. It is producing support merge communications, mobile use, music, and gaming. Plantronics is headquartered in California and many of the products it is creating in China and Mexico. This headset is RIG stereo headphones, and its mixer lets you swiftly blend mobile calls and music, games, and audio. The headset has three EQ profiles, which will let you dial in and up the audio levels refined. The headset has 40mm speakers, which deliver intense bass and enveloping stereo sound. The headset has secure storage, and the earpods put flat for off-ear listening
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Manufacturer	</td>
+<td>Plantronics</td>
+</tr>
+<tr>
+<td>Weight	</td>
+<td>2 pounds</td>
+</tr>
+<tr>
+<td>model number	</td>
+<td>200040-22</td>
+</tr>
+<tr>
+<td>Dimensions	</td>
+<td>10.2 x 9.9 x 4.2 inches; 2 PoundsPackage Dimensions	10.2 x 9.9 x 4.2 inches; 2 Pounds</td>
+</tr>
+<tr>
+<td>ASIN	</td>
+<td>B00EV00MZ8</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The headset RIG stereo has a mixer from Plantronics Gaming, which will keep you stay connected to your mobile and your games, So you can play more, and break less. You just have to connect your phone to the mixer, and only with the one-touch, very easily you can move from game to mobile. Users can take calls and can dial in your best-loved music, pick an EQ profile, or rollover to game chat - ruler your own mix without leaving the game. With convertible mics, RIG also rotates with you. It changes out the boom mic for the secrecy inline and takes your gaming or music on the go. No matter where you go, the audio is incredible, with accurate stereo and a clear voice. With the adaptability to games on personal computers or Mac, or other devices or tablets or smartphones, RIG delivers your games, life, and mix. The headset has dual microphones and the boom mic or cable Swap out for the stealth inline mic for on-the-go gaming and music.
+The headset has a noise-canceling boom mic, which blocks all background noise for clear conversations while the secrecy inline mic, which includes mute and calls control if we talk about the weight of the headset, which is 2 pounds or equivalent to 0.907185kg. 
+The headphones are very comfortable after a couple of hours don’t get sweaty ear disorders. The Sound is very clear and has no problem with hearing other people, and they hear you.
+
+The mic comes with wired, and the noise cancellation feature is perfect for crystal clear voice. The headset has Inline mic for on the go gaming and music or other things. If you were finding a headphone for a studio, you could also go with the Plantronics Rig stereo gaming headset.
+
+{{<pros>}}
+
+<li>Multiple configurations were attempted in the Accessory Settings Menu.</li>
+<li>Headset is very Comfortable</li>
+<li>40mm speaker drivers bring deep bass and impressive stereo sound</li>
+{{</pros>}}
+{{<cons>}}
+<li>Possible software issues on Windows 8</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00EV00MZ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EV00MZ8&linkCode=as2&tag=technikaya-20&linkId=d1909aa675de79014b86cb1e9a24cdb6{{</button>}}
