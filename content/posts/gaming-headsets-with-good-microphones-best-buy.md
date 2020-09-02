@@ -239,7 +239,7 @@ The headset comes with a built-in battery that allows you over fifteen hours of 
 
 {{</singlep>}}
 
-[![](/uploads/x.jpg)](https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e)
+[![](/ryzen-ever-v2.jpg)](https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e)
 
 The next is Razer Kraken X Ultra Gaming Headset. We know that Razer is an international gaming hardware design and manufacturing company. Razer is also esports and financial services providing company and it established by Robert Krakoff. The headquarter of the company is currently in California and even in Singapore.
 The headset  Razer Kraken X ultralight is a gaming headphone. This headphone will full fill your gaming setup. Then you can go with Razer Kraken X ultralight headphone. It is a series of Kraken. The headset is manufactured in the US. It comes with integrated audio controls. You can easily control audio with integrated audio controls. The Kraken headset weight is 250 grams. If we measure weight is an ounce, the actual weight of Razer Kraken x ultralight is 8.8 ounces which is around 40% lighter than the competition. The weight of the headset  Razer Kraken X ultralight is very light. The sound quality of Razer Kraken is excellent, and a cardioid mic reduces all background noises for crystal-clear communication. The Mic quality is excellent and effortless connections.
@@ -525,3 +525,15 @@ The headphones are very comfortable over the ear. The headset has good quality S
 {{<cons>}}
 <li>The USB connector is only a power source for the blue lighting on the headphone</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07MLWVQSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MLWVQSY&linkCode=as2&tag=technikaya-20&linkId=3a209014ba13f727600b66e8e1c73ffb{{</button>}}
+
+## 8. Razer Kraken X Ultralight
+
+{{<singlep pimg="/uploads/x.jpg" pname="Razer Kraken X Ultralight" plink="https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e">}}
+•	Built-in advanced 7.1 virtual circumambient sound 
+•	Bauxite aluminium
+•	Perfect voice capturing sensor
+•	USB connectivity
+
+{{</singlep>}
+
+[![](/uploads/razer.jpg)](https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e)
