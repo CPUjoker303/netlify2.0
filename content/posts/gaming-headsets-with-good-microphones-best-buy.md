@@ -48,7 +48,7 @@ For a better experience in editing songs and films, best headphones will require
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B00EDNLO32/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EDNLO32&linkCode=as2&tag=technikaya-20&linkId=b52ff0f27c1912d0ae457f35ef83a5a9" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/ryzen-kraken-v2.jpg" alt="Razer Kraken Pro V2" title="Razer Kraken Pro V2"></td>
+<td class="tdimg"><img src="/uploads/ryzen-ever-v2.jpg" alt="Razer Kraken Pro V2" title="Razer Kraken Pro V2"></td>
 <td>Razer Kraken Pro V2</td>
 <td>Good</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07BH7KSMB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07BH7KSMB&linkCode=as2&tag=technikaya-20&linkId=f01b03267fe14973d1fcc78fca85ca8e" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
