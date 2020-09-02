@@ -178,8 +178,6 @@ It is the best studio headphone for gaming. It is a great product. It is the rig
 
 {{</singlep>}}
 
-
-
 [![](/uploads/turtle-beech.jpeg)](https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=e60aa2dcd6967f2611aece648b28834f)
 
 The second product on our list is Turtle Beach i30. Turtle Beach is an international gaming accessory producer company in California. It produces gaming headsets for Xbox One, PlayStation 4, gaming devices, personal computers Nintendo switch, and mobile devices. It is the advanced wireless Bluetooth technology, and it enables you to take full control of your audio tracks, and it adjusts volume and plane take calls without extending for your mobile device. It has an Invisible Microphone and Multiple built-in microphones, which is with the noise filtering technology and provides incredible voice pick up for all your chats or calls need. It has exceptional noise canceling feature which is the latest energetic noise cancellation technology silences undesired background noise so you can be concentrated on your sound experience easily. This headset is truly designed for comfort and With the rich memory foam ear headrest and a pulpy leather headband so that you can get easily lost in your music. This headset has a vibrant 50MM Speakers so you can hear your music clearly with that way it was wilful with four preset EQ levels, which is including very loud bass boost mode case you are watching movies or you are playing games, or you are listening to music, the headset Turtle Beach i30 Wireless Mobile phone Headset, with earcup dominance that let you change volume, and track selections and many more easily. The headset has vibrant stereo sound, which is With the Active Noise Cancellation that quietness undesired background noise. The headset is with the dual noise-canceling boomless mics, which are providing outstanding voice pickup.
@@ -230,3 +228,65 @@ The headset comes with a built-in battery that allows you over fifteen hours of 
 {{<cons>}}
 <li>Ear cups are not big enough</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00EDNLO32/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EDNLO32&linkCode=as2&tag=technikaya-20&linkId=b52ff0f27c1912d0ae457f35ef83a5a9{{</button>}}
+
+## 3. Razer Kraken Pro V2
+
+{{<singlep pimg="/uploads/razer-kraken-x-.jpg" pname="Razer Kraken Pro V2" plink="https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e">}}
+•	Very light weight and flexible
+•	It has 3.5 mm Jack
+•	The headset comes with line splitter and extension
+•	In-line mute and also volume controller
+
+{{</singlep>}}
+
+
+
+[![](/uploads/x.jpg)](https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e)
+
+The next is Razer Kraken X Ultra Gaming Headset. We know that Razer is an international gaming hardware design and manufacturing company. Razer is also esports and financial services providing company and it established by Robert Krakoff. The headquarter of the company is currently in California and even in Singapore.
+The headset  Razer Kraken X ultralight is a gaming headphone. This headphone will full fill your gaming setup. Then you can go with Razer Kraken X ultralight headphone. It is a series of Kraken. The headset is manufactured in the US. It comes with integrated audio controls. You can easily control audio with integrated audio controls. The Kraken headset weight is 250 grams. If we measure weight is an ounce, the actual weight of Razer Kraken x ultralight is 8.8 ounces which is around 40% lighter than the competition. The weight of the headset  Razer Kraken X ultralight is very light. The sound quality of Razer Kraken is excellent, and a cardioid mic reduces all background noises for crystal-clear communication. The Mic quality is excellent and effortless connections.
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Item Weight	     </td>
+<td>8.8 ounces</td>
+</tr>
+<tr>
+<td>Product Dimensions	inches</td>
+<td>6.3 x 8.27 x 3.47 </td>
+</tr>
+<tr>
+<td>Item Dimensions LxWxH	</td>
+<td>6.3 x 8.27 x 3.47 inches</td>
+</tr>
+<tr>
+<td>Color	Classic         </td>
+<td>Black</td>
+</tr>
+<tr>
+<td>Manufacturer	         </td>
+<td>Razer Inc.</td>
+</tr>
+<tr>
+<td>ASIN	                   </td>
+<td>B07RMC5BRL</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The Headphone audio control Include a congener volume control wheel and mute mic switch on the headset for instant and convenient adjustments. The long-lasting Construction Kraken X frame is very flexible. The headset is very lightweight and easy to use. The user feels very comfortable and enjoyable.
+The headset is very comfortable, and it very fits well. The headset has Flexibility, and it very decent in style. The memory foam stuffing on a headband is very comfortable. The headset has a Noise cancelling feature which is perfect and cancels all disordered Noise. 
+The headset looks pretty cool. The headset is very comfortable and relaxing. You can use this headset, and you will feel comfortable while using because of its lightweight body elegant design.
+The headset strap is long and not elastic, which is excellent curl up and tangle. The headset Razer Kraken x ultra gaming headset is the best studio headset for gaming. The headset is basically plugged and play headset. The headphone is very comfortable and perfectly fit on ears. The Build-in microphone is of outstanding quality and provides crystal-clear communication during gameplay. The headset Razer Kraken x ultralight dimensions are 6.3 x 8.27 x 3.47 inches. The headset Kraken X has 7.1 surround sound. The headset sound quality is perfect, and the mic quality is organic; the user can do crystal clear communication.  the headset is best for gaming So; If you are looking for gaming headphone, You can go with Razer Kraken X Ultra Gaming Headset.
+
+{{<pros>}}
+
+<li>Mic quality is great</li>
+<li>Comfortable on the head & ears, for many hours</li>
+{{</pros>}}
+{{<cons>}}
+<li>Ear cups are not big enough</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e{{</button>}}
