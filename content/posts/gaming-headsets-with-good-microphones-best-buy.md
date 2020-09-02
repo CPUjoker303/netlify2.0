@@ -291,8 +291,6 @@ The headset strap is long and not elastic, which is excellent curl up and tangle
 
 ## 4. Plantronics RIG Stereo
 
-
-
 {{<singlep pimg="/uploads/plantronics.jpeg" pname="Plantronics RIG Stereo" plink="https://www.amazon.com/gp/product/B00EV00MZ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EV00MZ8&linkCode=as2&tag=technikaya-20&linkId=d1909aa675de79014b86cb1e9a24cdb6">}}
 •	It has headset has 40mm speakers
 •	It has has dual microphones 
