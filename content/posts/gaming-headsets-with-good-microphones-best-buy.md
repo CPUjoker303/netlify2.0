@@ -167,3 +167,13 @@ It is the best studio headphone for gaming. It is a great product. It is the rig
 {{<cons>}}
 <li>Not enough padding around the earpieces</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=e60aa2dcd6967f2611aece648b28834f{{</button>}}
+
+## 2. Turtle Beach - i30 Premium
+
+{{<singlep pimg="/uploads/turtle-beach-ear-force-i30-500x500.jpg" pname="Turtle Beach - i30 Premium" plink="https://www.amazon.com/gp/product/B00EDNLO32/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EDNLO32&linkCode=as2&tag=technikaya-20&linkId=b52ff0f27c1912d0ae457f35ef83a5a9">}}
+•	It comes with noise filtering technology 
+•	Headset is very comfortable
+•	Eassy connnectivity
+•	supporting Bluetooth 3.0
+
+{{</singlep>}}
