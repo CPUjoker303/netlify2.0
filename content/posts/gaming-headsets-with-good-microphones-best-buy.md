@@ -87,6 +87,8 @@ For a better experience in editing songs and films, best headphones will require
 </table>
 {{</html-code>}}
 
+## 1. AUDIO-TECHNICA BPHS1
+
 {{<singlep pimg="/uploads/audio-technica-bphs1.jpg" pname="Audio-Technica BPHS1" plink="https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=e60aa2dcd6967f2611aece648b28834f">}}
 • It is broadcast stereo headset
 
@@ -97,3 +99,71 @@ For a better experience in editing songs and films, best headphones will require
 • It has a Phono jack
 
 {{</singlep>}}
+
+[![](/uploads/audio-tech.jpg)](https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=e60aa2dcd6967f2611aece648b28834f)
+
+The first product on our list is Audio Technica BPHSI. Audio-Technica is a Japanese company. It is a professional manufacturing microphone, headphones, and other audio equipment. If we talk about the headset, the headset is the broadcast stereo headset. The headphones have a dynamic cardioid boom microphone.  It has a rugged design with buyer mutual cable and ear pads. The cardioid looks up the pattern of the lively microphone flotsam off-axis sound.
+
+It is designed mainly for on-air news and sports broadcasting and interviews etc. The headset has wired connectivity. The rugged stereo headset provides highly accessible and focused vocal reproduction closed-back circumaural ear cups on confining background noise, and a high output dynamic microphone mounted on a flexible curved shape boom. The headset microphone has a cardioid pattern for pickup of speech with maximum voice clarity over a wide range of frequencies. The headphone has three pins male XLR for the Microphone and the three 1/3 TRS jack for the headphones. It works fine with premium five Input two-bus mixer with XENYX Microphone compressor and USB/Audio interface and windows ten personal computer.
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Brand	</td>
+<td>Audio-Technica</td>
+</tr>
+<tr>
+<td>Connections	</td>
+<td>Wired</td>
+</tr>
+<tr>
+<td>Model Name	</td>
+<td>BPHS1</td>
+</tr>
+<tr>
+<td>Color	</td>
+<td>Black</td>
+</tr>
+<tr>
+<td>Connector Type	</td>
+<td>3-Pin Male XLR and 1/4" TRS</td>
+</tr>
+<tr>
+<td>Element	</td>
+<td>Dynamic</td>
+</tr>
+<tr>
+<td>Polar Pattern	</td>
+<td>Hypercardioid</td>
+</tr>
+<tr>
+<td>Pen Circuit Sensitivity	</td>
+<td>–57 dB (5.6 mV) (0 dB = 1 V/Pa, 1 kHz)</td>
+</tr>
+<tr>
+<td>Dimensions	</td>
+<td>Height: 18.0 mm (0.71”),</td>
+</tr>
+<tr>
+<td>Main unit maximum diameter</td>
+<td>23.4 mm (0.92”)</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+It has a very long cable that can be separated by physically unscrewing a bolt on the headphone; however, this makes it very heavy too. The headset has a Phono jack at the other end. The Microphone has a male XLR.
+The microphone arm is most easy Positionable of any headset. It stops all background noise when you are listening to sound. The noise-cancelling option is ideal in this headset. The dynamic Mic is excellent in performance. It is also a professional broadcast headset and the best studio headphone for gaming purposes and other purposes as we know that it is a wired headset with flexible long-range wire. It is perfect for a smash player. The Microphone is of such excellent quality. The wire is of good quality material, and a long cable can easily hold anywhere. The ear cups help seal out massive noise and all other background distractions. Ear cups are designed for noise cancellation. The headset is very durable and comfortable. If you are looking for the best studio headphone for gaming, then it is best for your experience.
+It is the best studio headphone for gaming. It is a great product. It is the right Microphone for studio setup and recording style. If someone is looking for the headsets for ham radio, there is a perfect deal of choice. It is a great sounding pair of headphones
+
+{{<pros>}}
+
+<li>The sound quality of these cans is very well, and the dynamic mic is also excellent</li>
+<li>High broadcast quality with the astonishing frequency range</li>
+<li>Perfect passive noise canceling, perfect for a smash player</li>
+<li>It is durable and Comfortable</li>
+{{</pros>}}
+{{<cons>}}
+<li>Not enough padding around the earpieces</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=e60aa2dcd6967f2611aece648b28834f{{</button>}}
