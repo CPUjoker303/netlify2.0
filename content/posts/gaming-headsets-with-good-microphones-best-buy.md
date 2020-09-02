@@ -400,3 +400,58 @@ The headset is durable and very easy to use. The noise controller of the headset
 {{<cons>}}
 <li>None</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07G9XCTY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07G9XCTY4&linkCode=as2&tag=technikaya-20&linkId=31d44a28e7d66d1ee36437c8b8de1091{{</button>}}
+
+## 6. JBL Quantum 100
+
+{{<singlep pimg="/uploads/jbl.jpg" pname="JBL Quantum 100" plink="https://www.amazon.com/gp/product/B084CZT5SX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084CZT5SX&linkCode=as2&tag=technikaya-20&linkId=72388e78cf7b46b101a70635f12c5879">}}
+•	echo cancelling technology
+•	ear cups cover with soft leather
+•	Its connection type is 3.5mm connection 
+•	Pretty good boom mic
+
+{{</singlep>}}
+
+[![](/uploads/jbl-22.jpg)](https://www.amazon.com/gp/product/B084CZT5SX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084CZT5SX&linkCode=as2&tag=technikaya-20&linkId=72388e78cf7b46b101a70635f12c5879)
+
+The sixth product in our list is JBL Quantum 100. The company JBL is an American company that is manufacturing the audio equipment, like headsets, loudspeakers etc. The headset JBL Quantum 100 is pretty good in style. It comes with white colour. JBL is a brand name which is manufacturing the headset JBL Quantum 100. The connections of this headset are wired. The connection type of the headset is 3.5mm stereo.
+As we know that In competitive gaming the sound is survival and best sound quality matters to enhance the best gaming experience So, JBL knows all about the great music From the fun of keeping in sight enemies in FPS (Frames Per Second ) games to fetching in epic battles. The JBL Quantum 100 comes with Nintendo Switch. The headset JBL Quantum also comes in black colour.
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Manufacturer		</td>
+<td>JBL</td>
+</tr>
+<tr>
+<td>Dimensions		</td>
+<td>9.65 x 3.54 x 9.06 inches</td>
+</tr>
+<tr>
+<td>Item model number		</td>
+<td>JBLQUANTUM100WHTAM</td>
+</tr>
+<tr>
+<td>Weight		           </td>
+<td>7.8  ounces</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The Headset JBL Quantum 100 is a gaming headphone, and it has a boom mic which comes with echo cancelling technology. It allows users to focus on their teammate player voice rather than the background noise for perfect and crystal clear conversations and communication.
+The ear cushions are cover with soft PU leather, and it gives you comfort. The user can easily plug and play the headset with 3.5mm connection for multi-platform of gaming like can connect on PC(personal computers), Mac, PS4, Nintendo Switch extra. The boom mic is a pretty good microphone for crystal clear voice capturing and very easy to communicate while playing online games. The JBL Quantum 100 is an over-ear headset.
+
+The headset is stunning and exceptional. The sound quality is evident upto360 degree. If we take the example of any game like Call of Duty, So directional sound is essential. The headset sound quality is outstanding that you can hear directional music easily. The headphone Mic quality is excellent. Your voice comes through clearly, and you Can communicate a lot of in-game. The assemble is a little on the flimsy side. They seem splintery and a few "loose" in their construction.
+The headphones work very well for the price 
+The microphone has to be pretty close to your mouth so that your voice will be crystal clear. Many Of the people after using this headset they review that sound quality is Good and microphone quality is excellent. The microphone works very well and has a very isolating noise. So if you are looking for studio headphones for gaming purpose So, you can go with JBL Quantum 100
+
+{{<pros>}}
+
+<li>The sound quality is mediocre at best</li>
+<li>The white color is a nice look.</li>
+<li>Able to connect to any device which has a 3.5mm Aux headset port</li>
+{{</pros>}}
+{{<cons>}}
+<li>The gain control on the head set comes set pretty low</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B084CZT5SX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084CZT5SX&linkCode=as2&tag=technikaya-20&linkId=72388e78cf7b46b101a70635f12c5879{{</button>}}
