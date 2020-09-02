@@ -299,11 +299,7 @@ The headset strap is long and not elastic, which is excellent curl up and tangle
 
 {{</singlep>}}
 
-
-
-[![](/uploads/plantronics.jpg)](https://www.amazon.com/gp/product/B00EV00MZ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EV00MZ8&linkCode=as2&tag=technikaya-20&linkId=d1909aa675de79014b86cb1e9a24cdb6)
-
-The next product is Plantronics RIG gaming headset. The company, Plantronics, is an electronics manufacturing audio communication device for business and purchasers. It is producing support merge communications, mobile use, music, and gaming. Plantronics is headquartered in California and many of the products it is creating in China and Mexico. This headset is RIG stereo headphones, and its mixer lets you swiftly blend mobile calls and music, games, and audio. The headset has three EQ profiles, which will let you dial in and up the audio levels refined. The headset has 40mm speakers, which deliver intense bass and enveloping stereo sound. The headset has secure storage, and the earpods put flat for off-ear listening
+[![](/uploads/plantronics.jpg)](https://www.amazon.com/gp/product/B00EV00MZ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EV00MZ8&linkCode=as2&tag=technikaya-20&linkId=d1909aa675de79014b86cb1e9a24cdb6)The next product is Plantronics RIG gaming headset. The company, Plantronics, is an electronics manufacturing audio communication device for business and purchasers. It is producing support merge communications, mobile use, music, and gaming. Plantronics is headquartered in California and many of the products it is creating in China and Mexico. This headset is RIG stereo headphones, and its mixer lets you swiftly blend mobile calls and music, games, and audio. The headset has three EQ profiles, which will let you dial in and up the audio levels refined. The headset has 40mm speakers, which deliver intense bass and enveloping stereo sound. The headset has secure storage, and the earpods put flat for off-ear listening
 
 {{<html-code tag="div">}}
 
