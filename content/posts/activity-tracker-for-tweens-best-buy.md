@@ -9,7 +9,7 @@ metaKeywords: Activity Tracker For Tweens
 url: activity-tracker-for-tweens/
 date: 2020-08-31T10:12:28.200Z
 updateDate: 2020-08-31T10:12:28.257Z
-image: /uploads/two-kid.jpg
+image: /uploads/garmin-vivofit-jr-2-marvel-avengers.jpg
 tags:
   - Information
 categories:
