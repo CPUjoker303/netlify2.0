@@ -370,13 +370,17 @@ You can gift this health and fitness tracker to your kids. Your kids love this f
 <li>No touch screen</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07H6TVHD5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07H6TVHD5&linkCode=as2&tag=technikaya-20&linkId=6e60f5aedeaa4cfdb600d8335b7e7f72{{</button>}}
 
-## 3. FITFORT Fitness Tracker
+### 3. FITFORT Fitness Tracker
 
 [![](/uploads/fitfort.jpg)](https://www.amazon.com/gp/product/B07XVHX8BC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07XVHX8BC&linkCode=as2&tag=technikaya-20&linkId=2dda35d1313e8835d01f559b9800fab4)
 
-The third product on our list is the Fitfort fitness tracker. It is a fitness wristband. It can measure heart pressure, sleep quality, heart rate, step counts, and much more. This fitness tracker is your personal health secretary, which reminds you to move or drink water after a long time, working or gaming. The fitness tracker helps you to stay active throughout the day. It also helps you to get rid of bad habits. The fitness watch is your personal gym coach. The watch can easily track up to 14 [exercises](https://en.wikipedia.org/wiki/Exercise). If you are running, dancing, jogging, it will accurately measure all exercises.  This health and fitness wrist band has a clear LCD (liquid crystal display). The watch has five different brightness levels, which help you watch crystal clear display in the dazzling sun. The watch has a  beautiful design. There is no need for charging cable. The user has to pull off the band.  The watch will take a maximum of 1 or 2 hours for full charging. The built-in USB plug will be inserted in a USB charger. The charging will quickly starts.
+Third product is Fitfort fitness tracker. It is a fitness wristband. It can measure heart pressure, sleep quality, heart rate, step counts, and much more. This fitness tracker is your personal health secretary, which reminds you to move or drink water after a long time, working or gaming. The fitness tracker helps you to stay active throughout the day. It also helps you to get rid of bad habits. The fitness watch is your personal gym coach. 
 
-## Specifications
+The watch can easily track up to 14 exercises. If you are running, dancing, jogging, it will accurately measure all exercises.  This health and fitness wrist band has a clear LCD (liquid crystal display). 
+
+The watch has five different brightness levels, which help you watch crystal clear display in the dazzling sun. The watch has a  beautiful design. There is no need for charging cable. The user has to pull off the band.  The watch will take a maximum of 1 or 2 hours for full charging. The built-in USB plug will be inserted in a USB charger. The charging will quickly starts.
+
+#### Specifications
 
 {{<html-code tag="div">}}
 
@@ -405,7 +409,9 @@ The third product on our list is the Fitfort fitness tracker. It is a fitness wr
 </table>
 {{</html-code>}}
 
-This health and fitness watch is water-resistant. If you are swimming or dancing in the rain, the watch will never get the effect. The watch is also dust-proof. This health and fitness watch will look perfect on your wrist. The user has to feel free while swimming or washing hands. To connect this watch with your phone, you must have an android device or an IOS device. The android is up to 4.4 or above, and IOS is up to 8.0 or above. To watch detailed exercise data, you have to install a VeryFitPro application only. So, If you are looking for a health and fitness watch for your kids, then you can go with Fitfort fitness tracker.
+This health and fitness watch is water-resistant. If you are swimming or dancing in the rain, the watch will never get the effect. The watch is also dust-proof. This health and fitness watch will look perfect on your wrist. The user has to feel free while swimming or washing hands. 
+
+To connect this watch with your phone, you must have an android device or an ios device. The android is up to 4.4 or above, and ios is up to 8.0 or above. To watch detailed exercise data, you have to install a VeryFitPro application only. So, If you are looking for a health and fitness watch for your kids, then you can go with Fitfort fitness tracker.
 
 {{<pros>}}
 
