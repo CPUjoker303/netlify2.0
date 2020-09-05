@@ -422,11 +422,11 @@ To connect this watch with your phone, you must have an android device or an ios
 <li>Blood pressure measuring problem</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07XVHX8BC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07XVHX8BC&linkCode=as2&tag=technikaya-20&linkId=2dda35d1313e8835d01f559b9800fab4{{</button>}}
 
-## 4. 3Plus Lite Activity Tracker
+### 4. 3Plus Lite Activity Tracker
 
 [![](/uploads/3-plus.jpeg)](https://www.amazon.com/gp/product/B06Y1FX1FT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06Y1FX1FT&linkCode=as2&tag=technikaya-20&linkId=568f1bb9dead550b6d247ae15ddf59d1)
 
-The fourth product on our list is the 3Plus lite activity tracker. Its weight is 0.8 ounces. Its dimensions are 0.65 x 0.42 x 10.75 inches. It is also a sleep tracking device. It measures your sleep and improves your sleep habits. It tracks your sleep duration. It also shows notifications like incoming calls, emails, texts, social media alerts, etc. This health and fitness watch 3plus lite activity tracker has an OLED display with a clear picture.
+The fourth product on our list is 3Plus lite activity tracker. It is also a sleep tracking device. It measures your sleep and improves your sleep habits. It tracks your sleep duration. It also shows notifications like incoming calls, emails, texts, social media alerts, etc. This health and fitness watch 3plus lite activity tracker has an OLED display with a clear picture. Its weight is 0.8 ounces. Its dimensions are 0.65 x 0.42 x 10.75 inches. 
 
 {{<html-code tag="div">}}
 
@@ -476,7 +476,8 @@ The fourth product on our list is the 3Plus lite activity tracker. Its weight is
 {{</html-code>}}
 
 It is a water-resistant watch. If the user is washing hands or swimming, it will never have any effect on this durable watch. The watch can easily pair with a smartphone or any smart device. This health and fitness watch constantly measure daily activity. It has an auto-sync function. The watch can easily charge with the USB charger. The user will experience an amazing battery life.
-The 3plus lite activity tracker records the number of steps walked. The watch also tracks distance traveled and calories burned etc.This health and fitness watch also has a sleep tracking feature. It tracks your sleep activity and helps you to improve your sleep habits. This watch is also for kids. If you are looking for a health and fitness watch for your kids, then you can go with 3Plus Lite Activity Tracker. Kids love it. 
+
+The 3plus lite activity tracker records the number of steps walked. The watch also tracks distance traveled and calories burned etc.This health and fitness watch also has a sleep tracking feature. It tracks your sleep activity and helps you to improve your sleep habits. This watch is also for kids. 3Plus Lite Activity Tracker is perfect Activity Tracker For Tweens. 
 
 {{<pros>}}
 
@@ -487,12 +488,20 @@ The 3plus lite activity tracker records the number of steps walked. The watch al
 <li>Lite band cannot be changed</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B06Y1FX1FT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06Y1FX1FT&linkCode=as2&tag=technikaya-20&linkId=568f1bb9dead550b6d247ae15ddf59d1{{</button>}}
 
-## 5. Withings Move Smartwatch
+### 5. Withings Move Smartwatch
 
 [![](/uploads/32349-original.jpg)](https://www.amazon.com/gp/product/B018SL790Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018SL790Q&linkCode=as2&tag=technikaya-20&linkId=5b2bf3f5194c3d7a04472be19a8ef7a9)
 
-The Fifth product on our list is Withings Move Hybrid Smartwatch. The watch is a health and fitness tracker. The design looks pretty. If user walking, running, swimming, or cycling, the watch can automatically detect more than ten activities, and measures your performance precisely and also improves day by day. This health and fitness watch has a 6-month battery life. The user can run this health and fitness watch for more than 500 days on a simple button cell battery. The battery timing is perfect for this watch. The watch is water-resistant up to 50 meters. The user can run, walk, or dance in the rain without any worry. The watch can easily connect with the health mate application. It comes with an elegant design and has a Silicone wristband.
+Fifth product is Withings Move Hybrid Smartwatch. The watch is a health and fitness tracker. The design looks pretty. If user walking, running, swimming, or cycling, the watch can automatically detect more than ten activities, and measures your performance precisely and also improves day by day. 
+
+This health and fitness watch has a 6-month battery life. The user can run this health and fitness watch for more than 500 days on a simple button cell battery. The battery timing is perfect for this watch. 
+
+The watch is water-resistant up to 50 meters. The user can run, walk, or dance in the rain without any worry. The watch can easily connect with the health mate application. It comes with an elegant design and has a Silicone wrist-band.
+
+
 The user can check their progress at a glance at the activity dial. It automatically syncs your data via Bluetooth to your mobile device in the free Health Mate app. The connected GPS of this smartwatch allows your phone's GPS to see a map of your distance and route and your session's pace and altitudes. It is straightforward to connect this watch with your smartphone. The user has to connect this watch via Bluetooth with location settings enabled.
+
+#### Specifications
 
 {{<html-code tag="div">}}
 
@@ -521,7 +530,9 @@ The user can check their progress at a glance at the activity dial. It automatic
 </table>
 {{</html-code>}}
 
-The battery is a replaceable CR2430 button cell. The health and fitness watch easily tracks your sleep automatically. The user has to set an alarm with Smart Wake-Up to be aroused at the exact moment in your sleep cycle. If we talk about item height, then we come to know that it has 1.3 Centimeters height. This health and fitness watch is a standard hybrid watch & also a lightweight watch. For changing time settings you have to connect it with your phone, the time will not manually change. The watch will vibrate when the daily goal achieved or alarm time comes. We know that no health and fitness watch can accurately calculate the calories burned or calorie intake. This health and fitness watch measures heartbeat accurately. Kids love this watch, and it is perfect for kids. If you are looking for a watch for your kid, you can go with this Withings move hybrid watch
+The battery is a replaceable CR2430 button cell. The health and fitness watch easily tracks your sleep automatically. The user has to set an alarm with Smart Wake-Up to be aroused at the exact moment in your sleep cycle. If we talk about item height, then we come to know that it has 1.3 Centimeters height. 
+
+This health and fitness watch is a standard hybrid watch & also a lightweight watch. For changing time settings you have to connect it with your phone, the time will not manually change. The watch will vibrate when the daily goal achieved or alarm time comes. We know that no health and fitness watch can accurately calculate the calories burned or calorie intake. This health and fitness watch measures heartbeat accurately. Kids love this watch, and it is perfect for kids. Withings move hybrid watch is perfect activity tracker for tweens.
 
 {{<pros>}}
 
