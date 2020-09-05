@@ -411,7 +411,7 @@ The watch has five different brightness levels, which help you watch crystal cle
 
 This health and fitness watch is water-resistant. If you are swimming or dancing in the rain, the watch will never get the effect. The watch is also dust-proof. This health and fitness watch will look perfect on your wrist. The user has to feel free while swimming or washing hands. 
 
-To connect this watch with your phone, you must have an android device or an ios device. The android is up to 4.4 or above, and ios is up to 8.0 or above. To watch detailed exercise data, you have to install a VeryFitPro application only. So, If you are looking for a health and fitness watch for your kids, then you can go with Fitfort fitness tracker.
+To connect this watch with your phone, you must have an android device or an ios device. The android is up to 4.4 or above, and ios is up to 8.0 or above. To watch detailed exercise data, you have to install a VeryFitPro application only. So, If you are finding activity tracker for tweens then you can go with Fitfort fitness tracker.
 
 {{<pros>}}
 
