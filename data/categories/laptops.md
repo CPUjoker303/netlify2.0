@@ -1,5 +1,5 @@
 ---
-name: Laptops
-excrept: The Laptops
-url: laptops
+name: Reviews
+excrept: The Reviews
+url: Reviews
 ---
