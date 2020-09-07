@@ -512,8 +512,15 @@ The mic is wired, and the noise cancellation feature is perfect for crystal clea
 
 [![](/uploads/hello.jpg)](https://www.amazon.com/gp/product/B07G9XCTY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07G9XCTY4&linkCode=as2&tag=technikaya-20&linkId=31d44a28e7d66d1ee36437c8b8de1091)
 
-The Fifth is HelloPower Gaming Headset. HelloPower is a brand. The headphone is for over-ear and comes with a volume controller. The headset has High exactness which is up to 50mm magnetic neodymium driver, that brings you authentic sound field and sound transparency, and shock feelings are able of various games with magnificent surrounding noise isolation. The hearing protection used with skin- favourable leather material, and it is super soft Over-ear pads that are furthermore relaxing and comfortable for very long time wear. The headset comes with Glaring LED lights which are designed on the earcups and Mic that is highlighting the climate of the game. The headset comes with Braided wire and a durable tensile which effectively reduce the external resistance. The Velcro cable tie, avert the line association.
-The headphone line is fit-out with a rotary volume controller, and one of the keys of Mic is mute for more convenient to users. It is beautiful craftsmanship and fashion appearance. It is the professional gaming headphone for your choice. The driver of the headset has High accuracy 50mm magnetic neodymium which will conduct you vivid sound field, clarity and shock feeling, capable of various games. The weight of the headset is 1.16 pounds which is equivalent to 0.5261671 kg.
+The Fifth is HelloPower Gaming Headset. HelloPower is a brand. The headphone is for over-ear and comes with a volume controller. The headset has High exactness which is up to 50mm magnetic neodymium driver, that brings you authentic sound field and sound transparency, and shock feelings are able of various games with magnificent surrounding noise isolation. The hearing protection used with skin- favourable leather material, and it is super soft Over-ear pads that are furthermore relaxing and comfortable for very long time wear.
+
+The headset comes with Glaring LED lights which are designed on the earcups and Mic that is highlighting the climate of the game. The headset comes with Braided wire and a durable tensile which effectively reduce the external resistance. The Velcro cable tie, avert the line association.
+
+The headphone line is fit-out with a rotary volume controller, and one of the keys of mic is mute for more convenient to users. It is beautiful craftsmanship and fashion appearance. It is the professional gaming headphone for your choice. 
+
+The driver of the headset has High accuracy 50mm magnetic neodymium which will conduct you vivid sound field, clarity and shock feeling, capable of various games. The weight of the headset is 1.16 pounds which is equivalent to 0.5261671 kg.
+
+#### Specifications
 
 {{<html-code tag="div">}}
 
@@ -546,7 +553,13 @@ The headphone line is fit-out with a rotary volume controller, and one of the ke
 </table>
 {{</html-code>}}
 
-The headset is durable and very easy to use. The noise controller of the headset comes with sound isolation. A gamer needs a headset like which has the best sound quality and which has the best microphone quality to enhance the best gaming experience. More sound quality more the user will enjoy games and music. The headset is very comfortable, and it is made for long time wear. You can wear this headset for a long time as much as you can. The design of the headset is very pretty good. The body covers with pretty led Lights which were designed beautifully on the earcups and also on the microphone which is fully highlighting the atmosphere of the game. The light colours are RGB which are very looking pretty good and adjustable. The main dimensions of the headset are 8.5 x 7.72 x 4.17 inches. If we compare this headset with other headphones In our product list, then it has fewer features as compared to audio Technica BPHSI, Turtle Beach - i30 and Razer Kraken 7.1. So if you are looking for best studio headphones for gaming, then it is your choice you can buy it or not.
+The headset is durable and very easy to use. The noise controller of the headset comes with sound isolation. A gamer needs a headset like which has the best sound quality and which has the best microphone quality to enhance the best gaming experience.
+
+More sound quality more the user will enjoy games and music. The headset is very comfortable, and it is made for long time wear. You can wear this headset for a long time as much as you can. The design of the headset is very pretty good.
+
+The body covers with pretty led Lights which were designed beautifully on the earcups and also on the microphone which is fully highlighting the atmosphere of the game. The light colours are RGB which are very looking pretty good and adjustable. 
+
+The main dimensions of the headset are 8.5 x 7.72 x 4.17 inches. If we compare this headset with other headphones In our product list, then it has fewer features as compared to audio Technica BPHSI, Turtle Beach - i30 and Razer Kraken 7.1. So it is best studio headphones for gaming, It is up to you, buy it or not.
 
 {{<pros>}}
 
@@ -557,7 +570,7 @@ The headset is durable and very easy to use. The noise controller of the headset
 <li>None</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07G9XCTY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07G9XCTY4&linkCode=as2&tag=technikaya-20&linkId=31d44a28e7d66d1ee36437c8b8de1091{{</button>}}
 
-## 6. JBL Quantum 100
+### 6. JBL Quantum 100
 
 {{<singlep pimg="/uploads/jbl.jpg" pname="JBL Quantum 100" plink="https://www.amazon.com/gp/product/B084CZT5SX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084CZT5SX&linkCode=as2&tag=technikaya-20&linkId=72388e78cf7b46b101a70635f12c5879">}}
 •	echo cancelling technology
@@ -569,8 +582,9 @@ The headset is durable and very easy to use. The noise controller of the headset
 
 [![](/uploads/jbl-22.jpg)](https://www.amazon.com/gp/product/B084CZT5SX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084CZT5SX&linkCode=as2&tag=technikaya-20&linkId=72388e78cf7b46b101a70635f12c5879)
 
-The sixth product in our list is JBL Quantum 100. The company JBL is an American company that is manufacturing the audio equipment, like headsets, loudspeakers etc. The headset JBL Quantum 100 is pretty good in style. It comes with white colour. JBL is a brand name which is manufacturing the headset JBL Quantum 100. The connections of this headset are wired. The connection type of the headset is 3.5mm stereo.
-As we know that In competitive gaming the sound is survival and best sound quality matters to enhance the best gaming experience So, JBL knows all about the great music From the fun of keeping in sight enemies in FPS (Frames Per Second ) games to fetching in epic battles. The JBL Quantum 100 comes with Nintendo Switch. The headset JBL Quantum also comes in black colour.
+The sixth is JBL Quantum 100. The company JBL is an American company that is manufacturing the audio equipment, like headsets, loudspeakers etc. The headset JBL Quantum 100 is pretty good in style. It comes with white colour. JBL is a brand name which is manufacturing the headset JBL Quantum 100. 
+
+The connections of this headset are wired. The connection type of the headset is 3.5mm stereo. As we know that In competitive gaming the sound is survival and best sound quality matters to enhance the best gaming experience So, JBL knows all about the great music From the fun of keeping in sight enemies in FPS (Frames Per Second ) games to fetching in epic battles. The JBL Quantum 100 comes with Nintendo Switch. The headset JBL Quantum also comes in black colour.
 
 {{<html-code tag="div">}}
 
@@ -596,11 +610,12 @@ As we know that In competitive gaming the sound is survival and best sound quali
 {{</html-code>}}
 
 The Headset JBL Quantum 100 is a gaming headphone, and it has a boom mic which comes with echo cancelling technology. It allows users to focus on their teammate player voice rather than the background noise for perfect and crystal clear conversations and communication.
+
 The ear cushions are cover with soft PU leather, and it gives you comfort. The user can easily plug and play the headset with 3.5mm connection for multi-platform of gaming like can connect on PC(personal computers), Mac, PS4, Nintendo Switch extra. The boom mic is a pretty good microphone for crystal clear voice capturing and very easy to communicate while playing online games. The JBL Quantum 100 is an over-ear headset.
 
-The headset is stunning and exceptional. The sound quality is evident upto360 degree. If we take the example of any game like Call of Duty, So directional sound is essential. The headset sound quality is outstanding that you can hear directional music easily. The headphone Mic quality is excellent. Your voice comes through clearly, and you Can communicate a lot of in-game. The assemble is a little on the flimsy side. They seem splintery and a few "loose" in their construction.
-The headphones work very well for the price 
-The microphone has to be pretty close to your mouth so that your voice will be crystal clear. Many Of the people after using this headset they review that sound quality is Good and microphone quality is excellent. The microphone works very well and has a very isolating noise. So if you are looking for studio headphones for gaming purpose So, you can go with JBL Quantum 100
+The headset is stunning and exceptional. The sound quality is evident upto 360 degree. If we take the example of any game like Call of Duty, So directional sound is essential. The headset sound quality is outstanding that you can hear directional music easily. The headphone Mic quality is excellent. Your voice comes through clearly, and you Can communicate a lot of in-game. The assemble is a little on the flimsy side. They seem splintery and a few "loose" in their construction.
+
+The headphones work very well for the price. The microphone has to be pretty close to your mouth so that your voice will be crystal clear. Many Of the people after using this headset they review that sound quality is Good and microphone quality is excellent. The microphone works very well and has a very isolating noise.
 
 {{<pros>}}
 
@@ -612,7 +627,7 @@ The microphone has to be pretty close to your mouth so that your voice will be c
 <li>The gain control on the head set comes set pretty low</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B084CZT5SX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084CZT5SX&linkCode=as2&tag=technikaya-20&linkId=72388e78cf7b46b101a70635f12c5879{{</button>}}
 
-## 7. Gaming Headset for PS4, Xbox One, PC, Laptop
+### 7. Gaming Headset for PS4, Xbox One, PC, Laptop
 
 {{<singlep pimg="/uploads/gaming-headset-for-ps4-.jpg" pname="Gaming Headset for PS4, Xbox One, PC, Laptop" plink="https://www.amazon.com/gp/product/B07MLWVQSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MLWVQSY&linkCode=as2&tag=technikaya-20&linkId=3a209014ba13f727600b66e8e1c73ffb">}}
 •	stunning LED Lights
@@ -623,9 +638,13 @@ The microphone has to be pretty close to your mouth so that your voice will be c
 
 [![](/uploads/gaming-headset-for-ps4-.jpg)](https://www.amazon.com/gp/product/B07MLWVQSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MLWVQSY&linkCode=as2&tag=technikaya-20&linkId=3a209014ba13f727600b66e8e1c73ffb)
 
-The eighth product in on our list is a gaming headphone. 
-It is the Gaming Headphone for PS4, Xbox One, personal computers (Pc), Laptops and smartphones The headset has stereo Surround with Microphone, and Noise Cancelling feature which enables you to do crystal clear communication. The  LED Lights are stunning, and it looks pretty good. The headset has a volume Controller which control the volume and have 3.5 mm Jack  Camo.
-The headset has high-quality Sound, and it has precise sound control strong bass, magnificent surrounding noise isolation and high accuracy 50mm engaging neodymium driver, auditory positioning accuracy enhance the susceptivity of the speaker unit which bringing you the vivid sound field and sound clarity and shock feeling sound. The headset is perfect for your gaming experience. The headset is very lightweight and very comfortable.
+The next is a gaming headphone. It is the Gaming Headphone for PS4, Xbox One, personal computers (Pc), Laptops and smartphones The headset has stereo Surround with Microphone, and Noise Cancelling feature which enables you to do crystal clear communication.
+
+The  LED Lights are stunning, and it looks pretty good. The headset has a volume Controller which control the volume and have 3.5 mm Jack  Camo.
+
+The headset has high-quality Sound, and it has precise sound control strong bass, magnificent surrounding noise isolation and high accuracy 50mm engaging neodymium driver, auditory positioning accuracy enhance the susceptivity of the speaker unit which bringing you the vivid sound field and sound clarity and shock feeling sound. The headset is very lightweight and very comfortable.
+
+#### Specifications
 
 {{<html-code tag="div">}}
 
@@ -666,11 +685,13 @@ The headset has high-quality Sound, and it has precise sound control strong bass
 </table>
 {{</html-code>}}
 
-The headset has an over-ear design with soft memory foam 
-and  Skin-friendly leather material that you can wear for a long period. The LED lights are designed on the earcups, which looks so perfect and elegant. The noise-cancelling feature is so perfect, and the headset can provide good sound quality. The headset is braided wire, and the durable tensile can effectively reduce the external resistance. The diameter of the headset is 50mm. The headset wire is 2.2M long cable which allows you to control the volume very quickly and you can mute the mic as effortless volume controller as one key mute. The weight of the headset is 385 g which is equivalent to 13.6 ounces. The headset is an amazing quality of price.
-The headset is of great style, and print on the headphones look so elegant.
- The headset comes with an aux cable and a USB connector, and it is very easy to connect. The Headset RGB Lights will only work with USB connector. 
-The headphones are very comfortable over the ear. The headset has good quality Sound and microphone—such a pretty camouflage print. The headphones itself is very padded, and the headphones are very comfortable. The earmuffs go over the ears, and they are very comfortable to be worn for long periods. The headset comes with multiple connection cords, and it works great.
+The headset has an over-ear design with soft memory foam and  Skin-friendly leather material that you can wear for a long period. The LED lights are designed on the earcups, which looks so perfect and elegant.
+
+ The headset is braided wire, and the durable tensile can effectively reduce the external resistance. The diameter of the headset is 50mm. The headset wire is 2.2M long cable which allows you to control the volume very quickly and you can mute the mic as effortless volume controller as one key mute. The weight of the headset is 385 g which is equivalent to 13.6 ounces. The headset is an amazing quality of price.
+
+The headset is of great style, and print on the headphones look so elegant. The headset comes with an aux cable and a USB connector, and it is very easy to connect. The Headset RGB Lights will only work with USB connector. The headphones are very comfortable over the ear. 
+
+The headset has good quality Sound and microphone such a pretty camouflage print. The headphones itself is very padded, and the headphones are very comfortable. The earmuffs go over the ears, and they are very comfortable to be worn for long periods. The headset comes with multiple connection cords, and it works great.
 
 {{<pros>}}
 
@@ -682,7 +703,7 @@ The headphones are very comfortable over the ear. The headset has good quality S
 <li>The USB connector is only a power source for the blue lighting on the headphone</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07MLWVQSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MLWVQSY&linkCode=as2&tag=technikaya-20&linkId=3a209014ba13f727600b66e8e1c73ffb{{</button>}}
 
-## 8. Razer Kraken X Ultralight
+### 8. Razer Kraken X Ultralight
 
 {{<singlep pimg="/uploads/x.jpg" pname="Razer Kraken X Ultralight" plink="https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e">}}
 •	Built-in advanced 7.1 virtual circumambient sound 
