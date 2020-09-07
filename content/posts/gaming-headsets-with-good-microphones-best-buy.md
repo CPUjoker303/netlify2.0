@@ -13,7 +13,7 @@ image: /uploads/ryzen.jpg
 tags:
   - Information
 categories:
-  - Laptops
+  - Reviews
 schemaMarkup: enjoy
 pickName: Audio-Technica BPHS1
 pickImg: /uploads/audio-technica-bphs1.jpg
