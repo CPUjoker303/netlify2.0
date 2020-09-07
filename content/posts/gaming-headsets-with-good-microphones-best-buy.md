@@ -1,7 +1,7 @@
 ---
 title: Best Studio Headphones For Gaming - Best Buy
 draft: false
-SEOTitle: Gaming Headsets With Good Microphones - Best Buy
+SEOTitle: Best Studio Headphones For Gaming - Best Buy
 excrept: Checkout Best Studio Headphones For Gaming. There are lots of companies
   like Razer, JBL, HelloPower, Plantronics and a couple of other companies.
 metaKeywords: Best Studio Headphones For Gaming
