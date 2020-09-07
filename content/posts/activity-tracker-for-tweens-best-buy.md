@@ -13,7 +13,7 @@ image: /uploads/garmin-vivofit-jr-2-marvel-avengers.jpg
 tags:
   - Information
 categories:
-  - Laptops
+  - Reviews
 schemaMarkup: >
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
