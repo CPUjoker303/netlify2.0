@@ -14,7 +14,122 @@ tags:
   - Information
 categories:
   - Reviews
-schemaMarkup: enjoy
+schemaMarkup: >
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f",
+
+  "name": "AUDIO-TECHNICA BPHS1",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/audio-technica-bphs1",
+
+  "@id": "audio-technica-bphs1 ",
+
+  "name": "AUDIO-TECHNICA BPHS1"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/turtle-beach---i30-premium",
+
+  "@id": "turtle-beach---i30-premium ",
+
+  "name": "TURTLE BEACH - I30 PREMIUM"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/razer-kraken-pro-v2",
+
+  "@id": "razer-kraken-pro-v2 ",
+
+  "name": "RAZER KRAKEN PRO V2"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/plantronics-rig-stereo-headset",
+
+  "@id": "plantronics-rig-stereo-headset ",
+
+  "name": "PLANTRONICS RIG STEREO"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/hellopower-gaming-headset",
+
+  "@id": "hellopower-gaming-headset ",
+
+  "name": "HELLOPOWER GAMING HEADSET"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/jbl-quantum-100",
+
+  "@id": "jbl-quantum-100 ",
+
+  "name": "JBL Quantum 100"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 7,
+
+  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/gaming-headset-for-ps4-xbox-one-pc-laptop",
+
+  "@id": "gaming-headset-for-ps4-xbox-one-pc-laptop ",
+
+  "name": "Gaming Headset for PS4, Xbox One, PC, Laptop"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 8,
+
+  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/razer-kraken-x-ultralight",
+
+  "@id": "razer-kraken-x-ultralight ",
+
+  "name": "Razer Kraken X Ultralight"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Audio-Technica BPHS1
 pickImg: /uploads/audio-technica-bphs1.jpg
 pickLink: https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=ec598c2d160044660777eedfc4e9715d
