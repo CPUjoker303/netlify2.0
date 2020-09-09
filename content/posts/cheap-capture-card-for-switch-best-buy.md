@@ -1,6 +1,6 @@
 ---
 title: Cheap Capture Card For Switch - Best Buy
-draft: true
+draft: false
 SEOTitle: Cheap Capture Card For Switch - Best Buy
 excrept: >
   Here you find Cheap Capture Card For Switch. Basically capture card is back
