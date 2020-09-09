@@ -246,3 +246,12 @@ This capture card works fine and you can record your videos and games and can do
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B08DXJ2WWZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08DXJ2WWZ&linkCode=as2&tag=technikaya-20&linkId=9d971958ffa9a2212d638b30115914df{{</button>}}
 
 ### 4. UCEC Game Capture Card
+
+{{<singlep pimg="/uploads/81fr-50blrl._ac_uy218_.jpg" pname="UCEC Game Capture Card" plink="https://www.amazon.com/gp/product/B088FBN3JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B088FBN3JW&linkCode=as2&tag=technikaya-20&linkId=8c5239e587bd948b0d89ea29e94f7fce">}}
+
+1. It has USB 3.0 Cable
+2. Full high definition quality up to 1080p 
+3. Do live video streaming and share screen 
+4. Plug and play
+
+{{</singlep>}}
