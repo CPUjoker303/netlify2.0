@@ -188,3 +188,61 @@ The caprture card has zero Latency Loo HDMI you can easily enjoy 1080P 30fps vid
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B078M15WK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078M15WK4&linkCode=as2&tag=technikaya-20&linkId=adea1386a5f6ccdd645b0a40dac01a1d{{</button>}}
 
 ### 3. Acodot Capture Card
+
+{{<singlep pimg="/uploads/acodot-capture-card.jpg" pname="Acodot Capture Card" plink="https://www.amazon.com/gp/product/B08DXJ2WWZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08DXJ2WWZ&linkCode=as2&tag=technikaya-20&linkId=9d971958ffa9a2212d638b30115914df">}}
+
+1. It works with work for Nintendo Switch
+2. The capture card can also live stream easily
+3. It comes with HDMI signal loop out feature 
+4. Can stream up to 1080p easily
+
+{{</singlep>}}
+
+[![](/uploads/acodot-capture-card.jpg)](https://www.amazon.com/gp/product/B08DXJ2WWZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08DXJ2WWZ&linkCode=as2&tag=technikaya-20&linkId=9d971958ffa9a2212d638b30115914df)
+
+The next one is Acodot Capture card. Its manufacturer is Acodot. Its weight is 4.1 ounces which equal to 116.233 grams. It works with work for Nintendo Switch. It also works with OBS studio software.  The capture card is compatible with many operating systems. The capture card can also live stream easily. It does not need any kind of drivers to install.  The capture card is compatible with all third party software. 
+
+The capturing card is very easy to use and plug and play device for all operating systems like Mac, Linux, window etc. It comes with HDMI signal loop out feature which will provides you best experience and you will enjoy the fun during recording video. If we take a look on software compatibility, then it is compatible with OBS studio and pot player etc. The capture can easily work with PS3, PS4, Xbox 360 and gives the user real time preview for ideal video recording.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Dimensions	</td>
+<td>5 x 4.25 x 1.1 inches</td>
+</tr>
+<tr>
+<td>Weight	         </td>
+<td>4.1 ounces</td>
+</tr>
+<tr>
+<td>Manufacturer	        </td>
+<td>Acodot</td>
+</tr>
+<tr>
+<td>ASIN	                </td>
+<td>B08DXJ2WWZ  </td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}} 
+
+
+It easily works with all monitors, LEDs, TV projectors etc. The card is easy to use and can stream up to 1080p easily. But if we compare this capture card with Elikliv USB 3.0 then best buying guide is Elikliv but if you like this card then you can also go with Acodot Capturing card. 
+
+This capture card works fine and you can record your videos and games and can do live stream without any lagging problem. This capture card will give you lag free experience and you will get best quality streaming by using this capture card. Every streamer need capture card like which is very easy to use and easy to connect, so this card comes with same quality which streamers want. If you are looking for a card like Acodot then you can go with Acodot capture card.
+
+{{<pros>}}
+
+<li>Stream up to 1080P</li>
+<li>Plug and play device</li>
+<li>No need of drive</li>
+<li>Lag free experience</li>
+{{</pros>}}
+{{<cons>}}
+<li>non</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B08DXJ2WWZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08DXJ2WWZ&linkCode=as2&tag=technikaya-20&linkId=9d971958ffa9a2212d638b30115914df{{</button>}}
+
+### 4. UCEC Game Capture Card
