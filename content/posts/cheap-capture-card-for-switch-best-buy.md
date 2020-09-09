@@ -28,3 +28,5 @@ How you feel when people come to your streaming and watching your skills but the
 Capture card works very simply. It records your display. Capture card is back bone of every streamer. The point is only to understand that before the work which is being done by CPU and Graphics card for both gaming and streaming, after using capture card CPU and graphics card will not work for streaming, All work of capturing work will done by capture card and viewer will get high quality  streaming for watching.
 
 Using capture card is best for video streaming purpose. It is very easy to use and provides best quality streaming. Capture card is very important part for video streaming. Viewers come to watch quality streaming and they come to watch streamer skills, So that’s why every streamer prefer capture card for best video streaming quality. There are some  capture card in the list bellow.
+
+![]()
