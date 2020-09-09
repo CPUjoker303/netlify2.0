@@ -310,3 +310,53 @@ The capture card is providing best quality video streaming and the card is perfe
 4. Card has one-touch option handling recordings
 
 {{</singlep>}}
+
+[![](/uploads/acemax-hdmi.jpg)](https://www.amazon.com/gp/product/B07JYV9QZY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07JYV9QZY&linkCode=as2&tag=technikaya-20&linkId=3afbc5bea8c6bf858154c5ce899f44ac)
+
+The next one is ACEMAX HDMI Capture Card. Its weigh is 13 ounces which is equivalent to 368.544 grams. It captures your display up to 1080P. It is same as Y&H capture card because also not supports streaming. You just simply have to plug a USB flash drive to get video anywhere. It supports USB up to 128 G and  hard disk drive up  to  2 TB USB 2.0 only. 
+
+As we come to know that is not supporting video streaming just it records video and save it to selected drive. It works with only 3.5mm three sections microphone headset. The capture card is very easy to use and adjusted simply and easy to operate. It has one-touch option for handling recordings. The card is easy to connect with Nintendo switch. 
+
+The card cannot record web online games on PC. You need a power supply DC 5V 2A to use this capture card. No need of driver to install and just only Plug & Play device. The record efficiency of this capture card is Max 140MB/minute, 8.4GB/hour. After recording video it saves video in format AVI MP4 and audio type is AAC Stereo. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Dimensions	</td>
+<td>4.33 x 2.95 x 0.94 inches</td>
+</tr>
+<tr>
+<td>Weight	        </td>
+<td>13 ounces</td>
+</tr>
+<tr>
+<td>Manufacturer	</td>
+<td>acemaxtec</td>
+</tr>
+<tr>
+<td>ASIN	        </td>
+<td>B07JYV9QZY</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The card looks so good and providing amazing quality but the main point about this card is that it is not supporting video streaming. Streamers can only record video by using this capture card they cannot stream video live by using this capture card like other cards. The card is compatible with most HDMI outputs. If you want to record audio voice in to your video recordings then you have to attach a 3.5mm microphone headset. If you are finding this type of capture card for only recordings then you can buy it and use it and if you want capture card with streaming option then you can also go with Y&H HDMI Capture card.
+
+{{<pros>}}
+
+<li>Comes with ZERO LATENCY TECHNOLOGY</li>
+<li>One-touch option handling recordings</li>
+<li>Easy to use</li>
+<li>Plug and play device</li>
+{{</pros>}}
+{{<cons>}}
+<li>Not for streaming </li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07JYV9QZY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07JYV9QZY&linkCode=as2&tag=technikaya-20&linkId=3afbc5bea8c6bf858154c5ce899f44ac{{</button>}}
+
+## Conclusion - Cheap Capture Card For Switch
+
+Capture card is most important device for recordings and streaming purpose. If you want capture card for only recording purpose then you can buy one of one from the product list. But If you want capture card for both gaming and streaming purpose then you can only buy Elikliv USB 3.0 and UCEC capture card or Acodot Capture Card.
