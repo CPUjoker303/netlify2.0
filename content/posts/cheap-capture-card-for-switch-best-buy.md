@@ -229,7 +229,6 @@ The capturing card is very easy to use and plug and play device for all operatin
 </table>
 {{</html-code>}} 
 
-
 It easily works with all monitors, LEDs, TV projectors etc. The card is easy to use and can stream up to 1080p easily. But if we compare this capture card with Elikliv USB 3.0 then best buying guide is Elikliv but if you like this card then you can also go with Acodot Capturing card. 
 
 This capture card works fine and you can record your videos and games and can do live stream without any lagging problem. This capture card will give you lag free experience and you will get best quality streaming by using this capture card. Every streamer need capture card like which is very easy to use and easy to connect, so this card comes with same quality which streamers want. If you are looking for a card like Acodot then you can go with Acodot capture card.
@@ -255,3 +254,48 @@ This capture card works fine and you can record your videos and games and can do
 4. Plug and play
 
 {{</singlep>}}
+
+[![](/uploads/81fr-50blrl._ac_uy218_.jpg)](https://www.amazon.com/gp/product/B088FBN3JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B088FBN3JW&linkCode=as2&tag=technikaya-20&linkId=8c5239e587bd948b0d89ea29e94f7fce)
+
+The next one is UCEC capture card. Its weight is 8.6 ounces which is equivalent to 243.806 grams and its dimensions are 6 x 4 x 1.5 inches.  It is USB 3.0 HDMI Video Capture Card and it has USB 3.0 Cable. You can record videos in full high definition quality up to 1080p and it allows you inputting 4K 30fps HDMI signal.
+
+You can do live video streaming easily and also can share screen for online meetings etc. The card is plug and play device and there is no need to install any kind of driver to play this device just you only have to connect this device and start recording your screen in best quality.
+
+ You can also use the third party software like OBS Studio to record your display screen. The capture card supports live videos streams, Facebook live, live broadcasting, video recordings etc. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Dimensions	</td>
+<td> 6 x 4 x 1.5 inches</td>
+</tr>
+<tr>
+<td>Weight	      </td>
+<td> 8.6 ounces</td>
+</tr>
+<tr>
+<td>Manufacturer	      </td>
+<td> UCEC</td>
+</tr>
+<tr>
+<td>ASIN	                </td>
+<td>B088FBN3JW</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The card comes with ZERO LATENCY TECHNOLOGY which gives you best experience during recordings or streaming with no lags and latency and it  is  10x faster than USB 2.0 and it has high-speed USB 3.0 technology. You can easily live stream by using this capture card. If we take a look in audio technology, then we come to know that the card comes with latest audio mixing technology which gives you best experience. You need 3.5mm TRS headset to connect with capture card.
+The capture card is providing best quality video streaming and the card is perfect for live videos streaming. If you are a streamer and finding cheap capture card then you can go with this card. It is providing excellent quality in cheap rate.
+
+{{<pros>}}
+
+<li>The card comes with ZERO LATENCY TECHNOLOGY</li>
+<li>The card 10x faster than USB 2.0 and has high-speed USB 3.0 technology</li>
+{{</pros>}}
+{{<cons>}}
+<li>Non</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B088FBN3JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B088FBN3JW&linkCode=as2&tag=technikaya-20&linkId=8c5239e587bd948b0d89ea29e94f7fce{{</button>}}
