@@ -186,3 +186,5 @@ The caprture card has zero Latency Loo HDMI you can easily enjoy 1080P 30fps vid
 {{<cons>}}
 <li> only records display</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B078M15WK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078M15WK4&linkCode=as2&tag=technikaya-20&linkId=adea1386a5f6ccdd645b0a40dac01a1d{{</button>}}
+
+### 3. Acodot Capture Card
