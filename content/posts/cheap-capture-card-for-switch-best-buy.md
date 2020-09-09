@@ -74,3 +74,49 @@ Using capture card is best for video streaming purpose. It is very easy to use a
 </tbody>
 </table>
 {{</html-code>}}
+
+### 1. Elikliv USB 3.0 HDMI
+
+{{<singlep pimg="/uploads/elikliv-black.jpg" pname="Elikliv USB 3.0 HDMI " plink="https://www.amazon.com/gp/product/B087CZ99D9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087CZ99D9&linkCode=as2&tag=technikaya-20&linkId=d1460a869fc32e6ed08b93b621c215d8">}}
+
+1. Both For Streaming and Recording
+2. It comes with HDMI-In and HDMI-Out option
+3. The connectivity is very easy 
+4. Not get any latency or lags during streaming
+
+{{</singlep>}}
+
+[![](/uploads/elikliv.jpg)](https://www.amazon.com/gp/product/B087CZ99D9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087CZ99D9&linkCode=as2&tag=technikaya-20&linkId=d1460a869fc32e6ed08b93b621c215d8)
+
+The first is Elikliv USB 3.0.  Its weight is 14.7 ounces which is equivalent to 416.738 grams. The capture card is HDMI capturing card which has USB3.0 high-speed interface and its bandwidth transmission is 360MB/S. 
+
+The capture card is supporting 1080P 60fps high definition video recording and  streaming. You need software like OBS to record. It comes with HDMI-In and HDMI-Out option. If we take a look on earphone audio input and output, So has Line-In and Mic-In and earphone port. The which you like very well is that you don’t need any kind of adapter to use this capture cThe first is Elikliv USB 3.0.  Its weight is 14.7 ounces which is equivalent to 416.738 grams. The capture card is HDMI capturing card which has USB3.0 high-speed interface and its bandwidth transmission is 360MB/S. The capture card is supporting 1080P 60fps high definition video recording and  streaming. 
+
+You need software like OBS to record. It comes with HDMI-In and HDMI-Out option. If we take a look on earphone audio input and output, So has Line-In and Mic-In and earphone port. The which you like very well is that you don’t need any kind of adapter to use this capture card. The capture card can easily connect with microphone, headphones, speakers, gaming headsets etc. The connectivity is very easy of this capture card. It is easy and simple to use. You will not get any latency or lags during streaming. The experience of this capture card is latency and lag free experience. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Manufacturer</td>
+<td>3.7 x 2.7 x 0.66 inches</td>
+</tr>
+<tr>
+<td>Dimensions	</td>
+<td>14 ounces</td>
+</tr>
+<tr>
+<td>Item Weight</td>
+<td>Elikliv</td>
+</tr>
+<tr>
+<td>ASIN</td>
+<td>B087CZ99D9</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The user will enjoying live streaming with no latency. If we take a look on connectivity, then it is very easy to connect and there is no need to download any kind of driver and it comes with true PnP and plug & play capture card. The capture card has very strong compatibility. It can easily work with most streaming software like OBS etc.  The capture card is also supporting HDCP Protocol decoding. The capture card is very suitable for creators. It don’t need any kind of application it is plug and play capture card. The picture quality is very pretty good. It is very versatile and reliable capture card. The capture card is cheap and picture quality is good for the price. It is providing very good quality in cheap price.  If you are video streamer then you can go with this capture card. It is providing great quality
