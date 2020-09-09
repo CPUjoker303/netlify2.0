@@ -299,3 +299,14 @@ The capture card is providing best quality video streaming and the card is perfe
 {{<cons>}}
 <li>Non</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B088FBN3JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B088FBN3JW&linkCode=as2&tag=technikaya-20&linkId=8c5239e587bd948b0d89ea29e94f7fce{{</button>}}
+
+### 5. ACEMAX HDMI Game Capture Card
+
+{{<singlep pimg="/uploads/acemax-hdmi.jpg" pname="ACEMAX HDMI Game Capture Card" plink="https://www.amazon.com/gp/product/B07JYV9QZY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07JYV9QZY&linkCode=as2&tag=technikaya-20&linkId=3afbc5bea8c6bf858154c5ce899f44ac">}}
+
+1. It captures your display up to 1080P
+2. Not supports streaming
+3. works with only 3.5mm headset
+4. Card has one-touch option handling recordings
+
+{{</singlep>}}
