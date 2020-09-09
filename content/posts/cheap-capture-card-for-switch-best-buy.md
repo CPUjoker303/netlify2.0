@@ -120,3 +120,13 @@ You need software like OBS to record. It comes with HDMI-In and HDMI-Out option.
 {{</html-code>}}
 
 The user will enjoying live streaming with no latency. If we take a look on connectivity, then it is very easy to connect and there is no need to download any kind of driver and it comes with true PnP and plug & play capture card. The capture card has very strong compatibility. It can easily work with most streaming software like OBS etc.  The capture card is also supporting HDCP Protocol decoding. The capture card is very suitable for creators. It don’t need any kind of application it is plug and play capture card. The picture quality is very pretty good. It is very versatile and reliable capture card. The capture card is cheap and picture quality is good for the price. It is providing very good quality in cheap price.  If you are video streamer then you can go with this capture card. It is providing great quality
+
+{{<pros>}}
+
+<li>The connectivity is very easy</li>
+<li>No need to download any kind of driver</li>
+<li>Supporting 1080P 60fps high definition video recording and  streaming</li>
+{{</pros>}}
+{{<cons>}}
+<li>Non</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B087CZ99D9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087CZ99D9&linkCode=as2&tag=technikaya-20&linkId=d1460a869fc32e6ed08b93b621c215d8{{</button>}}
