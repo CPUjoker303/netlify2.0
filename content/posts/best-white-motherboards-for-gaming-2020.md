@@ -270,3 +270,62 @@ MSI B450M MORTAR TITANIUM is a pure white motherboard with some black slots and 
 {{</html-code>}}
 
 This motherboard is micro ATX with 4 RAM slots and supports memory up to 64GB and memory clock up to 3466MHz. For storage, it got two M.2 slots and four SATA slots, two PCI x16 slots, and support CrossfireX. It features USB 3.1, both Type-A and Type-C support, and LAN with five audio 3.5mm jacks. If you are looking for a pure white motherboard with good design and performance, you can go with this one.
+
+{{<pros>}}
+
+<li>Great white color.</li>
+<li>Two M.2 slots.</li>
+<li>Five Audio jacks</li>
+{{</pros>}}
+{{<cons>}}
+<li>No SLI support</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07C57Q1XH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07C57Q1XH&linkCode=as2&tag=technikaya-20&linkId=e205bfec800feac1f2812196ca199b29{{</button>}}
+
+### ASUS Prime X570-Pro
+
+{{<singlep pimg="/uploads/asus-prime-x570-pro.jpg" pname="ASUS Prime X570-Pro" plink="https://www.amazon.com/gp/product/B07FQCSVYC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FQCSVYC&linkCode=as2&tag=technikaya-20&linkId=c027400f43ce63a055209c993eb48b6b">}}
+	Great design
+	PCB is black and has white stripes
+	Supports the X570 chipset
+	High-performance motherboard
+
+{{</singlep>}}
+
+It is equipped with the AM4 socket and is compatible with all second and third-generation Ryzen processors. This motherboard gives a reliable performance in overclocking and have a great design. The PCB is black and has white stripes, a heat sink, and VRM. It is one of the white motherboards that supports the X570 chipset. The X570-Pro is a high-performance motherboard in the market with such great features. 
+
+### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Memory Speed		</td>
+<td>2133 MHz</td>
+</tr>
+<tr>
+<td>Product Dimensions		</td>
+<td>13.31 x 10.74 x 2.68 inches</td>
+</tr>
+<tr>
+<td>Manufacturer	       	</td>
+<td>Asus</td>
+</tr>
+<tr>
+<td>ASIN	             </td>
+<td>B07SW925DQ</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+It has three M.2 slots with white heatsinks and six SATA ports. For memory, it got four DDR4 RAM slots with memory size up to 128GB. It had three PCIx16 slots with 2-WAY SLI and 3-WAY CrossfireX support. This motherboard had a lot of features like built-in wifi card, USB 3.1 Type-C support, RGB support so you can use white light and make it much brighter. Its overclocking and cooling functions are significant enough to consider it for your white gaming PC.
+
+{{<pros>}}
+
+<li>Overall great design.</li>
+<li>Great overclocking capability.</li>
+<li>Metal covered PCI slots</li>
+{{</pros>}}
+{{<cons>}}
+<li>Software need to be cleaned up</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07FQCSVYC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FQCSVYC&linkCode=as2&tag=technikaya-20&linkId=c027400f43ce63a055209c993eb48b6b{{</button>}}
