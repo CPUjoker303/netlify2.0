@@ -231,3 +231,42 @@ The audio quality of this mobo is also fantastic as it features Realtek S1220 A 
 {{<cons>}}
 <li>No CMOS button (only jumper).</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07C57Q1XH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07C57Q1XH&linkCode=as2&tag=technikaya-20&linkId=e205bfec800feac1f2812196ca199b29{{</button>}}
+
+### MSI B450M MORTAR TITANIUM
+
+{{<singlep pimg="/uploads/msi-b450m-mortar-titanium.jpg" pname="MSI B450M MORTAR TITANIUM" plink="https://www.amazon.com/gp/product/B07FQCSVYC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FQCSVYC&linkCode=as2&tag=technikaya-20&linkId=c027400f43ce63a055209c993eb48b6b">}}
+	low-cost alternative 
+	fantastic design
+	pure white color with some red RGB lights 
+	4 RAM slots
+
+{{</singlep>}}
+
+MSI B450M MORTAR TITANIUM is a pure white motherboard with some black slots and components on it. If you are looking for a white motherboard, you can consider this one. This motherboard is a part of the MSI Arsenal Gaming collection, or you can call it a low-cost alternative of it with a fantastic design. The B450M MORTAR TITANIUM is of pure white color with some red RGB lights on the right side of it to give it a great touch. 
+
+### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Brand		</td>
+<td>MSI</td>
+</tr>
+<tr>
+<td>Product Dimensions		</td>
+<td>24.4 x 24.4 x 3 cm</td>
+</tr>
+<tr>
+<td>Manufacturer		</td>
+<td>MSI COMPUTER</td>
+</tr>
+<tr>
+<td>ASIN		</td>
+<td>B07FQCSVYC</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+This motherboard is micro ATX with 4 RAM slots and supports memory up to 64GB and memory clock up to 3466MHz. For storage, it got two M.2 slots and four SATA slots, two PCI x16 slots, and support CrossfireX. It features USB 3.1, both Type-A and Type-C support, and LAN with five audio 3.5mm jacks. If you are looking for a pure white motherboard with good design and performance, you can go with this one.
