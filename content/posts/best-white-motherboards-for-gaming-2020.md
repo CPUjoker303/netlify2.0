@@ -279,11 +279,11 @@ This motherboard is micro ATX with 4 RAM slots and supports memory up to 64GB an
 {{</pros>}}
 {{<cons>}}
 <li>No SLI support</li>
-{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07C57Q1XH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07C57Q1XH&linkCode=as2&tag=technikaya-20&linkId=e205bfec800feac1f2812196ca199b29{{</button>}}
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07FQCSVYC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FQCSVYC&linkCode=as2&tag=technikaya-20&linkId=c027400f43ce63a055209c993eb48b6b{{</button>}}
 
 ### ASUS Prime X570-Pro
 
-{{<singlep pimg="/uploads/asus-prime-x570-pro.jpg" pname="ASUS Prime X570-Pro" plink="https://www.amazon.com/gp/product/B07FQCSVYC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FQCSVYC&linkCode=as2&tag=technikaya-20&linkId=c027400f43ce63a055209c993eb48b6b">}}
+{{<singlep pimg="/uploads/asus-prime-x570-pro.jpg" pname="ASUS Prime X570-Pro" plink="https://www.amazon.com/gp/product/B07SW925DQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07SW925DQ&linkCode=as2&tag=technikaya-20&linkId=073d2dd38283d4b16f2bab40587dd8bc">}}
 	Great design
 	PCB is black and has white stripes
 	Supports the X570 chipset
@@ -328,4 +328,14 @@ It has three M.2 slots with white heatsinks and six SATA ports. For memory, it g
 {{</pros>}}
 {{<cons>}}
 <li>Software need to be cleaned up</li>
-{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07FQCSVYC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FQCSVYC&linkCode=as2&tag=technikaya-20&linkId=c027400f43ce63a055209c993eb48b6b{{</button>}}
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07SW925DQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07SW925DQ&linkCode=as2&tag=technikaya-20&linkId=073d2dd38283d4b16f2bab40587dd8bc{{</button>}}
+
+### ASUS Prime X570-P 
+
+{{<singlep pimg="/uploads/asus-prime-x570-p-.png" pname="ASUS Prime X570-P" plink="https://www.amazon.com/gp/product/B07SW925DR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07SW925DR&linkCode=as2&tag=technikaya-20&linkId=2332429700f48eee8b105ad893a436f5">}}
+	Three M.2 slots
+	USB 3.1 Type-C ports
+	x16 slot and one PCIx4 slot
+	RGB support
+
+{{</singlep>}}
