@@ -164,3 +164,19 @@ It supports multi GPU, but you can't use Nvidia SLI as it only supports Crossfir
 </tbody>
 </table>
 {{</html-code>}}
+
+If you are looking for something that's beast in performance and reasonable in price, then you can go with ASUS Prime Z390. Although this one is not a high-end motherboard, it got all features that a mid-end PC board needs.
+
+This motherboard had a Z390 chipset and LGA 1151 socket so that you can pair Intel 9th generation i5 processor with RTX 2060 and 16GB ram with this motherboard. This motherboard had a black PCB with a white accent on it that makes it looks better than ASUS Prime Z390-A. Z390-P has two PCIe ports, but it doesn't support Nvidia SLI, so you can only use two AMD cards as Crossfire. 
+
+It got two M.2 slots, four SATA slots, USB 3.1 support, and ASUS has its own Optimum II technology that helps you in overclocking your memory. It got four fans headers, and you are also getting a patent-pending safe slot core so that the latest GPUs don't damage the motherboard in any way. There is no RGB lighting in this motherboard, which makes it a much better deal, but for white gaming PC, it doesn't matter a lot. In my opinion, this one is beast at that price if you are looking for a white motherboard for a white gaming PC. This board is not for enthusiast builds but is still suitable for mid-range PC. Its black color with white stripes made us consider it for our white motherboard list. 
+
+{{<pros>}}
+
+<li>Great Overclocking.  </li>
+<li>CrossFireX Support. </li>
+<li>Easy To Install. </li>
+{{</pros>}}
+{{<cons>}}
+<li>No Built-in Wifi</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07C57Q1XH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07C57Q1XH&linkCode=as2&tag=technikaya-20&linkId=e205bfec800feac1f2812196ca199b29{{</button>}}
