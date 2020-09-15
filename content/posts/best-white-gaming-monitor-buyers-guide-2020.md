@@ -118,3 +118,52 @@ It's AMD free adaptive synchronization technology will help the gamers raise the
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0756LBSSQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0756LBSSQ&linkCode=as2&tag=technikaya-20&linkId=548f3723c6d6eaeb2753008b6ef625b3{{</button>}}
 
 ### VIOTEK NBV27CB Curved Monitor
+
+{{<singlep pimg="/uploads/asus-vz239h-w-23.jpg" pname="VIOTEK NBV27CB Curved Monitor" plink="https://www.amazon.com/gp/product/B084RRX193/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B084RRX193&linkId=12c85b9fd8238bf15f3bf92b41a6abc0">}}
+Ultra-slim design 
+Bezel-less frame
+Greater pixel quality
+Good Material
+{{</singlep>}}
+
+Make sure you must have a compact Gaming Monitor for playing the amazing and your favorite games. This gaming monitor is specially designed for gamers with many features that will not disappoint you. So now, you can learn more about this monitor. This monitor has an ultra-slim design so you can enjoy your game thoroughly. It has a bezel-less frame, and its size seems to be bigger than its actual size. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Brand		</td>
+<td>Viotek</td>
+</tr>
+<tr>
+<td>Product Dimensions		</td>
+<td>24.26 x 7.7 x 17.84 inches</td>
+</tr>
+<tr>
+<td>Manufacturer		</td>
+<td>Viotek</td>
+</tr>
+<tr>
+<td>ASIN		</td>
+<td>B084RRX193</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+It has various ports at the back of this monitor, so you can connect your gaming consoles easily when you want to play games. From any angle, it gives us greater pixel quality, So this is the best monitor for casual and daily gamers for smooth gameplay.
+
+{{<pros>}}
+
+<li>Its size is bigger as compared to other monitors.</li>
+<li>Available in reasonable price.</li>
+<li>Ultra Slim design</li>
+{{</pros>}}
+{{<cons>}}
+<li>Some buyers receive this PC with dead pixels.</li>
+<li>In black color, it looks like gray color.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07489Q7TY/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07489Q7TY&linkId=15ad8fa7e95de8671d5ee9a74a5d2ee5{{</button>}}
+
+### Asus VZ239H-W 23
