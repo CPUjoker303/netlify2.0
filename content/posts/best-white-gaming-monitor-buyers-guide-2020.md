@@ -280,3 +280,41 @@ Clear view from any angle
 Elegant and beautiful design 
 Amazing display 
 {{</singlep>}}
+
+If you have HP 24ea white gaming monitor at your home, then every seat will be the best seat in the house as its IPS technology provides you a clear view from any angle so you can sit anywhere to watch anything on this monitor. As compared to other computers, this white computer will not be expensive. However, you can consider this monitor if you want an elegant and beautiful design monitor at fewer prices as it comes under the best-LED white monitors. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Brand		</td>
+<td>HP</td>
+</tr>
+<tr>
+<td>Item Weight		</td>
+<td>6.77 pounds</td>
+</tr>
+<tr>
+<td>Product Dimensions		</td>
+<td>7.23 x 21.25</td>
+</tr>
+<tr>
+<td>ASIN	</td>
+<td>B01L73OEOG</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+It has a built-in audio features. You do not need to connect with other speakers while playing your favorite games. Its amazing display will allow you to immerse and enjoy your games even more. This monitor displays very crisp images, so this is one of the best computers that will instantly get your attention.
+
+{{<pros>}}
+
+<li>Modern Design </li>
+<li>Best monitor in less price </li>
+{{</pros>}}
+{{<cons>}}
+<li>For reading purpose it is not so good </li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01FE09S2G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FE09S2G&linkCode=as2&tag=technikaya-20&linkId=f052795d9abc6bfeb5129ad31825615b{{</button>}}
