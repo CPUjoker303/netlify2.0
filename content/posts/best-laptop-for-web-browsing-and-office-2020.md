@@ -374,3 +374,56 @@ You can enjoy your favorite apps, like Google Chrome, Youtube, Netflix, Roblox, 
 {{<cons>}}
 <li>The screen is very blue with high contrast</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B075JSK7TR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075JSK7TR&linkCode=as2&tag=technikaya-20&linkId=f95b87c9e1ce64cd915efe03a098deb6{{</button>}}
+
+### ASUS ZenBook Flip 14
+
+{{<singlep pimg="lenovo-flex.jpg" pname="ASUS ZenBook Flip 14" plink="https://www.amazon.com/gp/product/B078YN3VY9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078YN3VY9&linkCode=as2&tag=technikaya-20&linkId=024f2cbade096e5d579aa3c3804462b6">}}
+Full HD nano edge
+Supports a stylus
+Several USB 3.1 Type-C and Type-A
+16GB of ram 
+{{</singlep>}}
+
+ASUS ZenBook Flip 14 comes with a 14 inches full HD nano edge, touch screen display on which you can enjoy movies, games, and much more. This laptop also supports a stylus with which you can use it as a display graphics tablet. It had an eight-generation Intel Core i7 processor 8550U, which is enough for any application and game to run on this machine. The software comes with this laptop are Window 10 pre-installed and Office 365 in some regions. There are several USB 3.1 Type-C and Type-A, an HDMI and an Ethernet port on the left and right side of it. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Standing screen display size		</td>
+<td>14 Inches</td>
+</tr>
+<tr>
+<td>ASIN		</td>
+<td>B078YN3VY9</td>
+</tr>
+<tr>
+<td>Number of USB 3.0 Ports		</td>
+<td>3</td>
+</tr>
+<tr>
+<td>Memory Speed		</td>
+<td>2133 MHz</td>
+</tr>
+<tr>
+<td>Max Screen Resolution		</td>
+<td>1920 x 1080 Pixels</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+There is no room for the optical drive on this laptop; however, if you want to transfer data, you can use high-speed USB ports. It comes with fast NVMe SSD with a storage capacity of 512GB, which is enough for storing your games, Softwares, and videos. ASUS ZenBook Flip 14 had 16GB of ram with which you can use several tabs at the same time without any lag or problem. One of the best things on this laptop is Nvidia Geforce MX150 2GB GDDR5. You can play most of the AAA games with this laptop, but you have to make a little compromise with the graphics and resolution. It's the best choice if you are considering it for web browsing or office use. Currently, it's available on Amazon, and with that excellent features and robust design, it's a good deal.
+
+{{<pros>}}
+
+<li>Light and portable</li>
+<li>Awesome hinge</li>
+<li>Great battery life</li>
+{{</pros>}}
+{{<cons>}}
+<li>Not as powerful as I would like for the price</li>
+<li>Barely achieves 30fps at 720p, low settings in Overwatch and Fortnite.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B075JSK7TR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075JSK7TR&linkCode=as2&tag=technikaya-20&linkId=f95b87c9e1ce64cd915efe03a098deb6{{</button>}}
