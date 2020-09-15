@@ -1,6 +1,6 @@
 ---
 title: Best Laptop For Web Browsing And Office 2020
-draft: true
+draft: false
 SEOTitle: Best Laptop For Web Browsing And Office 2020
 excrept: >
   If you are looking for Best Laptop For Web Browsing And Office 2020, then here
