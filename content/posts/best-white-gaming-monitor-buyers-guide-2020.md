@@ -207,3 +207,18 @@ Full HD white Eye care Monitor If you're in the search of a stunning gaming moni
 {{</html-code>}}
 
 For your eyes health, ASUS makes sure that, eye care technology to reduce the pressure and strain that your eyes feel and if your eyes easily get irritated. This could be the best choice for gamers if they will get this monitor.
+
+{{<pros>}}
+
+<li>Decent resolution </li>
+<li>Minimal frame outside screen </li>
+<li>Matte black surface </li>
+{{</pros>}}
+{{<cons>}}
+<li>landscape photography</li>
+<li>rest of the monitor</li>
+<li>Stand is flimsy, </li>
+<li>No USB ports and no SD card reader </li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07489Q7TY/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07489Q7TY&linkId=15ad8fa7e95de8671d5ee9a74a5d2ee5{{</button>}}
+
+### Samsung Curved Monitor, White, 27
