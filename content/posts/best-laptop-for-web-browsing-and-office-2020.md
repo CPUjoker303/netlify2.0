@@ -67,7 +67,7 @@ Back in five or seven years ago, you can easily use the internet on a 2-4 GB dev
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B075JSK7TR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075JSK7TR&linkCode=as2&tag=technikaya-20&linkId=f95b87c9e1ce64cd915efe03a098deb6" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/lenovo-flex.jpg" alt="ASUS ZenBook Flip 14" title="ASUS ZenBook Flip 14"></td>
+<td class="tdimg"><img src="/uploads/asus-zenbook-fl.jpg" alt="ASUS ZenBook Flip 14" title="ASUS ZenBook Flip 14"></td>
 <td>ASUS ZenBook Flip 14</td>
 <td>GOOD</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B078YN3VY9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078YN3VY9&linkCode=as2&tag=technikaya-20&linkId=024f2cbade096e5d579aa3c3804462b6" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -351,7 +351,7 @@ You can enjoy your favorite apps, like Google Chrome, Youtube, Netflix, Roblox, 
 
 ### ASUS ZenBook Flip 14
 
-{{<singlep pimg="lenovo-flex.jpg" pname="ASUS ZenBook Flip 14" plink="https://www.amazon.com/gp/product/B078YN3VY9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078YN3VY9&linkCode=as2&tag=technikaya-20&linkId=024f2cbade096e5d579aa3c3804462b6">}}
+{{<singlep pimg="asus-zenbook-flip-14.jpeg" pname="ASUS ZenBook Flip 14" plink="https://www.amazon.com/gp/product/B078YN3VY9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078YN3VY9&linkCode=as2&tag=technikaya-20&linkId=024f2cbade096e5d579aa3c3804462b6">}}
 Full HD nano edge
 Supports a stylus
 Several USB 3.1 Type-C and Type-A
@@ -401,3 +401,5 @@ There is no room for the optical drive on this laptop; however, if you want to t
 <li>Not as powerful as I would like for the price</li>
 <li>Barely achieves 30fps at 720p, low settings in Overwatch and Fortnite.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B075JSK7TR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075JSK7TR&linkCode=as2&tag=technikaya-20&linkId=f95b87c9e1ce64cd915efe03a098deb6{{</button>}}
+
+![]()
