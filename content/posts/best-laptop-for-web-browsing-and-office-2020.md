@@ -333,3 +333,44 @@ One of the best features of this laptop is its antiglare screen with resolution 
 	Easy to use
 
 {{</singlep>}}
+
+Google Pixelbook is a powerful Chromebook by Google. This Laptop comes with an eight-generation Intel Core i5 mobile processor. It had 8GB of DDR4 memory, which is enough to use multiple tabs while web browsing. For storage, it had 128GB of SSD, which sounds too low, but as it is using Chrome OS, so it's enough for it. Still, if you want some more storage, it had high-speed USB 3.1 ports. Google Pixelbook is the first Chromebook that comes with Google Assistant built-in. All you have to do is say "Ok Google" or press the assistant button on your keyboard, and it will be available to help you. Its 4 in 1 design allows you to convert it into Laptop, Tablet, Tent, and Entertainment modes. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Standing screen display size		</td>
+<td>12.3 Inches</td>
+</tr>
+<tr>
+<td>Number of USB 3.0 Ports		</td>
+<td>2</td>
+</tr>
+<tr>
+<td>ASIN		</td>
+<td>B075JSK7TR</td>
+</tr>
+<tr>
+<td>Max Screen Resolution		</td>
+<td>2400 x 1600</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+You can enjoy your favorite apps, like Google Chrome, Youtube, Netflix, Roblox, and much more. Pixelbook is one of the thinnest and lightest laptops as it is only 10.3mm in height while it weights only 2.45 pounds. It had a 12.3 inches touch rotatable display on which you can enjoy high res movies and TV shows. One more thing to consider this Laptop is if you don't want to run most of the Windows applications, this might be the best deal for you. It comes with Chrome OS, which is lighter in Windows & amp; Mac and takes less than 10 secs. The battery performance of this Laptop is excellent, and you can use it for up to 10 hours. It had a fast charging feature, too, with which charging it for 15 minutes can give you 2 hours of battery backup. It's small in size, and with this excellent battery performance, you can easily take it anywhere you want.
+
+{{<pros>}}
+
+<li>The design is Sleek and sexy</li>
+<li>Touchscreen is very fast and responsive.</li>
+<li>Chrome OS is super fast </li>
+<li>Blazing fast processor </li>
+<li>Tablet mode allows for multiple viewing angles </li>
+{{</pros>}}
+{{<cons>}}
+<li>The screen is very blue with high contrast</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B075JSK7TR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075JSK7TR&linkCode=as2&tag=technikaya-20&linkId=f95b87c9e1ce64cd915efe03a098deb6{{</button>}}
