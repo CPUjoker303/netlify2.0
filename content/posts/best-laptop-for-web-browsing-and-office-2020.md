@@ -240,6 +240,8 @@ It had integrated AMD RX Vega graphics, with which you can play the latest title
 <li>Pen and Surface Cover extra charges</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00VGNZ4PG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VGNZ4PG&linkCode=as2&tag=technikaya-20&linkId=314ff1ac27ee915abc2865e0633ea3ae{{</button>}}
 
+
+
 ### Lenovo IdeaPad
 
 {{<singlep pimg="/uploads/lenovo-ideapad-330-17.jpg" pname="Lenovo IdeaPad" plink="https://www.amazon.com/gp/product/B07D6F9H8X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07D6F9H8X&linkCode=as2&tag=technikaya-20&linkId=1a30030a75a958b936cbfdd7d07ee12b">}}
