@@ -140,3 +140,47 @@ You will regularly get updates for Chrome OS, and it will automatically update y
 	High-speed USB ports
 
 {{</singlep>}}
+
+Lenovo Flex 14 comes in an excellent robust black color design with a foldable screen. It had a 14 inches and 1080p display on which you can enjoy movies and games. If you need something more than web browsing, watching movies, and office use Lenovo Flex 14 will be an excellent choice for you. This powerful machine is equipped with the eight-generation Intel Core i5 processor. You can get an upgraded version of Flex 14 with 8/16GB RAM and 512GB SSD. In some upgraded versions, you can get RAM up to 20GB and SSD up to 2TB. And this is enough for you to store data when you are not connected with the internet. DDR4 memory and SSD drive are good for multitasking, and you can use several tabs at the same time.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Standing screen display size		</td>
+<td>14 Inches</td>
+</tr>
+<tr>
+<td>Memory Speed	        	</td>
+<td>2400 MHz</td>
+</tr>
+<tr>
+<td>Graphics Coprocessor		</td>
+<td>AMD Radeon Vega 8</td>
+</tr>
+<tr>
+<td>ASIN	                	</td>
+<td>B07TWHYTSQ</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+ The weight of this laptop is roughly 3.5 pounds, and its thickness is round about 0.7 inches. It is easy to carry anywhere you want in your bag. There is no room for the optical drive on this laptop; instead, it got high-speed USB ports. It had a four-cell Lithium battery, which can last up to 8 hours of continuous use. The best in this laptop is its Nvidia MX 230 GPU, which is not much good for the latest games, but still, it is better than Intel HD graphics. There are several versions of this laptop available on Amazon, and you can get one according to your needs. You can select between different RAM and SSD sizes and much more. There is much more on this laptop, and personally, under this price, these features might be an excellent deal on Amazon.
+
+{{<pros>}}
+
+<li>Vega 8 graphics are fairly capable.</li>
+<li>Backlit keyboard</li>
+<li>Light and portable</li>
+<li>Great port selection.</li>
+<li>12 GB of RAM </li>
+<li>Great touchscreen</li>
+{{</pros>}}
+{{<cons>}}
+<li>Can't charge via USB-C </li>
+<li>Screen brightness is sufficient for outdoor</li>
+<li>Pen stores very awkwardly</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07TWHYTSQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07TWHYTSQ&linkCode=as2&tag=technikaya-20&linkId=f48456f97fc245906c2503b1fa31f59c{{</button>}}
