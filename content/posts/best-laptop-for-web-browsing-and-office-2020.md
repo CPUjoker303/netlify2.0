@@ -117,4 +117,16 @@ Google Pixelbook Go is made to move the laptop. It is easy to carry because the 
 </table>
 {{</html-code>}}
 
-You will regularly get updates for Chrome OS, and it will automatically update your Pixelbook Go to secure your OS from the latest virus and malware. The best thing on this laptop is its battery, which can last up to 12 hours without charging. Yes, you don't have to pick up your charger everywhere with this laptop. Also, with 20 minutes of charge, you can use it for two hours. Some key features of this laptop are it had 13.3 inches touch screen, backlit keyboard with soft keys, and the touchpad is spacious so you can use it as you want. Overall if you don't need many Windows applications, this laptop is right for you.
+You will regularly get updates for Chrome OS, and it will automatically update your Pixelbook Go to secure your OS from the latest virus and malware. The best thing on this laptop is its battery, which can last up to 12 hours without charging. Yes, you don't have to pick up your charger everywhere with this laptop. Also, with 20 minutes of charge, you can use it for two hours. Some key features of this laptop are it had 13.3 inches touch screen, backlit keyboard with soft keys, and the touch pad is spacious so you can use it as you want. Overall if you don't need many Windows applications, this laptop is right for you.
+
+{{<pros>}}
+
+<li>Keyboard is quite possibly perfection</li>
+<li>Pixel phone integration.</li>
+<li>Very easy to use </li>
+<li>Razor thin screen</li>
+<li>Great touchpad and touch screen</li>
+{{</pros>}}
+{{<cons>}}
+<li>The price </li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07YMM4YC1/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07YMM4YC1&linkCode=as2&tag=technikaya-20&linkId=efcb78a42f87f9f89120253571a686da{{</button>}}
