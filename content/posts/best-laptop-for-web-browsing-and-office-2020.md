@@ -308,3 +308,18 @@ If you are a true fan of big screens, you might consider this laptop because it 
 {{</html-code>}}
 
 One of the best features of this laptop is its antiglare screen with resolution support of 1600x900p. It had 16GB of DDR4 memory with which you can do multitasking and run other applications without any lag. IdeaPad 330 comes with pre-installed Windows 10 and 30 days trial of Office 365. For storage, it had 1000GB of HDD, which is enough to store your games, movies but if you want to upgrade it to SSD, you can install it up to 2TB. It had an optical drive, HDML port, and eternal port. It also comes with high-speed USB 3.1 Type-C ports. The weight of this laptop is about 6.17 pounds, and its battery life is quite good. It had one Lithium polymer battery, and you can use it up to 5 hours with a single charge and also support fast charging with which you can charge it fully in just 1 hour. With a Core i7 processor, GDDR5 GPU, and that features this laptop is one of the best deals there you can consider.
+
+{{<pros>}}
+
+<li>Solid build and slim form factor. </li>
+<li>1TB HDD means plenty of storage.</li>
+<li>8GB of DDR4 memory for multitasking </li>
+<li>Matte screen .</li>
+<li>Okay battery life</li>
+<li>HDMI port.</li>
+<li>Card reader.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Start-up is slow sometimes</li>
+<li></li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07D6F9H8X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07D6F9H8X&linkCode=as2&tag=technikaya-20&linkId=1a30030a75a958b936cbfdd7d07ee12b{{</button>}}
