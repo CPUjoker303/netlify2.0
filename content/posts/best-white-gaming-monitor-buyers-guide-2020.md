@@ -224,10 +224,10 @@ For your eyes health, ASUS makes sure that, eye care technology to reduce the pr
 ### Samsung Curved Monitor, White, 27
 
 {{<singlep pimg="/uploads/samsung-curved-monitor.jpg" pname="Samsung Curved Monitor, White" plink="https://www.amazon.com/gp/product/B01FE09S2G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FE09S2G&linkCode=as2&tag=technikaya-20&linkId=f052795d9abc6bfeb5129ad31825615b">}}
-Immersive viewing experience 
-Energy-saving
-Elegant Screen size 
-Slim and sleek curved Design 
+ Immersive viewing experience 
+ Energy-saving
+ Elegant Screen size 
+ Slim and sleek curved Design 
 {{</singlep>}}
 
 More immersive viewing experience is needed with the right screen. This will provide an excellent and more panoramic view of your favorite games. Even the photos you want to display will be unique with this screen. Samsung's slim and sleek gaming monitor is one of the best monitors ever, which looks beautiful in any room that you choose to place. By using its game mode, you can enhance your pictures on your monitor's screen. 
@@ -275,10 +275,10 @@ Its circular stand looks to enhance its looks better than you expected. This mon
 ### HP 24ea IPS Display Screen
 
 {{<singlep pimg="/uploads/hp-24ea-ips.jpg" pname="HP 24ea IPS Display Screen " plink="https://www.amazon.com/gp/product/B01L73OEOG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01L73OEOG&linkId=cb8106bb164f67b228c62219fd98d6d2">}}
-IPS technology 
-Clear view from any angle
-Elegant and beautiful design 
-Amazing display 
+ IPS technology 
+ Clear view from any angle
+ Elegant and beautiful design 
+ Amazing display 
 {{</singlep>}}
 
 If you have HP 24ea white gaming monitor at your home, then every seat will be the best seat in the house as its IPS technology provides you a clear view from any angle so you can sit anywhere to watch anything on this monitor. As compared to other computers, this white computer will not be expensive. However, you can consider this monitor if you want an elegant and beautiful design monitor at fewer prices as it comes under the best-LED white monitors. 
