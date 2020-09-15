@@ -273,3 +273,10 @@ Its circular stand looks to enhance its looks better than you expected. This mon
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01FE09S2G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FE09S2G&linkCode=as2&tag=technikaya-20&linkId=f052795d9abc6bfeb5129ad31825615b{{</button>}}
 
 ### HP 24ea IPS Display Screen
+
+{{<singlep pimg="/uploads/hp-24ea-ips.jpg" pname="HP 24ea IPS Display Screen " plink="https://www.amazon.com/gp/product/B01L73OEOG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01L73OEOG&linkId=cb8106bb164f67b228c62219fd98d6d2">}}
+IPS technology 
+Clear view from any angle
+Elegant and beautiful design 
+Amazing display 
+{{</singlep>}}
