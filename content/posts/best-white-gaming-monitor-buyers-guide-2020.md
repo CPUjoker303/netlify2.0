@@ -66,3 +66,55 @@ White gaming builds are a dream of every gamer, and after building a white gamin
 </tbody>
 </table>
 {{</html-code>}}
+
+### White Gaming Monitors Acer 23.6
+
+{{<singlep pimg="/uploads/white-gaming-monitors-acer.jpg" pname="White Gaming Monitors Acer 23.6" plink="https://www.amazon.com/gp/product/B0756LBSSQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0756LBSSQ&linkCode=as2&tag=technikaya-20&linkId=548f3723c6d6eaeb2753008b6ef625b3">}}
+	1080p HD resolution 
+	23.6" screen
+	Blue Light Shield 
+	Built-in Speakers
+
+{{</singlep>}}
+
+Gaming Monitor If you're a gamer and searching for a white gaming monitor for playing the action games, then you're at the right place. In all white gaming monitors, this Acer gaming monitor should be considered due to its unique features. By using this monitor, you will be entertained and stay convenient.  This monitor comes with a 1080p HD resolution & amp; widescreen angle technology (23.6" screen)so you will enjoy the graphics and pictures of your game. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Brand		</td>
+<td>Acer</td>
+</tr>
+<tr>
+<td>Item Weight		</td>
+<td>7.4 pounds</td>
+</tr>
+<tr>
+<td>Product Dimensions		</td>
+<td>21.49 x 7.65 x 15.92 inches</td>
+</tr>
+<tr>
+<td>ASIN		</td>
+<td>B0756LBSSQ</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+It's AMD free adaptive synchronization technology will help the gamers raise the response time of their gaming monitors, so while playing the games, your games will not lag. While being playing the games, you will not miss the exciting clues because vibrant images will be correctly displayed on your monitor screen. While using this monitor, the Blue Light Shield will reduce potential eye strain, and this is a fantastic feature for your eyes' health. Also, for work, this is the best computer, and you must buy it.
+
+{{<pros>}}
+
+<li>It provides warm and rich colors.</li>
+<li>It has curved wide-screen angle technology.</li>
+<li>1080P HD Resolution. </li>
+{{</pros>}}
+{{<cons>}}
+<li>Its Built-in Speakers are not very efficient.</li>
+<li>Some Users say that its Quality is not Durable</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0756LBSSQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0756LBSSQ&linkCode=as2&tag=technikaya-20&linkId=548f3723c6d6eaeb2753008b6ef625b3{{</button>}}
+
+### VIOTEK NBV27CB Curved Monitor
