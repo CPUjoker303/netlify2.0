@@ -130,3 +130,13 @@ You will regularly get updates for Chrome OS, and it will automatically update y
 {{<cons>}}
 <li>The price </li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07YMM4YC1/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07YMM4YC1&linkCode=as2&tag=technikaya-20&linkId=efcb78a42f87f9f89120253571a686da{{</button>}}
+
+### Lenovo Flex 14
+
+{{<singlep pimg="/uploads/lenovo-flex-14.jpg" pname="Lenovo Flex 14 " plink="https://www.amazon.com/gp/product/B07TWHYTSQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07TWHYTSQ&linkCode=as2&tag=technikaya-20&linkId=f48456f97fc245906c2503b1fa31f59c">}}
+	Robust black color design 
+	Foldable screen
+	Nvidia MX 230 GPU
+	High-speed USB ports
+
+{{</singlep>}}
