@@ -224,32 +224,7 @@ Microsoft Surface 3 is one of the most powerful laptops from the company. If you
 </tr>
 </tbody>
 </table>
-{{</html-code>}}{{<html-code tag="div">}}
 
-<table>
-<tbody><tr>
-<td>Standing screen display size		</td>
-<td>8 Inches</td>
-</tr>
-<tr>
-<td>ASIN		</td>
-<td>B00VGNZ4PG</td>
-</tr>
-<tr>
-<td>Memory Speed		</td>
-<td>1600 MHz</td>
-</tr>
-<tr>
-<td>Number of USB 3.0 Ports		</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Wireless Type		</td>
-<td>802.11abg</td>
-</tr>
-</tbody>
-</table>
-{{</html-code>}}
 
 It had integrated AMD RX Vega graphics, with which you can play the latest titles and watch high-resolution videos. The battery performance of this laptop is excellent, and you can use it for 11 hours continuously without the power brick. Going with an empty battery, you can charge it up to 80% just within one hour. This is no option for the optical drive in this laptop, but there are several USB 3.1 and Type-C ports. There is also a docking port for this laptop that you can consider while buying this. Microsoft release Surface 1 and 2, but both of them were not sold according to the target, so after learning from all mistakes, they have done. Currently, this laptop is available for sale on Amazon at a discount, so get it before the offer gets expired.
 
