@@ -14,9 +14,9 @@ tags:
   - Information
 categories:
   - Reviews
-schemaMarkup: c
-pickName: c
-pickImg: /uploads/beststreaming.jpg
-pickLink: c
+schemaMarkup: cc
+pickName: HyperX Cloud Flight
+pickImg: /uploads/hyperx-cloud-flight.jpg
+pickLink: https://www.amazon.com/gp/product/B077ZGRY9V/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077ZGRY9V&linkId=872a91558c49c561b43647092d8595b4
 ---
 c
