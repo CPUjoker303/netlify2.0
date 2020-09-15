@@ -323,3 +323,13 @@ One of the best features of this laptop is its antiglare screen with resolution 
 <li>Start-up is slow sometimes</li>
 <li></li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07D6F9H8X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07D6F9H8X&linkCode=as2&tag=technikaya-20&linkId=1a30030a75a958b936cbfdd7d07ee12b{{</button>}}
+
+### Google Pixelbook 
+
+{{<singlep pimg="/uploads/google-pixelbook-.jpg" pname="Google Pixelbook " plink="https://www.amazon.com/gp/product/B075JSK7TR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075JSK7TR&linkCode=as2&tag=technikaya-20&linkId=f95b87c9e1ce64cd915efe03a098deb6">}}
+	High-speed USB 3.1 ports
+	Eight-generation Intel Core i5 mobile processor
+	8GB of DDR4 memory
+	Easy to use
+
+{{</singlep>}}
