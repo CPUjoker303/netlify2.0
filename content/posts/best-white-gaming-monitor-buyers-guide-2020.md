@@ -222,3 +222,54 @@ For your eyes health, ASUS makes sure that, eye care technology to reduce the pr
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07489Q7TY/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07489Q7TY&linkId=15ad8fa7e95de8671d5ee9a74a5d2ee5{{</button>}}
 
 ### Samsung Curved Monitor, White, 27
+
+{{<singlep pimg="/uploads/samsung-curved-monitor.jpg" pname="Samsung Curved Monitor, White" plink="https://www.amazon.com/gp/product/B01FE09S2G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FE09S2G&linkCode=as2&tag=technikaya-20&linkId=f052795d9abc6bfeb5129ad31825615b">}}
+Immersive viewing experience 
+Energy-saving
+Elegant Screen size 
+Slim and sleek curved Design 
+{{</singlep>}}
+
+More immersive viewing experience is needed with the right screen. This will provide an excellent and more panoramic view of your favorite games. Even the photos you want to display will be unique with this screen. Samsung's slim and sleek gaming monitor is one of the best monitors ever, which looks beautiful in any room that you choose to place. By using its game mode, you can enhance your pictures on your monitor's screen. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Product Dimensions		</td>
+<td>245.24 x 182.09 x 97.52 inches</td>
+</tr>
+<tr>
+<td>ASIN	</td>
+<td>B01FE09S2G</td>
+</tr>
+<tr>
+<td>Manufacturer		</td>
+<td>Samsung</td>
+</tr>
+<tr>
+<td>Item Weight		</td>
+<td>9.7 pounds</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+Its circular stand looks to enhance its looks better than you expected. This monitor has a feature of an energy-saving.  You can save the energy of your monitor by lower the brightness. Its bright colors and curved screen can help you be too immersed in the game that you love to play. So this could be the best white gaming monitor.
+
+{{<pros>}}
+
+<li>Elegant Screen size </li>
+<li>Help in lessen the eyes strain </li>
+<li>Slim and sleek curved Design </li>
+<li></li>
+{{</pros>}}
+{{<cons>}}
+<li>Its resolution is not good for text.</li>
+<li>Its colors look a bit smoky</li>
+<li></li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01FE09S2G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FE09S2G&linkCode=as2&tag=technikaya-20&linkId=f052795d9abc6bfeb5129ad31825615b{{</button>}}
+
+### HP 24ea IPS Display Screen
