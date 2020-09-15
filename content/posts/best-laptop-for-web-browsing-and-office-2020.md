@@ -184,3 +184,13 @@ Lenovo Flex 14 comes in an excellent robust black color design with a foldable s
 <li>Screen brightness is sufficient for outdoor</li>
 <li>Pen stores very awkwardly</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07TWHYTSQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07TWHYTSQ&linkCode=as2&tag=technikaya-20&linkId=f48456f97fc245906c2503b1fa31f59c{{</button>}}
+
+### Microsoft Surface 3
+
+{{<singlep pimg="/uploads/microsoft-.jpg" pname="Microsoft Surface 3" plink="https://www.amazon.com/gp/product/B00VGNZ4PG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VGNZ4PG&linkCode=as2&tag=technikaya-20&linkId=314ff1ac27ee915abc2865e0633ea3ae">}}
+	Integrated AMD RX Vega graphics
+	Battery performance is good
+	Comes with 8GB DDR4 memory
+	Easy to use
+
+{{</singlep>}}
