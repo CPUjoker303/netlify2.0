@@ -194,3 +194,74 @@ Lenovo Flex 14 comes in an excellent robust black color design with a foldable s
 	Easy to use
 
 {{</singlep>}}
+
+Microsoft Surface 3 is one of the most powerful laptops from the company. If you want something more than a laptop, this will be great for you because you can convert it into a tablet. This laptop comes in a clean and elegant design, and it's just 2.79 pounds in weight so you can carry it anywhere you want. This laptop is available in four different color tones, Matte Black, Sandstone, Platinum, and Cobalt Blue. This powerful machine comes with Intel 10th generation Core i5/i7 processors, while some models have AMD Ryzen 5/7. It comes with 8GB DDR4 memory, which is extendable up to 32GB. For storage, it had 128GB SSD; for further storage, you can extend it up to 1TB, which is enough to store your games, movies, and documents. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Standing screen display size		</td>
+<td>8 Inches</td>
+</tr>
+<tr>
+<td>ASIN		</td>
+<td>B00VGNZ4PG</td>
+</tr>
+<tr>
+<td>Memory Speed		</td>
+<td>1600 MHz</td>
+</tr>
+<tr>
+<td>Number of USB 3.0 Ports		</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Wireless Type		</td>
+<td>802.11abg</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Standing screen display size		</td>
+<td>8 Inches</td>
+</tr>
+<tr>
+<td>ASIN		</td>
+<td>B00VGNZ4PG</td>
+</tr>
+<tr>
+<td>Memory Speed		</td>
+<td>1600 MHz</td>
+</tr>
+<tr>
+<td>Number of USB 3.0 Ports		</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Wireless Type		</td>
+<td>802.11abg</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+It had integrated AMD RX Vega graphics, with which you can play the latest titles and watch high-resolution videos. The battery performance of this laptop is excellent, and you can use it for 11 hours continuously without the power brick. Going with an empty battery, you can charge it up to 80% just within one hour. This is no option for the optical drive in this laptop, but there are several USB 3.1 and Type-C ports. There is also a docking port for this laptop that you can consider while buying this. Microsoft release Surface 1 and 2, but both of them were not sold according to the target, so after learning from all mistakes, they have done. Currently, this laptop is available for sale on Amazon at a discount, so get it before the offer gets expired.
+
+{{<pros>}}
+
+<li>It is the perfect size for travel</li>
+<li>Display is fantastic</li>
+<li>It is super lightweight</li>
+<li>The writing recognition is dead on accurate</li>
+<li>No more Windows RT!</li>
+<li>10 hour estimated battery life</li>
+{{</pros>}}
+{{<cons>}}
+<li>Pen and Surface Cover extra charges</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00VGNZ4PG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VGNZ4PG&linkCode=as2&tag=technikaya-20&linkId=314ff1ac27ee915abc2865e0633ea3ae{{</button>}}
