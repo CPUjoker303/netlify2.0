@@ -120,10 +120,10 @@ It's AMD free adaptive synchronization technology will help the gamers raise the
 ### VIOTEK NBV27CB Curved Monitor
 
 {{<singlep pimg="/uploads/asus-vz239h-w-23.jpg" pname="VIOTEK NBV27CB Curved Monitor" plink="https://www.amazon.com/gp/product/B084RRX193/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B084RRX193&linkId=12c85b9fd8238bf15f3bf92b41a6abc0">}}
-Ultra-slim design 
-Bezel-less frame
-Greater pixel quality
-Good Material
+ Ultra-slim design 
+ Bezel-less frame
+ Greater pixel quality
+ Good Material
 {{</singlep>}}
 
 Make sure you must have a compact Gaming Monitor for playing the amazing and your favorite games. This gaming monitor is specially designed for gamers with many features that will not disappoint you. So now, you can learn more about this monitor. This monitor has an ultra-slim design so you can enjoy your game thoroughly. It has a bezel-less frame, and its size seems to be bigger than its actual size. 
@@ -167,3 +167,43 @@ It has various ports at the back of this monitor, so you can connect your gaming
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07489Q7TY/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07489Q7TY&linkId=15ad8fa7e95de8671d5ee9a74a5d2ee5{{</button>}}
 
 ### Asus VZ239H-W 23
+
+{{<singlep pimg="/uploads/asus-vz239h-w-23.jpg" pname="Asus VZ239H-W 23" plink="https://www.amazon.com/gp/product/B07489Q7TY/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07489Q7TY&linkId=15ad8fa7e95de8671d5ee9a74a5d2ee5">}}
+ Eye care Monitor 
+ Stunning gaming monitor
+ Ultra-slim frame 
+ Eye care technology 
+{{</singlep>}}
+
+Full HD white Eye care Monitor If you're in the search of a stunning gaming monitor that will look elegant on your desk then this is the best choice for you. From different vibrant colors, you can choose anyone according to your choice. At first glance, you will see a notice about it, it has an ultra-slim frame structure. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Brand	</td>
+<td>ASUS</td>
+</tr>
+<tr>
+<td>Item Weight	</td>
+<td>6 pounds</td>
+</tr>
+<tr>
+<td>Product Dimensions</td>
+<td>20.9 x 8.3 x 15.2 inches</td>
+</tr>
+<tr>
+<td>Color	</td>
+<td>White/Silver</td>
+</tr>
+<tr>
+<td>ASIN	</td>
+<td>B07489Q7TY</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+For your eyes health, ASUS makes sure that, eye care technology to reduce the pressure and strain that your eyes feel and if your eyes easily get irritated. This could be the best choice for gamers if they will get this monitor.
