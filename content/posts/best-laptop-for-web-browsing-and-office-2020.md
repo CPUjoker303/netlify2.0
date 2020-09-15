@@ -240,7 +240,7 @@ It had integrated AMD RX Vega graphics, with which you can play the latest title
 <li>Pen and Surface Cover extra charges</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00VGNZ4PG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VGNZ4PG&linkCode=as2&tag=technikaya-20&linkId=314ff1ac27ee915abc2865e0633ea3ae{{</button>}}
 
-### Lenovo IdeaPad 330 17
+### Lenovo IdeaPad 330-17
 
 {{<singlep pimg="/uploads/lenovo-ideapad-330-17.jpg" pname="Lenovo IdeaPad 330 17" plink="https://www.amazon.com/gp/product/B07D6F9H8X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07D6F9H8X&linkCode=as2&tag=technikaya-20&linkId=1a30030a75a958b936cbfdd7d07ee12b">}}
 	Nvidia GTX 1050Ti 2GB
@@ -349,6 +349,8 @@ You can enjoy your favorite apps, like Google Chrome, Youtube, Netflix, Roblox, 
 <li>The screen is very blue with high contrast</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B075JSK7TR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075JSK7TR&linkCode=as2&tag=technikaya-20&linkId=f95b87c9e1ce64cd915efe03a098deb6{{</button>}}
 
+
+
 ### ASUS ZenBook Flip 14
 
 {{<singlep pimg="asus-zenbook-flip-14.jpeg" pname="ASUS ZenBook Flip 14" plink="https://www.amazon.com/gp/product/B078YN3VY9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078YN3VY9&linkCode=as2&tag=technikaya-20&linkId=024f2cbade096e5d579aa3c3804462b6">}}
@@ -360,7 +362,7 @@ Several USB 3.1 Type-C and Type-A
 
 ASUS ZenBook Flip 14 comes with a 14 inches full HD nano edge, touch screen display on which you can enjoy movies, games, and much more. This laptop also supports a stylus with which you can use it as a display graphics tablet. It had an eight-generation Intel Core i7 processor 8550U, which is enough for any application and game to run on this machine. The software comes with this laptop are Window 10 pre-installed and Office 365 in some regions. There are several USB 3.1 Type-C and Type-A, an HDMI and an Ethernet port on the left and right side of it. 
 
-#### Specifications
+### Specifications
 
 {{<html-code tag="div">}}
 
@@ -401,5 +403,3 @@ There is no room for the optical drive on this laptop; however, if you want to t
 <li>Not as powerful as I would like for the price</li>
 <li>Barely achieves 30fps at 720p, low settings in Overwatch and Fortnite.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B075JSK7TR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075JSK7TR&linkCode=as2&tag=technikaya-20&linkId=f95b87c9e1ce64cd915efe03a098deb6{{</button>}}
-
-![]()
