@@ -117,3 +117,90 @@ There is an adjustable mic with this headphone, adjustable headband, and much mo
 {{<cons>}}
 <li>Incompatible with phones without an adapter</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00CQ35C1Q/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CQ35C1Q&linkId=5d5e2a3b2f2e7ea4ec7080f0d7692402{{</button>}}
+
+### Razer Electra V2
+
+{{<singlep pimg="/uploads/razer-electra.jpg" pname="Razer Electra V2 " plink="https://www.amazon.com/gp/product/B075SVS8GL/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B075SVS8GL&linkId=9023f1497573622a4a18dc076de53660">}}
+Razer green and black design
+USB connector 
+Audio 3.5mm jack
+Removable mic 
+{{</singlep>}}
+
+It comes with unique Razer green and black design, which makes its fans consider this. The main reason to consider this headset is its great audio quality compared with its price. Razer claims that they had focused on what really matters, yes, the audio quality of this headset. This headset is available in two different variants, one with a USB connector and the other one with an Audio 3.5mm jack. Also, there are some attachments for this headset too. There is a removable mic that comes with this headset, and you can remove it when not in use.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Product Dimensions		</td>
+<td>3.11 x 6.97 x 8.79 inches</td>
+</tr>
+<tr>
+<td>Item Weight	      	</td>
+<td>10.4 ounces</td>
+</tr>
+<tr>
+<td>Manufacturer	       	</td>
+<td>Razer Inc.</td>
+</tr>
+<tr>
+<td>ASIN	              	</td>
+<td>B075SVS8GL</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+It had plush leatherette ear cushions, which fully covers your ears and gives you an excellent experience for long gaming sessions. Razer also launched a few add-ons with this headset, Razer headset case, and Razer Base Station. The bad in the headset is its plastic body and material, which makes it a budget headset. Plus, it also lacks audio controls in the USB version, but these options are available in the Electra V2 3.5mm version. Overall for Razer fans, there is much in this headset to consider it for them.
+
+{{<pros>}}
+
+<li>Good audio quality.</li>
+<li>Fully adjustable</li>
+<li>Affordable</li>
+{{</pros>}}
+{{<cons>}}
+<li>Plastic material</li>
+<li>Controls in USB variant</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B075SVS8GL/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B075SVS8GL&linkId=9023f1497573622a4a18dc076de53660{{</button>}}
+
+#### HyperX Cloud Stinger
+
+{{<singlep pimg="/uploads/hyperx-cloud-.jpg" pname="HyperX Cloud Stinger" plink="https://www.amazon.com/gp/product/B01L2ZRYVE/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01L2ZRYVE&linkId=2f8288cbe54b26395f9e94aeaf9a0cfc">}}
+Rotating earcups 
+Flexible steel slider 
+50mm directional drivers 
+Adjustable volume control 
+{{</singlep>}}
+
+HyperX cloud stinger headset comes with rotating earcups that can rotate with a 90-degree angle and also provides you snug fit according to your head. It has a flexible steel slider that provides you a long-lasting and strong, sturdy feel. For audio Precision, there are 50mm directional drivers so you can easily enjoy the audio scape of your favorite games.  This headphone is multi-platform and compatible with PC, Xbox One, PS4 & amp; more. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Brand		</td>
+<td>HyperX</td>
+</tr>
+<tr>
+<td>Item Weight		</td>
+<td>9.7 ounces</td>
+</tr>
+<tr>
+<td>Product Dimensions		</td>
+<td>9.5 x 10.75 x 3 inches</td>
+</tr>
+<tr>
+<td>ASIN		</td>
+<td>B01L2ZRYVE</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+There is an adjustable volume control on the earcup of the headset. In this headphone, there is a swivel to mute the noise cancellation frequency range is 18 to 23000(Hz). HyperX headset Ear cushion material is design with memory foam so you can enjoy the maximum comfort by using this headset.
