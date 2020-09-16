@@ -70,3 +70,50 @@ The microphone of these headphones is best in quality, so you can use them in yo
 {{</html-code>}}
 
 ### Logitech G430
+
+{{<singlep pimg="/uploads/logitech.jpg" pname="Logitech G430" plink="https://www.amazon.com/gp/product/B00CQ35C1Q/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CQ35C1Q&linkId=5d5e2a3b2f2e7ea4ec7080f0d7692402">}}
+	Low price 
+	Black-and-blue color design
+	Adjustable mic 
+	Noise cancelling boom mic
+
+{{</singlep>}}
+
+The Logitech G430 is listed at a low price on Amazon and currently one of the best headsets under this price. It comes with an attractive black-and-blue design, an adjustable microphone, and good audio quality. Although it doesn't give premium features like other gaming headsets, its best choice for entry-level Logitech G430 comes in an attractive black-and-blue color.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Manufacturer		</td>
+<td>Logitech, Inc</td>
+</tr>
+<tr>
+<td>ASIN	         	</td>
+<td>B00CQ35C1Q</td>
+</tr>
+<tr>
+<td>Batteries		</td>
+<td>1 A batteries required</td>
+</tr>
+<tr>
+<td>Product Dimensions		</td>
+<td>9.84 x 8.98 x 4.33 inches</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+There is an adjustable mic with this headphone, adjustable headband, and much more. We can say G430 is all about elegance and simplicity.
+
+{{<pros>}}
+
+<li>Noise cancelling boom mic</li>
+<li>On cable sound controls</li>
+<li>Cable is extremely long</li>
+{{</pros>}}
+{{<cons>}}
+<li>Incompatible with phones without an adapter</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00CQ35C1Q/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00CQ35C1Q&linkId=5d5e2a3b2f2e7ea4ec7080f0d7692402{{</button>}}
