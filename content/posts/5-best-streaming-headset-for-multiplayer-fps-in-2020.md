@@ -121,10 +121,10 @@ There is an adjustable mic with this headphone, adjustable headband, and much mo
 ### Razer Electra V2
 
 {{<singlep pimg="/uploads/razer-electra.jpg" pname="Razer Electra V2 " plink="https://www.amazon.com/gp/product/B075SVS8GL/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B075SVS8GL&linkId=9023f1497573622a4a18dc076de53660">}}
-Razer green and black design
-USB connector 
-Audio 3.5mm jack
-Removable mic 
+ Razer green and black design
+ USB connector 
+ Audio 3.5mm jack
+ Removable mic 
 {{</singlep>}}
 
 It comes with unique Razer green and black design, which makes its fans consider this. The main reason to consider this headset is its great audio quality compared with its price. Razer claims that they had focused on what really matters, yes, the audio quality of this headset. This headset is available in two different variants, one with a USB connector and the other one with an Audio 3.5mm jack. Also, there are some attachments for this headset too. There is a removable mic that comes with this headset, and you can remove it when not in use.
@@ -167,13 +167,13 @@ It had plush leatherette ear cushions, which fully covers your ears and gives yo
 <li>Controls in USB variant</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B075SVS8GL/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B075SVS8GL&linkId=9023f1497573622a4a18dc076de53660{{</button>}}
 
-#### HyperX Cloud Stinger
+### HyperX Cloud Stinger
 
 {{<singlep pimg="/uploads/hyperx-cloud-.jpg" pname="HyperX Cloud Stinger" plink="https://www.amazon.com/gp/product/B01L2ZRYVE/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01L2ZRYVE&linkId=2f8288cbe54b26395f9e94aeaf9a0cfc">}}
-Rotating earcups 
-Flexible steel slider 
-50mm directional drivers 
-Adjustable volume control 
+ Rotating earcups 
+ Flexible steel slider 
+ 50mm directional drivers 
+ Adjustable volume control 
 {{</singlep>}}
 
 HyperX cloud stinger headset comes with rotating earcups that can rotate with a 90-degree angle and also provides you snug fit according to your head. It has a flexible steel slider that provides you a long-lasting and strong, sturdy feel. For audio Precision, there are 50mm directional drivers so you can easily enjoy the audio scape of your favorite games.  This headphone is multi-platform and compatible with PC, Xbox One, PS4 & amp; more. 
@@ -218,10 +218,10 @@ There is an adjustable volume control on the earcup of the headset. In this head
 ### Razer Kraken 7.1 V2 
 
 {{<singlep pimg="/uploads/razer-kraken-7.1.jpg" pname="Razer Kraken 7.1 V2" plink="https://www.amazon.com/gp/product/B072DRCM1Q/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072DRCM1Q&linkId=828ab2de53041c651adbe1b4b3f8a3be">}}
-High-quality sound
-Crystal clear audio quality 
-Noise-Cancellation 
-Maximum input power is 30 (mW). 
+ High-quality sound
+ Crystal clear audio quality 
+ Noise-Cancellation 
+ Maximum input power is 30 (mW). 
 {{</singlep>}}
 
 This headphone is designed with the advanced virtual surround sound (7.1)  that  provides immersive and high-quality sound. It is built-in with large 50(mm) Drivers and gives us crystal clear audio quality in-game and communication. Its retractable microphone with noise-Cancellation ensures clear communication, and its noise-cancellation is only Compatible with Pc. Streamers can use for a long period of time because this headset is lightweight & amp; its quality is durable. Its frame is made up of Bauxite aluminum; that's why it is flexible and incredibly reliable. 
@@ -269,10 +269,10 @@ Razer Kraken focused on full ear coverage, and they design the ear cushions in a
 ### HyperX Cloud Flight
 
 {{<singlep pimg="/uploads/hyperx-cloud-.jpg" pname="HyperX Cloud Flight" plink="https://www.amazon.com/gp/product/B077ZGRY9V/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077ZGRY9V&linkId=93dc4624875c0b02ae11589a2041a536">}}
-wireless connectivity 
-Led Lighting effects on ear cups
-Elegant black color 
-Flexible steel slider
+ wireless connectivity 
+ Led Lighting effects on ear cups
+ Elegant black color 
+ Flexible steel slider
 {{</singlep>}}
 
  This headset has a wireless connectivity of 2.4 (GHz) gaming-grade. To increase the interest of gamers, HyperX Cloud Flight designs its ear cups with Led Lighting effects &amp; 90 degree rotation. Its  noise cancellation Detachable  microphone engineered  in such a way that it performs functions only when it is on wireless mode and connected only on PC and PS4. Only Detectable with PS4, PS4 Pro, and PC.
