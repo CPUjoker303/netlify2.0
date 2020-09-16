@@ -267,3 +267,51 @@ Razer Kraken focused on full ear coverage, and they design the ear cushions in a
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B072DRCM1Q/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072DRCM1Q&linkId=828ab2de53041c651adbe1b4b3f8a3be{{</button>}}
 
 ### HyperX Cloud Flight
+
+{{<singlep pimg="/uploads/hyperx-cloud-.jpg" pname="HyperX Cloud Flight" plink="https://www.amazon.com/gp/product/B077ZGRY9V/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077ZGRY9V&linkId=93dc4624875c0b02ae11589a2041a536">}}
+wireless connectivity 
+Led Lighting effects on ear cups
+Elegant black color 
+Flexible steel slider
+{{</singlep>}}
+
+ This headset has a wireless connectivity of 2.4 (GHz) gaming-grade. To increase the interest of gamers, HyperX Cloud Flight designs its ear cups with Led Lighting effects &amp; 90 degree rotation. Its  noise cancellation Detachable  microphone engineered  in such a way that it performs functions only when it is on wireless mode and connected only on PC and PS4. Only Detectable with PS4, PS4 Pro, and PC.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Brand		</td>
+<td>HyperX</td>
+</tr>
+<tr>
+<td>Item Weight		</td>
+<td>10.1 ounces</td>
+</tr>
+<tr>
+<td>Product Dimensions		</td>
+<td>7.48 x 3.43 x 7.36 inches</td>
+</tr>
+<tr>
+<td>ASIN		</td>
+<td>B077ZGRY9V</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+It comes with an elegant black color with a durable frame quality adjustable, flexible steel slider. Built-in with intuitive mic controls.  After a single time charge, streamers can use this wireless headset up to 30 hours therefore it has long-lasting battery life.
+
+{{<pros>}}
+
+<li>wireless</li>
+<li>plug and play</li>
+<li>good wireless range</li>
+{{</pros>}}
+{{<cons>}}
+<li>drivers touch your ears</li>
+<li>-no software included  </li>
+<li>-terrible mic</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B077ZGRY9V/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077ZGRY9V&linkId=93dc4624875c0b02ae11589a2041a536{{</button>}}
