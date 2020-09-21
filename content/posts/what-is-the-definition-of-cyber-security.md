@@ -31,11 +31,11 @@ There are some set of policies that define the cyber security framework. Any org
 
 There are several types of cyber security. All types of cyber security are given below.
 
-o	Network security 
-o	Application Security 
-o	Information Security 
-o	Data Loss Prevention 
-o	Cloud Security
+* Network security 
+* Application Security 
+* Information Security 
+* Data Loss Prevention 
+* Cloud Security
 
 ### Network Security:
 
