@@ -3,7 +3,7 @@ title: What Is The Definition Of Cyber Security
 draft: true
 SEOTitle: What Is The Definition Of Cyber Security
 excrept: What is cyber security and main question is What Is The Definition Of
-  Cyber Security? If you  don't know about cyber security and Types of cyber
+  Cyber Security. If you  don't know about cyber security and Types of cyber
   security then we are here to teach you.
 metaKeywords: What Is The Definition Of Cyber Security
 url: what-is-the-definition-of-cyber-security/
