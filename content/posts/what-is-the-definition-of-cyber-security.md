@@ -23,11 +23,11 @@ pickLink: https://www.amazon.com/gp/product/1789616190/ref=as_li_tl?ie=UTF8&camp
 
 Cyber security is the application of technologies and the practice of protecting systems, networks, mobile devices, servers, electronic systems, and data from unauthorized access or malicious attacks. Its primary purpose is to reduce the risk of malicious attacks, cyber-attacks, and digital attacks. These attacks aim to access, changing, and destroying sensitive information or interrupting the business processes. This Is The Definition Of Cyber Security.
 
-### Cyber Security Framework:
+### Cyber Security Framework
 
 There are some set of policies that define the cyber security framework. Any organization or any eligible body should have to follow these policies in order to comply with standard or framework.
 
-### Types Of Cyber Security:
+### Types Of Cyber Security
 
 There are several types of cyber security. All types of cyber security are given below.
 
@@ -37,12 +37,12 @@ There are several types of cyber security. All types of cyber security are given
 * Data Loss Prevention 
 * Cloud Security
 
-### Network Security:
+### Network Security
 
 By  Securing the infrastructures, network security protects the internal networks from intruders or malicious attacks. Examples of Network security are given below.
 Two factor authentication (2FA)
 
-### Application security:
+### Application security
 
 Application security uses software and hardware to protect the systems against external threats and in an applications development stage, these softwares may present themselves. Examples of Application Security are given below
 
@@ -50,19 +50,19 @@ Application security uses software and hardware to protect the systems against e
 * Firewalls 
 * Encryption
 
-### Information Security:
+### Information Security
 
 It protects the both physical and digital data. Information Security is known as set of practices intended to keep data secure from unauthorized access when it being transmitted from one location to another.
 
-### Data Loss Prevention:
+### Data Loss Prevention
 
 Data Loss Prevention is a set of processes used to ensure that your sensitive data or information is not misused or accessed by unauthorized access. DLP is a set of tools or software that classifies business confidential or critical data and identifies the unauthorized access and violations of policies defined by the companies and organizations. Once the violations are identified, DLP enforces to perform protective actions like encryption to prevent the end-users from maliciously sharing data or malicious attacks.
 
-### Cloud security:
+### Cloud security
 
 Cloud computing security refers to the set of policies , applications, technologies, to protect the data online from leakage, deletion and alternation of data via cloud computing platforms. The methods that provide cloud security are tokenization, avoiding public internet connections,  virtual private networks (VPN)
 
-### Things You Must Follow:
+### Things You Must Follow
 
 > * Always Update Your software and operating system for the best level of protection
 > * Always use antivirus software, that will detect and removes threats and viruses from your Personal computer, laptop or macbook.
