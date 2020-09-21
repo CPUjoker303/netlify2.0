@@ -1,6 +1,6 @@
 ---
 title: What Is The Definition Of Cyber Security
-draft: false
+draft: true
 SEOTitle: What Is The Definition Of Cyber Security
 excrept: What is cyber security and main question is What Is The Definition Of
   Cyber Security? If you  don't know about cyber security and Types of cyber
@@ -19,17 +19,15 @@ pickName: The Beginner's Guide Book - Cybersecurity
 pickImg: /uploads/cybersecurity-the-beginners-guide.jpg
 pickLink: https://www.amazon.com/gp/product/1789616190/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1789616190&linkCode=as2&tag=technikaya-20&linkId=e4107f0fc110777c9d838444ab689124
 ---
-## what is the definition of cyber security?
+## Definition of cyber security
 
-Cyber security is the application of technologies and the practice of protecting systems, networks, mobile devices, servers, electronic systems, and data from unauthorized access or malicious attacks. Its primary purpose is to reduce the risk of malicious attacks, cyber-attacks, and digital attacks. These attacks aim to access, changing, and destroying sensitive information or interrupting the business processes.
+Cyber security is the application of technologies and the practice of protecting systems, networks, mobile devices, servers, electronic systems, and data from unauthorized access or malicious attacks. Its primary purpose is to reduce the risk of malicious attacks, cyber-attacks, and digital attacks. These attacks aim to access, changing, and destroying sensitive information or interrupting the business processes. This Is The Definition Of Cyber Security.
 
-### Cyber Security Framework: 
-
+### Cyber Security Framework:
 
 There are some set of policies that define the cyber security framework. Any organization or any eligible body should have to follow these policies in order to comply with standard or framework.
 
-#### Types Of Cyber Security:
-
+### Types Of Cyber Security:
 
 There are several types of cyber security. All types of cyber security are given below.
 
@@ -47,9 +45,10 @@ Two factor authentication (2FA)
 ### Application security:
 
 Application security uses software and hardware to protect the systems against external threats and in an applications development stage, these softwares may present themselves. Examples of Application Security are given below
-o	Antivirus Programs 
-o	Firewalls 
-o	Encryption
+
+* Antivirus Programs 
+* Firewalls 
+* Encryption
 
 ### Information Security:
 
@@ -63,16 +62,11 @@ Data Loss Prevention is a set of processes used to ensure that your sensitive da
 
 Cloud computing security refers to the set of policies , applications, technologies, to protect the data online from leakage, deletion and alternation of data via cloud computing platforms. The methods that provide cloud security are tokenization, avoiding public internet connections,  virtual private networks (VPN)
 
-### Things You Must Follow: 
+### Things You Must Follow:
 
-o	Always Update Your software and operating system for the best level of protection
-
-o	Always use antivirus software, that will detect and removes threats and viruses from your Personal computer, laptop or macbook.
-
-o	Always Use strong passwords and make sure, your passwords are not easily   gusseable.
-
-o	Don't open unknown email attachments from unknown senders.
-
-o	Don't click on links from unfamiliar websites and unknown senders.
-
-o	At public places, avoid using unsecure wifi networks.
+> * Always Update Your software and operating system for the best level of protection
+> * Always use antivirus software, that will detect and removes threats and viruses from your Personal computer, laptop or macbook.
+> * Always Use strong passwords and make sure, your passwords are not easily   gusseable.
+> * Don't open unknown email attachments from unknown senders.
+> * Don't click on links from unfamiliar websites and unknown senders.
+> * At public places, avoid using unsecure wifi networks.
