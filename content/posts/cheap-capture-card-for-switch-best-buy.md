@@ -46,7 +46,7 @@ schemaMarkup: >
 
   "position": 2,
 
-  "url":"https://www.technikaya.com/cheap-capture-card-for-switch//yh-hdmi-game-capture-cardfull-hd",
+  "url":"https://www.technikaya.com/cheap-capture-card-for-switch/yh-hdmi-game-capture-cardfull-hd",
 
   "@id": "yh-hdmi-game-capture-cardfull-hd ",
 
@@ -58,7 +58,7 @@ schemaMarkup: >
 
   "position": 3,
 
-  "url":"https://www.technikaya.com/cheap-capture-card-for-switch//acodot-capture-card",
+  "url":"https://www.technikaya.com/cheap-capture-card-for-switch/acodot-capture-card",
 
   "@id": "acodot-capture-card ",
 
@@ -70,7 +70,7 @@ schemaMarkup: >
 
   "position": 4,
 
-  "url":"https://www.technikaya.com/cheap-capture-card-for-switch//ucec-game-capture-card",
+  "url":"https://www.technikaya.com/cheap-capture-card-for-switch/ucec-game-capture-card",
 
   "@id": "ucec-game-capture-card ",
 
@@ -82,7 +82,7 @@ schemaMarkup: >
 
   "position": 5,
 
-  "url":"https://www.technikaya.com/cheap-capture-card-for-switch//acemax-hdmi-game-capture-card",
+  "url":"https://www.technikaya.com/cheap-capture-card-for-switch/acemax-hdmi-game-capture-card",
 
   "@id": "acemax-hdmi-game-capture-card ",
 
