@@ -13,7 +13,7 @@ image: /uploads/cyber.jpg
 tags:
   - Information
 categories:
-  - Reviews
+  - Information
 schemaMarkup: >
   <script type="application/ld+json">
 
