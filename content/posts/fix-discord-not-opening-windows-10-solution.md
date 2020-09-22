@@ -14,7 +14,118 @@ tags:
   - Information
 categories:
   - Information
-schemaMarkup: VV
+schemaMarkup: >-
+  <script type="application/ld+json">
+
+  {
+
+  "@context": "https://schema.org",
+
+  "@type": "FAQPage",
+
+  "mainEntity": [
+
+  {
+
+  "@type": "Question",
+
+  "name": "How to Fix Discord Not Opening Windows 10,8,7?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Go to search Bar and then type ‘ Task Manager’ and click on ‘  Open More Details’ and Serach for Discored and then press Right Click on it and then click on end task.Then Close the Task manager and Go To Search bar and type ‘RUN’ and then type %TEMP% and then press ‘OK’.Go to the Discord Folder And then press Right click on it.Select delete and then close the window and Go the desktop and press right click on Discord Icon and Selecet Run run as administrator’ and then click on Yes.The discord will open perfectly problem will solved"
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "What is server in discord?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "As we see Groups on Whatsapp, Pages on Facebook and Channels on Youtube, etc. same as it is, you will see Servers on Discord. You will find so many servers on Discord. Select the server, and you have to join tap server on Discord"
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "how to define server in discord?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "It is a group of people join together by come on interest weather this is a streamer, a particular game, or some activity like speedrunning, youtube, video editing, whatever you want."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "How To Use Discord?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "There are two ways you can use Discord As a community member and as Server Owner"
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "What is discord as As community member?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "It is a great place to meet people that share your entrance, and you going to be able to talk to people about things you want to talk, or you want to listen because they are also interested in the same topics and this is a very hard thing to do in real life because maybe you have one, two or ten friends to share your interest, In Discord, you would see full of people sharing your interest with the same passion you do"
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "what is discord as Server Owner?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "You should have a server if you are a streamer. One of the most important of streaming and gaming is that it is the community that builds around it. When you are a streamer, your community is the most important part of it because they are only those who want only to support you. They wanna play with you, and they wanna chat with you, they gonna make it so much fun. Discord gives a place for your community to live with you online because this way, they have a place to chat, to interact, to send videos, to send information, to communicate even when you are offline."
+
+  }
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Dell Inspiron Gaming PC
 pickImg: /uploads/dell-inspiron.jpg
 pickLink: https://www.amazon.com/gp/product/B07Q3G3B67/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07Q3G3B67&linkId=8ddc1db552916edd99c0e1118dc0d677
