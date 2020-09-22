@@ -20,9 +20,9 @@ schemaMarkup: >+
 
   "@type": "ItemList",
 
-  "url": "https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f",
+  "url": "https://www.technikaya.com/best-studio-headphones-for-gaming/",
 
-  "name": "AUDIO-TECHNICA BPHS1",
+  "name": "Best Studio Headphones For Gaming - Best Buy",
 
   "itemListElement":
 
@@ -32,7 +32,7 @@ schemaMarkup: >+
 
   "position": 1,
 
-  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/audio-technica-bphs1",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//audio-technica-bphs1",
 
   "@id": "audio-technica-bphs1 ",
 
@@ -44,11 +44,11 @@ schemaMarkup: >+
 
   "position": 2,
 
-  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/turtle-beach---i30-premium",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//turtle-beach---i30-premium",
 
   "@id": "turtle-beach---i30-premium ",
 
-  "name": "TURTLE BEACH - I30 PREMIUM"
+  "name": "Turtle Beach - i30 Premium"
 
   },
 
@@ -56,11 +56,11 @@ schemaMarkup: >+
 
   "position": 3,
 
-  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/razer-kraken-pro-v2",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//razer-kraken-pro-v2",
 
   "@id": "razer-kraken-pro-v2 ",
 
-  "name": "RAZER KRAKEN PRO V2"
+  "name": "Razer Kraken Pro V2"
 
   },
 
@@ -68,11 +68,11 @@ schemaMarkup: >+
 
   "position": 4,
 
-  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/plantronics-rig-stereo-headset",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//plantronics-rig-stereo-headset",
 
   "@id": "plantronics-rig-stereo-headset ",
 
-  "name": "PLANTRONICS RIG STEREO"
+  "name": "Plantronics RIG Stereo Headset"
 
   },
 
@@ -80,11 +80,11 @@ schemaMarkup: >+
 
   "position": 5,
 
-  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/hellopower-gaming-headset",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//hellopower-gaming-headset",
 
   "@id": "hellopower-gaming-headset ",
 
-  "name": "HELLOPOWER GAMING HEADSET"
+  "name": "HelloPower Gaming Headset"
 
   },
 
@@ -92,7 +92,7 @@ schemaMarkup: >+
 
   "position": 6,
 
-  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/jbl-quantum-100",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//jbl-quantum-100",
 
   "@id": "jbl-quantum-100 ",
 
@@ -104,7 +104,7 @@ schemaMarkup: >+
 
   "position": 7,
 
-  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/gaming-headset-for-ps4-xbox-one-pc-laptop",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//gaming-headset-for-ps4-xbox-one-pc-laptop",
 
   "@id": "gaming-headset-for-ps4-xbox-one-pc-laptop ",
 
@@ -116,7 +116,7 @@ schemaMarkup: >+
 
   "position": 8,
 
-  "url":"https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B003D87JI2&amp;linkCode=as2&amp;tag=technikaya-20&amp;linkId=e60aa2dcd6967f2611aece648b28834f/razer-kraken-x-ultralight",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//razer-kraken-x-ultralight",
 
   "@id": "razer-kraken-x-ultralight ",
 
@@ -285,7 +285,7 @@ It all depends upon sound quality. To record a song or need to talk while playin
 </table>
 {{</html-code>}}
 
-### 1. AUDIO-TECHNICA BPHS1
+### AUDIO-TECHNICA BPHS1
 
 {{<singlep pimg="/uploads/audio-technica-bphs1.jpg" pname="Audio-Technica BPHS1" plink="https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=e60aa2dcd6967f2611aece648b28834f">}}
 • It is broadcast stereo headset
@@ -376,7 +376,7 @@ It is perfect for a smash player. The Microphone is of such excellent quality. T
 <li>Not enough padding around the earpieces</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=e60aa2dcd6967f2611aece648b28834f{{</button>}}
 
-### 2. Turtle Beach - i30 Premium
+### Turtle Beach - i30 Premium
 
 {{<singlep pimg="/uploads/turtle-beach-ear-force-i30-500x500.jpg" pname="Turtle Beach - i30 Premium" plink="https://www.amazon.com/gp/product/B00EDNLO32/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EDNLO32&linkCode=as2&tag=technikaya-20&linkId=b52ff0f27c1912d0ae457f35ef83a5a9">}}
 •	It comes with noise filtering technology 
@@ -447,7 +447,7 @@ Just only the mic quality is normal as compared to audio Technica BPHS1 because 
 <li>Ear cups are not big enough</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00EDNLO32/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EDNLO32&linkCode=as2&tag=technikaya-20&linkId=b52ff0f27c1912d0ae457f35ef83a5a9{{</button>}}
 
-### 3. Razer Kraken Pro V2
+### Razer Kraken Pro V2
 
 {{<singlep pimg="/uploads/razer-kraken-x-.jpg" pname="Razer Kraken Pro V2" plink="https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e">}}
 •	Very light weight and flexible
@@ -516,7 +516,7 @@ The headset is basically plugged and play headset. The Build-in microphone is of
 <li>Ear cups are not big enough</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e{{</button>}}
 
-### 4. Plantronics RIG Stereo Headset
+### Plantronics RIG Stereo Headset
 
 {{<singlep pimg="/uploads/plantronics.jpeg" pname="Plantronics RIG Stereo" plink="https://www.amazon.com/gp/product/B00EV00MZ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EV00MZ8&linkCode=as2&tag=technikaya-20&linkId=d1909aa675de79014b86cb1e9a24cdb6">}}
 •	It has headset has 40mm speakers
@@ -582,7 +582,7 @@ The mic is wired, and the noise cancellation feature is perfect for crystal clea
 <li>Possible software issues on Windows 8</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00EV00MZ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EV00MZ8&linkCode=as2&tag=technikaya-20&linkId=d1909aa675de79014b86cb1e9a24cdb6{{</button>}}
 
-### 5. HelloPower Gaming Headset
+### HelloPower Gaming Headset
 
 {{<singlep pimg="/uploads/hellopower.jpg" pname="HelloPower Gaming Headset" plink="https://www.amazon.com/gp/product/B07G9XCTY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07G9XCTY4&linkCode=as2&tag=technikaya-20&linkId=31d44a28e7d66d1ee36437c8b8de1091">}}
 •	It has Glaring LED lights 
@@ -652,7 +652,7 @@ The main dimensions of the headset are 8.5 x 7.72 x 4.17 inches. If we compare t
 <li>None</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07G9XCTY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07G9XCTY4&linkCode=as2&tag=technikaya-20&linkId=31d44a28e7d66d1ee36437c8b8de1091{{</button>}}
 
-### 6. JBL Quantum 100
+### JBL Quantum 100
 
 {{<singlep pimg="/uploads/jbl.jpg" pname="JBL Quantum 100" plink="https://www.amazon.com/gp/product/B084CZT5SX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084CZT5SX&linkCode=as2&tag=technikaya-20&linkId=72388e78cf7b46b101a70635f12c5879">}}
 •	echo cancelling technology
@@ -709,7 +709,7 @@ The headphones work very well for the price. The microphone has to be pretty clo
 <li>The gain control on the head set comes set pretty low</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B084CZT5SX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084CZT5SX&linkCode=as2&tag=technikaya-20&linkId=72388e78cf7b46b101a70635f12c5879{{</button>}}
 
-### 7. Gaming Headset for PS4, Xbox One, PC, Laptop
+### Gaming Headset for PS4, Xbox One, PC, Laptop
 
 {{<singlep pimg="/uploads/gaming-headset-for-ps4-.jpg" pname="Gaming Headset for PS4, Xbox One, PC, Laptop" plink="https://www.amazon.com/gp/product/B07MLWVQSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MLWVQSY&linkCode=as2&tag=technikaya-20&linkId=3a209014ba13f727600b66e8e1c73ffb">}}
 •	stunning LED Lights
@@ -785,7 +785,7 @@ The headset has good quality Sound and microphone such a pretty camouflage print
 <li>The USB connector is only a power source for the blue lighting on the headphone</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07MLWVQSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MLWVQSY&linkCode=as2&tag=technikaya-20&linkId=3a209014ba13f727600b66e8e1c73ffb{{</button>}}
 
-### 8. Razer Kraken X Ultralight
+### Razer Kraken X Ultralight
 
 {{<singlep pimg="/uploads/x.jpg" pname="Razer Kraken X Ultralight" plink="https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e">}}
 •	Built-in advanced 7.1 virtual circumambient sound 
@@ -843,7 +843,6 @@ The sound is perfect if you push the mic in; the sound subtle enough that you wo
 The Razer Kraken 7.1 V2 brings a fantastic surround sound for the gaming experience to enhance your acoustic situational understanding. You can always hear where the opponent is coming from, and where your team is come across, to strike with correctness. The advanced virtual 7.1 background sound software via Synapse Razer, You can use this headset razer Kraken 7.1 with your personal computer and with your ps4 or mac only. The sound is perfect if you push the mic in; the sound subtle enough that you would think about they are medium and high-end headphones. This is the area most headphones are lacking for some kind of reason.
 
 The mic is fine, okay. It sounded great, and it's nice that it pushes back in so they look and feel like regular headsets again. You also really like that the microphone is flexible and can be set as close or as far away from your head as you want. Suppose you are looking for the best studio headphones for gaming so. In that case, you can go with Razer Kraken 7.1 because it's sound quality and microphone quality are perfect for gaming and noise cancellation feature is perfectly fine.
-
 
 The dynamic mic comes with a perfect voice capturing sensor, which is ideal when you play different types of games that need a microphonic conversation. The best part of this headset is sound quality. This headset has all options are USB connectivity; there is no audio jack. If you are looking for a headphone like this, so you can go with Razer Kraken 7.1.
 
