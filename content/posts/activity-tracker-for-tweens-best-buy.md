@@ -33,7 +33,7 @@ schemaMarkup: >
 
   "position": 1,
 
-  "url":"https://www.technikaya.com/activity-tracker-for-tweens//garmin-vivofit-jr-2-disney-pink",
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens/garmin-vivofit-jr-2-disney-pink",
 
   "@id": "garmin-vivofit-jr-2-disney-pink ",
 
@@ -45,7 +45,7 @@ schemaMarkup: >
 
   "position": 2,
 
-  "url":"https://www.technikaya.com/activity-tracker-for-tweens//garmin-vivofit-jr-2-marvel",
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens/garmin-vivofit-jr-2-marvel",
 
   "@id": "garmin-vivofit-jr-2-marvel ",
 
@@ -57,7 +57,7 @@ schemaMarkup: >
 
   "position": 3,
 
-  "url":"https://www.technikaya.com/activity-tracker-for-tweens//fitfort-fitness-tracker",
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens/fitfort-fitness-tracker",
 
   "@id": "fitfort-fitness-tracker ",
 
@@ -69,7 +69,7 @@ schemaMarkup: >
 
   "position": 4,
 
-  "url":"https://www.technikaya.com/activity-tracker-for-tweens//3plus-lite-activity-tracker",
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens/3plus-lite-activity-tracker",
 
   "@id": "3plus-lite-activity-tracker ",
 
@@ -81,7 +81,7 @@ schemaMarkup: >
 
   "position": 5,
 
-  "url":"https://www.technikaya.com/activity-tracker-for-tweens//withings-move-smartwatch",
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens/withings-move-smartwatch",
 
   "@id": "withings-move-smartwatch ",
 
