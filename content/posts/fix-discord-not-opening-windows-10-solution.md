@@ -51,4 +51,12 @@ Discord is an online application that allows you to communicate using text, imag
 •	Mac
 •	PC
 •	iPhone
-•	Android
+•	Android 
+
+### What is server in discord?
+
+As we see Groups on Whatsapp, Pages on Facebook and Channels on Youtube, etc. same as it is, you will see Servers on Discord. You will find so many servers on Discord. Select the server, and you have to join tap server on Discord
+
+#### Server 
+
+It is a group of people join together by come on interest weather this is a streamer, a particular game, or some activity like speedrunning, youtube, video editing, whatever you want.
