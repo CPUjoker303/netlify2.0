@@ -15,7 +15,178 @@ tags:
   - Information
 categories:
   - Reviews
-schemaMarkup: aa
+schemaMarkup: >
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-laptop-for-web-browsing-and-office-2020/",
+
+  "name": "Best Laptop For Web Browsing And Office 2020",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-laptop-for-web-browsing-and-office-2020/google-pixelbook-go",
+
+  "@id": "google-pixelbook-go ",
+
+  "name": "Google Pixelbook Go"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-laptop-for-web-browsing-and-office-2020/lenovo-flex-14",
+
+  "@id": "lenovo-flex-14 ",
+
+  "name": "Lenovo Flex 14"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-laptop-for-web-browsing-and-office-2020/microsoft-surface-3",
+
+  "@id": "microsoft-surface-3 ",
+
+  "name": "Microsoft Surface 3"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-laptop-for-web-browsing-and-office-2020/lenovo-ideapad",
+
+  "@id": "lenovo-ideapad ",
+
+  "name": "Lenovo IdeaPad"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-laptop-for-web-browsing-and-office-2020/google-pixelbook",
+
+  "@id": "google-pixelbook ",
+
+  "name": "Google Pixelbook"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-laptop-for-web-browsing-and-office-2020/asus-zenbook-flip-14",
+
+  "@id": "asus-zenbook-flip-14 ",
+
+  "name": "ASUS ZenBook Flip 14"
+
+  }
+
+  ]
+
+  }
+
+  </script>
+
+  <script type="application/ld+json">
+
+  {
+
+  "@context": "https://schema.org",
+
+  "@type": "FAQPage",
+
+  "mainEntity": [
+
+  {
+
+  "@type": "Question",
+
+  "name": "what is Best Laptop For Web Browsing And Office 2020?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Google Pixelbook Go, Lenovo Flex 14, Microsoft Surface 3, Lenovo IdeaPad, Google Pixelbook, ASUS ZenBook Flip 14"
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "how to choose a best laptop?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Choosing the best laptop for you is quite tricky, especially if you don't know much about hardware. This can even make you pay extra money for those things you don't need in your machine. If you are looking for a laptop for your office use, you might don't need a high-end graphics card in it."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "is Google Pixelbook Go is good for office work?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "yes,Google Pixelbook Go is made to move the laptop. It is easy to carry because the weight of this machine is not more than two pounds, and it's about 13mm thick. With this, you can easily take it anywhere you want in your bag. Pixelbook Go is equipped with an 8th generation Intel Core i5/i7/M3 processor and available in 8/16GB RAM. With the latest SSD, it will reduce the loading time of apps and software and reduce the boot time. Pixelbook laptops use Chrome OS, which is lightweight and faster than Windows or Mac OS"
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "what is Microsoft Surface 3?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Microsoft Surface 3 is one of the most powerful laptops from the company. If you want something more than a laptop, this will be great for you because you can convert it into a tablet. This laptop comes in a clean and elegant design, and it's just 2.79 pounds in weight so you can carry it anywhere you want. This laptop is available in four different color tones, Matte Black, Sandstone, Platinum, and Cobalt Blue. This powerful machine comes with Intel 10th generation Core i5/i7 processors, while some models have AMD Ryzen 5/7."
+
+  }
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Lenovo IdeaPad 330-17
 pickImg: /uploads/lenovo-ideapad-330-17.jpg
 pickLink: https://www.amazon.com/gp/product/B07D6F9H8X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07D6F9H8X&linkCode=as2&tag=technikaya-20&linkId=a054fbe0f1bf2fb8d5ecf97fd63251db
