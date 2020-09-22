@@ -14,7 +14,142 @@ tags:
   - Information
 categories:
   - Reviews
-schemaMarkup: cc
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-computers-for-sims-4-game",
+
+  "name": "Best Computers For Sims 4 Game",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-computers-for-sims-4-game/hp-omen-gaming-vr-ready",
+
+  "@id": "hp-omen-gaming-vr-ready ",
+
+  "name": "HP OMEN Gaming VR Ready"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-computers-for-sims-4-game/alarco-gtx-650economical-choice-for-sims4",
+
+  "@id": "alarco-gtx-650economical-choice-for-sims4 ",
+
+  "name": "Alarco Gtx 650–Economical Choice For Sims4"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-computers-for-sims-4-game/ryzen-7-and-rx-580-1",
+
+  "@id": "ryzen-7-and-rx-580-1 ",
+
+  "name": "Ryzen 7 and RX 580"
+
+  }
+
+  ]
+
+  }
+
+  </script>
+
+  <script type="application/ld+json">
+
+  {
+
+  "@context": "https://schema.org",
+
+  "@type": "FAQPage",
+
+  "mainEntity": [
+
+  {
+
+  "@type": "Question",
+
+  "name": "What Is Sims 4?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Sims 4 is a simulation video game and according to Google users report 97% of Google users like this game. This developed by Redwood Shores studio in 2014. Sim 4 is an outdoor retreat and a single-player game.It is similar to its predecessors. In this game players create a character called sim character and live their life including exploring the personalities, ideas, etc. Which change the way game to be played out."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "what are Minimum Requirement To Play Sims 4?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "For playing Sims 4 your pc requires 64 Bit Window 7,8,10 For this game, gamers must have core 2 Duo 1.8 GHz intel processor should be embedded in their computers.For playing Sims 4 “4 GB” RAM is required in pc."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "whichVideo cards that supported sims 4?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "For playing the sims 4 gamers should use NVIDIA GeForce 6600 video card For playing the sims 4 gamers can use ATI Radeon X1300 Intel GMA X4500 is also a better choice"
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "what need HARD DRIVE for sims 4?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Your Pc must contain “15 GB” of free space"
+
+  }
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Dell Inspiron Gaming PC
 pickImg: /uploads/dell.jpg
 pickLink: https://www.amazon.com/gp/product/B07Q3G3B67/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07Q3G3B67&linkId=8ddc1db552916edd99c0e1118dc0d677
