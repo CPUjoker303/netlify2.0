@@ -14,7 +14,167 @@ tags:
   - Information
 categories:
   - Reviews
-schemaMarkup: cc
+schemaMarkup: >+
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-streaming-headset-for-multiplayer-fps-in-2020",
+
+  "name": "5 Best Streaming Headset For Multiplayer FPS In 2020",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-streaming-headset-for-multiplayer-fps-in-2020/logitech-g430",
+
+  "@id": "logitech-g430 ",
+
+  "name": "Logitech G430"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-streaming-headset-for-multiplayer-fps-in-2020/razer-electra-v2",
+
+  "@id": "razer-electra-v2 ",
+
+  "name": "Razer Electra V2"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-streaming-headset-for-multiplayer-fps-in-2020/hyperx-cloud-stinger",
+
+  "@id": "hyperx-cloud-stinger ",
+
+  "name": "HyperX Cloud Stinger"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-streaming-headset-for-multiplayer-fps-in-2020/razer-kraken-71-v2",
+
+  "@id": "razer-kraken-71-v2 ",
+
+  "name": "Razer Kraken 7.1 V2"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-streaming-headset-for-multiplayer-fps-in-2020/hyperx-cloud-flight",
+
+  "@id": "hyperx-cloud-flight ",
+
+  "name": "HyperX Cloud Flight"
+
+  }
+
+  ]
+
+  }
+
+  </script>
+
+  <script type="application/ld+json">
+
+  {
+
+  "@context": "https://schema.org",
+
+  "@type": "FAQPage",
+
+  "mainEntity": [
+
+  {
+
+  "@type": "Question",
+
+  "name": "what are Best Streaming Headset For Multiplayer FPS In 2020?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Logitech G430, Razer Electra V2, HyperX Cloud Stinger, Razer Kraken 7.1 V2, HyperX Cloud Flight"
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "what is Razer Kraken 7.1 V2?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "This headphone is designed with the advanced virtual surround sound (7.1)  that  provides immersive and high-quality sound. It is built-in with large 50(mm) Drivers and gives us crystal clear audio quality in-game and communication. Its retractable microphone with noise-Cancellation ensures clear communication, and its noise-cancellation is only Compatible with Pc."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "what is HyperX Cloud Flight?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "This headset has a wireless connectivity of 2.4 (GHz) gaming-grade. To increase the interest of gamers, HyperX Cloud Flight designs its ear cups with Led Lighting effects &amp; 90 degree rotation"
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "Is Razer Electra V2 is best headphone?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "It comes with unique Razer green and black design, which makes its fans consider this. The main reason to consider this headset is its great audio quality compared with its price. Razer claims that they had focused on what really matters, yes, the audio quality of this headset."
+
+  }
+
+  }
+
+  ]
+
+  }
+
+  </script>
+
 pickName: HyperX Cloud Flight
 pickImg: /uploads/hyperx-cloud-flight.jpg
 pickLink: https://www.amazon.com/gp/product/B077ZGRY9V/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077ZGRY9V&linkId=872a91558c49c561b43647092d8595b4
@@ -215,7 +375,7 @@ There is an adjustable volume control on the earcup of the headset. In this head
 <li>In extended Game Play, this headphone may get a little warm.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01L2ZRYVE/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01L2ZRYVE&linkId=2f8288cbe54b26395f9e94aeaf9a0cfc{{</button>}}
 
-### Razer Kraken 7.1 V2 
+### Razer Kraken 7.1 V2
 
 {{<singlep pimg="/uploads/razer-kraken-7.1.jpg" pname="Razer Kraken 7.1 V2" plink="https://www.amazon.com/gp/product/B072DRCM1Q/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072DRCM1Q&linkId=828ab2de53041c651adbe1b4b3f8a3be">}}
  High-quality sound
