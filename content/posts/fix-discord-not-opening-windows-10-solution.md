@@ -40,7 +40,7 @@ If you will follow these ten steps correctly then your problem will solve easily
 
 ### What Is Discord Used For And How It Works
 
-![<img src="what-is-discord.jpg" alt="what is discord used for and how it works">](/uploads/what-is-discord.jpg "what is discord used for and how it works")
+![<img src="what-is-discord.jpg" alt="what is discord used for and how it works">](/uploads/what-is-discord.jpg "Fix Discord Not Opening Windows 10 - Solution")
 
 We all know about Facebook, Whatsapp, Instagram, or any other application that provides multi-features to their users. These applications allow their users to upload pictures and videos, and users can connect with family and friends easily by using these smart applications. Users can easily chat with their friends and family and post their photos and videos. These Multi features connect their users strongly with the Community.
 
@@ -76,4 +76,25 @@ This means you are not the owner of this server and you don’t manage that serv
 
 You own the server, and you are administrating that community
 
-### Reason For What Makes Discord Useful
+### Reason For What Makes Discord Useful 
+
+#### As community member:
+
+#### Reason #1
+
+It is a great place to meet people that share your entrance, and you going to be able to talk to people about things you want to talk, or you want to listen because they are also interested in the same topics and this is a very hard thing to do in real life because maybe you have one, two or ten friends to share your interest, In Discord, you would see full of people sharing your interest with the same passion you do
+
+#### Reason #2
+
+If you are following a streamer, he is not gonna be online 24/7, and you are not gonna be able to chat with other members of their community when he is not live streaming. If you join his server, which probably has one server, you just have to look for it. If you join that server, you gonna be able to chat with the community and chat with all the other guys and even chat with the Streamer. Discord allows you to be a part of the community when Streamer is live or offline
+
+#### As Server owner
+
+#### Reason #1
+
+
+You should have a server if you are a streamer. One of the most important of streaming and gaming is that it is the community that builds around it. When you are a streamer, your community is the most important part of it because they are only those who want only to support you. They wanna play with you, and they wanna chat with you, they gonna make it so much fun. Discord gives a place for your community to live with you online because this way, they have a place to chat, to interact, to send videos, to send information, to communicate even when you are offline.
+
+#### Reason #2
+
+Discord will give you a lot of control over what you can do with your community communication channel. You can assign to your users to a particular role you want them to have. You can assign the role of administrator or moderator to people you trust. It allows you to keep your channel clean of inappropriate behavior and keep trolls out of there.
