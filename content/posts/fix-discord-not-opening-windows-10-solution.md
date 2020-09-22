@@ -1,6 +1,6 @@
 ---
 title: Fix Discord Not Opening Windows 10 - Solution
-draft: true
+draft: false
 SEOTitle: Fix Discord Not Opening Windows 10 - Solution
 excrept: Today we are going to show you how to fix Discord not opening Windows
   10 \ 8 \ 7 and it will 100% Helpful you To Fix Discord not Opening error and
