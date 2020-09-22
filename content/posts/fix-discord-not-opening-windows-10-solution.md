@@ -60,3 +60,20 @@ As we see Groups on Whatsapp, Pages on Facebook and Channels on Youtube, etc. sa
 #### Server 
 
 It is a group of people join together by come on interest weather this is a streamer, a particular game, or some activity like speedrunning, youtube, video editing, whatever you want.
+
+### How To Use Discord
+
+There are two ways you can use Discord
+
+1. As a community member
+2. Server Owner
+
+* #### As a community member
+
+This means you are not the owner of this server and you don’t manage that server
+
+* #### Server Owner
+
+You own the server, and you are administrating that community
+
+### Reason For What Makes Discord Useful
