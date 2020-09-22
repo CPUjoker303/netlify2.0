@@ -15,7 +15,198 @@ tags:
   - Information
 categories:
   - Reviews
-schemaMarkup: ww
+schemaMarkup: >
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/cheap-capture-card-for-switch/",
+
+  "name": "Cheap Capture Card For Switch - Best Buy",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/cheap-capture-card-for-switch//elikliv-usb-30-hdmi",
+
+  "@id": "elikliv-usb-30-hdmi ",
+
+  "name": "Elikliv USB 3.0 HDMI Game Capture Card"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/cheap-capture-card-for-switch//yh-hdmi-game-capture-cardfull-hd",
+
+  "@id": "yh-hdmi-game-capture-cardfull-hd ",
+
+  "name": "Y&H HDMI Game Capture Card,Full HD"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/cheap-capture-card-for-switch//acodot-capture-card",
+
+  "@id": "acodot-capture-card ",
+
+  "name": "Acodot Capture Card"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/cheap-capture-card-for-switch//ucec-game-capture-card",
+
+  "@id": "ucec-game-capture-card ",
+
+  "name": "UCEC Game Capture Card"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/cheap-capture-card-for-switch//acemax-hdmi-game-capture-card",
+
+  "@id": "acemax-hdmi-game-capture-card ",
+
+  "name": "ACEMAX HDMI Game Capture Card"
+
+  }
+
+  ]
+
+  }
+
+  </script>
+
+  <script type="application/ld+json">
+
+  {
+
+  "@context": "https://schema.org",
+
+  "@type": "FAQPage",
+
+  "mainEntity": [
+
+  {
+
+  "@type": "Question",
+
+  "name": "what are best cheap capture card in market?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Elikliv USB 3.0 HDMI Game Capture Card, Y&H HDMI Game Capture Card,Full HD, Acodot Capture Card, UCEC Game Capture Card, ACEMAX HDMI Game Capture Card"
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "Best capture card for both streaming and recording?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Elikliv USB 3.0 HDM is best for both streaming and recording purpose"
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "What is OBS?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Basically OBS is a software Which record your screen and send it to Youtube and then you get live on Youtube. But there is some problem in OBS. The OBS works on CPU and Graphics Card power, means when you are playing games and at exact that time you are also streaming, The CPU and Graphics Card will use for both gaming plus streaming, means you will not get full performance from CPU and graphics card for gaming."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "what is the benefit of using capture card?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Using capture card is best for video streaming purpose. It is very easy to use and provides best quality streaming. Capture card is very important part for video streaming. Viewers come to watch quality streaming and they come to watch streamer skills, So that’s why every streamer prefer capture card for best video streaming quality."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "How capture card provide best quality recording and streaming?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Capture card is back bone of every streamer. The point is only to understand that before the work which is being done by CPU and Graphics card for both gaming and streaming, after using capture card CPU and graphics card will not work for streaming, All work of capturing work will done by capture card and viewer will get high quality streaming for watching."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "Can pc provide both recording and streaming in best quality?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "For both gaming and streaming your pc will give you less performance or hope you get some lags. Viewers will also get some kind of low end streaming."
+
+  }
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Elikliv USB 3.0 HDMI Game Capture Card
 pickImg: /uploads/elikliv.jpg
 pickLink: https://www.amazon.com/gp/product/B087CZ99D9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087CZ99D9&linkCode=as2&tag=technikaya-20&linkId=30d6d41f0022ae886a5593517ff52ea6
@@ -75,7 +266,7 @@ Using capture card is best for video streaming purpose. It is very easy to use a
 </table>
 {{</html-code>}}
 
-### 1. Elikliv USB 3.0 HDMI
+### Elikliv USB 3.0 HDMI
 
 {{<singlep pimg="/uploads/elikliv-black.jpg" pname="Elikliv USB 3.0 HDMI " plink="https://www.amazon.com/gp/product/B087CZ99D9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087CZ99D9&linkCode=as2&tag=technikaya-20&linkId=d1460a869fc32e6ed08b93b621c215d8">}}
 
@@ -131,7 +322,7 @@ The user will enjoying live streaming with no latency. If we take a look on conn
 <li>Non</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B087CZ99D9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087CZ99D9&linkCode=as2&tag=technikaya-20&linkId=d1460a869fc32e6ed08b93b621c215d8{{</button>}}
 
-### 2. Y&H HDMI Game Capture Card,Full HD
+### Y&H HDMI Game Capture Card,Full HD
 
 {{<singlep pimg="/uploads/y-h.jpg" pname="Y&H HDMI Game Capture Card" plink="https://www.amazon.com/gp/product/B078M15WK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078M15WK4&linkCode=as2&tag=technikaya-20&linkId=adea1386a5f6ccdd645b0a40dac01a1d">}}
 
@@ -187,7 +378,7 @@ The caprture card has zero Latency Loo HDMI you can easily enjoy 1080P 30fps vid
 <li> only records display</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B078M15WK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078M15WK4&linkCode=as2&tag=technikaya-20&linkId=adea1386a5f6ccdd645b0a40dac01a1d{{</button>}}
 
-### 3. Acodot Capture Card
+### Acodot Capture Card
 
 {{<singlep pimg="/uploads/acodot-capture-card.jpg" pname="Acodot Capture Card" plink="https://www.amazon.com/gp/product/B08DXJ2WWZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08DXJ2WWZ&linkCode=as2&tag=technikaya-20&linkId=9d971958ffa9a2212d638b30115914df">}}
 
@@ -244,7 +435,7 @@ This capture card works fine and you can record your videos and games and can do
 <li>non</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B08DXJ2WWZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08DXJ2WWZ&linkCode=as2&tag=technikaya-20&linkId=9d971958ffa9a2212d638b30115914df{{</button>}}
 
-### 4. UCEC Game Capture Card
+### UCEC Game Capture Card
 
 {{<singlep pimg="/uploads/81fr-50blrl._ac_uy218_.jpg" pname="UCEC Game Capture Card" plink="https://www.amazon.com/gp/product/B088FBN3JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B088FBN3JW&linkCode=as2&tag=technikaya-20&linkId=8c5239e587bd948b0d89ea29e94f7fce">}}
 
@@ -300,7 +491,7 @@ The capture card is providing best quality video streaming and the card is perfe
 <li>Non</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B088FBN3JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B088FBN3JW&linkCode=as2&tag=technikaya-20&linkId=8c5239e587bd948b0d89ea29e94f7fce{{</button>}}
 
-### 5. ACEMAX HDMI Game Capture Card
+### ACEMAX HDMI Game Capture Card
 
 {{<singlep pimg="/uploads/acemax-hdmi.jpg" pname="ACEMAX HDMI Game Capture Card" plink="https://www.amazon.com/gp/product/B07JYV9QZY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07JYV9QZY&linkCode=as2&tag=technikaya-20&linkId=3afbc5bea8c6bf858154c5ce899f44ac">}}
 
