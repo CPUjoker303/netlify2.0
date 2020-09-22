@@ -23,17 +23,32 @@ pickLink: https://www.amazon.com/gp/product/B07Q3G3B67/ref=as_li_tl?ie=UTF8&tag=
 
 Many gamers are facing some trouble in Discord that, Discord is not opening in window 10,8,7, etc. So In this informative article, we are going to show you how to fix Discord not opening in windows 10
 
-### Fix Discord Not Opening In Windows 
+### Fix Discord Not Opening In Windows
 
 * Go to search Bar and then type ‘ Task Manager’ and then click to open it.
 * When the task manager will open then you have to  click on ‘  Open More Details’
-*  Serach for Discored and then press Right Click on it and then click on end task
-*  Then Close the Task manager
+* Serach for Discored and then press Right Click on it and then click on end task
+* Then Close the Task manager
 * Go To Search bar and type ‘RUN’ and then open it
-*  When the search bar will open type %TEMP% and then press ‘OK’
-*  Go to the Discord Folder And then press Right click on it
-*  Select delete and then close the window
+* When the search bar will open type %TEMP% and then press ‘OK’
+* Go to the Discord Folder And then press Right click on it
+* Select delete and then close the window
 * Go the desktop and press right click on Discord Icon and Selecet ‘ Run run as administrator’ and then click on Yes
 * It will take some time to open discord and your problem will solved . The discord will open perfectly
 
 If you will follow these ten steps correctly then your problem will solve easily. If you don’t know about discord then you can get some knowledge below:
+
+### What Is Discord Used For And How It Works
+
+![<img src="what-is-discord.jpg" alt="what is discord used for and how it works">](/uploads/what-is-discord.jpg "what is discord used for and how it works")
+
+We all know about Facebook, Whatsapp, Instagram, or any other application that provides multi-features to their users. These applications allow their users to upload pictures and videos, and users can connect with family and friends easily by using these smart applications. Users can easily chat with their friends and family and post their photos and videos. These Multi features connect their users strongly with the Community.
+
+Discord is an online application that allows you to communicate using text, images, audio, and video, and it is free. Discord is also providing advanced Multi features to its users like group chatting, video calling, link sharing, images, videos, and more. We use the word ‘ Server’ For Community. Each Community is called ‘Server.’
+
+### Availability Of Discord
+
+•	Mac
+•	PC
+•	iPhone
+•	Android
