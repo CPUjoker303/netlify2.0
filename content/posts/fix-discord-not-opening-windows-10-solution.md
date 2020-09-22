@@ -15,8 +15,25 @@ tags:
 categories:
   - Information
 schemaMarkup: VV
-pickName: VV
-pickImg: /uploads/3-plus.jpeg
-pickLink: VV
+pickName: Dell Inspiron Gaming PC
+pickImg: /uploads/dell-inspiron.jpg
+pickLink: https://www.amazon.com/gp/product/B07Q3G3B67/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07Q3G3B67&linkId=8ddc1db552916edd99c0e1118dc0d677
 ---
-VV
+
+
+Many gamers are facing some trouble in Discord that, Discord is not opening in window 10,8,7, etc. So In this informative article, we are going to show you how to fix Discord not opening in windows 10
+
+### Fix Discord Not Opening In Windows 
+
+* Go to search Bar and then type ‘ Task Manager’ and then click to open it.
+* When the task manager will open then you have to  click on ‘  Open More Details’
+*  Serach for Discored and then press Right Click on it and then click on end task
+*  Then Close the Task manager
+* Go To Search bar and type ‘RUN’ and then open it
+*  When the search bar will open type %TEMP% and then press ‘OK’
+*  Go to the Discord Folder And then press Right click on it
+*  Select delete and then close the window
+* Go the desktop and press right click on Discord Icon and Selecet ‘ Run run as administrator’ and then click on Yes
+* It will take some time to open discord and your problem will solved . The discord will open perfectly
+
+If you will follow these ten steps correctly then your problem will solve easily. If you don’t know about discord then you can get some knowledge below:
