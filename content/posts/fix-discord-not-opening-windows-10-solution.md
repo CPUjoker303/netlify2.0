@@ -132,7 +132,7 @@ pickLink: https://www.amazon.com/gp/product/B07Q3G3B67/ref=as_li_tl?ie=UTF8&tag=
 ---
 
 
-Many gamers are facing some trouble in Discord that, Discord is not opening in window 10,8,7, etc. So In this informative article, we are going to show you how to fix Discord not opening in windows 10
+Many [gamers](https://en.wikipedia.org/wiki/Gamers!) are facing some trouble in Discord that, Discord is not opening in window 10,8,7, etc. So In this informative article, we are going to show you how to fix Discord not opening in windows 10
 
 ### Fix Discord Not Opening In Windows
 
@@ -155,7 +155,7 @@ If you will follow these ten steps correctly then your problem will solve easily
 
 We all know about Facebook, Whatsapp, Instagram, or any other application that provides multi-features to their users. These applications allow their users to upload pictures and videos, and users can connect with family and friends easily by using these smart applications. Users can easily chat with their friends and family and post their photos and videos. These Multi features connect their users strongly with the Community.
 
-Discord is an online application that allows you to communicate using text, images, audio, and video, and it is free. Discord is also providing advanced Multi features to its users like group chatting, video calling, link sharing, images, videos, and more. We use the word ‘ Server’ For Community. Each Community is called ‘Server.’
+Discord is an online application that allows you to [communicate](https://en.wikipedia.org/wiki/Communication) using text, images, audio, and video, and it is free. Discord is also providing advanced Multi features to its users like group chatting, video calling, link sharing, images, videos, and more. We use the word ‘ Server’ For Community. Each Community is called ‘Server.’
 
 ### Availability Of Discord
 
@@ -208,4 +208,4 @@ You should have a server if you are a streamer. One of the most important of str
 
 #### Reason #2
 
-Discord will give you a lot of control over what you can do with your community communication channel. You can assign to your users to a particular role you want them to have. You can assign the role of administrator or moderator to people you trust. It allows you to keep your channel clean of inappropriate behavior and keep trolls out of there.
+Discord will give you a lot of[ control](https://en.wikipedia.org/wiki/Control) over what you can do with your community communication channel. You can assign to your users to a particular role you want them to have. You can assign the role of administrator or moderator to people you trust. It allows you to keep your channel clean of inappropriate behavior and keep trolls out of there.
