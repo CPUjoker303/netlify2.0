@@ -33,7 +33,7 @@ schemaMarkup: >-
 
   "position": 1,
 
-  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming-2020//msi-h310m-gaming-arctic",
+  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming-2020/msi-h310m-gaming-arctic",
 
   "@id": "msi-h310m-gaming-arctic ",
 
@@ -45,7 +45,7 @@ schemaMarkup: >-
 
   "position": 2,
 
-  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming-2020//asus-prime-z390",
+  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming-2020/asus-prime-z390",
 
   "@id": "asus-prime-z390 ",
 
@@ -57,7 +57,7 @@ schemaMarkup: >-
 
   "position": 3,
 
-  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming-2020//asus-prime-x470-pro",
+  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming-2020/asus-prime-x470-pro",
 
   "@id": "asus-prime-x470-pro ",
 
@@ -69,7 +69,7 @@ schemaMarkup: >-
 
   "position": 4,
 
-  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming-2020//msi-b450m-mortar-titanium",
+  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming-2020/msi-b450m-mortar-titanium",
 
   "@id": "msi-b450m-mortar-titanium ",
 
@@ -81,7 +81,7 @@ schemaMarkup: >-
 
   "position": 5,
 
-  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming-2020//asus-prime-x570-pro",
+  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming-2020/asus-prime-x570-pro",
 
   "@id": "asus-prime-x570-pro ",
 
@@ -93,7 +93,7 @@ schemaMarkup: >-
 
   "position": 6,
 
-  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming-2020//asus-prime-x570-p",
+  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming-2020/asus-prime-x570-p",
 
   "@id": "asus-prime-x570-p ",
 
