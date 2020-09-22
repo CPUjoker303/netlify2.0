@@ -32,7 +32,7 @@ schemaMarkup: >+
 
   "position": 1,
 
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//audio-technica-bphs1",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/audio-technica-bphs1",
 
   "@id": "audio-technica-bphs1 ",
 
@@ -44,7 +44,7 @@ schemaMarkup: >+
 
   "position": 2,
 
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//turtle-beach---i30-premium",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/turtle-beach---i30-premium",
 
   "@id": "turtle-beach---i30-premium ",
 
@@ -56,7 +56,7 @@ schemaMarkup: >+
 
   "position": 3,
 
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//razer-kraken-pro-v2",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/razer-kraken-pro-v2",
 
   "@id": "razer-kraken-pro-v2 ",
 
@@ -68,7 +68,7 @@ schemaMarkup: >+
 
   "position": 4,
 
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//plantronics-rig-stereo-headset",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/plantronics-rig-stereo-headset",
 
   "@id": "plantronics-rig-stereo-headset ",
 
@@ -80,7 +80,7 @@ schemaMarkup: >+
 
   "position": 5,
 
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//hellopower-gaming-headset",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/hellopower-gaming-headset",
 
   "@id": "hellopower-gaming-headset ",
 
@@ -92,7 +92,7 @@ schemaMarkup: >+
 
   "position": 6,
 
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//jbl-quantum-100",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/jbl-quantum-100",
 
   "@id": "jbl-quantum-100 ",
 
@@ -104,7 +104,7 @@ schemaMarkup: >+
 
   "position": 7,
 
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//gaming-headset-for-ps4-xbox-one-pc-laptop",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/gaming-headset-for-ps4-xbox-one-pc-laptop",
 
   "@id": "gaming-headset-for-ps4-xbox-one-pc-laptop ",
 
@@ -116,7 +116,7 @@ schemaMarkup: >+
 
   "position": 8,
 
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming//razer-kraken-x-ultralight",
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/razer-kraken-x-ultralight",
 
   "@id": "razer-kraken-x-ultralight ",
 
