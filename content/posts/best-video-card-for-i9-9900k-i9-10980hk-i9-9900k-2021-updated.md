@@ -2,7 +2,7 @@
 title: Best Video Card For i9 9900k & i9 10980HK & i9 9900k (2021 Updated)
 draft: true
 SEOTitle: Best Video Card For i9 9900k & i9 10980HK & i9 9900k (2021 Updated)
-excrept: Here You Find Best Video Card For i9 9900k & i9 10980HK & i9 9900k .
+excrept: Here You Find 10 Best Video Card For i9 9900k & i9 10980HK & i9 9900k .
   These Graphics Card are Best GPU for your i9 processors and for Best Gaming
   Experience!
 metaKeywords: Best Video Card For i9 9900k
