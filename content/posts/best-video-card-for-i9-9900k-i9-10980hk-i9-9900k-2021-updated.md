@@ -111,3 +111,66 @@ The point is that in old times there are 30 to 40 fps some difference between In
 	Allimiunium back plate
 
 {{</singlep>}}
+
+There are two different models of 2080 Dual, which are the Advanced model and OC model. The only difference is OC addition comes with higher clock speed out of the box. In the box, you get GPU with driver DVD and instruction book. 
+
+It comes with 4352 cores. This model comes with a boost speed of 1665 MHz.  As far as memory goes, it comes with 11 GB of GDDR 6 at 14000 Mhz on a 352-bit bus, which should be plenty for most games, and it is coming with the 215 TDP, which is decently low with than the 250 TDP of the GTX 1080 Ti performance. 
+
+The heat sink is much bigger then the previous generation, and it is just huge by comparison. It has a painted wing plate fan design. It comes with air dispel technology. This means the fans will be turned off when you are doing casual things. It has an aluminum backplate, which looks good. 
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Interface		</td>
+<td>PCI-E</td>
+</tr>
+<tr>
+<td>Coprocessor		</td>
+<td>NVIDIA GeForce RTX 2080 Ti</td>
+</tr>
+<tr>
+<td>Ram Size		</td>
+<td>11 GB</td>
+</tr>
+<tr>
+<td>Graphics Ram		</td>
+<td>GDDR6</td>
+</tr>
+<tr>
+<td>Hardware Interface		</td>
+<td>PCI Express x8</td>
+</tr>
+<tr>
+<td>Memory Speed		</td>
+<td>1665 MHz</td>
+</tr>
+<tr>
+<td>Max PSU		</td>
+<td>600W</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+It comes with a 144-hours validation process, which includes a bunch of games and benchmark, and it is a really good idea since many people are worried about buying RTX graphics card because they have heard a few stories about reliability issues and things like that, so this is a really good idea by ASUS to make people more comfortable buying their products. 
+
+We see a single eight-pin and single six-pin and single display port, a single HDMI port, and middle there another display port and type C port. In the bottom there which is insane, and we going to see more and more companies do that now, which is display port that is the one you going to be one thing to use, so that is really good. The card size is 268 mm by 114 mm by 25 mm so, it got a decent size there and fit design with 2.7 slot design. 
+
+{{<pros>}}
+
+<li>Great overclocking </li>
+<li>It Runs cool </li>
+<li>It has customized RGB which looks great </li>
+<li>Supporting up to 4 monitors</li>
+<li>Very quiet card</li>
+<li></li>
+{{</pros>}}
+{{<cons>}}
+<li>The price </li>
+<li>The card is top-notch</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07HY6QWXN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07HY6QWXN&linkId=bbe5cadeb6d30914a72baa8cb91cddaf{{</button>}}
