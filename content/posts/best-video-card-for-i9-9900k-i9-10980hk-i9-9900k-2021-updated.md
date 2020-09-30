@@ -486,3 +486,15 @@ The boost clock of the card is 1770 MHz. It would have been great to have anothe
 	Silent mode  
 
 {{</singlep>}}
+
+The card is decent and pretty damn small. The card is as big as the pulse version of the Rx 580, and the card is more powerful than a vega 56 while under volts and overclocked while being more powerful. 
+
+It has an eight-pin connector. The card has 6 GB of memory and boost clock up to 1750 MHz. The card has dual fans, which feature the quick connect option, which is awesome. If you want to quickly pop out a fan and replace it or If you broke one of the fan blades, or If it seizes up, or If you want to clean it, then you can quickly do that. 
+
+The card has three display ports and a single HDMI port and a 1-1 8 pin connector for your power supply. If we talk about power supply so, you must have at least 500 to 550-watt power supply recommended.  
+
+#### Specifications
+
+
+
+Sapphire actually has dual bios as well. You got a silent mode, so the fans will not spin when the card is idealing or not working too hard. You also got a gaming mod, so if you want to only just go ahead and unlock all that performance, you can just do that with a physical switch. The card is not super long, and it is only two hundred and ten millimeters long. The card can easily fit in any micro ATX and mini ATX case. The backplate is actually quite nice, and it is a full aluminum backplate.
