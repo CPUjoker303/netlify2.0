@@ -246,9 +246,68 @@ At the end of the card, you get three display ports, version 1.4 and one HDMI po
 
 ## Sapphire Radeon Pulse RX 5700 XT 
 
-{{<singlep pimg="/uploads/sapphire-radeon-pulse-rx-5700-xt.jpg" pname="Sapphire Radeon Pulse RX 5700 XT" plink="https://www.amazon.com/gp/product/B07VJPNG1M/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VJPNG1M&linkId=c67fea6c52f47d082d84ad1edc2aea5d">}}
+{{<singlep pimg="/uploads/sapphire-radeon-pulse-rx-5700-xt.jpg" pname="Sapphire Radeon Pulse RX 5700 XT" plink="https://www.amazon.com/gp/product/B07WC7683C/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WC7683C&linkId=049e48e449306c982190243217cb2173">}}
 	Meatl back plate 
 	Red glowing non rgb Sapphire logo
 	Providing excellent peroformance
 
 {{</singlep>}}
+
+The card looks good, and it has a proper video card design. The metal backplate looks much better. On the side, you will find a red glowing non-rgb Sapphire logo. The power connection configuration is the same one eight-pin and one six-pin PCL express power connector. The same goes for video output configuration with one HDMI and three display ports. 
+
+For its cooler configuration, Sapphire just slapped on to this Rx 5700 XT. Basically, the same cooler setup on there RX safety 700 plus a nice big single chunk of the aluminum heatsink but with the slight upgrade, this one have five heat pipes instead of three on the RX 5700 model, although its TDP is just slightly higher compare to it as you will see later on despite having a more beefed the cooler. The RX 5700 XT version brings in higher temperatures of is GPU and surrounding components before all as the GPU voltage is around point 2 volts higher with the fan speed being mostly around 1400 to 1500 RPM, which was still very quiet. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Memory Speed		</td>
+<td>1.4 GHz</td>
+</tr>
+<tr>
+<td>Graphics Coprocessor		</td>
+<td>AMD Radeon Navi</td>
+</tr>
+<tr>
+<td>Chipset Brand		</td>
+<td>AMD</td>
+</tr>
+<tr>
+<td>Card Description		</td>
+<td>RADEON RX 5700XT</td>
+</tr>
+<tr>
+<td>Graphics Card Ram Size		</td>
+<td>8 GB</td>
+</tr>
+<tr>
+<td>Dimensions  LxWxH  </td>
+<td>12.5 x 8.5 x 2.75 inches</td>
+</tr>
+<tr>
+<td>Manufacturer		</td>
+<td>SAPPHIRE</td>
+</tr>
+<tr>
+<td>Memory Bus Width		</td>
+<td>256 bits</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The card base clock is 1670 MHz, and its gaming clock is 1815 MHz. The boost clock of the card is 1925 MHz. The memory type of the card is 8gb GDDR6 256 bit, and it comes with dual c-cooling technology. It has a tough metal backplate. The bios support of RX 5700 XT is dual UEFI. The power consumption of the card is 241watt, and the recommended power supply is a minimum of 600 watts and better will 650 watts. For better performance, you must have 8 GB or 16 GB system memory on your pc. The video card is providing excellent performance. So the card is much pretty cool, and It will provide you excellent performance .
+
+{{<pros>}}
+
+<li>The video card is really quiet, </li>
+<li>It Supports VR</li>
+<li>Gpu is solid</li>
+<li>Works fine for gaming</li>
+{{</pros>}}
+{{<cons>}}
+<li>Needs a driver update</li>
+<li>People get  a black screen for 3-5 seconds due to AMD drivers issues</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07WC7683C/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WC7683C&linkId=049e48e449306c982190243217cb2173{{</button>}}
