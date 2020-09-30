@@ -419,3 +419,10 @@ The card real boost clock is 1618 MHz, and it is a 6144 MB GDDR6 graphics card. 
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B083GH7LXW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083GH7LXW&linkId=ac4cfd56ae25b1590539ec6d5fb511f4{{</button>}}
 
 ## ZOTAC Gaming GeForce RTX 2070 Super Mini
+
+{{<singlep pimg="/uploads/zotac-gaming-geforce-rtx-2070-super-min.jpg" pname="ZOTAC Gaming GeForce RTX 2070 Super Mini" plink="https://www.amazon.com/gp/product/B07XSPWMP9/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07XSPWMP9&linkId=2d7aa82617f6120e48cf072138b1b747">}}
+	Video Card has two fans
+	White LED Logo
+	Dual slot card 
+
+{{</singlep>}}
