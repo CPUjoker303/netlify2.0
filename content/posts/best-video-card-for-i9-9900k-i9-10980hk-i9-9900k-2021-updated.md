@@ -685,3 +685,14 @@ You will need an eight-pin  PSU connector to power it, and it offers two display
 {{</html-code>}}
 
  It is a nicely overclocked Gtx 1660ti. The card has an 1890 MHz boost clock and 1536 CUDA cores overclocked. The memory type of the card is GDDr6 6gb. The overall card is really nice and providing excellent performance.
+
+{{<pros>}}
+
+<li>It Fits perfectly</li>
+<li>Much better than 1060</li>
+<li>Better build quality </li>
+<li>Supports 4 monitors.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Fan shroud not secured</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07NHQ5HNW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07NHQ5HNW&linkCode=as2&tag=technikaya-20&linkId=7a9fabe210fa40328f90c21d75f3930b{{</button>}}
