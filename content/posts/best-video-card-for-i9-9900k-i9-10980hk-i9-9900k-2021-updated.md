@@ -426,3 +426,44 @@ The card real boost clock is 1618 MHz, and it is a 6144 MB GDDR6 graphics card. 
 	Dual slot card 
 
 {{</singlep>}}
+
+If we take a look at RTX 2070 MINI graphics card, it has a black and grey color scheme so, the neutral colors should help it blend in with most builds. There are two fans on the front, a 90mm, and 100mm. The graphics card has a nice metal backplate with the ZOTAC logo. 
+
+It has a single eight-pin connector on top. There is some white LED lighting on the top ZOTAC logo and on the front above and below the fans in the center. For the I/o, we got Three display port outputs, which are single HDMI 2.0 and single DVI-D outputs. 
+
+The card is on the small size, and it comes in at 21cm long and 13cm tall, and 4cm thick. The card is the dual-slot card. We got 8gb of GDDR6 memory, which seems of one of the main selling points over 2060 with 6gb below it. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Memory Speed		</td>
+<td>1770 MHz</td>
+</tr>
+<tr>
+<td>Graphics Coprocessor		</td>
+<td>NVIDIA GeForce RTX 2070</td>
+</tr>
+<tr>
+<td>Graphics Card Ram Size		</td>
+<td>11.3 x 8.7 x 3.4 inches</td>
+</tr>
+<tr>
+<td>Dimensions		</td>
+<td>8 GB</td>
+</tr>
+<tr>
+<td>Manufacturer		</td>
+<td>ZOTAC</td>
+</tr>
+<tr>
+<td>Chipset Brand	</td>
+<td>Nvidia</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The boost clock of the card is 1770 MHz. It would have been great to have another 2070 to compare the smaller one against. The card is especially capable of 1080p and 1440p resolutions even in higher settings level, 4k is ok in some, but you will probably need lower settings at 2070 for a better experience there. Out of the box, it is providing better cooling and higher boost clocks. It is definitely a nice option if the size is a limitation on your PC. It is a better video card for your i9 9900k.
