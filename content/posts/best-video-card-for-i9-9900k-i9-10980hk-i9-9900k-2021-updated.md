@@ -365,3 +365,10 @@ The card has three display ports and one USB type c port and an HDMI port. The c
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07V6SJLSG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V6SJLSG&linkId=972f4532c43c7597ee5b313ddd91477c{{</button>}}
 
 ## Evga Geforce Rtx 2060 KO
+
+{{<singlep pimg="/uploads/evga-geforce-rtx-2060-ko.jpg" pname="Evga Geforce Rtx 2060 KO" plink="https://www.amazon.com/gp/product/B083GH7LXW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083GH7LXW&linkId=ac4cfd56ae25b1590539ec6d5fb511f4">}}
+	Insane peraformance
+	Flashy back plate
+	Card doesn’t have any SAG 
+
+{{</singlep>}}
