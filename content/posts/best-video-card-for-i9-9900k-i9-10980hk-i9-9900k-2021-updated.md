@@ -185,3 +185,59 @@ We see a single eight-pin and single six-pin and single display port, a single H
 	Base plate design 
 
 {{</singlep>}}
+
+This specific variant of the card is actually really nice because it is not like huge bulky coolers on it. It fits on all form factors. The GPU has a massive cooling system. The graphic card has EVGA  ICx 2 cooling system and should be more improved over there previous ACX system. 
+
+The heatsink is double than that 2080 ti, and the base plate design is now made more contact with the GPU components, dissipate more heat. Being that the heatsink is a lot thicker and all, it's good to know that you will lose a PCI express slot as this card covered the area of two PCI express slots. The fans are quieter than the 2080 ti and do a good job at moving air over the heatsink. 
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Graphics Card Interface		</td>
+<td>PCI-Express x16</td>
+</tr>
+<tr>
+<td>Graphics Coprocessor	</td>
+<td>NVIDIA GeForce RTX 2080 </td>
+</tr>
+<tr>
+<td>Graphics Ram Size		</td>
+<td>8 GB</td>
+</tr>
+<tr>
+<td>Graphics Ram	</td>
+<td>GDDR6</td>
+</tr>
+<tr>
+<td>Hardware Interface		</td>
+<td>PCI Express x8</td>
+</tr>
+<tr>
+<td>Memory Bus Width		</td>
+<td>256 bits256 bits</td>
+</tr>
+<tr>
+<td>Memory Clock Speed</td>
+<td>15500 MHz</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The GPU requires a six-pin, and eight-pin PCL power connector, so make sure you have appropriate connectors or adapter for your power supply as they are included with this GPU. The power supply required is 650 watt or better is also required. The overall length of this GPU is 10.62 inches or 269 mm. Just another thing to know if you are trying to fit this card into smaller cases. 
+
+At the end of the card, you get three display ports, version 1.4 and one HDMI port version 2.lb, and best of all, you get a USB type c port, which is very useful. Nowadays, most motherboards come with USB type c port, so having an extra for phones, virtual reality devices, and external hard drives is a major bonus. The installation of this card is pretty straight forward. 
+
+{{<pros>}}
+
+<li>USB-C</li>
+<li>Occupies only 2 PCI-e slots</li>
+<li>It runs cool </li>
+<li>USB type c port</li>
+<li>VerySilent Card</li>
+{{</pros>}}
+{{<cons>}}
+<li>Without any light</li>
+<li>No backplate </li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07VJPNG1M/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VJPNG1M&linkId=c67fea6c52f47d082d84ad1edc2aea5d{{</button>}}
