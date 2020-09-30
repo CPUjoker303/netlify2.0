@@ -534,3 +534,12 @@ Sapphire actually has dual bios as well. You got a silent mode, so the fans will
 <li>Can't control the RGB of the card.</li>
 <li>Static red all the time</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B083R25Z94/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083R25Z94&linkId=ed2b0680ff1984923364d05922200091{{</button>}}
+
+## Asus TUF Gaming GeForce GTX 1650 Super Overclocked
+
+{{<singlep pimg="/uploads/asus-tuf-gaming-geforce-gtx-1650-super.jpg" pname="Asus TUF Gaming GeForce GTX 1650 Super OC" plink="https://www.amazon.com/gp/product/B081KY5L57/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081KY5L57&linkId=24849f23c36faf0b2951f9b2f320bde8">}}
+	HDMI and display port 
+	The card has two fans
+	lovely metal back plate
+
+{{</singlep>}}
