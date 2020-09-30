@@ -589,3 +589,12 @@ The card has a lovely metal backplate. The unique feature on the 1650 super Stri
 {{<cons>}}
 <li>Too big for asus X570 board technically</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B081KY5L57/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081KY5L57&linkId=24849f23c36faf0b2951f9b2f320bde8{{</button>}}
+
+## Asus Geforce GTX 1660 Super Overclocked 6gb Dual Fan
+
+{{<singlep pimg="/uploads/asus-geforce-gtx-1660-super-overclocked-6gb-dual-fan.jpg" pname="Asus Geforce GTX 1660 Super Overclocked 6gb Dual Fan" plink="https://www.amazon.com/gp/product/B07ZHWQ81N/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07ZHWQ81N&linkId=0ce050f9bf20bf605dc4b8607c3acb27">}}
+	Great performance 
+	Normal price
+	4 monitors support
+
+{{</singlep>}}
