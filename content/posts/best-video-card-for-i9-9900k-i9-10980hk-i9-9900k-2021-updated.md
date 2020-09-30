@@ -467,3 +467,13 @@ The card is on the small size, and it comes in at 21cm long and 13cm tall, and 4
 {{</html-code>}}
 
 The boost clock of the card is 1770 MHz. It would have been great to have another 2070 to compare the smaller one against. The card is especially capable of 1080p and 1440p resolutions even in higher settings level, 4k is ok in some, but you will probably need lower settings at 2070 for a better experience there. Out of the box, it is providing better cooling and higher boost clocks. It is definitely a nice option if the size is a limitation on your PC. It is a better video card for your i9 9900k.
+
+{{<pros>}}
+
+<li>Great Performance</li>
+<li>Dual fans can keep it cool under heavy load</li>
+<li>Cheap price for a decent GPU</li>
+{{</pros>}}
+{{<cons>}}
+<li>Card looked like been in a smokers PC,</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07XSPWMP9/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07XSPWMP9&linkId=2d7aa82617f6120e48cf072138b1b747{{</button>}}
