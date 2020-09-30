@@ -495,6 +495,42 @@ The card has three display ports and a single HDMI port and a 1-1 8 pin connecto
 
 #### Specifications
 
+{{<html-code tag="div">}}
 
+<table>
+<tbody><tr>
+<td>Memory Speed		</td>
+<td>14000 MHz</td>
+</tr>
+<tr>
+<td>Graphics Coprocessor	 	</td>
+<td>NVIDIA GeForce RTX 2060</td>
+</tr>
+<tr>
+<td>Graphics Card Ram Size		</td>
+<td>6 GB</td>
+</tr>
+<tr>
+<td>Product Dimensions		</td>
+<td>7.96 x 1.54 x 4.38 inches</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
 
 Sapphire actually has dual bios as well. You got a silent mode, so the fans will not spin when the card is idealing or not working too hard. You also got a gaming mod, so if you want to only just go ahead and unlock all that performance, you can just do that with a physical switch. The card is not super long, and it is only two hundred and ten millimeters long. The card can easily fit in any micro ATX and mini ATX case. The backplate is actually quite nice, and it is a full aluminum backplate.
+
+{{<pros>}}
+
+<li>Card feels good,</li>
+<li>It has excellent weight, and looks sharp. </li>
+<li>Performance-wise the card is comparable to a RTX2060.</li>
+<li>Effective cooling solution</li>
+<li>Best Thermals</li>
+<li>Best OC headroom</li>
+<li>Can be undervolted.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Can't control the RGB of the card.</li>
+<li>Static red all the time</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B083R25Z94/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083R25Z94&linkId=ed2b0680ff1984923364d05922200091{{</button>}}
