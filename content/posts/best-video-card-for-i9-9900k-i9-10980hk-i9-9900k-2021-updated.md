@@ -654,3 +654,34 @@ There is no backplate on the board of the graphics card, which keeps the graphic
 	Quiet mode 
 
 {{</singlep>}}
+
+It is the high-end rog Strix version that promises to be the ultimate GTX 1660ti.  It has the three fan design which looks great. It is clearly well made, and the backplate is beautiful, and it looks and feels like a proper high-end GPU. It also retains the Bios features allowing you to switch from quiet mode to performance mode. 
+
+You will need an eight-pin  PSU connector to power it, and it offers two display ports and two HDMI connections for your monitors. On the side of the card, ASUS added two fan connectors allowing you to control two case fans directly based on the GPU temperatures, and there is also an RGB Connectors to hookup an  RGB another accessory.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Max Screen Resolution		</td>
+<td>7680 x 4320</td>
+</tr>
+<tr>
+<td>Chipset Brand		</td>
+<td>NVIDIA</td>
+</tr>
+<tr>
+<td>Product Dimensions		</td>
+<td>16 x 9.2 x 3.5 inches</td>
+</tr>
+<tr>
+<td>Memory Speed		</td>
+<td>1890</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+ It is a nicely overclocked Gtx 1660ti. The card has an 1890 MHz boost clock and 1536 CUDA cores overclocked. The memory type of the card is GDDr6 6gb. The overall card is really nice and providing excellent performance.
