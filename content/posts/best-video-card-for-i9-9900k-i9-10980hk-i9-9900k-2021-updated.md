@@ -405,3 +405,15 @@ The RTX 2060 is a peculiar graphics card, and it boasts the same GPU as it is th
 The GEFORCE RTX text has a mirror finish but glows neon green. The backplate is beautiful highlighted in a silver that seems to stand out more so than reference cards of year past. The backplate is flashy and looks great. The rare i/o plate is matte black as well the following suit with its bigger brothers. The card doesn’t have any SAG at all, which is good. 
 
 The card real boost clock is 1618 MHz, and it is a 6144 MB GDDR6 graphics card. The memory bandwidth of this card is 336 GB/s, and the memory bit width is 192 bit. Overall the card is great and providing good performance.
+
+{{<pros>}}
+
+<li>Decent price for performance</li>
+<li>Card is very Short</li>
+<li>Super performance</li>
+<li>Super quiet</li>
+<li>In csgo over 350 fps</li>
+{{</pros>}}
+{{<cons>}}
+<li>Takes up both full pci-e lanes and the small pci lane.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B083GH7LXW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083GH7LXW&linkId=ac4cfd56ae25b1590539ec6d5fb511f4{{</button>}}
