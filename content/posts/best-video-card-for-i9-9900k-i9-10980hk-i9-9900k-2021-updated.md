@@ -26,3 +26,5 @@ Out of the box, this processor gives you outstanding performance, and after over
 The i9 processor is providing very solid performance, can perform any task, 4k video rendering easily. If you use Sony Vegas Pro, then Ryzen is best instead of i9 processor. If we compare Ryzen 9 with intel i9 for video rendering process using Adobe Premiere Pro, then i9 processor is faster than Ryzen 9, and if you compare both for other software, then Ryzen is providing better performance. If we talk about only gaming, then toady Intel is champion. 
 
 The point is that in old times there are 30 to 40 fps some difference between Intel and AMD and now the difference is 5 to 6 FPS only. So technically Intel is better than AMD, but if we talk about value then AMD is 2 times better than Intel so, it depends upon you what is your choice.
+
+![]()
