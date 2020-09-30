@@ -598,3 +598,52 @@ The card has a lovely metal backplate. The unique feature on the 1650 super Stri
 	4 monitors support
 
 {{</singlep>}}
+
+The GTX 1660 is providing great performance at a very normal price. The card is turning with 1408 CUDA cores and overclocked. The GPU memory is 6GB GDDR6. The Asus GeForce GTX 1660card can easily support up to 4 monitors. 
+
+The recommended power supply of this card is 450 watt. The video card GTX 1660 ha 2 dual fans, which are able of full cooling control with direct CU 2. The fans have wing blades that are able to increase airflow through the heatsink. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Memory Speed		</td>
+<td>1400 MHz</td>
+</tr>
+<tr>
+<td>Chipset Brand		</td>
+<td>NVIDIA</td>
+</tr>
+<tr>
+<td>Manufacturer		</td>
+<td>Asus</td>
+</tr>
+<tr>
+<td>Graphics Card Ram Size		</td>
+<td>6 GB</td>
+</tr>
+<tr>
+<td>Product Dimensions		</td>
+<td>9.5 x 5.1 x 2.1 inches</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+There is no backplate on the board of the graphics card, which keeps the graphics card cool. The card has solid polymer capacitors.
+
+{{<pros>}}
+
+<li>Very nice looking card</li>
+<li>The white shell is very eye catching </li>
+<li>Buttery smooth</li>
+<li>No buzzing runs very quiet</li>
+<li>Low power draw</li>
+{{</pros>}}
+{{<cons>}}
+<li>Price</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07ZHWQ81N/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07ZHWQ81N&linkId=0ce050f9bf20bf605dc4b8607c3acb27{{</button>}}
+
+## Asus Geforce GTX 1660 ti
