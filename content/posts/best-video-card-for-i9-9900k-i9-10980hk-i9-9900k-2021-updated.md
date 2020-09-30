@@ -311,3 +311,12 @@ The card base clock is 1670 MHz, and its gaming clock is 1815 MHz. The boost clo
 <li>Needs a driver update</li>
 <li>People get  a black screen for 3-5 seconds due to AMD drivers issues</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07WC7683C/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WC7683C&linkId=049e48e449306c982190243217cb2173{{</button>}}
+
+## EVGA GeForce RTX 2070 Super Gaming
+
+{{<singlep pimg="/uploads/evga-geforce-rtx-2070-super-gaming.png" pname="EVGA GeForce RTX 2070 Super Gaming" plink="https://www.amazon.com/gp/product/B07V6SJLSG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V6SJLSG&linkId=972f4532c43c7597ee5b313ddd91477c">}}
+	Dual HDB fans
+	High performance cooling
+	3 display ports 
+
+{{</singlep>}}
