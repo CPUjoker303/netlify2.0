@@ -320,3 +320,46 @@ The card base clock is 1670 MHz, and its gaming clock is 1815 MHz. The boost clo
 	3 display ports 
 
 {{</singlep>}}
+
+The GeForce RTX 2070 Super Gaming is a good performance card, and out of the box, you will get excellent quality performance. The RTX 2070 video card comes with dual HDB fans. The fans are offering high-performance cooling without creating noise. The hydrodynamic bearing fans optimize airflow and increase cooling. 
+
+The  Real Boost Clock of RTX 2070 is 1770 MHz. If we talk about the memory details of this video card, then we come to know that its memory type is 8192 MB GDDR6. The Cuda cores of this graphics card are 2560. It has a PCle 3.0 bus type, which is insane. The card memory bandwidth is 448 GB/s. the card is providing great performance with a 14000 Mhz memory clock. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Memory Speed		</td>
+<td>14000 MHz</td>
+</tr>
+<tr>
+<td>Graphics Coprocessor		</td>
+<td>NVIDIA </td>
+</tr>
+<tr>
+<td>Graphics Card Ram Size		</td>
+<td>8 GB</td>
+</tr>
+<tr>
+<td>Product Dimensions		</td>
+<td>10.62 x 1.54 x 4.38 inches</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The card is very solid. The card can easily work with 4k monitors. The required PSU for this graphics card is of 650 watts.  It has 10.8 billion transistors. The card has six plus eight power pin connectors. In the front of the EVGA 2070, Super Black Edition 08G-P4-3071-KR does not have any LEDs, so the logo will never light up. 
+
+The card has three display ports and one USB type c port and an HDMI port. The card handles VR fantastically. You only need a 970 for VR minimum and can run everything at High-Max settings. The card is SLI supporting graphics card. Overall the EVGA GeForce RTX 2070 Super Gaming is providing excellent performance and is the best video card for i9 9900k. The GPU is good in considering the performance in production and gaming.
+
+{{<pros>}}
+
+<li>Work on a 4K monitor. </li>
+<li>3 DP ports and an HDMI </li>
+<li>Can bring 144+ FPS to complement in144hz monitor</li>
+{{</pros>}}
+{{<cons>}}
+<li>Not come with any LED lighting.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07V6SJLSG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V6SJLSG&linkId=972f4532c43c7597ee5b313ddd91477c{{</button>}}
