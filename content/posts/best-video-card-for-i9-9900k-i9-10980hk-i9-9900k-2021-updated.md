@@ -118,6 +118,8 @@ It comes with 4352 cores. This model comes with a boost speed of 1665 MHz.  As f
 
 The heat sink is much bigger then the previous generation, and it is just huge by comparison. It has a painted wing plate fan design. It comes with air dispel technology. This means the fans will be turned off when you are doing casual things. It has an aluminum backplate, which looks good. 
 
+#### Specifications
+
 {{<html-code tag="div">}}
 
 <table>
@@ -174,3 +176,12 @@ We see a single eight-pin and single six-pin and single display port, a single H
 <li>The price </li>
 <li>The card is top-notch</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07HY6QWXN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07HY6QWXN&linkId=bbe5cadeb6d30914a72baa8cb91cddaf{{</button>}}
+
+### EVGA GeForce RTX 2080 Super Black Gaming
+
+{{<singlep pimg="/uploads/evga-geforce-rtx-2080-super-black-gaming.jpg" pname="EVGA GeForce RTX 2080 Super Black Gaming" plink="https://www.amazon.com/gp/product/B07VJPNG1M/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VJPNG1M&linkId=c67fea6c52f47d082d84ad1edc2aea5d">}}
+	Fits on all form factors
+	Massive cooling system
+	Base plate design 
+
+{{</singlep>}}
