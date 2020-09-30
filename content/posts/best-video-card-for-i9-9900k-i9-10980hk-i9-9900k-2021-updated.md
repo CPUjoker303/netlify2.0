@@ -543,3 +543,38 @@ Sapphire actually has dual bios as well. You got a silent mode, so the fans will
 	lovely metal back plate
 
 {{</singlep>}}
+
+The design is quite good. The card is very similar to the non-super version. It has the HDMI and display port connection. The card has a six-pin power connector that was not present in the non-super version. The cooling system of this graphics card is much better. 
+
+The card has 100-watt TDP versus the 75 or the non-super version. The another very important aspect of this graphics card is the encoder. If we talk about core specifications, It has 4 gigabytes of VRAM. Just like the original 1650, but with the original 1650 super, it is 4 GB of G 6, which is the clock at 12 GB per second. 
+
+It is more accurate to call it a cut-down 1660 rather than an upgraded 1650. It is one of the strict models, and it comes in neat black styling.  The card has two fans. The fans are axial tech fans, and they have a ring going around the outside, which contains the fan HSS, and this should improve overall airflow onto the heatsink itself. The two relatively large fans should do the job fine. 
+
+#### Specifications{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Memory Speed		</td>
+<td>14000 MHz</td>
+</tr>
+<tr>
+<td>Graphics Coprocessor		</td>
+<td>NVIDIA GeForce GTX 1650 SUPER</td>
+</tr>
+<tr>
+<td>Chipset Brand		</td>
+<td>NVIDIA</td>
+</tr>
+<tr>
+<td>Graphics Card Ram Size		</td>
+<td>4 GB</td>
+</tr>
+<tr>
+<td>Item Dimensions 	</td>
+<td>LxWxH	8.1 x 4.9 x 1.8 inches</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The card has a lovely metal backplate. The unique feature on the 1650 super Strix that there is a fan header just on the end of the PCB so, if you have another fan in your case, maybe you have run out of the headers on your motherboard, you can plug that indirectly to the graphics card itself into the PCB and have the fan speed controlled by the graphics card itself.
