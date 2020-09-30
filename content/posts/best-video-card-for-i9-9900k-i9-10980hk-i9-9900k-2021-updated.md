@@ -647,3 +647,10 @@ There is no backplate on the board of the graphics card, which keeps the graphic
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07ZHWQ81N/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07ZHWQ81N&linkId=0ce050f9bf20bf605dc4b8607c3acb27{{</button>}}
 
 ## Asus Geforce GTX 1660 ti
+
+{{<singlep pimg="/uploads/asus-geforce-gtx-1660-ti.jpg" pname="Asus Geforce GTX 1660 ti" plink="https://www.amazon.com/gp/product/B07NHQ5HNW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07NHQ5HNW&linkCode=as2&tag=technikaya-20&linkId=7a9fabe210fa40328f90c21d75f3930b">}}
+	Three fan design 
+	Back plate is beautiful
+	Quiet mode 
+
+{{</singlep>}}
