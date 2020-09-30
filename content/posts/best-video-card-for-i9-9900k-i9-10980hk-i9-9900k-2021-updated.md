@@ -190,6 +190,8 @@ This specific variant of the card is actually really nice because it is not like
 
 The heatsink is double than that 2080 ti, and the base plate design is now made more contact with the GPU components, dissipate more heat. Being that the heatsink is a lot thicker and all, it's good to know that you will lose a PCI express slot as this card covered the area of two PCI express slots. The fans are quieter than the 2080 ti and do a good job at moving air over the heatsink. 
 
+#### Specifications
+
 {{<html-code tag="div">}}
 
 <table>
@@ -241,3 +243,12 @@ At the end of the card, you get three display ports, version 1.4 and one HDMI po
 <li>Without any light</li>
 <li>No backplate </li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07VJPNG1M/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VJPNG1M&linkId=c67fea6c52f47d082d84ad1edc2aea5d{{</button>}}
+
+## Sapphire Radeon Pulse RX 5700 XT 
+
+{{<singlep pimg="/uploads/sapphire-radeon-pulse-rx-5700-xt.jpg" pname="Sapphire Radeon Pulse RX 5700 XT" plink="https://www.amazon.com/gp/product/B07VJPNG1M/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VJPNG1M&linkId=c67fea6c52f47d082d84ad1edc2aea5d">}}
+	Meatl back plate 
+	Red glowing non rgb Sapphire logo
+	Providing excellent peroformance
+
+{{</singlep>}}
