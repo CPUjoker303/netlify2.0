@@ -578,3 +578,14 @@ It is more accurate to call it a cut-down 1660 rather than an upgraded 1650. It 
 {{</html-code>}}
 
 The card has a lovely metal backplate. The unique feature on the 1650 super Strix that there is a fan header just on the end of the PCB so, if you have another fan in your case, maybe you have run out of the headers on your motherboard, you can plug that indirectly to the graphics card itself into the PCB and have the fan speed controlled by the graphics card itself.
+
+{{<pros>}}
+
+<li>Multi monitor support</li>
+<li>Solid image quality</li>
+<li>Easy installation</li>
+<li>Good 1080 graphics 2d and 3d</li>
+{{</pros>}}
+{{<cons>}}
+<li>Too big for asus X570 board technically</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B081KY5L57/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081KY5L57&linkId=24849f23c36faf0b2951f9b2f320bde8{{</button>}}
