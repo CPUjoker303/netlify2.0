@@ -372,3 +372,36 @@ The card has three display ports and one USB type c port and an HDMI port. The c
 	Card doesn’t have any SAG 
 
 {{</singlep>}}
+
+The KO is just EVGA branding for the RTX 2060. Basically RTX 2060 KO is at a very low price, and the card is supposed to come at approximately three hundred dollars plus tax. The RTX 2060 KO is providing insane performance. 
+
+The RTX 2060 is a peculiar graphics card, and it boasts the same GPU as it is the bigger brother of 2070, but with only 1920 active Cuda cores versus 23:04 and while the 2070 sports 8 gigabytes of VRAM, which is a fair amount of card of its caliber. The RTX 2060 comes equipped with only six as memory bandwidth has reduced RTX intense cores stripped down, and TDP follows suit. The card is the first affordable RTX graphics card. It is a beautiful graphics card. A few odd quirks firstly, the eight-pin (8-pin) supplemental power connector resides on the right face of the card, which means it will face toward the front your case, and since the PCB doesn’t reach this for over, the plug is actually an extension purely a cosmetic play from Nvidia start to keep the front face clean. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Memory Speed		</td>
+<td>14000 MHz</td>
+</tr>
+<tr>
+<td>Graphics Coprocessor	 	</td>
+<td>NVIDIA GeForce RTX 2060</td>
+</tr>
+<tr>
+<td>Graphics Card Ram Size		</td>
+<td>6 GB</td>
+</tr>
+<tr>
+<td>Product Dimensions		</td>
+<td>7.96 x 1.54 x 4.38 inches</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The GEFORCE RTX text has a mirror finish but glows neon green. The backplate is beautiful highlighted in a silver that seems to stand out more so than reference cards of year past. The backplate is flashy and looks great. The rare i/o plate is matte black as well the following suit with its bigger brothers. The card doesn’t have any SAG at all, which is good. 
+
+The card real boost clock is 1618 MHz, and it is a 6144 MB GDDR6 graphics card. The memory bandwidth of this card is 336 GB/s, and the memory bit width is 192 bit. Overall the card is great and providing good performance.
