@@ -363,3 +363,5 @@ The card has three display ports and one USB type c port and an HDMI port. The c
 {{<cons>}}
 <li>Not come with any LED lighting.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07V6SJLSG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V6SJLSG&linkId=972f4532c43c7597ee5b313ddd91477c{{</button>}}
+
+## Evga Geforce Rtx 2060 KO
