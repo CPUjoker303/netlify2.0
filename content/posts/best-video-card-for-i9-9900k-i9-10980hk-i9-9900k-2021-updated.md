@@ -477,3 +477,12 @@ The boost clock of the card is 1770 MHz. It would have been great to have anothe
 {{<cons>}}
 <li>Card looked like been in a smokers PC,</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07XSPWMP9/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07XSPWMP9&linkId=2d7aa82617f6120e48cf072138b1b747{{</button>}}
+
+## Sapphire Radeon Pulse RX 5600 XT
+
+{{<singlep pimg="/uploads/sapphire-radeon-pulse-rx-5600-xt.jpg" pname="Sapphire Radeon Pulse RX 5600 XT" plink="https://www.amazon.com/gp/product/B083R25Z94/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083R25Z94&linkId=ed2b0680ff1984923364d05922200091">}}
+	6 GB of memory
+	Three display ports 
+	Silent mode  
+
+{{</singlep>}}
