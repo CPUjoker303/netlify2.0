@@ -154,11 +154,75 @@ schemaMarkup: >-
   }
 
   </script>
+
+  <script type="application/ld+json">
+
+  {
+
+  "@context": "https://schema.org",
+
+  "@type": "FAQPage",
+
+  "mainEntity": [
+
+  {
+
+  "@type": "Question",
+
+  "name": "What is Core i9 9900k?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Core i9 9900k is Intel best processor for consumers. If you are building a consumer-based system and decided to go with Intel, then i9 9900k is the best solution. The i9 9900k comes with 8 cores and 16 threads which is very powerful."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "Is Intel i9 processors are good in performance?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "The i9 processors is providing very solid performance, can perform any task, 4k video rendering easily."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "what are Best Video Card For i9 9900k & i9 10980HK & i9 10900k?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "ASUS GeForce RTX 2080 Ti Dual-fan Over clocked, EVGA GeForce RTX 2080 Super Black Gaming, Sapphire Radeon Pulse RX 5700 XT, EVGA GeForce RTX 2070 Super Gaming, Evga Geforce Rtx 2060 KO, ZOTAC Gaming GeForce RTX 2070 Super Mini, Sapphire Radeon Pulse RX 5600 XT, Asus TUF Gaming GeForce GTX 1650 Super Overclocked , Asus Geforce GTX 1660 Super Overclocked 6gb Dual Fan,Asus Geforce GTX 1660 ti"
+
+  }
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: EVGA GeForce RTX 2070 Super Gaming
 pickImg: /uploads/evga-geforce-rtx-2070-super-gaming.png
 pickLink: https://www.amazon.com/gp/product/B07V6SJLSG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V6SJLSG&linkId=972f4532c43c7597ee5b313ddd91477c
 ---
-Core i9 9900k is Intel best processor for consumers. If you are building a consumer-based system and decided to go with Intel, then i9 9900k is the best solution. The i9 9900k comes with 8 cores and 16 threads which is very powerful. In this processor, the boost clock is 5 GHz which is insane. When intel was launched i9 processors, they say that it is the fastest processor in the world and nowadays if we take a look at this processor i9 is better than Ryzen 9 only in gaming not in projectivity tasks. We have listed some Best Video Card For i9 9900k & i9 10980HK & i9 10900k.
+Core i9 9900k is Intel best processor for consumers. If you are building a consumer-based system and decided to go with Intel, then i9 9900k is the best solution. The [i9 9900k](https://www.intel.com/content/www/us/en/products/processors/core/i9-processors/i9-9900ks.html) comes with 8 cores and 16 threads which is very powerful. In this processor, the boost clock is 5 GHz which is insane. When intel was launched i9 processors, they say that it is the fastest processor in the world and nowadays if we take a look at this processor i9 is better than Ryzen 9 only in gaming not in projectivity tasks. We have listed some Best Video Card For i9 9900k & i9 10980HK & i9 10900k.
 
 Out of the box, this processor gives you outstanding performance, and after overclocking this processor maximum hardly 5 percent performance increase and temperature also increases so, you must have a good cooler to maintain temperature. So, if you want to overclock this processor, then you must have a good CPU cooler. 
 
@@ -247,7 +311,7 @@ The point is that in old times there are 30 to 40 fps some difference between In
 {{<singlep pimg="/uploads/asus-geforce-rtx-2080-ti-dual-fan-over-clocked.png" pname="ASUS GeForce RTX 2080 Ti Dual-fan Over clocked" plink="https://www.amazon.com/gp/product/B07HY6QWXN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07HY6QWXN&linkId=bbe5cadeb6d30914a72baa8cb91cddaf">}}
 	Painted wing plate fan design 
 	144-hours valadition process 
-	Allimiunium back plate
+	Allumiunium back plate
 
 {{</singlep>}}
 
@@ -255,7 +319,7 @@ There are two different models of 2080 Dual, which are the Advanced model and OC
 
 It comes with 4352 cores. This model comes with a boost speed of 1665 MHz.  As far as memory goes, it comes with 11 GB of GDDR 6 at 14000 Mhz on a 352-bit bus, which should be plenty for most games, and it is coming with the 215 TDP, which is decently low with than the 250 TDP of the GTX 1080 Ti performance. 
 
-The heat sink is much bigger then the previous generation, and it is just huge by comparison. It has a painted wing plate fan design. It comes with air dispel technology. This means the fans will be turned off when you are doing casual things. It has an aluminum backplate, which looks good. 
+The heat sink is much bigger then the previous generation, and it is just huge by comparison. It has a painted wing plate fan design. It comes with air dispel technology. This means the fans will be turned off when you are doing casual things. It has an aluminum backplate, which looks good. So, this is Best Video Card For i9 9900k & i9 10980HK & i9 10900k
 
 #### Specifications
 
@@ -327,7 +391,7 @@ We see a single eight-pin and single six-pin and single display port, a single H
 
 This specific variant of the card is actually really nice because it is not like huge bulky coolers on it. It fits on all form factors. The GPU has a massive cooling system. The graphic card has EVGA  ICx 2 cooling system and should be more improved over there previous ACX system. 
 
-The heatsink is double than that 2080 ti, and the base plate design is now made more contact with the GPU components, dissipate more heat. Being that the heatsink is a lot thicker and all, it's good to know that you will lose a PCI express slot as this card covered the area of two PCI express slots. The fans are quieter than the 2080 ti and do a good job at moving air over the heatsink. 
+The [heatsink](https://en.wikipedia.org/wiki/Heat_sink) is double than that 2080 ti, and the base plate design is now made more contact with the GPU components, dissipate more heat. Being that the heatsink is a lot thicker and all, it's good to know that you will lose a PCI express slot as this card covered the area of two PCI express slots. The fans are quieter than the 2080 ti and do a good job at moving air over the heatsink. 
 
 #### Specifications
 
@@ -368,7 +432,7 @@ The heatsink is double than that 2080 ti, and the base plate design is now made 
 
 The GPU requires a six-pin, and eight-pin PCL power connector, so make sure you have appropriate connectors or adapter for your power supply as they are included with this GPU. The power supply required is 650 watt or better is also required. The overall length of this GPU is 10.62 inches or 269 mm. Just another thing to know if you are trying to fit this card into smaller cases. 
 
-At the end of the card, you get three display ports, version 1.4 and one HDMI port version 2.lb, and best of all, you get a USB type c port, which is very useful. Nowadays, most motherboards come with USB type c port, so having an extra for phones, virtual reality devices, and external hard drives is a major bonus. The installation of this card is pretty straight forward. 
+At the end of the card, you get three display ports, version 1.4 and one HDMI port version 2.lb, and best of all, you get a USB type c port, which is very useful. Nowadays, most motherboards come with USB type c port, so having an extra for phones, virtual reality devices, and external hard drives is a major bonus. The installation of this card is pretty straight forward. So, the card is Best Video Card For i9 9900k.
 
 {{<pros>}}
 
@@ -383,7 +447,7 @@ At the end of the card, you get three display ports, version 1.4 and one HDMI po
 <li>No backplate </li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07VJPNG1M/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VJPNG1M&linkId=c67fea6c52f47d082d84ad1edc2aea5d{{</button>}}
 
-## Sapphire Radeon Pulse RX 5700 XT 
+## Sapphire Radeon Pulse RX 5700 XT
 
 {{<singlep pimg="/uploads/sapphire-radeon-pulse-rx-5700-xt.jpg" pname="Sapphire Radeon Pulse RX 5700 XT" plink="https://www.amazon.com/gp/product/B07WC7683C/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WC7683C&linkId=049e48e449306c982190243217cb2173">}}
 	Meatl back plate 
@@ -491,7 +555,7 @@ The  Real Boost Clock of RTX 2070 is 1770 MHz. If we talk about the memory detai
 
 The card is very solid. The card can easily work with 4k monitors. The required PSU for this graphics card is of 650 watts.  It has 10.8 billion transistors. The card has six plus eight power pin connectors. In the front of the EVGA 2070, Super Black Edition 08G-P4-3071-KR does not have any LEDs, so the logo will never light up. 
 
-The card has three display ports and one USB type c port and an HDMI port. The card handles VR fantastically. You only need a 970 for VR minimum and can run everything at High-Max settings. The card is SLI supporting graphics card. Overall the EVGA GeForce RTX 2070 Super Gaming is providing excellent performance and is the best video card for i9 9900k. The GPU is good in considering the performance in production and gaming.
+The card has three display ports and one USB type c port and an HDMI port. The card handles VR fantastically. You only need a 970 for VR minimum and can run everything at High-Max settings. The card is SLI supporting graphics card. Overall the EVGA GeForce RTX 2070 Super Gaming is providing excellent performance and is the best video card for i9 9900k. The GPU is good in considering the performance in production and gaming. So, it is Best Video Card For i9 9900k & i9 10980HK & i9 10900k
 
 {{<pros>}}
 
@@ -605,7 +669,7 @@ The card is on the small size, and it comes in at 21cm long and 13cm tall, and 4
 </table>
 {{</html-code>}}
 
-The boost clock of the card is 1770 MHz. It would have been great to have another 2070 to compare the smaller one against. The card is especially capable of 1080p and 1440p resolutions even in higher settings level, 4k is ok in some, but you will probably need lower settings at 2070 for a better experience there. Out of the box, it is providing better cooling and higher boost clocks. It is definitely a nice option if the size is a limitation on your PC. It is a better video card for your i9 9900k.
+The boost clock of the card is 1770 MHz. It would have been great to have another 2070 to compare the smaller one against. The card is especially capable of 1080p and 1440p resolutions even in higher settings level, 4k is ok in some, but you will probably need lower settings at 2070 for a better experience there. Out of the box, it is providing better cooling and higher boost clocks. It is definitely a nice option if the size is a limitation on your PC. It is a better video card for your i9 9900k & i9 10980HK & i9 10900k
 
 {{<pros>}}
 
@@ -630,7 +694,7 @@ The card is decent and pretty damn small. The card is as big as the pulse versio
 
 It has an eight-pin connector. The card has 6 GB of memory and boost clock up to 1750 MHz. The card has dual fans, which feature the quick connect option, which is awesome. If you want to quickly pop out a fan and replace it or If you broke one of the fan blades, or If it seizes up, or If you want to clean it, then you can quickly do that. 
 
-The card has three display ports and a single HDMI port and a 1-1 8 pin connector for your power supply. If we talk about power supply so, you must have at least 500 to 550-watt power supply recommended.  
+The card has three display ports and a single HDMI port and a 1-1 8 pin connector for your power supply. If we talk about power supply so, you must have at least 500 to 550-watt power supply recommended. This one is Best Video Card For i9 9900k & i9 10980HK & i9 10900k
 
 #### Specifications
 
@@ -794,7 +858,7 @@ There is no backplate on the board of the graphics card, which keeps the graphic
 
 {{</singlep>}}
 
-It is the high-end rog Strix version that promises to be the ultimate GTX 1660ti.  It has the three fan design which looks great. It is clearly well made, and the backplate is beautiful, and it looks and feels like a proper high-end GPU. It also retains the Bios features allowing you to switch from quiet mode to performance mode. 
+It is the high-end rog Strix version that promises to be the ultimate[ GTX ](https://www.nvidia.com/en-us/geforce/graphics-cards/16-series/)1660ti.  It has the three fan design which looks great. It is clearly well made, and the backplate is beautiful, and it looks and feels like a proper high-end GPU. It also retains the Bios features allowing you to switch from quiet mode to performance mode. 
 
 You will need an eight-pin  PSU connector to power it, and it offers two display ports and two HDMI connections for your monitors. On the side of the card, ASUS added two fan connectors allowing you to control two case fans directly based on the GPU temperatures, and there is also an RGB Connectors to hookup an  RGB another accessory.
 
@@ -823,7 +887,7 @@ You will need an eight-pin  PSU connector to power it, and it offers two display
 </table>
 {{</html-code>}}
 
- It is a nicely overclocked Gtx 1660ti. The card has an 1890 MHz boost clock and 1536 CUDA cores overclocked. The memory type of the card is GDDr6 6gb. The overall card is really nice and providing excellent performance.
+ It is a nicely overclocked GtX 1660ti. The card has an 1890 MHz boost clock and 1536 CUDA cores overclocked. The memory type of the card is GDDR6 6gb. The overall card is really nice and providing excellent performance. It is really Best Video Card For i9 9900k & i9 10980HK & i9 10900k
 
 {{<pros>}}
 
