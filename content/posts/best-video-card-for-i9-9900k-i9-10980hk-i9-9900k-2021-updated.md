@@ -420,7 +420,7 @@ The [heatsink](https://en.wikipedia.org/wiki/Heat_sink) is double than that 2080
 </tr>
 <tr>
 <td>Memory Bus Width		</td>
-<td>256 bits256 bits</td>
+<td>256 bits</td>
 </tr>
 <tr>
 <td>Memory Clock Speed</td>
@@ -432,7 +432,7 @@ The [heatsink](https://en.wikipedia.org/wiki/Heat_sink) is double than that 2080
 
 The GPU requires a six-pin, and eight-pin PCL power connector, so make sure you have appropriate connectors or adapter for your power supply as they are included with this GPU. The power supply required is 650 watt or better is also required. The overall length of this GPU is 10.62 inches or 269 mm. Just another thing to know if you are trying to fit this card into smaller cases. 
 
-At the end of the card, you get three display ports, version 1.4 and one HDMI port version 2.lb, and best of all, you get a USB type c port, which is very useful. Nowadays, most motherboards come with USB type c port, so having an extra for phones, virtual reality devices, and external hard drives is a major bonus. The installation of this card is pretty straight forward. So, the card is Best Video Card For i9 9900k.
+At the end of the card, you get three display ports, version 1.4 and one HDMI port version 2.lb, and best of all, you get a USB type c port, which is very useful. Nowadays, most motherboards come with USB type c port, so having an extra for phones, virtual reality devices, and external hard drives is a major bonus. The installation of this most affordable graphics card is pretty straight forward. So, this best value graphics card is Best Video Card For i9 9900k.
 
 {{<pros>}}
 
@@ -451,12 +451,12 @@ At the end of the card, you get three display ports, version 1.4 and one HDMI po
 
 {{<singlep pimg="/uploads/sapphire-radeon-pulse-rx-5700-xt.jpg" pname="Sapphire Radeon Pulse RX 5700 XT" plink="https://www.amazon.com/gp/product/B07WC7683C/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WC7683C&linkId=049e48e449306c982190243217cb2173">}}
 	Meatl back plate 
-	Red glowing non rgb Sapphire logo
-	Providing excellent peroformance
+	Red glowing Non-RGB Sapphire Logo
+	Providing excellent Performance
 
 {{</singlep>}}
 
-The card looks good, and it has a proper video card design. The metal backplate looks much better. On the side, you will find a red glowing non-rgb Sapphire logo. The power connection configuration is the same one eight-pin and one six-pin PCL express power connector. The same goes for video output configuration with one HDMI and three display ports. 
+The card looks good, and it has a proper video card design. The metal back plate looks much better. On the side, you will find a red glowing Non-RGB Sapphire logo. The power connection configuration is the same one eight-pin and one six-pin PCL express power connector. The same goes for video output configuration with one HDMI and three display ports. 
 
 For its cooler configuration, Sapphire just slapped on to this Rx 5700 XT. Basically, the same cooler setup on there RX safety 700 plus a nice big single chunk of the aluminum heatsink but with the slight upgrade, this one have five heat pipes instead of three on the RX 5700 model, although its TDP is just slightly higher compare to it as you will see later on despite having a more beefed the cooler. The RX 5700 XT version brings in higher temperatures of is GPU and surrounding components before all as the GPU voltage is around point 2 volts higher with the fan speed being mostly around 1400 to 1500 RPM, which was still very quiet. 
 
@@ -501,7 +501,7 @@ For its cooler configuration, Sapphire just slapped on to this Rx 5700 XT. Basic
 </table>
 {{</html-code>}}
 
-The card base clock is 1670 MHz, and its gaming clock is 1815 MHz. The boost clock of the card is 1925 MHz. The memory type of the card is 8gb GDDR6 256 bit, and it comes with dual c-cooling technology. It has a tough metal backplate. The bios support of RX 5700 XT is dual UEFI. The power consumption of the card is 241watt, and the recommended power supply is a minimum of 600 watts and better will 650 watts. For better performance, you must have 8 GB or 16 GB system memory on your pc. The video card is providing excellent performance. So the card is much pretty cool, and It will provide you excellent performance .
+The GPU base clock is 1670 MHz, and its gaming clock is 1815 MHz. The boost clock of the video card is 1925 MHz. The memory type of the card is 8gb GDDR6 256 bit, and it comes with dual c-cooling technology. It has a tough metal backplate. The bios support of RX 5700 XT is dual UEFI. The power consumption of the card is 241 watt, and the recommended power supply is a minimum of 600 watts and better will 650 watts. For better performance, you must have 8 GB or 16 GB system memory on your pc. The video card is providing excellent performance. So the card is much pretty cool, and It will provide you excellent performance .
 
 {{<pros>}}
 
@@ -526,7 +526,7 @@ The card base clock is 1670 MHz, and its gaming clock is 1815 MHz. The boost clo
 
 The GeForce RTX 2070 Super Gaming is a good performance card, and out of the box, you will get excellent quality performance. The RTX 2070 video card comes with dual HDB fans. The fans are offering high-performance cooling without creating noise. The hydrodynamic bearing fans optimize airflow and increase cooling. 
 
-The  Real Boost Clock of RTX 2070 is 1770 MHz. If we talk about the memory details of this video card, then we come to know that its memory type is 8192 MB GDDR6. The Cuda cores of this graphics card are 2560. It has a PCle 3.0 bus type, which is insane. The card memory bandwidth is 448 GB/s. the card is providing great performance with a 14000 Mhz memory clock. 
+The  Real Boost Clock of RTX 2070 is 1770 MHz. If we talk about the memory details of this most affordable video card, then we come to know that its memory type is 8192 MB GDDR6. The Cuda cores of this graphics card are 2560. It has a PCle 3.0 bus type, which is insane. The card memory bandwidth is 448 GB/s. the card is providing great performance with a 14000 Mhz memory clock. 
 
 #### Specifications
 
@@ -553,7 +553,7 @@ The  Real Boost Clock of RTX 2070 is 1770 MHz. If we talk about the memory detai
 </table>
 {{</html-code>}}
 
-The card is very solid. The card can easily work with 4k monitors. The required PSU for this graphics card is of 650 watts.  It has 10.8 billion transistors. The card has six plus eight power pin connectors. In the front of the EVGA 2070, Super Black Edition 08G-P4-3071-KR does not have any LEDs, so the logo will never light up. 
+The video card is very solid. The GPU can easily work with 4k monitors. The required PSU for this graphics card is of 650 watts.  It has 10.8 billion transistors. The video card has six plus eight power pin connectors. In the front of the EVGA 2070, Super Black Edition 08G-P4-3071-KR does not have any LEDs, so the logo will never light up. 
 
 The card has three display ports and one USB type c port and an HDMI port. The card handles VR fantastically. You only need a 970 for VR minimum and can run everything at High-Max settings. The card is SLI supporting graphics card. Overall the EVGA GeForce RTX 2070 Super Gaming is providing excellent performance and is the best video card for i9 9900k. The GPU is good in considering the performance in production and gaming. So, it is Best Video Card For i9 9900k & i9 10980HK & i9 10900k
 
@@ -576,9 +576,9 @@ The card has three display ports and one USB type c port and an HDMI port. The c
 
 {{</singlep>}}
 
-The KO is just EVGA branding for the RTX 2060. Basically RTX 2060 KO is at a very low price, and the card is supposed to come at approximately three hundred dollars plus tax. The RTX 2060 KO is providing insane performance. 
+The KO is just EVGA branding for the RTX 2060. Basically RTX 2060 KO is at a very low price, and the video card is supposed to come at approximately three hundred dollars plus tax. The RTX 2060 KO best affordable GPU is providing insane performance. 
 
-The RTX 2060 is a peculiar graphics card, and it boasts the same GPU as it is the bigger brother of 2070, but with only 1920 active Cuda cores versus 23:04 and while the 2070 sports 8 gigabytes of VRAM, which is a fair amount of card of its caliber. The RTX 2060 comes equipped with only six as memory bandwidth has reduced RTX intense cores stripped down, and TDP follows suit. The card is the first affordable RTX graphics card. It is a beautiful graphics card. A few odd quirks firstly, the eight-pin (8-pin) supplemental power connector resides on the right face of the card, which means it will face toward the front your case, and since the PCB doesn’t reach this for over, the plug is actually an extension purely a cosmetic play from Nvidia start to keep the front face clean. 
+The RTX 2060 is a peculiar gaming graphics card, and it boasts the same GPU as it is the bigger brother of 2070, but with only 1920 active Cuda cores versus 23:04 and while the 2070 sports 8 gigabytes of VRAM, which is a fair amount of card of its caliber. The RTX 2060 comes equipped with only six as memory bandwidth has reduced RTX intense cores stripped down, and TDP follows suit. It is best cheapest GPU ever. The card is the first affordable RTX graphics card. It is a beautiful graphics card. A few odd quirks firstly, the eight-pin (8-pin) supplemental power connector resides on the right face of the card, which means it will face toward the front your case, and since the PCB doesn’t reach this for over, the plug is actually an extension purely a cosmetic play from Nvidia start to keep the front face clean. 
 
 #### Specifications
 
