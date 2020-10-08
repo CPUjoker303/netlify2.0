@@ -222,7 +222,7 @@ pickName: EVGA GeForce RTX 2070 Super Gaming
 pickImg: /uploads/evga-geforce-rtx-2070-super-gaming.png
 pickLink: https://www.amazon.com/gp/product/B07V6SJLSG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V6SJLSG&linkId=972f4532c43c7597ee5b313ddd91477c
 ---
-Core i9 9900k is Intel best processor for consumers. If you are building a consumer-based system and decided to go with Intel, then intel i9 9900k is the best solution. The** [i9 9900k](https://www.intel.com/content/www/us/en/products/processors/core/i9-processors/i9-9900ks.html)** comes with 8 cores and 16 threads which is very powerful. In this processor, the boost clock is 5 GHz which is insane. When intel was launched i9 processors, they say that it is the fastest processor in the world and nowadays if we take a look at this processor i9 is better than Ryzen 9 only in gaming not in projectivity tasks. We have listed some Best Video Card For i9 9900k & i9 10980HK & i9 10900k.
+Core i9 9900k is Intel best processor for consumers. If you are building a consumer-based system and decided to go with Intel, then Intel i9 9900k is the best solution. The** [i9 9900k](https://www.intel.com/content/www/us/en/products/processors/core/i9-processors/i9-9900ks.html)** comes with 8 cores and 16 threads which is very powerful. In this processor, the boost clock is 5 GHz which is insane. When intel was launched i9 processors, they say that it is the fastest processor in the world and nowadays if we take a look at this processor i9 is better than Ryzen 9 only in gaming not in projectivity tasks. We have listed some Best Video Card For i9 9900k & i9 10980HK & i9 10900k.
 
 Out of the box, this processor gives you outstanding performance, and after overclocking this processor maximum hardly 5 percent performance increase and temperature also increases so, you must have a good cooler to maintain temperature. So, if you want to overclock this processor, then you must have a good CPU cooler. 
 
@@ -243,7 +243,7 @@ The point is that in old times there are 30 to 40 fps some difference between In
 <th><strong>Price Check</strong></th>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/asus-geforce-rtx-2080-ti-dual-fan-over-clocked.png" alt="ASUS GeForce RTX 2080 Ti Dual-fan Over clocked" title="ASUS GeForce RTX 2080 Ti Dual-fan Over clocked"></td>
+<td class="tdimg"><img src="/uploads/asus-rog-strix-geforce-rtx-2080ti.jpeg" alt="ASUS GeForce RTX 2080 Ti Dual-fan Over clocked" title="ASUS GeForce RTX 2080 Ti Dual-fan Over clocked"></td>
 <td>ASUS GeForce RTX 2080 Ti Dual-fan Over clocked</td>
 <td>SUPER PERFORMANCE</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07HY6QWXN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07HY6QWXN&linkId=bbe5cadeb6d30914a72baa8cb91cddaf" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
