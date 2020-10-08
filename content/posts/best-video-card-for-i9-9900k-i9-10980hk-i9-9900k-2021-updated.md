@@ -308,7 +308,7 @@ The point is that in old times there are 30 to 40 fps some difference between In
 
 ## ASUS GeForce RTX 2080 Ti Dual-fan Over Clocked
 
-{{<singlep pimg="/uploads/asus-geforce-rtx-2080-ti-dual-fan-over-clocked.png" pname="ASUS GeForce RTX 2080 Ti Dual-fan Over clocked" plink="https://www.amazon.com/gp/product/B07HY6QWXN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07HY6QWXN&linkId=bbe5cadeb6d30914a72baa8cb91cddaf">}}
+{{<singlep pimg="/uploads/asus-rog-strix-geforce-rtx-2080ti.jpeg" pname="ASUS GeForce RTX 2080 Ti Dual-fan Over clocked" plink="https://www.amazon.com/gp/product/B07HY6QWXN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07HY6QWXN&linkId=bbe5cadeb6d30914a72baa8cb91cddaf">}}
 	Painted wing plate fan design 
 	144-hours valadition process 
 	Allumiunium back plate
