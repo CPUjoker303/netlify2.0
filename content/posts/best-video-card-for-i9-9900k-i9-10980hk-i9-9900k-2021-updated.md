@@ -222,7 +222,7 @@ pickName: EVGA GeForce RTX 2070 Super Gaming
 pickImg: /uploads/evga-geforce-rtx-2070-super-gaming.png
 pickLink: https://www.amazon.com/gp/product/B07V6SJLSG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V6SJLSG&linkId=972f4532c43c7597ee5b313ddd91477c
 ---
-Core i9 9900k is Intel best processor for consumers. If you are building a consumer-based system and decided to go with Intel, then Intel i9 9900k is the best solution. The** [i9 9900k](https://www.intel.com/content/www/us/en/products/processors/core/i9-processors/i9-9900ks.html)** comes with 8 cores and 16 threads which is very powerful. In this processor, the boost clock is 5 GHz which is insane. When intel was launched i9 processors, they say that it is the fastest processor in the world and nowadays if we take a look at this processor i9 is better than Ryzen 9 only in gaming not in projectivity tasks. We have listed some Best Video Card For i9 9900k & i9 10980HK & i9 10900k.
+Core i9 9900k is Intel best processor for consumers. If you are building a consumer-based system and decided to go with Intel, then Intel i9 9900k is the best solution. The** [i9 9900k](https://www.intel.com/content/www/us/en/products/processors/core/i9-processors/i9-9900ks.html)** comes with 8 cores and 16 threads which is very powerful. In this best value processor, the boost clock is 5 GHz which is insane. When intel was launched i9 processors, they say that it is the fastest processor in the world and now-days if we take a look at this processor i9 is better than Ryzen 9 only in gaming not in projectivity tasks. For your best CPUs we have listed Best Video Card For i9 9900k & i9 10980HK & i9 10900k best value processors.
 
 Out of the box, this processor gives you outstanding performance, and after overclocking this processor maximum hardly 5 percent performance increase and temperature also increases so, you must have a good cooler to maintain temperature. So, if you want to overclock this processor, then you must have a good CPU cooler. 
 
@@ -383,15 +383,15 @@ We see a single eight-pin and single six-pin and single display port, a single H
 ### EVGA GeForce RTX 2080 Super Black Gaming
 
 {{<singlep pimg="/uploads/evga-geforce-rtx-2080-super-black-gaming.jpg" pname="EVGA GeForce RTX 2080 Super Black Gaming" plink="https://www.amazon.com/gp/product/B07VJPNG1M/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VJPNG1M&linkId=c67fea6c52f47d082d84ad1edc2aea5d">}}
-	Fits on all form factors
-	Massive cooling system
+	Fits on all form factors 
+	Massive cooling system 
 	Base plate design 
 
 {{</singlep>}}
 
 This specific variant of the card is actually really nice because it is not like huge bulky coolers on it. It fits on all form factors. The GPU has a massive cooling system. The graphic card has EVGA  ICx 2 cooling system and should be more improved over there previous ACX system. 
 
-The [heatsink](https://en.wikipedia.org/wiki/Heat_sink) is double than that 2080 ti, and the base plate design is now made more contact with the GPU components, dissipate more heat. Being that the heatsink is a lot thicker and all, it's good to know that you will lose a PCI express slot as this card covered the area of two PCI express slots. The fans are quieter than the 2080 ti and do a good job at moving air over the heatsink. 
+The [heatsink](https://en.wikipedia.org/wiki/Heat_sink) is double than that 2080 ti, and the base plate design is now made more contact with the GPU components, dissipate more heat. Being that the heatsink is a lot thicker and all, it's good to know that you will lose a PCI express slot as this card covered the area of two PCI express slots. This second-fastest GPU supports DLSS. The fans are quieter than the 2080 ti and do a good job at moving air over the heatsink. 
 
 #### Specifications
 
