@@ -19,6 +19,8 @@ pickName: "Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler
 pickImg: /uploads/vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png
 pickLink: https://www.amazon.com/gp/product/B07H4D4F5T/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07H4D4F5T&linkId=4fa49695a4279b8fa3da14e6a44b7fed
 ---
+
+
 For proper cartridge alignment, you need tools for alignment, and one of the best tools for that is the cartridge protractor. It is a tool which is very useful for alignment and helps you to measure the distance from the stylus tip to tonearm pivot correctly. If we talk about cartridge alignment protractor, then we come to know that it is a plastic template. An alignment protractor is a handy tool onto it you will find the printed null points and also the lines of tangency. Over turntable spindle, you will find the template which is placed against the platter. So, check out the Best Cartridge Alignment Protractor tools below.
 
 ## Best Cartridge Alignment Protractor (2020 Updated)
@@ -159,3 +161,73 @@ It enhances performance and has a mirror surface and can work with all turntable
 ## Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler
 
 ![<img src="vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png" alt="Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler">](/uploads/vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png "Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler")
+
+This is a very inexpensive and handy item that will help you out to adjust the azimuth on the turntable. It is VTA (vertical tracking alignment) & Azimuth alignment. It is a high definition and comes with a PU leather bag, and you can use it very easily.
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Manufacturer	</td>
+<td>Mo-gu</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Cartridge Alignment Ruler</td>
+</tr>
+<tr>
+<td>Package Includes</td>
+<td>Azimuth Ruler , PU leather bag</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>high-quality acrylic</td>
+</tr>
+<tr>
+<td>Thickness</td>
+<td>10mm / 0.39inch</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+ The tool is high penetration, and it uses a headshell alignment block. It is great to test your headshell. You can buy it for your phono cartridge. You will find really quite helpful a magnifying glass.
+
+## Zripool LP Vinyl Pickup Calibration
+
+![<img src="zripool-lp-vinyl-pickup-calibration-distance-gauge-protractor.png" alt="Zripool LP Vinyl Pickup Calibration">](/uploads/zripool-lp-vinyl-pickup-calibration-distance-gauge-protractor.png "Zripool LP Vinyl Pickup Calibration")
+
+
+
+This is an Overshoot Protractor like other alignment protractors; this one provides visibility to find tracking errors, and this protractor is very high contrast. It can avoid overshoot distortion. The protractor will keep high-quality sound. 
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Material</td>
+<td>Acrylic</td>
+</tr>
+<tr>
+<td>Color	</td>
+<td>White</td>
+</tr>
+<tr>
+<td>Length</td>
+<td>18.9cm/ 7.44in</td>
+</tr>
+<tr>
+<td>Width</td>
+<td>4.0cm/ 1.57in</td>
+</tr>
+<tr>
+<td>Quantity</td>
+<td>1 Set</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+It works with an S-shaped arm. When you are adjusting the overhang, then The Extra magnifier will help you more clear. It is a professional tool for your cartridge alignment. The color of this protractor is white. If we talk about length, then it has 18.9cm length.
+
+## Turntable Phono Cartridge Stylus Alignment Protractor Tool Mirror
