@@ -1,6 +1,6 @@
 ---
 title: Best Cartridge Alignment Protractor (2020 Updated)
-draft: true
+draft: false
 SEOTitle: best cartridge alignment protractor (2020 Updated)
 excrept: Here you find best cartridge alignment protractor tools for proper
   cartridge alignment and Phono Alignment tools. These are the best protractor
