@@ -265,4 +265,13 @@ This is an Overshoot Protractor like other alignment protractors; this one provi
 
 It works with an S-shaped arm. When you are adjusting the overhang, then The Extra magnifier will help you more clear. It is a professional tool for your cartridge alignment. The color of this protractor is white. If we talk about length, then it has 18.9cm length.
 
+{{<pros>}}
+
+<li>Overshoot Protractor </li>
+<li>Very high contrast</li>
+<li>Works with S -Shaped arm</li>
+{{</pros>}}
+{{<cons>}}
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07QR3HBTR/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07QR3HBTR&linkId=307d851f5db2c41b94795e85c5797991{{</button>}}
+
 ## Turntable Phono Cartridge Stylus Alignment Protractor Tool Mirror
