@@ -19,8 +19,6 @@ pickName: "Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler
 pickImg: /uploads/vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png
 pickLink: https://www.amazon.com/gp/product/B07H4D4F5T/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07H4D4F5T&linkId=4fa49695a4279b8fa3da14e6a44b7fed
 ---
-
-
 For proper cartridge alignment, you need tools for alignment, and one of the best tools for that is the cartridge protractor. It is a tool which is very useful for alignment and helps you to measure the distance from the stylus tip to tonearm pivot correctly. If we talk about cartridge alignment protractor, then we come to know that it is a plastic template. An alignment protractor is a handy tool onto it you will find the printed null points and also the lines of tangency. Over turntable spindle, you will find the template which is placed against the platter. So, check out the Best Cartridge Alignment Protractor tools below.
 
 ## Best Cartridge Alignment Protractor (2020 Updated)
@@ -104,6 +102,16 @@ In the inner grooves of a record, it is a bit difficult to track errors so, this
 
 You can also use this alignment protractor as an S-Shaped arm. You can do professional phono cartridge alignment using this mirror alignment protractor. It can easily align optimum performance on 12” vinyl records and platter size, no matter. So this is Best Cartridge Alignment Protractor for your alignment.
 
+{{<pros>}}
+
+<li>optimum performance on 12” vinyl records.</li>
+<li>Easy to use </li>
+<li>Made of hard plastic</li>
+{{</pros>}}
+{{<cons>}}
+<li>Some people are reviewing, it has a very small hole but you must have to check description before buying it.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B079ZBLJ4M/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079ZBLJ4M&linkId=7fdfc0577efe3e76de14b27b1e073e42{{</button>}}
+
 ## Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat
 
 ![<img src="hudson-hi-fi-turntable-cartridge-alignment-protractor-mat.png" alt="Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat">](/uploads/hudson-hi-fi-turntable-cartridge-alignment-protractor-mat.png "Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat")
@@ -158,6 +166,8 @@ It can easily work with an s-shaped arm and very easy to use. The instructions a
 
 It enhances performance and has a mirror surface and can work with all turntables so it is Best Cartridge Alignment Protractor and is very helpful for your cartridge alignment.
 
+
+
 ## Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler
 
 ![<img src="vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png" alt="Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler">](/uploads/vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png "Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler")
@@ -193,11 +203,18 @@ This is a very inexpensive and handy item that will help you out to adjust the a
 
  The tool is high penetration, and it uses a headshell alignment block. It is great to test your headshell. You can buy it for your phono cartridge. You will find really quite helpful a magnifying glass.
 
+{{<pros>}}
+
+<li>easily work with s-shaped arm </li>
+<li>very easy to use</li>
+<li>mirror surface </li>
+{{</pros>}}
+{{<cons>}}
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07KK76ZMK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KK76ZMK&linkId=6b87b0ce08242a7382712abea977cc9f{{</button>}}
+
 ## Zripool LP Vinyl Pickup Calibration
 
 ![<img src="zripool-lp-vinyl-pickup-calibration-distance-gauge-protractor.png" alt="Zripool LP Vinyl Pickup Calibration">](/uploads/zripool-lp-vinyl-pickup-calibration-distance-gauge-protractor.png "Zripool LP Vinyl Pickup Calibration")
-
-
 
 This is an Overshoot Protractor like other alignment protractors; this one provides visibility to find tracking errors, and this protractor is very high contrast. It can avoid overshoot distortion. The protractor will keep high-quality sound. 
 
