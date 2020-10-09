@@ -221,7 +221,14 @@ This is a very inexpensive and handy item that will help you out to adjust the a
 
  The tool is high penetration, and it uses a headshell alignment block. It is great to test your headshell. You can buy it for your phono cartridge. You will find really quite helpful a magnifying glass.
 
+{{<pros>}}
 
+<li>Azimuth alignment</li>
+<li>Comes with PU leather bag </li>
+<li>Magnifying glass</li>
+{{</pros>}}
+{{<cons>}}
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07KK76ZMK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KK76ZMK&linkId=6b87b0ce08242a7382712abea977cc9f{{</button>}}
 
 ## Zripool LP Vinyl Pickup Calibration
 
