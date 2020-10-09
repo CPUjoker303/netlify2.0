@@ -76,3 +76,6 @@ For proper cartridge alignment, you need tools for alignment, and one of the bes
 ## Turntable Phonograph LP Phono Cartridge Stylus Alignment Protractor Tool
 
 ![<img src="turntable-phonograph-lp-phono-cartridge-stylus.png" alt="Cartridge Alignment Protractor Tool">](/uploads/turntable-phonograph-lp-phono-cartridge-stylus.png "Turntable Phonograph Alignment Protractor Tool LP Phono Cartridge Stylus")
+
+This Mirrored alignment protractor is good quality protractor tool. It provides visibility for cartridge alignment. It has a mirrored surface, and you will find printed directions on the back. You can do an accurate calibration, and It allows you to read quickly to read data. You can easily eliminate tracking errors by using this protractor tool. In the inner grooves of a record, it is a bit difficult to track errors so, this mirror protractor helps you to find inner grooves errors. It can easily align your cartridge with-in 5 minutes. It helps you to keep your high-quality sound. You can also use this alignment protractor as an S-Shaped arm. You can do professional phono cartridge alignment using this mirror alignment protractor. It can easily align optimum performance on 12” vinyl records and 
+platter size, no matter.
