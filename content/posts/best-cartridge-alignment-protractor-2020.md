@@ -277,3 +277,7 @@ It works with an S-shaped arm. When you are adjusting the overhang, then The Ext
 ## Turntable Phono Cartridge Stylus Alignment Protractor Tool Mirror
 
 ![<img src="turntable-phono-cartridge-stylus-alignment-protractor-tool-mirror.png" alt="Alignment Protractor Tool Mirror">](/uploads/turntable-phono-cartridge-stylus-alignment-protractor-tool-mirror.png "Alignment Protractor Tool Mirror")
+
+This is a Phono cartridge alignment protractor that helps to do the professional alignment for better sound and longer stylus life. It is made of durable 2mm ABS plastic, which looks fully mirrored. 
+
+It is quite helpful for mounting the cartridge to the headshell. It gives you precise alignment, and you will get better sound quality.
