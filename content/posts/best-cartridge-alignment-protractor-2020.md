@@ -9,7 +9,7 @@ metaKeywords: Best Cartridge Alignment Protractor
 url: best-cartridge-alignment-protractor/
 date: 2020-10-09T12:24:17.232Z
 updateDate: 2020-10-09T12:24:17.417Z
-image: /uploads/best-cartridge-alignment-protractor.png
+image: /uploads/best-cartridge-alignment-protractor-tool.png
 tags:
   - Reviews
 categories:
