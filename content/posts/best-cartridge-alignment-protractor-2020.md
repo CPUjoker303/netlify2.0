@@ -72,3 +72,7 @@ For proper cartridge alignment, you need tools for alignment, and one of the bes
 </tbody>
 </table>
 {{</html-code>}}
+
+## Turntable Phonograph LP Phono Cartridge Stylus Alignment Protractor Tool
+
+![<img src="turntable-phonograph-lp-phono-cartridge-stylus.png" alt="Cartridge Alignment Protractor Tool">](/uploads/turntable-phonograph-lp-phono-cartridge-stylus.png "Turntable Phonograph Alignment Protractor Tool LP Phono Cartridge Stylus")
