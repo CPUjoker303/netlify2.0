@@ -108,6 +108,23 @@ You can also use this alignment protractor as an S-Shaped arm. You can do profes
 
 It developed in Newyork and very easy to use. The product is a Hudson Hi-Fi turntable cartridge alignment protractor mat tool. It is a one-sided alignment protractor mat which is providing a diagram for alignment. It provides a diagram and instructions, and by using it, you can easily align your cartridge protractor. 
 
+{{<html-code tag="div">}}
 
+<table>
+<tbody><tr>
+<td>Manufacturer		</td>
+<td>Hudson Hi-Fi</td>
+</tr>
+<tr>
+<td>Color		</td>
+<td>High contrast for improved visual clarity</td>
+</tr>
+<tr>
+<td>Value Package	</td>
+<td>Protractor VTA Bundle , Strobe disk</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
 
 By using the latest UV printing technology, it is printed. It can quickly cure your cartridge for two hours.  You only have to read the instructions on this protractor mat.
