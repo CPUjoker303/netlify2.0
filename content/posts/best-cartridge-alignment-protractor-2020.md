@@ -345,3 +345,5 @@ Another very important aspect of set up your turntable is verticle tracking alig
 ## How to use  acrylic block for cartridge alignment?
 
 First, we should have to know about what is azimuth? And how to use an acrylic block for cartridge alignment. Basically, the azimuth is the measurement of the stylus being vertical entirely up and down. When we place this acrylic block tool in front of the cartridge and getting down low and looking at it from the front will show the alignment of the azimuth.
+
+## Conclusion - Best Cartridge Alignment Protractor (2020 Updated)
