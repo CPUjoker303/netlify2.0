@@ -300,3 +300,13 @@ This is a Phono cartridge alignment protractor that helps to do the professional
 {{</html-code>}}
 
 It is quite helpful for mounting the cartridge to the headshell. It gives you precise alignment, and you will get better sound quality.
+
+{{<pros>}}
+
+<li>2mm ABS plastic </li>
+<li>Fully mirrored</li>
+<li>For precise alignment </li>
+<li></li>
+{{</pros>}}
+{{<cons>}}
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01MU6AD2E/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MU6AD2E&linkId=c0f7d32683a6a13ec6bdc1032a866e8b{{</button>}}
