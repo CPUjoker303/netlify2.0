@@ -337,3 +337,11 @@ If everything lines up correctly in the first grid, you have to lift the stylus 
 just have to be very careful because the cartridge and stylus are exceptionally delicate, and it is a precision instrument.
 
 Now we talk about mirror surface alignment protractor, and just like the other one, you have to place the stylus on the grid. The main benefit of the cartridge mirror surface protractor is that you can look down from above and can easily see the bottom of the cartridge to help you align it and this one is beneficial when you have a large headshell which may block your view top down when you are aligning it.
+
+## What is verticle tracking alignment ?
+
+Another very important aspect of set up your turntable is verticle tracking alignment (VTA). The acrylic block is used for not only aligning the cartridge but also setting VTA (verticle tracking alignment) of the tonearm.
+
+## How to use  acrylic block for cartridge alignment?
+
+First, we should have to know about what is azimuth? And how to use an acrylic block for cartridge alignment. Basically, the azimuth is the measurement of the stylus being vertical entirely up and down. When we place this acrylic block tool in front of the cartridge and getting down low and looking at it from the front will show the alignment of the azimuth.
