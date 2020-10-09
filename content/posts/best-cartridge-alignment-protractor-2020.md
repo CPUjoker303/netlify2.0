@@ -275,3 +275,5 @@ It works with an S-shaped arm. When you are adjusting the overhang, then The Ext
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07QR3HBTR/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07QR3HBTR&linkId=307d851f5db2c41b94795e85c5797991{{</button>}}
 
 ## Turntable Phono Cartridge Stylus Alignment Protractor Tool Mirror
+
+![<img src="turntable-phono-cartridge-stylus-alignment-protractor-tool-mirror.png" alt="Alignment Protractor Tool Mirror">](/uploads/turntable-phono-cartridge-stylus-alignment-protractor-tool-mirror.png "Alignment Protractor Tool Mirror")
