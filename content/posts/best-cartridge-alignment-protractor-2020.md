@@ -52,7 +52,7 @@ For proper cartridge alignment, you need tools for alignment, and one of the bes
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07KK76ZMK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KK76ZMK&linkId=6b87b0ce08242a7382712abea977cc9f" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uplloads/vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png" alt="Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler " title="Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler "></td>
+<td class="tdimg"><img src="/uploads/vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png" alt="Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler " title="Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler "></td>
 <td>Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler </td>
 <td>GREAT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07H4D4F5T/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07H4D4F5T&linkId=71c7fb32214e490f0b91c475ee2df394" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -155,3 +155,7 @@ It can easily work with an s-shaped arm and very easy to use. The instructions a
 {{</html-code>}}
 
 It enhances performance and has a mirror surface and can work with all turntables so it is Best Cartridge Alignment Protractor and is very helpful for your cartridge alignment.
+
+## Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler
+
+![<img src="vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png" alt="Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler">](/uploads/vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png "Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler")
