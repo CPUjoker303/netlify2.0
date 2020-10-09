@@ -306,7 +306,7 @@ The point is that in old times there are 30 to 40 fps some difference between In
 </table>
 {{</html-code>}}
 
-## ASUS GeForce RTX 2080 Ti Dual-fan Over Clocked
+### ASUS GeForce RTX 2080 Ti Dual-fan Over Clocked
 
 {{<singlep pimg="/uploads/asus-rog-strix-geforce-rtx-2080ti.jpeg" pname="ASUS GeForce RTX 2080 Ti Dual-fan Over clocked" plink="https://www.amazon.com/gp/product/B07HY6QWXN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07HY6QWXN&linkId=bbe5cadeb6d30914a72baa8cb91cddaf">}}
 	Painted wing plate fan design 
@@ -447,7 +447,7 @@ At the end of the card, you get three display ports, version 1.4 and one HDMI po
 <li>No backplate </li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07VJPNG1M/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VJPNG1M&linkId=c67fea6c52f47d082d84ad1edc2aea5d{{</button>}}
 
-## Sapphire Radeon Pulse RX 5700 XT
+### Sapphire Radeon Pulse RX 5700 XT
 
 {{<singlep pimg="/uploads/sapphire-radeon-pulse-rx-5700-xt.jpg" pname="Sapphire Radeon Pulse RX 5700 XT" plink="https://www.amazon.com/gp/product/B07WC7683C/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WC7683C&linkId=049e48e449306c982190243217cb2173">}}
 	Meatl back plate 
@@ -515,7 +515,7 @@ The GPU base clock is 1670 MHz, and its gaming clock is 1815 MHz. The boost cloc
 <li>People get  a black screen for 3-5 seconds due to AMD drivers issues</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07WC7683C/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WC7683C&linkId=049e48e449306c982190243217cb2173{{</button>}}
 
-## EVGA GeForce RTX 2070 Super Gaming
+### EVGA GeForce RTX 2070 Super Gaming
 
 {{<singlep pimg="/uploads/evga-geforce-rtx-2070-super-gaming.png" pname="EVGA GeForce RTX 2070 Super Gaming" plink="https://www.amazon.com/gp/product/B07V6SJLSG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V6SJLSG&linkId=972f4532c43c7597ee5b313ddd91477c">}}
 	Dual HDB fans
@@ -567,7 +567,7 @@ The card has three display ports and one USB type c port and an HDMI port. The c
 <li>Not come with any LED lighting.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07V6SJLSG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V6SJLSG&linkId=972f4532c43c7597ee5b313ddd91477c{{</button>}}
 
-## Evga Geforce Rtx 2060 KO
+### Evga Geforce Rtx 2060 KO
 
 {{<singlep pimg="/uploads/evga-geforce-rtx-2060-ko.jpg" pname="Evga Geforce Rtx 2060 KO" plink="https://www.amazon.com/gp/product/B083GH7LXW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083GH7LXW&linkId=ac4cfd56ae25b1590539ec6d5fb511f4">}}
 	Insane peraformance
@@ -621,7 +621,7 @@ The card real boost clock is 1618 MHz, and it is a 6144 MB GDDR6 graphics card. 
 <li>Takes up both full pci-e lanes and the small pci lane.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B083GH7LXW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083GH7LXW&linkId=ac4cfd56ae25b1590539ec6d5fb511f4{{</button>}}
 
-## ZOTAC Gaming GeForce RTX 2070 Super Mini
+### ZOTAC Gaming GeForce RTX 2070 Super Mini
 
 {{<singlep pimg="/uploads/zotac-gaming-geforce-rtx-2070-super-min.jpg" pname="ZOTAC Gaming GeForce RTX 2070 Super Mini" plink="https://www.amazon.com/gp/product/B07XSPWMP9/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07XSPWMP9&linkId=2d7aa82617f6120e48cf072138b1b747">}}
 	Video Card has two fans
@@ -681,7 +681,7 @@ The boost clock of the card is 1770 MHz. It would have been great to have anothe
 <li>Card looked like been in a smokers PC,</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07XSPWMP9/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07XSPWMP9&linkId=2d7aa82617f6120e48cf072138b1b747{{</button>}}
 
-## Sapphire Radeon Pulse RX 5600 XT
+### Sapphire Radeon Pulse RX 5600 XT
 
 {{<singlep pimg="/uploads/sapphire-radeon-pulse-rx-5600-xt.jpg" pname="Sapphire Radeon Pulse RX 5600 XT" plink="https://www.amazon.com/gp/product/B083R25Z94/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083R25Z94&linkId=ed2b0680ff1984923364d05922200091">}}
 	6 GB of memory
@@ -738,7 +738,7 @@ Sapphire actually has dual bios as well. You got a silent mode, so the fans will
 <li>Static red all the time</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B083R25Z94/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083R25Z94&linkId=ed2b0680ff1984923364d05922200091{{</button>}}
 
-## Asus TUF Gaming GeForce GTX 1650 Super Overclocked
+### Asus TUF Gaming GeForce GTX 1650 Super Overclocked
 
 {{<singlep pimg="/uploads/asus-tuf-gaming-geforce-gtx-1650-super.jpg" pname="Asus TUF Gaming GeForce GTX 1650 Super OC" plink="https://www.amazon.com/gp/product/B081KY5L57/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081KY5L57&linkId=24849f23c36faf0b2951f9b2f320bde8">}}
 	HDMI and display port 
@@ -753,7 +753,9 @@ The card has 100-watt TDP versus the 75 or the non-super version. The another ve
 
 It is more accurate to call it a cut-down 1660 rather than an upgraded 1650. It is one of the strict models, and it comes in neat black styling.  The card has two fans. The fans are axial tech fans, and they have a ring going around the outside, which contains the fan HSS, and this should improve overall airflow onto the heatsink itself. The two relatively large fans should do the job fine. 
 
-#### Specifications{{<html-code tag="div">}}
+#### Specifications
+
+ {{<html-code tag="div">}}
 
 <table>
 <tbody><tr>
@@ -793,7 +795,7 @@ The card has a lovely metal backplate. The unique feature on the 1650 super Stri
 <li>Too big for asus X570 board technically</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B081KY5L57/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081KY5L57&linkId=24849f23c36faf0b2951f9b2f320bde8{{</button>}}
 
-## Asus Geforce GTX 1660 Super Overclocked 6gb Dual Fan
+### Asus Geforce GTX 1660 Super Overclocked 6gb Dual Fan
 
 {{<singlep pimg="/uploads/asus-geforce-gtx-1660-super-overclocked-6gb-dual-fan.jpg" pname="Asus Geforce GTX 1660 Super Overclocked 6gb Dual Fan" plink="https://www.amazon.com/gp/product/B07ZHWQ81N/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07ZHWQ81N&linkId=0ce050f9bf20bf605dc4b8607c3acb27">}}
 	Great performance 
@@ -849,7 +851,7 @@ There is no backplate on the board of the graphics card, which keeps the graphic
 <li>Price</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07ZHWQ81N/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07ZHWQ81N&linkId=0ce050f9bf20bf605dc4b8607c3acb27{{</button>}}
 
-## Asus Geforce GTX 1660 ti
+### Asus Geforce GTX 1660 ti
 
 {{<singlep pimg="/uploads/asus-geforce-gtx-1660-ti.jpg" pname="Asus Geforce GTX 1660 ti" plink="https://www.amazon.com/gp/product/B07NHQ5HNW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07NHQ5HNW&linkCode=as2&tag=technikaya-20&linkId=7a9fabe210fa40328f90c21d75f3930b">}}
 	Three fan design 
