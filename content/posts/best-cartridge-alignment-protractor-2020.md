@@ -79,6 +79,8 @@ For proper cartridge alignment, you need tools for alignment, and one of the bes
 
 This Mirrored alignment protractor is good quality protractor tool. It provides visibility for cartridge alignment. It has a mirrored surface, and you will find printed directions on the back. You can do an accurate calibration, and It allows you to read quickly data. You can easily eliminate tracking errors by using this protractor tool. 
 
+#### Specifications
+
 {{<html-code tag="div">}}
 
 <table>
@@ -118,6 +120,8 @@ You can also use this alignment protractor as an S-Shaped arm. You can do profes
 
 It developed in Newyork and very easy to use. The product is a Hudson Hi-Fi turntable cartridge alignment protractor mat tool. It is a one-sided alignment protractor mat which is providing a diagram for alignment. It provides a diagram and instructions, and by using it, you can easily align your cartridge protractor. 
 
+#### Specifications
+
 {{<html-code tag="div">}}
 
 <table>
@@ -155,6 +159,8 @@ By using the latest UV printing technology, it is printed. It can quickly cure y
 
 It can easily work with an s-shaped arm and very easy to use. The instructions are printed on the protractor. It is high contrast protractor and provides improved visibility when you are alignment your cartridge. By using this, you can find Eliminate tracking errors. 
 
+#### Specifications
+
 {{<html-code tag="div">}}
 
 <table>
@@ -191,6 +197,8 @@ It enhances performance and has a mirror surface and can work with all turntable
 ![<img src="vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png" alt="Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler">](/uploads/vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png "Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler")
 
 This is a very inexpensive and handy item that will help you out to adjust the azimuth on the turntable. It is VTA (vertical tracking alignment) & Azimuth alignment. It is a high definition and comes with a PU leather bag, and you can use it very easily.
+
+#### Specifications
 
 {{<html-code tag="div">}}
 
@@ -236,6 +244,8 @@ This is a very inexpensive and handy item that will help you out to adjust the a
 
 This is an Overshoot Protractor like other alignment protractors; this one provides visibility to find tracking errors, and this protractor is very high contrast. It can avoid overshoot distortion. The protractor will keep high-quality sound. 
 
+#### Specifications
+
 {{<html-code tag="div">}}
 
 <table>
@@ -280,6 +290,8 @@ It works with an S-shaped arm. When you are adjusting the overhang, then The Ext
 
 This is a Phono cartridge alignment protractor that helps to do the professional alignment for better sound and longer stylus life. It is made of durable 2mm ABS plastic, which looks fully mirrored. 
 
+#### Specifications
+
 {{<html-code tag="div">}}
 
 <table>
@@ -310,3 +322,18 @@ It is quite helpful for mounting the cartridge to the headshell. It gives you pr
 {{</pros>}}
 {{<cons>}}
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01MU6AD2E/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MU6AD2E&linkId=c0f7d32683a6a13ec6bdc1032a866e8b{{</button>}}
+
+## How to use cartridge alignment protractor?
+
+To set this, it is pretty, straightforward. The first thing you need to do is use a cartridge alignment protractor to take off your platter mat, and the reason is that the thickness of the actual protractor will represent the platter mat itself. 
+
+Then you put an alignment protractor on it with no platter mat. Then you will find the two areas on the protractor with a grid.  By using both of these grids, you can correctly align your cartridge.
+
+As you know that the stylus rotates across the record surface, and the back of the stylus and cartridge assembly are never going to track every groove with the same angle, So you need to create the perfect average. 
+
+This alignment protractor will help you to do. You have to take your stylus and then set it down right on X. You simply look at the marks on the grid, and from a various angle, you have to try to make its determination as your cartridge is not aligned correctly. If it is squared up to the lines, then it set correctly, and there is also a line down the middle, which will help you adjust the overhang of the cartridge the front and back adjustment within the headshell assembly.
+
+If everything lines up correctly in the first grid, you have to lift the stylus and rotate the record forward a little bit. Then you have to place it on the next one. If you see everything lines up, then you have done, and your cartridge is aligned correctly.  you 
+just have to be very careful because the cartridge and stylus are exceptionally delicate, and it is a precision instrument.
+
+Now we talk about mirror surface alignment protractor, and just like the other one, you have to place the stylus on the grid. The main benefit of the cartridge mirror surface protractor is that you can look down from above and can easily see the bottom of the cartridge to help you align it and this one is beneficial when you have a large headshell which may block your view top down when you are aligning it.
