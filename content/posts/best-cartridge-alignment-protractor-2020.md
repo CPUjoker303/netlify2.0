@@ -280,4 +280,23 @@ It works with an S-shaped arm. When you are adjusting the overhang, then The Ext
 
 This is a Phono cartridge alignment protractor that helps to do the professional alignment for better sound and longer stylus life. It is made of durable 2mm ABS plastic, which looks fully mirrored. 
 
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Manufacturer	</td>
+<td>SPECIALTY AV	</td>
+</tr>
+<tr>
+<td>Quality	</td>
+<td>Durable 2mm ABS plastic</td>
+</tr>
+<tr>
+<td>Product Dimensions		</td>
+<td>6 x 1 x 1 inches</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
 It is quite helpful for mounting the cartridge to the headshell. It gives you precise alignment, and you will get better sound quality.
