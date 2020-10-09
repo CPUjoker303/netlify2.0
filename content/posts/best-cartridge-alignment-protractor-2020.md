@@ -139,6 +139,16 @@ It developed in Newyork and very easy to use. The product is a Hudson Hi-Fi turn
 
 By using the latest UV printing technology, it is printed. It can quickly cure your cartridge for two hours.  You only have to read the instructions on this protractor mat.
 
+{{<pros>}}
+
+<li>Work quite nicely</li>
+<li>Thick rigid acrylic</li>
+<li>UV printed</li>
+<li>Cured for five hours</li>
+{{</pros>}}
+{{<cons>}}
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01MU6AD2E/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MU6AD2E&linkId=c0f7d32683a6a13ec6bdc1032a866e8b{{</button>}}
+
 ## Cartridge Alignment Protractor Tool
 
 ![<img src="cartridge-alignment-protractor-tool-phonograph-lp-phono-cartridge-stylus-alignment-protractor-tool.png" alt="Cartridge Alignment Protractor Tool">](/uploads/cartridge-alignment-protractor-tool-phonograph-lp-phono-cartridge-stylus-alignment-protractor-tool.png "Cartridge Alignment Protractor Tool For Alignment")
@@ -165,6 +175,14 @@ It can easily work with an s-shaped arm and very easy to use. The instructions a
 {{</html-code>}}
 
 It enhances performance and has a mirror surface and can work with all turntables so it is Best Cartridge Alignment Protractor and is very helpful for your cartridge alignment.
+
+{{<pros>}}
+
+<li>Easily work with s-shaped arm </li>
+<li>Easy to use </li>
+{{</pros>}}
+{{<cons>}}
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07KK76ZMK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KK76ZMK&linkId=6b87b0ce08242a7382712abea977cc9f{{</button>}}
 
 
 
@@ -203,14 +221,7 @@ This is a very inexpensive and handy item that will help you out to adjust the a
 
  The tool is high penetration, and it uses a headshell alignment block. It is great to test your headshell. You can buy it for your phono cartridge. You will find really quite helpful a magnifying glass.
 
-{{<pros>}}
 
-<li>easily work with s-shaped arm </li>
-<li>very easy to use</li>
-<li>mirror surface </li>
-{{</pros>}}
-{{<cons>}}
-{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07KK76ZMK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KK76ZMK&linkId=6b87b0ce08242a7382712abea977cc9f{{</button>}}
 
 ## Zripool LP Vinyl Pickup Calibration
 
