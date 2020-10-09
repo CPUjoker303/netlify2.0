@@ -98,4 +98,10 @@ This Mirrored alignment protractor is good quality protractor tool. It provides 
 </table>
 {{</html-code>}}
 
-In the inner grooves of a record, it is a bit difficult to track errors so, this mirror protractor helps you to find inner grooves errors. It can easily align your cartridge with-in 5 minutes. It helps you to keep your high-quality sound. You can also use this alignment protractor as an S-Shaped arm. You can do professional phono cartridge alignment using this mirror alignment protractor. It can easily align optimum performance on 12” vinyl records and platter size, no matter. So this is Best Cartridge Alignment Protractor.
+In the inner grooves of a record, it is a bit difficult to track errors so, this mirror protractor helps you to find inner grooves errors. It can easily align your cartridge with-in 5 minutes. It helps you to keep your high-quality sound. 
+
+You can also use this alignment protractor as an S-Shaped arm. You can do professional phono cartridge alignment using this mirror alignment protractor. It can easily align optimum performance on 12” vinyl records and platter size, no matter. So this is Best Cartridge Alignment Protractor for your alignment.
+
+## Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat
+
+![<img src="hudson-hi-fi-turntable-cartridge-alignment-protractor-mat.png" alt="Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat">](/uploads/hudson-hi-fi-turntable-cartridge-alignment-protractor-mat.png "Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat")
