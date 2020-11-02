@@ -485,30 +485,35 @@ It also has an auto-sync function. The smart health tracker watch can quickly ch
 </table>
 {{</html-code>}}
 
-It is a water-resistant watch. If the user is washing hands or swimming, it will never have any effect on this durable watch. The watch can easily pair with a smartphone or any smart device. This health and fitness watch constantly measure daily activity. It has an auto-sync function. The watch can easily charge with the USB charger. The user will experience an amazing battery life.
-
-The 3plus lite activity tracker records the number of steps walked. The watch also tracks distance traveled and calories burned etc.This health and fitness watch also has a sleep tracking feature. It tracks your sleep activity and helps you to improve your sleep habits. This watch is also for kids. 3Plus Lite Activity Tracker is perfect Activity Tracker For Tweens. 
+The 3plus lite activity tracker records your number of steps walked and also tracks distance travelled, calories burned, etc. It comes in Pink and Black colour, and if you want an extra charger, then you can invest in 3Plus Lite Activity Tracker Charger. So 3Plus lite is a great activity tracker for tweens overall.
 
 {{<pros>}}
 
-<li>It monitors sleep and activity</li>
-<li>Single button interface</li>
+<li>Monitors your sleep and activity </li>
+<li>Single button interface </li>
+<li>Water-resistant </li>
+<li>Amazing battery life </li>
+<li>Easy connectivity with smartphones </li>
 {{</pros>}}
 {{<cons>}}
-<li>Lite band cannot be changed</li>
+<li>Lite band cannot be changed </li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B06Y1FX1FT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06Y1FX1FT&linkCode=as2&tag=technikaya-20&linkId=568f1bb9dead550b6d247ae15ddf59d1{{</button>}}
 
-### 5. Withings Move Smartwatch
+### Withings Move Smartwatch
 
 [![](/uploads/32349-original.jpg)](https://www.amazon.com/gp/product/B018SL790Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018SL790Q&linkCode=as2&tag=technikaya-20&linkId=5b2bf3f5194c3d7a04472be19a8ef7a9)
 
-Fifth product is Withings Move Hybrid Smartwatch. The watch is a health and fitness tracker. The design looks pretty. If user walking, running, swimming, or cycling, the watch can automatically detect more than ten activities, and measures your performance precisely and also improves day by day. 
+The fifth product is Withings Move Hybrid Smartwatch. This health & fitness tracker comes in a pretty design that looks great. If you are walking, running, swimming, or cycling, it can automatically detect more than ten activities very quickly, and measures your performance precisely, and also improves day by day.
 
-This health and fitness watch has a 6-month battery life. The user can run this health and fitness watch for more than 500 days on a simple button cell battery. The battery timing is perfect for this watch. 
+The battery timing is perfect for this watch, and this health and fitness watch has a 6-month battery life, and the user can run this health and fitness watch for more than 500 days on a simple button cell battery. 
 
-The watch is water-resistant up to 50 meters. The user can run, walk, or dance in the rain without any worry. The watch can easily connect with the health mate application. It comes with an elegant design and has a Silicone wrist-band.
+The watch is water-resistant up to 50 meters, and the user can run, walk, or dance in the rain without any worry. The watch can easily connect with the health mate application. It comes with an elegant design and has a Silicone wrist-band.
 
-The user can check their progress at a glance at the activity dial. It automatically syncs your data via Bluetooth to your mobile device in the free Health Mate app. The connected GPS of this smartwatch allows your phone's GPS to see a map of your distance and route and your session's pace and altitudes. It is straightforward to connect this watch with your smartphone. The user has to connect this watch via Bluetooth with location settings enabled.
+The user can check their progress at a glance at the activity dial. It automatically syncs your data via Bluetooth to your mobile device in the free Health Mate app. The connected GPS of this smartwatch allows your phone’s GPS to see a map of your distance and route and your session’s pace and altitudes. 
+
+It is straightforward to connect this watch with your smartphone. The user has to connect this watch via Bluetooth with location settings enabled, and is the best activity tracker for tweens.
+
+The battery is a replaceable CR2430 button cell. The digital watch can easily track your sleep automatically; just the user has to set the alarm with Smart Wake-Up to be aroused at the exact moment in your sleep cycle
 
 #### Specifications
 
@@ -516,39 +521,35 @@ The user can check their progress at a glance at the activity dial. It automatic
 
 <table>
 <tbody><tr>
-<td>Dimensions</td>
+<td>Manufacturer	</td>
+<td>Withings Inc - SPORTS</td>
+</tr>
+<tr>
+<td>Dimensions 	</td>
 <td>7.7 x 1.5 x 0.5 inches</td>
 </tr>
 <tr>
-<td>Batteries </td>
-<td>1 Lithium ion batteries required. (included)</td>
+<td>model number 	</td>
+<td>HWA01_68</td>
 </tr>
 <tr>
-<td>Weight</td>
-<td>1.12 ounces</td>
-</tr>
-<tr>
-<td>ASIN: </td>
-<td>B018SL790Q</td>
-</tr>
-<tr>
-<td>Department </td>
-<td>Unisex</td>
+<td>Batteries	required </td>
+<td>1 Lithium ion Battery /CR2430 button cell</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-The battery is a replaceable CR2430 button cell. The health and fitness watch easily tracks your sleep automatically. The user has to set an alarm with Smart Wake-Up to be aroused at the exact moment in your sleep cycle. If we talk about item height, then we come to know that it has 1.3 centimeters height. 
+This watch is a standard hybrid watch & also a lightweight watch. For changing time settings, you have to connect it with your phone; the time will not manually change. The fitness gadget will vibrate when the daily goal achieved or alarm time comes. 
 
-This health and fitness watch is a standard hybrid watch & also a lightweight watch. For changing time settings you have to connect it with your phone, the time will not manually change. The watch will vibrate when the daily goal achieved or alarm time comes. We know that no health and fitness watch can accurately calculate the calories burned or calorie intake. This health and fitness watch measures heartbeat accurately. Kids love this watch, and it is perfect for kids. Withings move hybrid watch is perfect activity tracker for tweens.
+We know that no health and fitness watch can accurately calculate the calories burned or calorie intake. This health and fitness watch measures heartbeat accurately, and your tweens will love this watch, and is perfect for kids. Withings move hybrid watch is a perfect activity tracker for tweens.
 
 {{<pros>}}
 
-<li>No need for any cables or dock</li>
-<li>Very light weight</li>
+<li>No need for any cables or dock </li>
+<li>Very light weight </li>
 <li>It is water resistant</li>
 {{</pros>}}
 {{<cons>}}
-<li>It has no heart rate monitor</li>
+<li>It has no heart rate monitor </li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B018SL790Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018SL790Q&linkCode=as2&tag=technikaya-20&linkId=5b2bf3f5194c3d7a04472be19a8ef7a9{{</button>}}
