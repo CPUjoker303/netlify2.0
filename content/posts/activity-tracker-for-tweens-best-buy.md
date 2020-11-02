@@ -554,7 +554,7 @@ We know that no health and fitness watch can accurately calculate the calories b
 <li>It has no heart rate monitor </li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B018SL790Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018SL790Q&linkCode=as2&tag=technikaya-20&linkId=5b2bf3f5194c3d7a04472be19a8ef7a9{{</button>}}
 
-## Fitness Tracker HR, Y1 Activity Tracker
+### Fitness Tracker HR, Y1 Activity Tracker
 
 [![](/uploads/fitness-tracker-hr-y1-activity-tracker.jpg)](https://www.amazon.com/gp/product/B07FTHHPPJ/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07FTHHPPJ&linkId=b9be97452a596d07e930332234dcbd67)The Y1 activity & fitness tracker comes with many cool features which will help you and your kids for proper tracking of your health and fitness.  This fitness tracking device helps you in tracking your heart rate accurately. 
 
@@ -609,7 +609,7 @@ The camera control feature will help you in taking beautiful selfies and picture
 <li>The charging method is a bit inconvenient</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07FTHHPPJ/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07FTHHPPJ&linkId=b9be97452a596d07e930332234dcbd67{{</button>}}
 
-## YoYoFit Slim Kids Fitness Tracker
+### YoYoFit Slim Kids Fitness Tracker
 
 [![](/uploads/yoyofit-slim-kids-fitness-tracker.jpg)](gp/product/B08331Z4T8/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08331Z4T8&linkId=0d5fdc9e41cc5e6799686ab4be6f92a8)
 
@@ -672,7 +672,7 @@ The watch comes with Bluetooth (4.0, IOS 9.0&Android 4.4) connectivity which can
 <li>Display not bright</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B08331Z4T8/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08331Z4T8&linkId=0d5fdc9e41cc5e6799686ab4be6f92a8{{</button>}}
 
-## Garmin Forerunner 35 Bundle
+### Garmin Forerunner 35 Bundle
 
 
 
@@ -732,3 +732,7 @@ The beautiful features of this watch are, you get smartphone notification on a w
 {{<cons>}}
 <li>Music control Basic level</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01KPUHBK6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KPUHBK6&linkId=8b4e94614e23bfe005ef72c3a0a03313{{</button>}}
+
+## Conclusion – Best Activity Tracker For Tweens ( All 2020 Updated)
+
+Health is paramount, and with lousy health and habits, you and your kids will not be able to enjoy healthy, wealthy, beautiful life, so; you must have to track your health activity using these Best Activity Tracker For Tweens and you.
