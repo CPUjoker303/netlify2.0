@@ -323,8 +323,9 @@ After using this accurate fitness tracker tweens will count their foot-steps on 
 
 {{<pros>}}
 
-<li>1+ year battery life </li>
-<li>It has comfortable band</li>
+<li>One year battery life</li>
+<li>It has comfortable band made of Silicon</li>
+<li>Easy connectivity with smart phones</li>
 {{</pros>}}
 {{<cons>}}
 <li>No touch screen</li>
