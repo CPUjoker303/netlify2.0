@@ -251,14 +251,14 @@ The watch can automatically detect all movements like swimming, running, jogging
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07FTHHPPJ/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07FTHHPPJ&linkId=b9be97452a596d07e930332234dcbd67" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/yoyofit-slim-kids-fitness-tracker.jpg" alt="Garmin Forerunner 35 Bundle" title="Garmin Forerunner 35 Bundle"></td>
-<td>Garmin Forerunner 35 Bundle</td>
+<td class="tdimg"><img src="/uploads/yoyofit-slim-kids-fitness-tracker.jpg" alt="YoYoFit Slim Kids Fitness Tracker" title="YoYoFit Slim Kids Fitness Tracker"></td>
+<td>YoYoFit Slim Kids Fitness Tracker</td>
 <td>DURABLE</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B08331Z4T8/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08331Z4T8&linkId=0d5fdc9e41cc5e6799686ab4be6f92a8" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/garmin-forerunner-35-bundle.jpg" alt="" title=""></td>
-<td></td>
+<td class="tdimg"><img src="/uploads/garmin-forerunner-35-bundle.jpg" alt="Garmin Forerunner 35 Bundle" title="Garmin Forerunner 35 Bundle"></td>
+<td>Garmin Forerunner 35 Bundle</td>
 <td>NICE</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B01KPUHBK6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KPUHBK6&linkId=8b4e94614e23bfe005ef72c3a0a03313" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
