@@ -553,3 +553,182 @@ We know that no health and fitness watch can accurately calculate the calories b
 {{<cons>}}
 <li>It has no heart rate monitor </li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B018SL790Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018SL790Q&linkCode=as2&tag=technikaya-20&linkId=5b2bf3f5194c3d7a04472be19a8ef7a9{{</button>}}
+
+## Fitness Tracker HR, Y1 Activity Tracker
+
+[![](/uploads/fitness-tracker-hr-y1-activity-tracker.jpg)](https://www.amazon.com/gp/product/B07FTHHPPJ/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07FTHHPPJ&linkId=b9be97452a596d07e930332234dcbd67)The Y1 activity & fitness tracker comes with many cool features which will help you and your kids for proper tracking of your health and fitness.  This fitness tracking device helps you in tracking your heart rate accurately. 
+
+It can easily track your sleep, and the sleep tracking feature will help you in the betterment of your sleep activity. When your tweens sit or play the game continuously without any move, then the fitness band will remind them to move. By connection this fitness tracker with your phone you will also get notification of SMS & SNS. The watch comes with the   TFT colour display, which is excellent, and kids can easily watch the display screen in the dazzling sun.  
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Name                     </td>
+<td>Y1 Smart fitness</td>
+</tr>
+<tr>
+<td>Compatibility          </td>
+<td>iOS 7. 0 & Android 5. 0 above</td>
+</tr>
+<tr>
+<td>Phone app          	</td>
+<td>JYouPro</td>
+</tr>
+<tr>
+<td>Display                	</td>
+<td>0.96-inch TFT technology</td>
+</tr>
+<tr>
+<td>Color	               </td>
+<td>Black</td>
+</tr>
+<tr>
+<td>WaterProof	</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The camera control feature will help you in taking beautiful selfies and pictures by using a smartwatch. The interesting feature of this fitness band is Step tracking feature which kids will really like and they will able to count footsteps and challenge each other.  Overall The fitness gadget seems durable and is a great activity tracker for tweens.
+
+{{<pros>}}
+
+<li>Heart Rate Monitor</li>
+<li>WaterProof</li>
+<li>Color Disply</li>
+<li>Bluetooth watch</li>
+<li>Easy to set up</li>
+<li>Get instant notifications</li>
+<li></li>
+{{</pros>}}
+{{<cons>}}
+<li>The charging method is a bit inconvenient</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07FTHHPPJ/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07FTHHPPJ&linkId=b9be97452a596d07e930332234dcbd67{{</button>}}
+
+## YoYoFit Slim Kids Fitness Tracker
+
+[![](/uploads/yoyofit-slim-kids-fitness-tracker.jpg)](gp/product/B08331Z4T8/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08331Z4T8&linkId=0d5fdc9e41cc5e6799686ab4be6f92a8)
+
+The Slim tweens fitness gadget comes in six colour design and can correctly track your activity using sensors and provide you with an accurate result and will help you in better understanding your health. 
+
+The Multi support mode feature will help you in counting footstep, Sit-Ups, Treadmill, and this watch allows you GPS tracking. Using this health gadget, you can also set the alarm. 
+
+The Elegant IP67 waterproof design is the perfect protection for your watch and water will not affect your watch while when you and your tweens are swimming or dancing in heavy rain or washing hands. Device App is CC Band. 
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Compatibility          </td>
+<td>Bluetooth, .0, IOS,9.0&Android 4.4</td>
+</tr>
+<tr>
+<td>Phone App          </td>
+<td>yes</td>
+</tr>
+<tr>
+<td>WaterProof	</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Color	               </td>
+<td>6 colors</td>
+</tr>
+<tr>
+<td>Display                </td>
+<td>Bright Display</td>
+</tr>
+<tr>
+<td>Supports Bluetooth	</td>
+<td>Yes (IOS, Android )</td>
+</tr>
+<tr>
+<td>WaterProof	</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The watch comes with Bluetooth (4.0, IOS 9.0&Android 4.4) connectivity which can easily connect with your mobile device. Overall the YoYo Slim overall the watch is excellent for your tweens and will realy helpful for your managing fitness. So if you like this product, then you can buy it from amazon.
+
+{{<pros>}}
+
+<li>Comes in many colours</li>
+<li></li>
+<li>Time can be set with different designs</li>
+<li></li>
+<li>The clock can be turned off completely</li>
+<li></li>
+<li>Looks great</li>
+<li> Pedometer is realistic</li>
+{{</pros>}}
+{{<cons>}}
+<li>Not compatible with some smartphones with SAMSUNGJ3,HUAWEIP8,WINDOWS,IPAD</li>
+<li>Display not bright</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B08331Z4T8/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08331Z4T8&linkId=0d5fdc9e41cc5e6799686ab4be6f92a8{{</button>}}
+
+## Garmin Forerunner 35 Bundle
+
+
+
+[![](/uploads/garmin-forerunner-35-bundle.jpg)](https://www.amazon.com/gp/product/B01KPUHBK6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KPUHBK6&linkId=8b4e94614e23bfe005ef72c3a0a03313)
+
+The watch is GPS fitness tracker which can track your activity which comes with long battery life. The display size of Garmin Forerunner is 1 inch, and in the dazzling sun, the display can be easily watchable. 
+
+The Gps running feature is effortless to use and can easily track how much fast you are running and where you run. The watch automatically converts and upload users data in Garmin fitness watch. 
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Manufacturer		</td>
+<td>Garmin</td>
+</tr>
+<tr>
+<td>Colour		</td>
+<td>Black</td>
+</tr>
+<tr>
+<td>Device interface 	</td>
+<td>Dial</td>
+</tr>
+<tr>
+<td>Display Type		</td>
+<td>Digital Display</td>
+</tr>
+<tr>
+<td>Connectivity technologies		</td>
+<td>Bluetooth, GPS</td>
+</tr>
+<tr>
+<td>OS		</td>
+<td>Ios, Android</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The main tracking features of Garmin Forerunner 35 are activity tracking, estimates steps counting, heart rate monitoring, GPS running, calories, intensity minutes and also has a reminder which reminds you to move. 
+
+The beautiful features of this watch are, you get smartphone notification on a watch display screen, automatic uploads, music control and live tracking. The forerunner Garmin watch looks very beautiful and is the best activity tracker for tweens.
+
+{{<pros>}}
+
+<li>Always-on screen</li>
+<li>Clear contrast </li>
+<li>Large numbers make viewing</li>
+<li>Long battery life</li>
+<li>Monochrome screen</li>
+<li>Price is normal</li>
+<li>HR monitor works well</li>
+<li>Accurate GPS tracking</li>
+<li>Heart rate monitor</li>
+{{</pros>}}
+{{<cons>}}
+<li>Music control Basic level</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01KPUHBK6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KPUHBK6&linkId=8b4e94614e23bfe005ef72c3a0a03313{{</button>}}
