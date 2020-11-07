@@ -291,3 +291,18 @@ The socket type of AMD Ryzen 5 2600 Processor is AM4. The plus point about this 
 {{</html-code>}}
 
 Ryzen 5 2600 is the perfect processor for budget-minded gamers. If you are a content creator, Youtuber creator, Gamer, or you want to build a High-end machine on Budget, then Ryzen 5 2600 is best for you. If you buy Ryzen 5 2600x, then you get similar to Ryzen 5 2600. So, this Cpu is the best AMD Fx Processor for gaming and other purposes.
+
+{{<pros>}}
+
+<li>Reasonable pricing</li>
+<li>Excellent for gaming</li>
+<li>little power Consumption (65 W)</li>
+<li>Good gaming performance</li>
+{{</pros>}}
+{{<cons>}}
+<li>Relatively old</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07B41WS48/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07B41WS48&linkId=0632bb069ecd9806443b7268ce8a76eb{{</button>}}
+
+### AMD FX-6300 6-Core Processor Black Edition
+
+![AMD FX-6300 6-Core Processor Black Edition](/uploads/fx-6300-6-core-processor.jpg "AMD FX-6300 6-Core Processor Black Edition")
