@@ -434,3 +434,16 @@ If we come to this Cpu with Intel processors series, then it can easily compare 
 {{</html-code>}}
 
 It uses the am4 socket from AMD, and it will never fit in an am3+ socket support, only AMDS brand new AM4 sockets. The cooler comes with pre-applied thermal paste, and the stock cooler is excellent. If we talk about gaming live streaming, then for better handling, you can use any of Ryzen 5 processors like Ryzen 5 2400G much better for streaming purposes. This is the best processor for gaming on a budget so that you can buy it.
+
+{{<pros>}}
+
+<li>It Overclocks well</li>
+<li>Very Good Gaming performance </li>
+<li>Similar like Intel chips.</li>
+<li>Competitive pricing</li>
+<li>The Cpu Cooler included </li>
+<li>4 physical cores</li>
+{{</pros>}}
+{{<cons>}}
+<li>No integrated graphics</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0741DN383/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0741DN383&linkId=e5b614bd92bd3a6321b3b05de9be5730{{</button>}}
