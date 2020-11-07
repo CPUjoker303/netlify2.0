@@ -379,3 +379,58 @@ The AMD fx 6300 is an older version of the Vishera set and can easily concentrat
 <li>Not perform Like Intel</li>
 <li>Fan is noisy</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B009O7YORK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YORK&linkId=e7431618c92f3a1eaadc9e7305a606c7{{</button>}}
+
+### AMD Ryzen 3 1200 Desktop Processor with Wraith Stealth Cooler
+
+![AMD Ryzen 3 1200 Desktop Processor](/uploads/amd-ryzen-3-1200-desktop-processor.jpg "AMD Ryzen 3 1200 Desktop Processor")
+
+Next is AMD Ryzen 3 1200 review. The thing which people like about this Ryzen Cpu, It is overclockable and has unlocked processors, and you can also overclock this processor. When our team overclocked this processor, then they get 4.0 GHz Maximum Frequency, and you also can Overclock this CPU upto 4 GHz using the best stock cooler and If you want to more overclocking, then an external cooler required for this purpose. 
+
+If we come to this Cpu with Intel processors series, then it can easily compare with the Intel i3 and i5 series. If you are building AMD Ryzen 3 pc, then the Best GPU is Rx 560 and Nvidia 1060 6gb variant (budget advice). This processor performs very great in-stock speed, and its maximum system memory speed is 2667mhz, and the total cache memory is 10 Mb.  The AMD Ryzen 3 1200 Specs are given below:
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Class</td>
+<td>Desktop</td>
+</tr>
+<tr>
+<td>Socket </td>
+<td>AM4</td>
+</tr>
+<tr>
+<td>Clockspeed</td>
+<td>3.1 GHz</td>
+</tr>
+<tr>
+<td>Turbo Speedx</td>
+<td>3.4 GHz</td>
+</tr>
+<tr>
+<td>Cores</td>
+<td>4</td>
+</tr>
+<tr>
+<td>TDP</td>
+<td>65 W</td>
+</tr>
+<tr>
+<td>Threads</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Cache</td>
+<td>10MB </td>
+</tr>
+<tr>
+<td>Weight</td>
+<td>1.15 lbs</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+It uses the am4 socket from AMD, and it will never fit in an am3+ socket support, only AMDS brand new AM4 sockets. The cooler comes with pre-applied thermal paste, and the stock cooler is excellent. If we talk about gaming live streaming, then for better handling, you can use any of Ryzen 5 processors like Ryzen 5 2400G much better for streaming purposes. This is the best processor for gaming on a budget so that you can buy it.
