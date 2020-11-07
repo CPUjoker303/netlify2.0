@@ -234,3 +234,15 @@ The AMD Ryzen 3 is a Vr-ready processor that provides you great performance for 
 ### AMD Ryzen 5 2600 Processor with Wraith Stealth Cooler
 
 ![AMD Ryzen 5 2600 Processor](/uploads/amd-ryzen-5-2600-processor.jpg "AMD Ryzen 5 2600 Processor")
+
+Next is AMD Ryzen 5 2600 processor review. The AMD ryzen 5 2600 is a Hexa core processor, which means it has 6 cores and 12 threads, and it is an SMT (simultaneous multi-threading) enabled processor which helps you in lots of CPU intensive tasks.
+
+It is an overclocked processor upto 4.2 GHz. If you have to build a PC with ASUS TUFF B450-Plus gaming Motherboard, then without updating BIOS, everything will work right. While all cores are 3.7 GHz, you can boost up to 3.9 GHz (single-core). 
+
+The socket type of AMD Ryzen 5 2600 Processor is AM4. The plus point about this great CPU is, it comes with Wraith Stealth Cooler, which the main temperature perfectly. If we talk about the gaming performance of Ryzen 5 and Intel i5, then we come to know that, Intel i5 8400 is providing only 5-6 fps more than Ryzen 5 in gaming. The AMD Ryzen 5 2600 Processor specs are below
+
+#### Specifications
+
+
+
+Ryzen 5 2600 is the perfect processor for budget-minded gamers. If you are a content creator, Youtuber creator, Gamer, or you want to build a High-end machine on Budget, then Ryzen 5 2600 is best for you. If you buy Ryzen 5 2600x, then you get similar to Ryzen 5 2600. So, this Cpu is the best AMD Fx Processor for gaming and other purposes.
