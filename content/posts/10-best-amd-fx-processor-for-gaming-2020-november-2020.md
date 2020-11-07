@@ -168,3 +168,50 @@ The AMD Ryzen Master Utility gives the power to overclock very freely, and for x
 ### AMD Ryzen 3 2200G Processor with Radeon Vega 8 Graphics
 
 ![AMD Ryzen 3 2200G Processor](/uploads/amd-ryzen-3-2200g.jpg "AMD Ryzen 3 2200G Processor")
+
+The second is AMD Ryzen 3 2200G review. This best AMD Ryzen CPU comes with Readon VGA 8 graphics and providing you amazing performance using AMD SenseMI Technology. The Readon VGA 8 graphics card is much more powerful than Intel HD integrated GPU. There is no comparison of Ryzen 3 with Intel HD Integrated Graphics because Ryzen 3 is much better than intel i3 8100. 
+
+It comes with 8 cores processor, which is suitable for decent gaming performance, and the memory speed of this processor is 2667 MHz, which gives you the best performance in playing games. The AMD Ryzen 3 2200G Socket type is AM4, which is best for x470 and B450 like chipsets. The AMD Ryzen 3 2200g processor specs are below
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>CPU Model	</td>
+<td>Ryzen 3 2200G</td>
+</tr>
+<tr>
+<td>Processor Speed	</td>
+<td>3.7 GHz</td>
+</tr>
+<tr>
+<td>Processor Socket</td>
+<td>Socket AM4</td>
+</tr>
+<tr>
+<td>cores</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Memory Speed : </td>
+<td>2667 MegaHertz</td>
+</tr>
+<tr>
+<td>Frequency</td>
+<td> 3.7 GigaHertz</td>
+</tr>
+<tr>
+<td>Gpu</td>
+<td>Built In Radeon Vega 8 Graphics</td>
+</tr>
+<tr>
+<td>Socket Type</td>
+<td>AM4</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The AMD Ryzen 3 is a Vr-ready processor that provides you great performance for Vr advanced workloads, and the XFR(Extended Frequency Range) helps in monitoring the temperature and which helps in boosting the speed and performance. The Cpu is AMD multi-threaded processing unit, and overall the AMD Ryzen 3 is the best AMD fx processor for gaming with Great Readon VGA 8 graphics.
