@@ -306,3 +306,54 @@ Ryzen 5 2600 is the perfect processor for budget-minded gamers. If you are a con
 ### AMD FX-6300 6-Core Processor Black Edition
 
 ![AMD FX-6300 6-Core Processor Black Edition](/uploads/fx-6300-6-core-processor.jpg "AMD FX-6300 6-Core Processor Black Edition")
+
+Next is the AMD FX-6300 Review. The best AMD FX CPU FX-6300 is a very popular budget deal six-core Vishera  CPU feels more powerful, and its base clock speed is 3. GHz with supported technologies like aes, avx, fma4, etc.. Its Max turbo speed is 4.1 GHz, and the processor TDP is only 95 watt; unlike Intel CPUs, You don’t have to pay extra, and it is truly a budget processor for gaming.  The FX-6300 comes in Best CPU Processors for Gaming, and you can easily reach up to 5 GHz with the Fx-6300. 
+
+The AMD AMD FX-6300 is an unlocked and overclockable processor, and you will get mega multitasking performance by using this Cpu. It comes with the stock cooler, which looks very basic, and the fan uses the four pins connector.  It has a dual-channel PC3-14900u (DDR3- 1866) and providing amazing performance for the price. 
+
+This Cpu cannot be compared with the endless processors because the performance is in between the Intel Core i3 and Intel Core i5 range, but it cannot reach the core i5 processors in performance, but this FX CPU 6300 is offering more performance than Intel core i3 and also very budget-friendly. So, overall this Cpu is the Best AMD Fx Processor For Gaming. You will get 14 Cache (6 Mb L2 cache and 8 Mb L3 Cache) memory by using this processor six Mb L2 and eight Mb L3 for good performance. 
+
+The AMD fx 6300 is an older version of the Vishera set and can easily concentrate on fast video rendering, 3d modeling, normal gaming, video editing, etc. The AMD Fx 6300 comes with the 16-way sub-cache memory feature for the fast-moving and transferring data. The AMD FX-6300 specs are below given:
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>CPU Model	</td>
+<td>AMD FX</td>
+</tr>
+<tr>
+<td>Processor Speed	</td>
+<td>3.5 GHz</td>
+</tr>
+<tr>
+<td>Processor Socket	</td>
+<td>Socket AM3+</td>
+</tr>
+<tr>
+<td>Cores</td>
+<td>6</td>
+</tr>
+<tr>
+<td>Frequency</td>
+<td>3.5/4.1ghz</td>
+</tr>
+<tr>
+<td>Cache </td>
+<td>6/8mb (l2/l3)</td>
+</tr>
+<tr>
+<td>Socket type </td>
+<td>am3+</td>
+</tr>
+<tr>
+<td>Power wattage</td>
+<td>95w</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+ The processor CMOS is 32nm SOI for basic Input and output settings. The PCI Express Version of Amd Fx 6300 is PCIe 3.0 for connecting high-speed components, and the pocket type of this AMD processor is AM3+, which is good. The processor is made for highly configurable power and performance, and the processor speed is 3.5 GHz. Overall the processor is a budget processor for low budget gamers.
