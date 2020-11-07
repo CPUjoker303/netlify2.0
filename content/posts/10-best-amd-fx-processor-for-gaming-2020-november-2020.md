@@ -215,3 +215,22 @@ It comes with 8 cores processor, which is suitable for decent gaming performance
 {{</html-code>}}
 
 The AMD Ryzen 3 is a Vr-ready processor that provides you great performance for Vr advanced workloads, and the XFR(Extended Frequency Range) helps in monitoring the temperature and which helps in boosting the speed and performance. The Cpu is AMD multi-threaded processing unit, and overall the AMD Ryzen 3 is the best AMD fx processor for gaming with Great Readon VGA 8 graphics.
+
+{{<pros>}}
+
+<li>Games easily Playable upto 1080p </li>
+<li>Incredibly affordable</li>
+<li>Perfect built In video card </li>
+<li>Performance is nice</li>
+<li>Strong Vega graphics</li>
+<li>Extremely affordable</li>
+{{</pros>}}
+{{<cons>}}
+<li>Early driver incompatibilities</li>
+<li>Non-metallic TM</li>
+<li>Requires expensive memory</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B079D3DBNM/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079D3DBNM&linkId=49c8dd3ed0e0fb3c6678c1fc8c39f735{{</button>}}
+
+### AMD Ryzen 5 2600 Processor with Wraith Stealth Cooler
+
+![AMD Ryzen 5 2600 Processor](/uploads/amd-ryzen-5-2600-processor.jpg "AMD Ryzen 5 2600 Processor")
