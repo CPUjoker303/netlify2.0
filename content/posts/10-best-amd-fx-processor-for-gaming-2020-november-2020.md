@@ -357,3 +357,25 @@ The AMD fx 6300 is an older version of the Vishera set and can easily concentrat
 {{</html-code>}}
 
  The processor CMOS is 32nm SOI for basic Input and output settings. The PCI Express Version of Amd Fx 6300 is PCIe 3.0 for connecting high-speed components, and the pocket type of this AMD processor is AM3+, which is good. The processor is made for highly configurable power and performance, and the processor speed is 3.5 GHz. Overall the processor is a budget processor for low budget gamers.
+
+{{<pros>}}
+
+<li>Very Cheapest Processor </li>
+<li>AMD FX-6300 gives Great Performance</li>
+<li>Loads of Motherboards Still Support </li>
+<li>Easy to overclock </li>
+<li>Good gaming chops</li>
+<li>Great Performance</li>
+<li>Secure design</li>
+<li>Budget Gaming Processor</li>
+<li>Memory controller</li>
+<li>Good overclocking</li>
+<li>Great price</li>
+{{</pros>}}
+{{<cons>}}
+<li>Multi-player gaming is not possible </li>
+<li>Must Buy GPU For Complete System </li>
+<li>Much like as Intel rivals it is Not as quick</li>
+<li>Not perform Like Intel</li>
+<li>Fan is noisy</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B009O7YORK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YORK&linkId=e7431618c92f3a1eaadc9e7305a606c7{{</button>}}
