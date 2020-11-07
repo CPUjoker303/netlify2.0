@@ -164,3 +164,7 @@ The AMD Ryzen Master Utility gives the power to overclock very freely, and for x
 <li>Very limited overclocking</li>
 <li>On load Highest energy draw</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07B428M7F/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07B428M7F&linkId=b520dc04fcc5ffba71576a9b7daf1fa4{{</button>}}
+
+### AMD Ryzen 3 2200G Processor with Radeon Vega 8 Graphics
+
+![AMD Ryzen 3 2200G Processor](/uploads/amd-ryzen-3-2200g.jpg "AMD Ryzen 3 2200G Processor")
