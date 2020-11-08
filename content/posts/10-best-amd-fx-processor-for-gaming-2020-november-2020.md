@@ -636,3 +636,18 @@ The processor comes with the heatsink with thermal paste already applied. The Fx
 {{</html-code>}}
 
 The AMD Fx 4300 Vishera  Processor is a 64bit processor that can easily handle both 32bit and 64bit OS. Overall the CPU is excellent, but for best gaming, you need the best GPU for it.
+
+{{<pros>}}
+
+<li>Easily overclocked</li>
+<li>Good For Performance</li>
+<li>Excellent boost clock speed</li>
+<li>Includes CPU cooler </li>
+{{</pros>}}
+{{<cons>}}
+<li>Relatively Old</li>
+<li>Relatively Expensive</li>
+<li>Average multi-tasking performance</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B009O7YU3S/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YU3S&linkId=cbeffad0b42b6a5e21d914d2ebeed2a8{{</button>}}
+
+### AMD FX-8120 Zambezi
