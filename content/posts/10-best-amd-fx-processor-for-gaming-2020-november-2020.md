@@ -447,3 +447,76 @@ It uses the am4 socket from AMD, and it will never fit in an am3+ socket support
 {{<cons>}}
 <li>No integrated graphics</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0741DN383/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0741DN383&linkId=e5b614bd92bd3a6321b3b05de9be5730{{</button>}}
+
+### AMD FX-8350 FX-Series 8-Core
+
+![AMD FX-8350 Processor](/uploads/amd-fx-8350.jpg "AMD FX-8350 Processor")
+
+Next is AMD fx-8350 review. The AMD FX-8350 is 8 core desktop processor, and its overclocking is very easy. AMD FX-8350 base clock is 4.0 GHz and has 4.2 GHz turbo max speed. It has a small processor but much powerful and can easily handle mega-tasking and workloads, heavy-load applications like fast rendering, lengthy videos editing, 3d designing, advance 3d gaming, Complex 3D modelling etc. 
+
+The socket type of this CPU is am3+ and total 16 Mb cache memory (8MB L2/8MB L3). The TDP of this processor is 125w, and it consumes less power for work which is the plus point of this processor. It is well designed "Bulldozer" architecture processor, and which provides excellent pure core performance and the 32 nanometers die shrink design can increase efficiency by reducing leakage. The amd fx-8350 fx-series specs are below:
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Platform</td>
+<td>Desktop</td>
+</tr>
+<tr>
+<td>base Frequency </td>
+<td>4.0</td>
+</tr>
+<tr>
+<td>Cores </td>
+<td>8</td>
+</tr>
+<tr>
+<td>Cache</td>
+<td>L2 8/ L3 8mb </td>
+</tr>
+<tr>
+<td>TDP </td>
+<td>125w</td>
+</tr>
+<tr>
+<td>Socket Type </td>
+<td>AM3+</td>
+</tr>
+<tr>
+<td>Dimensions	</td>
+<td>5.50 x 5.00 x 2.80 inches</td>
+</tr>
+<tr>
+<td>Memory Type	</td>
+<td>DDR3 SDRAM</td>
+</tr>
+<tr>
+<td>Overdrive</td>
+<td>4.2GHz</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+It comes with AMD Virtualization Technology with IOMMU, which provides the best performance for different tasks. The AMD FX 8350 is a good gaming processor for you. 
+
+{{<pros>}}
+
+<li>AMD Overdrive technology</li>
+<li>Bulldozer architecture</li>
+<li>Peak performance</li>
+<li>32 nanometer die shrink </li>
+<li>hyper-transport technology</li>
+<li>Reasonably priced</li>
+<li>Piledriver CPU core design</li>
+<li>Improved "Per Clock" performance</li>
+{{</pros>}}
+{{<cons>}}
+<li>It uses 32nm and Intel is on 22nm</li>
+<li>Higher power consumption than intel</li>
+<li>stills lags then intel.</li>
+<li>Fan gets loud</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B009O7YUF6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YUF6&linkId=fade07dc9a998142135d40707535f44b{{</button>}}
