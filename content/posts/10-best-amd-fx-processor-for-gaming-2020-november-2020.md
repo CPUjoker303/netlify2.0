@@ -650,4 +650,70 @@ The AMD Fx 4300 Vishera  Processor is a 64bit processor that can easily handle b
 <li>Average multi-tasking performance</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B009O7YU3S/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YU3S&linkId=cbeffad0b42b6a5e21d914d2ebeed2a8{{</button>}}
 
-### AMD FX-8120 Zambezi
+### AMD FX-8120 Zambezi Processor
+
+![AMD FX-8120 Zambezi Processor](/uploads/amd-fx-8120-zambezi.jpg " AMD FX-8120 Zambezi Processor")
+
+The AMD FX 8120 Bulldozer architecture Designed processor comes with 3.1 GHz overclocking operating frequency which provides you with great performance in budget rate. The CPU 32nm die shrink provides you with smooth performance. The overclocking capabilities are great, and you can easily overclock this CPU and can boost speed and performance.  
+
+The stock fan also comes with this AMD FX 8120 processor which is quite loud but stays cool. This budget gaming processor socket type is AM3+. The Fx 8120 can easily overclock up to 4.2 GHz or higher with after-market cooling. The CPU is 8 core processor and comes with AMD Turbo CORE Technology. The cache memory of FX 8120 is 16 Mb ( 8MB L2 Cache and 8MB L3 Cache). The AMD FX-8120 Zambezi Processor specs are below:
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>CMOS</td>
+<td>32nm</td>
+</tr>
+<tr>
+<td>CPU Manufacturer	</td>
+<td>AMD</td>
+</tr>
+<tr>
+<td>CPU Model	</td>
+<td>AMD FX</td>
+</tr>
+<tr>
+<td>Processor Speed	</td>
+<td>3.1 GHz</td>
+</tr>
+<tr>
+<td>Processor Socket	</td>
+<td>Socket AM3+</td>
+</tr>
+<tr>
+<td>Processor Count	</td>
+<td>8	</td>
+</tr>
+<tr>
+<td>Wattage	</td>
+<td>125 watts</td>
+</tr>
+<tr>
+<td>CPU Speed	</td>
+<td>3.1 GHz</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The processor is providing great multitasking setups and providing good performance. This inexpensive processor is able to deliver dynamic core performance. Overall the CPU is good for performance.
+
+{{<pros>}}
+
+<li>Good performance in multithread programs</li>
+<li>Availability</li>
+<li>Price</li>
+<li>Excellent boost clock speed</li>
+{{</pros>}}
+{{<cons>}}
+<li>Bad performance in single thread</li>
+<li>Power consumption</li>
+<li>Less reasonable pricing</li>
+<li>Not power efficient at 125W</li>
+<li>Outdated manufacturing process for thermals</li>
+<li>Relatively old</li>
+<li>Weak general gaming performance</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B005UBNKZG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005UBNKZG&linkId=d730477a68f920664469e0763eba2a87{{</button>}}
