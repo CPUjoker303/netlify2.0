@@ -520,3 +520,68 @@ It comes with AMD Virtualization Technology with IOMMU, which provides the best 
 <li>stills lags then intel.</li>
 <li>Fan gets loud</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B009O7YUF6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YUF6&linkId=fade07dc9a998142135d40707535f44b{{</button>}}
+
+### AMD FD8320FRHKBOX FX-8320 FX-Series 8-Core Black Edition Processor
+
+![AMD FX-8320 FX-Series Processor](/uploads/amd-fd8320frhkbox-fx-8320-fx-series-8.jpg "AMD FX-8320 FX-Series Processor")
+
+The AMD FX-8320 is Am3+ socket type desktop processor which comes with 8 cores / 8 threads and 16 Mb (8mb L2 / 8mb L3) total Cache Memory and a budget gaming processor. The processor is providing great performance because it comes 4.0GHz base clock speed. The processor can easily handle mega-tasking and heavy loads like fastest video rendering, editing, gaming etc. 
+
+The processor is AMD Build 8th generation x86 CPU architecture. If you pair Rtx 1070 Gpu with FX-8320, then it will quite a bit bottlenecking the graphics card and is still very decent budget processor, and you can play many games in good frame rate with Zero lag and high settings. Using AMD FX-8320 the multitasking is effortless, and this processor has a great overclocking ability. The AMD FX-8320 specs are below:
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Platform</td>
+<td>Desktop/Laptop</td>
+</tr>
+<tr>
+<td>Color	</td>
+<td>Black with blue neon</td>
+</tr>
+<tr>
+<td>Frequency</td>
+<td>3.5/4.0GHz (base/overdrive)</td>
+</tr>
+<tr>
+<td>Hard Drive Interface	</td>
+<td>Serial ATA</td>
+</tr>
+<tr>
+<td>Cores</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Cache</td>
+<td>8/8mb (l2/l3)</td>
+</tr>
+<tr>
+<td>Computer Memory Type	</td>
+<td>DDR3 SDRAM</td>
+</tr>
+<tr>
+<td>TDP  </td>
+<td>125w</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The FX-8320 is a good gaming processor for the budget-minded gamers, and overall it is providing exclusive performance in the budget, so it is best AMD fx processor for gaming and mega-tasking.
+
+{{<pros>}}
+
+<li>Easily overclocked</li>
+<li>High dynamic performance</li>
+<li>Immersive gaming experience</li>
+<li>Manageable power requirements</li>
+<li>Includes a CPU cooler</li>
+<li>Excellent for multi-tasking</li>
+{{</pros>}}
+{{<cons>}}
+<li>Performance barriers</li>
+<li>Relatively old</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B009O7YU56/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YU56&linkId=8029cc3725386c83d5851513f328558d{{</button>}}
