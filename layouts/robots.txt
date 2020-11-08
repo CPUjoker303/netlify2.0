@@ -3,3 +3,11 @@ User-agent: *
 {{range .Pages}}
 Disallow: {{.RelPermalink}}
 {{end}}
+
+Disallow: https://www.technikaya.com/about/
+Disallow: https://www.technikaya.com/pages/
+Disallow: https://www.technikaya.com/tags/
+Disallow: https://www.technikaya.com/reviews/
+Disallow: https://www.technikaya.com/posts/
+Disallow: https://www.technikaya.com/information/
+Disallow: https://www.technikaya.com/categories/
