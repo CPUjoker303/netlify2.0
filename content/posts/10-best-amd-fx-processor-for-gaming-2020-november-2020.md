@@ -585,3 +585,54 @@ The FX-8320 is a good gaming processor for the budget-minded gamers, and overall
 <li>Performance barriers</li>
 <li>Relatively old</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B009O7YU56/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YU56&linkId=8029cc3725386c83d5851513f328558d{{</button>}}
+
+### AMD FX-4300 Vishera – 4 Core Processor for Consumer Desktops
+
+![AMD FX-4300 Vishera Processor](/uploads/amd-fx-4300-vishera-–-4-core-processor.jpg "AMD FX-4300 Vishera Processor")
+
+The AMD Fx 4300 Vishera CPU Quad-core model is for those smaller computers that not required much power. The Fx 4300 quad-core comes with four cores, and it is 3.80 GHz Processor and can be overclocked upto 4 GHz. You can use this processor for normal tasks and gaming. 
+
+The processor comes with the heatsink with thermal paste already applied. The Fx 4300 4- Cores black edition desktop processor is for normal computers and tasks. It comes with a convenient design. The memory bandwidth which you can efficiently utilize is 29.9GB/s memory. If you buy this processor, they will also come with it. For the price, the CPU is very fast, but for gaming, you must need a good graphic card. For m5a97 r2.0 like motherboard which comes with AM3+ socket, this CPU is best which requires this processor.  The AMD FX-4300 Vishera Processor specs are given below:
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>CPU Model	</td>
+<td>AMD FX</td>
+</tr>
+<tr>
+<td>Processor Speed	</td>
+<td>3.8 GHz</td>
+</tr>
+<tr>
+<td>Processor Socket	</td>
+<td>Socket AM3+</td>
+</tr>
+<tr>
+<td>CPU Speed	</td>
+<td>3.8 GHz</td>
+</tr>
+<tr>
+<td>Processor Count	</td>
+<td>4</td>
+</tr>
+<tr>
+<td>TDP	</td>
+<td>95 watts</td>
+</tr>
+<tr>
+<td>CMOS</td>
+<td>32 Nm</td>
+</tr>
+<tr>
+<td>Cache</td>
+<td>8 MB</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The AMD Fx 4300 Vishera  Processor is a 64bit processor that can easily handle both 32bit and 64bit OS. Overall the CPU is excellent, but for best gaming, you need the best GPU for it.
