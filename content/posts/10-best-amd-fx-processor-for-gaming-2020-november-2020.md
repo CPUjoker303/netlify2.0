@@ -9,7 +9,7 @@ metaKeywords: Best Amd Fx Processors For Gaming
 url: best-amd-fx-processor-for-gaming/
 date: 2020-11-07T18:26:05.676Z
 updateDate: 2020-11-07T18:26:05.916Z
-image: /uploads/best-amd-fx-processor-for-gaming.jpg
+image: /uploads/best-amd-fx-processors.jpg
 tags:
   - Reviews
 categories:
