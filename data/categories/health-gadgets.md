@@ -1,5 +1,5 @@
 ---
-name: Health Gadgets
-excrept: Best Health Gadgets
+name: HEALTH GADGETS
+excrept: BEST HEALTH GADGETS
 url: health-gadgets
 ---
