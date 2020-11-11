@@ -13,8 +13,9 @@ image: /uploads/best-amd-fx-processors.jpg
 tags:
   - Reviews
   - Information
+  - PROCESSORS
 categories:
-  - Reviews
+  - PROCESSORS
 schemaMarkup: cc
 pickName: "AMD Ryzen 7 2700X Processor with Wraith Prism LED Cooler "
 pickImg: /uploads/amd-ryzen-7-2700x.jpg
