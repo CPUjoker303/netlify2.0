@@ -501,3 +501,64 @@ Inside the packaging, you get two white tubes with red and white caps. Take a dr
 {{<cons>}}
 <li>For the prolonged immersion in water this bond  not recommended</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07DYDVFJN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DYDVFJN&linkId=470fd325f19de91da622f5da8bc60fd8{{</button>}}
+
+### Loctite Super Glue Gel 2-Gram Tube
+
+![Loctite Super Glue Gel 2-Gram Tube](/uploads/loctile.jpg "Loctite Super Glue Gel 2-Gram Tube")
+
+Next is Loctite Super Glue Gel Review. The super glue is no drip gel, and no mess glue gel, and the liquid adhesive gel is compatible with lots of materials. The manufacturer of this brilliant adhesive is Ireland. The bond is very well formulated. 
+
+The moisture resistance glue gel is easy to use and can be used for ceramics, metals, and other types of materials. You can also repair your broken glass and can repair broken adhesive sinks, ceramic soap dish. 
+
+The Loctite super glue is temperature resistant and can survive in high and low-level temperatures in the required range. 
+
+#### Speciffications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Compatibility Of Material</td>
+<td>ceramic, Plastic, Metal, Rubber, Fabric, Foam, Leather</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>Loctite</td>
+</tr>
+<tr>
+<td>Container Type</td>
+<td>Tube</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Multi color</td>
+</tr>
+<tr>
+<td>Waterproof</td>
+<td>Yes </td>
+</tr>
+<tr>
+<td>Tough</td>
+<td>Strong</td>
+</tr>
+<tr>
+<td>Full cure time	</td>
+<td>12 Hours</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The superglue can also be used to repair leather materials, and you can repair your broken leather products and bond with each other using this strong gel. Overall the Loctite Super Glue Gel seems very durable and is the best adhesive for a ceramic soap dish.
+
+{{<pros>}}
+
+<li>Pretty strong bond</li>
+<li>The adhesive Dries transparent</li>
+<li>Temperature resistive glue </li>
+<li>Easy to use</li>
+{{</pros>}}
+{{<cons>}}
+<li>Cannot be used for mirrors adhesion</li>
+<li>Not like strong adhesive just use it for normal purposes.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0041NTBZM/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0041NTBZM&linkId=6c7a8711f882bb645c6071b75fae0ab5{{</button>}}
