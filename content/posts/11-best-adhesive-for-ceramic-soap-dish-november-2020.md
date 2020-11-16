@@ -689,3 +689,68 @@ The use of HG power glue is straightforward. Just you have to take the quantity 
 {{<cons>}}
 <li>Not suitable for absorbent materials</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07BQ1N98B/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07BQ1N98B&linkId=10ac286d2cc1a522537714d04df16d7d{{</button>}}
+
+### J-B Weld 50101 MinuteWeld Instant-Setting Epoxy Syringe 
+
+![J-B Weld 50101 MinuteWeld Instant-Setting Epoxy Syringe](/uploads/j-b-weld-50101-minuteweld-instant-setting-epoxy-syringe.jpg "J-B Weld 50101 MinuteWeld Instant-Setting Epoxy Syringe")
+
+Next is the J-B Weld 50101 Review. The adhesive comes in a brilliant Syringe container design with a Re-Sealable and non-waste cap on the Syringe for protection. Epoxy is excellent in performance, and it has amazing strength up to 2300 PSI. The adhesive can use for multi-purposes and different types of materials like ceramics, plastics, and easily cures in one hour. 
+
+The J-B Weld is a USA manufactured brand, and the bond can easily set in one minute. The JB heavy-duty epoxy can repair and restore very brilliantly. The adhesive is fine for all ceramic products, plastics, wood joints, PVC, and it can bond them perfectly. 
+
+The JB Weld works very fast as it is flexible and dries clean and clear. By using this JB weld, you can also bond metal to metal, and you can also keep your jewelry attached by using this JB Weld Adhesive, and you will get enough time
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Compatibility Of Material</td>
+<td>Wood, Fiberglass, Ceramic, Plastic</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>J-B Weld</td>
+</tr>
+<tr>
+<td>Container Type</td>
+<td>Syringe</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>White</td>
+</tr>
+<tr>
+<td>Waterproof</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Tough</td>
+<td>2x Strong </td>
+</tr>
+<tr>
+<td>Full cure time	</td>
+<td>1 hour</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+## How to use J-B Weld 50101 Minute Weld Instant
+
+
+To use this epoxy just, you have to open the cap and press the tube and take the syringe on the dry surface or on the included mixing tray where you want. Mix it for some time and apply on the surface where you just remember that you only have to take the required amount of quantity only.
+
+{{<pros>}}
+
+<li>Instant setting epoxy</li>
+<li>Great compatibility with materials </li>
+<li>unique syringe has  re-sealable cap</li>
+<li>Temperature resitivity</li>
+<li>Water proof adhesive </li>
+<li>Works great</li>
+{{</pros>}}
+{{<cons>}}
+<li>Doesn't work with some plastics</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00P1RU8PY/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00P1RU8PY&linkId=afda43606bcbc35f2c78429d8e16c5aa{{</button>}}
