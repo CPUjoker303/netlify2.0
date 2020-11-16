@@ -626,3 +626,54 @@ After buying the Devcon Epoxy adhesive, you will get two bottles of adhesive liq
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B005K091ZU/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005K091ZU&linkId=e3ee40e115d3e70502cb4fa14d7a47bc{{</button>}}
 
 ### HG POWER GLUE Industrial cyanoacrylate ca Adhesive
+
+![HG POWER GLUE Industrial cyanoacrylate ca Adhesive](/uploads/hg-power-glue-industrial.jpg " HG POWER GLUE Industrial cyanoacrylate ca Adhesive")
+
+Next is the HG power glue review. The welding glue is providing excellent bonding strength and is compatible with lots of materials. The HG glue is made of a combination of powder and glue, which can repair your broken ceramics soap dishes or different ceramics products.
+
+The adhesive is very strong and is used for bonding, filling, strengthening ETC. The HG bond has 600% more sticking strength, which makes this adhesive more perfect. The HG bond is temperature resistant between the hot and cold temperatures 239°F and -49°F.
+
+The PP (Polypropylene) material and PE (Polyethylene) Silicon and plastic can bond permanently by using this HG adhesive. The HG adhesive is not suitable for absorbent like materials. The adhesive also allows chemical resistivity and is against with lots of chemicals (diesel, gasoline etc). 
+
+Overall the HG liquid adhesive is very prominent and easy to use. The cyanoacrylate adhesive comes with brilliant strength and is the best adhesive for a ceramic soap dish.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Compatibility Of Material</td>
+<td>plastic, wood, rubber, glass, metal, aluminum</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>HG POWER GLUE</td>
+</tr>
+<tr>
+<td>Container Type</td>
+<td>Bottle</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>White</td>
+</tr>
+<tr>
+<td>Waterproof</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Tough</td>
+<td>Strong</td>
+</tr>
+<tr>
+<td>Full cure time	</td>
+<td>5 seconds</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+## How To Use HG power glue Industrial cyanoacrylate ca Adhesive
+
+The use of HG power glue is straightforward. Just you have to take the quantity of adhesive from both the yellow cap and white cap bottle. Mix the adhesive properly for 20 seconds and then apply the adhesive where you want
