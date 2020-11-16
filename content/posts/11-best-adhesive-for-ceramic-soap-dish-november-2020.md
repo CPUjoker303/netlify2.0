@@ -234,3 +234,76 @@ There are two tubes inside the package. Take a piece of cardboard, stiff paper, 
 <li>Color is grey</li>
 <li></li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B000KKPFFA/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000KKPFFA&linkId=b7ee3c76ab7f5acc0a30155f3c43146d{{</button>}}
+
+### Bob Smith Industries BSI-201 Quik-Cure Epoxy (Fоur Paсk, Clear)
+
+![Bob Smith Industries BSI-201 Quik-Cure Epoxy](/uploads/bob-smith-epoxy.jpg "Bob Smith Industries BSI-201 Quik-Cure Epoxy")
+
+
+
+
+
+The USA manufactured adhesive Bob Smith Industries BSI-201 Quik-Cure Epoxy comes in very great quality and can quickly cure with in five minutes. The Bob Smith Industries BSI-201 Quik-Cure Epoxy can easily bond metal to plastic but you must remember that the plastic not polyethelyne or plastic not made with the combination of polyethelyne and also the  metal surface is not rough. 
+
+The BSI-201 bond is waterproof and before curing it gives you very enough time for work. The bond formed by this adhesive are very strong.The heat resistance feature make this bond perfect because the BSI-201 bond has tensile strength of 4500 PSI and is providing extraordinary bonding strength. The ceramic soap dish can easily install and repair by using Bob Smith Industries BSI-201 Quik-Cure Epoxy. 
+
+The fully cure timing of BSI-201 is eight hours. You can easily laminate hard plastic, wood, fiber glass very well. The adhesive can be sanded easily once cured. The bob smith industries is providing strong and long lasting adhesives which can easily repair your broken products and you can install ceramic soap dish or ceramic toilet paper dish or other ceramic products. The strength of the adhesive are able to easily maintain lowest temperature and the highest temperature. 
+
+The Bob Smith Industries BSI-201 Quik-Cure Epoxy is offering very medium thick viscosity. If your ceramics dinner set broken then you can easily repair your broken ceramics dinner set by using this bob smith tube.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Compatibility Of Material</td>
+<td>Wood, Fiberglass, Metal, Ceramic, Plastic, Concrete</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>Bob Smith Industries</td>
+</tr>
+<tr>
+<td>Container Type</td>
+<td>Bottle</td>
+</tr>
+<tr>
+<td>Tensile strength	</td>
+<td>4500 PSI</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>Waterproof</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Tough</td>
+<td>Very Strong</td>
+</tr>
+<tr>
+<td>Full cure time</td>
+<td>10 Minutes</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The color of the BSI-201 Quik-Cure Epoxy is clear and the epoxy dry clear and if the user stir rapidly then there is more chances of create more bubbles which is the main cause of the adhesive to look very less clear so, for dry clear you don’t have to stir rapidly the epoxy. For properly dry clear it also depend upon the air (air which you introduce to it) and when you mix the epoxy together very slowly then bubbles will not be introduced onto it and you will get clear dry. 
+
+{{<pros>}}
+
+<li>Better Bonding</li>
+<li>Maintained Strength</li>
+<li>cure time 10 Minutes</li>
+<li>Tensile strength 4500 PSI</li>
+<li>Adhesive BSI-201  is very easy To use </li>
+<li>Quik-Cure Epoxy</li>
+<li>The adhesive is offering very medium thick viscosity.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Dries Faster</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B08M41GCJN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08M41GCJN&linkId=854f7606ea0afe775bb02a601279069d{{</button>}}
