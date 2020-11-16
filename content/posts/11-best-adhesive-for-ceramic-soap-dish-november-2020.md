@@ -674,6 +674,18 @@ Overall the HG liquid adhesive is very prominent and easy to use. The cyanoacryl
 </table>
 {{</html-code>}}
 
-## How To Use HG power glue Industrial cyanoacrylate ca Adhesive
+## How To Use HG power glue Industrial cyanoacrylate CA Adhesive
 
-The use of HG power glue is straightforward. Just you have to take the quantity of adhesive from both the yellow cap and white cap bottle. Mix the adhesive properly for 20 seconds and then apply the adhesive where you want
+The use of HG power glue is straightforward. Just you have to take the quantity of adhesive from both the yellow cap and white cap bottle. Mix the adhesive properly for 20 seconds and then apply the adhesive where you want.
+
+{{<pros>}}
+
+<li>Temperature resistance, water and chemical resistance adhesive</li>
+<li>It bonds 93% of all materials.</li>
+<li>Adhesive has Great strength</li>
+<li>Quick Cure Time </li>
+<li></li>
+{{</pros>}}
+{{<cons>}}
+<li>Not suitable for absorbent materials</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07BQ1N98B/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07BQ1N98B&linkId=10ac286d2cc1a522537714d04df16d7d{{</button>}}
