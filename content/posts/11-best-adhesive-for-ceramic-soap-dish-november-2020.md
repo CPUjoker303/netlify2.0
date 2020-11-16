@@ -562,3 +562,67 @@ The superglue can also be used to repair leather materials, and you can repair y
 <li>Cannot be used for mirrors adhesion</li>
 <li>Not like strong adhesive just use it for normal purposes.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0041NTBZM/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0041NTBZM&linkId=6c7a8711f882bb645c6071b75fae0ab5{{</button>}}
+
+### Devcon Epoxy, 2 Ton Epoxy
+
+![Devcon Epoxy, 2 Ton Epoxy](/uploads/devcon-epoxy-2-ton-epoxy.jpg "Devcon Epoxy, 2 Ton Epoxy")
+
+Next is Devcon Epoxy, 2 Ton Epoxy review. The adhesive is very strong and is ideal for joining wood adhesion and many different types of materials. After buying this Devcon Epoxy, you will get two different bottles inside the package. This Devcon Epoxy glue dries clear and can be applied in any dry surface area, and the adhesive cure timing is very fast. 
+
+The water resistance adhesive can survive up and below the water, and water cannot affect this powerfully designed adhesive. This well-formulated epoxy is excellent in performance, and you can quickly repair cracks and broken ceramic products. If you want to repair your broken ceramic bathtub, then this Devcon Epoxy can quickly make solve your trouble.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Compatibility Of Material</td>
+<td>wood, metal, concrete, glass, ceramics,</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>EURO TOOL</td>
+</tr>
+<tr>
+<td>Container Type</td>
+<td>Bottle</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>Waterproof</td>
+<td>Offcourse</td>
+</tr>
+<tr>
+<td>Tough</td>
+<td>2x strong </td>
+</tr>
+<tr>
+<td>Full cure time	</td>
+<td>Quick</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+## How to use Devcon Epoxy
+
+After buying the Devcon Epoxy adhesive, you will get two bottles of adhesive liquid. Mix 2 Ton epoxy hardener red bottle liquid with epoxy resin blue bottle liquid. Just take the amount of quantity you want from bottles and mix properly, and after mixing the adhesive, only you have to apply on installing or repairing surface area.
+
+{{<pros>}}
+
+<li>Compatible with most materials</li>
+<li>After dry results clear</li>
+<li>Quick cure time and give string result</li>
+<li>Very easy to use </li>
+<li>Water resistant</li>
+<li>High strength bond</li>
+{{</pros>}}
+{{<cons>}}
+<li>Dries too soft</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B005K091ZU/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005K091ZU&linkId=e3ee40e115d3e70502cb4fa14d7a47bc{{</button>}}
+
+### HG POWER GLUE Industrial cyanoacrylate ca Adhesive
