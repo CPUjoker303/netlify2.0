@@ -294,6 +294,10 @@ The Bob Smith Industries BSI-201 Quik-Cure Epoxy is offering very medium thick v
 
 The color of the BSI-201 Quik-Cure Epoxy is clear and the epoxy dry clear and if the user stir rapidly then there is more chances of create more bubbles which is the main cause of the adhesive to look very less clear so, for dry clear you don’t have to stir rapidly the epoxy. For properly dry clear it also depend upon the air (air which you introduce to it) and when you mix the epoxy together very slowly then bubbles will not be introduced onto it and you will get clear dry. 
 
+## How to use Bob Smith Industries BSI-201 Quik-Cure Epoxy
+
+Give a twist to the cap and cut-off the tip without any worry about the glue spitting out of the tip. After cutting the tip you can use where you want. It is very easy to use the Bob Smith Industries BSI-201 Quik-Cure Epoxy and overall adhesive is best adhesive for ceramic soap dish installing or repairing purpose.
+
 {{<pros>}}
 
 <li>Better Bonding</li>
@@ -307,3 +311,5 @@ The color of the BSI-201 Quik-Cure Epoxy is clear and the epoxy dry clear and if
 {{<cons>}}
 <li>Dries Faster</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B08M41GCJN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08M41GCJN&linkId=854f7606ea0afe775bb02a601279069d{{</button>}}
+
+### Gorilla 2 Part Epoxy, 5 Minute Set, .85 Ounce Syringe, Clear
