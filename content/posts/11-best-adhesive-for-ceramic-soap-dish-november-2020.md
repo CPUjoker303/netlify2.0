@@ -754,3 +754,66 @@ To use this epoxy just, you have to open the cap and press the tube and take the
 {{<cons>}}
 <li>Doesn't work with some plastics</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00P1RU8PY/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00P1RU8PY&linkId=afda43606bcbc35f2c78429d8e16c5aa{{</button>}}
+
+### Red Devil 0497 Tile Paste Adhesive
+
+![Red Devil 0497 Tile Paste Adhesive](/uploads/red-devil-0497-tile-paste-adhesive.jpg "Red Devil 0497 Tile Paste Adhesive")
+
+Next is Red Devil 0497 review. The red devil adhesive is a water-based acrylic adhesive that can easily bond different materials like ceramics, metals, plastic, etc. The bond is very powerful and is a great strength to make this bond perfect for ceramic type materials. The Red Devil adhesive color is white, and it dries clear and furnishes, which seems very durable. Red Devil 0497 is waterproof adhesive and can easily be used to install and repair ceramics, tiles, or other materials. 
+
+You can also use Red Devil adhesive to adhere to small mosaic tiles in the pool. For the quick cure, the Red Devil adhesive provides great performance, and you will get quick cure adhesion. The adhesive dries clear and dry the water cannot affect this adhesive because the adhesive is waterproof and temperature and chemical resistant. 
+
+The Red Devil 0497 is the best adhesive for a ceramic soap dish. The set timing of this red devil glue is 30 minutes. The main things you must have you remember that the adhesive dries white, and you must have to use this adhesive with white tiles, white ceramic products only because after dry it seems pure white.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Compatibility Of Material</td>
+<td>Wood, plastic, fiber,  ceramic , metals etc</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>Red Devil</td>
+</tr>
+<tr>
+<td>Container Type</td>
+<td>Tube</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>White </td>
+</tr>
+<tr>
+<td>Waterproof</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Tough</td>
+<td>Strong</td>
+</tr>
+<tr>
+<td>Full cure time	</td>
+<td>Quick</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+## How to use Red Devil 0497
+
+Red devil adhesive usage is totally simple, and just you have to open the cap and paste the adhesive where you want in required quantity
+
+{{<pros>}}
+
+<li>Quick cure adhesion</li>
+<li>Great resistivity level</li>
+<li>Temperature and water resiatnce</li>
+<li>The Red Devil dries clear</li>
+<li>Great Compatibility with lots of materials</li>
+{{</pros>}}
+{{<cons>}}
+<li>Sometimes get dry out from the package</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B000BQO2UC/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000BQO2UC&linkId=ae91a30d072aff8eb63f47cd442c35f6{{</button>}}
