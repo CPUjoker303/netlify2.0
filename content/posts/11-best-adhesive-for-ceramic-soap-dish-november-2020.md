@@ -313,3 +313,63 @@ Give a twist to the cap and cut-off the tip without any worry about the glue spi
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B08M41GCJN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08M41GCJN&linkId=854f7606ea0afe775bb02a601279069d{{</button>}}
 
 ### Gorilla 2 Part Epoxy, 5 Minute Set, .85 Ounce Syringe, Clear
+
+![Gorilla 2 Part Epoxy](/uploads/gorilla-2-part-epoxy.jpg "Gorilla 2 Part Epoxy")
+
+Next is the Gorilla 2 Part Epoxy review. The excellent quality Gorilla 2 adhesive provides strong bonding and can be applied to different kinds of surface areas. The glue dries clear, and for the perfect fitness of ceramic soap dish or any other product, only 5 minutes requires. The bond strength of Gorilla epoxy is 3300 PSI and can be easily used for indoor and outdoor purposes. The Gorilla epoxy is providing a tough level. 
+
+The Gorilla 2 adhesive is very strong and durables. You can use Gorilla 2 adhesive in households, automotive repairs ETC, and you will get the best adhesive response. The Gorilla 2 ceramic glue has superior strength, and you can easily bond things together by using this Gorilla Glue. Basically, Gorilla is the company and also the top-rated household name. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Compatibility Of Material</td>
+<td>Fiberglass, Metal, Ceramic, Plastic, Concrete, Wood</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>Gorilla </td>
+</tr>
+<tr>
+<td>Container Type</td>
+<td>Syringe</td>
+</tr>
+<tr>
+<td>Tensile strength	</td>
+<td>3300 PSI</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>Waterproof</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Tough</td>
+<td>Strong</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+Gorilla 2 is the water-resistant epoxy and can be easily used up and below the water, and for the household items like ceramic dinner sets, dishes, plastic mugs, the gorilla glue can easily use. Overall the Gorilla 2 Part Epoxy is the best adhesive for a ceramic soap dish and other household products to repair and install.
+
+## How To Use Gorilla 2 Part Epoxy
+
+Select the smooth, clean and clear area and then dispen the resin carefully the amount you required. Just you have to mix it at least for twenty seconds. You just have to apply this adhesive where you want within the five minutes because the more you get late in applying adhesive, then more adhesive strength will increase.
+
+{{<pros>}}
+
+<li>Two Point Syringe can make your measurement easy</li>
+<li>Water Resistance Adhesive</li>
+<li>Tensile strength 3300 PSI</li>
+<li>Glue Dries Clear</li>
+{{</pros>}}
+{{<cons>}}
+<li>Dry/hot climate</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B001Z3C3AG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001Z3C3AG&linkId=9f1c615c9ebd62a752f8c0a560203ba3{{</button>}}
