@@ -107,6 +107,8 @@ These are very powerful adhesives with high viscosity and can install and repair
 
 ### E6000 High Viscosity Adhesive
 
+![E6000 High Viscosity Adhesive](/uploads/e6000-high-viscosity-adhesive.jpg "E6000 High Viscosity Adhesive")
+
 First is E6000 Adhesive Review. The Adhesive is a high viscosity adhesive tube, and you can use this E6000 Adhesive with many compatible materials. The Adhesive is  2x stronger, which is a great thing, and it comes with 60-times more flex than that of polyurethane. 
 
 The thing which is excellent about this best glue is that it is non-flammable Adhesive. The E6000 glue unaffected by extreme heat, and the temperature of the Adhesive remains the same. The E6000 Adhesive is very safe from those applications which exposed to dilute acids and dilute caustics.  The E6000 Adhesive is a waterproof adhesive that makes it 2x strong, and for the snow globe, the adhesive can be used.
@@ -145,3 +147,90 @@ The Adhesive is temperature resistant and non-flammable once cured. The E6000 Ad
 The adhesive can also use with fabric material, and just you have to be careful the amount of the sticky liquid you use for it, but the thing you must be cautious, that is, don’t use Adhesive too much. If you use the Adhesive too much, then it will bleed throughout. 
 
 You can easily use this Adhesive with wood, rubber, and plastic and can make Christmas ornaments. The E6000 Adhesive can also be used for attaching the foam with plastic. The Adhesive also can repair your damaged things like your car-led light cover get out or break where, on the other hand, your sofa cover gets damaged, then you can also quickly repair and reuse your damaged things by using this E6000 2x stronger Adhesive. So overall, the Adhesive is a great and very powerful liquid bond. The E6000 liquid bond is the best Adhesive for ceramic soap dish for installing and fixing it.
+
+{{<pros>}}
+
+<li>Water Resistance Adhesive </li>
+<li>Non-flammable adhesive</li>
+<li>Very Highly Viscous</li>
+<li>E6000 is temperature resistant</li>
+<li>Very Tough</li>
+<li>Allows for flexibility</li>
+<li>Rubber contact glue</li>
+<li>Can Fill small gaps easily</li>
+{{</pros>}}
+{{<cons>}}
+<li>Sometimes when we opening E6000 tube it get challenging  </li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0044SB3M8/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0044SB3M8&linkId=dd6efcab49ade23da6bf9a86462c88ba{{</button>}}
+
+### J-B Weld 8272 MarineWeld Marine Epoxy - 2 oz
+
+![J-B Weld 8272 MarineWeld Marine Epoxy](/uploads/j-b-weld-8272-marineweld-marine-epoxy.jpg "J-B Weld 8272 MarineWeld Marine Epoxy")
+
+Next is J-B Weld 8272 MarineWeld Marine Epoxy Review. For multiple surfaces, the adhesive is best for strong and lasting repairs. The Adhesive is a great quality liquid bond that can easily apply on different surfaces and can repair multiple surfaces very strongly. The J-B Weld 8272 MarineWeld Marine Epoxy is versatile and dependable and comes with the 5020 PSI tensile strength, which is very significant.  
+
+The Adhesive is waterproof and also petrol resistant. The glue can easily use above and below the water. The Adhesive is easily compatible with any kind of material (metal, Fiberglass, Plastic, Composite), etc. The waterproof Adhesive is providing excellent quality, and you can repair multiple surfaces by using this high-performance J-B Weld 8272 MarineWeld Marine Epoxy. 
+
+The temperature resistivity of this strong Adhesive is 550°F/288°C. The acid proof feature makes this Adhesive very strong and perfect for ceramics like materials (ceramic soap dish, Ceramic & Tiles), which mostly uses in washrooms. Using this J-B Weld 8272 MarineWeld Marine Epoxy, you can quickly repair and install many kinds of things of different types of materials. The color of J-B Weld 8272 MarineWeld Marine Epoxy is  Drak Grey.
+
+### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Compatibility Of Material</td>
+<td>Wood, Fiberglass, Glass, , Metal, Rubber, Ceramic, Plastic, Concrete</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>JBWeld</td>
+</tr>
+<tr>
+<td>Container Type</td>
+<td>Tube</td>
+</tr>
+<tr>
+<td>Tensile strength	</td>
+<td>5020 PSI</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>2oz, Grey</td>
+</tr>
+<tr>
+<td>Waterproof</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Tough</td>
+<td>Strong</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The thing which is not right about this Adhesive is its color, which is grey. If you use this Adhesive on a white ceramic soap dish, then the grey and white difference will occur. So, the adhesive J-B Weld 8272 MarineWeld Marine Epoxy will not be perfect for the white surface area. If you want adhesive for a white surface, then you can use E6000 Adhesive, whose color is clear. 
+
+After buying the J-B Weld 8272 MarineWeld Marine Epoxy, you will get two adhesive tubes. One tube filled will white chemical bond material, and the second tube filled with black chemical bond material. Overall the J-B Adhesive is the best Adhesive for a ceramic soap dish and for other things.
+
+## How to use J-B Weld 8272 MarineWeld Marine Epoxy
+
+There are two tubes inside the package. Take a piece of cardboard, stiff paper, wood, plastic plate. Press the tube, and the liquid comes out. It would be best if you had to be careful about the amount of liquid adhesive you use.  Take both of the bonds and make a mixture. After making the mixture apply on the surface area and wait to dry it.
+
+{{<pros>}}
+
+<li>Superior quality Adhesive</li>
+<li>Provide stronger bonding</li>
+<li>Petroleum Resistant Adesive</li>
+<li>Water Resitant Adesive</li>
+<li>Acid Resistant Adesive</li>
+<li>Can submerged in water</li>
+<li>Tensile streangth 5020 PSI</li>
+<li></li>
+{{</pros>}}
+{{<cons>}}
+<li>Take more time to set</li>
+<li>Color is grey</li>
+<li></li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B000KKPFFA/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000KKPFFA&linkId=b7ee3c76ab7f5acc0a30155f3c43146d{{</button>}}
