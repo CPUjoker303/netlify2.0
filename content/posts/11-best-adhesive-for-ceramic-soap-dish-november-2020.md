@@ -239,10 +239,6 @@ There are two tubes inside the package. Take a piece of cardboard, stiff paper, 
 
 ![Bob Smith Industries BSI-201 Quik-Cure Epoxy](/uploads/bob-smith-epoxy.jpg "Bob Smith Industries BSI-201 Quik-Cure Epoxy")
 
-
-
-
-
 The USA manufactured adhesive Bob Smith Industries BSI-201 Quik-Cure Epoxy comes in very great quality and can quickly cure with in five minutes. The Bob Smith Industries BSI-201 Quik-Cure Epoxy can easily bond metal to plastic but you must remember that the plastic not polyethelyne or plastic not made with the combination of polyethelyne and also the  metal surface is not rough. 
 
 The BSI-201 bond is waterproof and before curing it gives you very enough time for work. The bond formed by this adhesive are very strong.The heat resistance feature make this bond perfect because the BSI-201 bond has tensile strength of 4500 PSI and is providing extraordinary bonding strength. The ceramic soap dish can easily install and repair by using Bob Smith Industries BSI-201 Quik-Cure Epoxy. 
@@ -690,7 +686,7 @@ The use of HG power glue is straightforward. Just you have to take the quantity 
 <li>Not suitable for absorbent materials</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07BQ1N98B/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07BQ1N98B&linkId=10ac286d2cc1a522537714d04df16d7d{{</button>}}
 
-### J-B Weld 50101 MinuteWeld Instant-Setting Epoxy Syringe 
+### J-B Weld 50101 MinuteWeld Instant-Setting Epoxy Syringe
 
 ![J-B Weld 50101 MinuteWeld Instant-Setting Epoxy Syringe](/uploads/j-b-weld-50101-minuteweld-instant-setting-epoxy-syringe.jpg "J-B Weld 50101 MinuteWeld Instant-Setting Epoxy Syringe")
 
@@ -738,7 +734,6 @@ The JB Weld works very fast as it is flexible and dries clean and clear. By usin
 {{</html-code>}}
 
 ## How to use J-B Weld 50101 Minute Weld Instant
-
 
 To use this epoxy just, you have to open the cap and press the tube and take the syringe on the dry surface or on the included mixing tray where you want. Mix it for some time and apply on the surface where you just remember that you only have to take the required amount of quantity only.
 
