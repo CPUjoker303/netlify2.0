@@ -373,3 +373,131 @@ Select the smooth, clean and clear area and then dispen the resin carefully the 
 {{<cons>}}
 <li>Dry/hot climate</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B001Z3C3AG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001Z3C3AG&linkId=9f1c615c9ebd62a752f8c0a560203ba3{{</button>}}
+
+### Elmer's E1012 China and Glass Cement, 1 Ounce
+
+![Elmer's E1012 Adhesive](/uploads/elmers-epoxy.jpg "Elmer's E1012 Adhesive")
+
+Next is Elmer's E1012 Review. This non-toxic ceramic adhesive is perfect for repairing and installing ceramics. Basically, Elmer's E1012 adhesive is made for repairs multiple-piece with each other. The use of this Elmer's E1012 adhesive is for indoor and outdoor purposes only. 
+
+It is a solvent-free adhesive which provides great strength. The E1012 adhesive can easily use different kinds of materials like glass, fiberglass, ceramics, etc. If you want to repair something urgently, then this E1012 adhesive can quickly repair with-in one minute. Elmer's company is providing great Elmer's glues, and worldwide it is a very famous American based company. 
+
+Elmer's company is a very old company and manufacturing best ever adhesives for households, offices, etc. The E1012 adhesives can turn your ideas into reality. Overall the Elmer's is providing tough quality liquid bonds and is the best adhesive for a ceramic soap dish.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Compatibility Of Material</td>
+<td>glass, ceramics, pottery etc</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>Elmer's</td>
+</tr>
+<tr>
+<td>Container Type</td>
+<td>TUBE</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Clear</td>
+</tr>
+<tr>
+<td>Waterproof</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Tough</td>
+<td>1x strong</td>
+</tr>
+<tr>
+<td>Full cure time	</td>
+<td>One Minute</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+## How to use Elmer's E1012 Adhesive
+
+To use of Elmer's glue is very easy. You just have to apply bonding liquid on the required surface area and wait for clear dry.
+
+{{<pros>}}
+
+<li>Elmer's solvent free adhesive</li>
+<li>Non-toxic adhesive</li>
+<li>Cure time of Elmers Glue is only 1-minute</li>
+<li>Adhesive Worked great </li>
+{{</pros>}}
+{{<cons>}}
+<li>Less strong bonding and viscousity.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B000MVTINW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000MVTINW&linkId=ce8da1edc3d0f759d176863c35edef26{{</button>}}
+
+### Pratley Quickset White Epoxy - Shiny White Finish
+
+![Pratley Quickset White Epoxy](/uploads/pratley-quickset-white-epoxy-shiny-white-finish.jpg "Pratley Quickset White Epoxy")
+
+Next is Pratley's glue review. The Pratley glue is a multipurpose adhesive that can easily use for ceramics dish installing and repair strongly. By using this strong Pratley glue, you can fill gaps perfectly. For repairing the ceramics and break china plates, you can use this adhesive. The Pratley glue is a two-part epoxy and comes in white color, and the bond strength makes it brilliant. 
+
+You can use this Pratley epoxy without any worry for attaching stones on finger rings or different types of surfaces. You can carry this adhesive anywhere and put this adhesive tube in your tool kit without worrying because it comes in a leak-proof tube. This great adhesive's brilliant feature is that it can apply on types of surfaces like oily surface, dry surfaces, etc. The bond is chemical resistant, water-resistant, and oil and petrol resistant, making it strong and dries white. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Compatibility Of Material</td>
+<td>ceramics, pottery,wood, foam,plastic etc</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>Pratley Adhesives</td>
+</tr>
+<tr>
+<td>Container Type</td>
+<td>Tube</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>White</td>
+</tr>
+<tr>
+<td>Waterproof</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Tough</td>
+<td>2x Strong</td>
+</tr>
+<tr>
+<td>Full cure time	</td>
+<td>Very Quick </td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+## How to use Pratley Quickset White Epoxy
+
+Inside the packaging, you get two white tubes with red and white caps. Take a dry piece of paper or a wooden block or any other dry surface. First, open an adhesive tube with a white cap and take the quantity as much you want. Now, Open the second red cap adhesive tube and take the same quantity as you have taken from the first one. Now mix the adhesive properly for 20 seconds. After mixing it properly, you can apply this strong adhesive anywhere you want.
+
+{{<pros>}}
+
+<li>Chemical and Oil resistance </li>
+<li>Water Resistance Pratley glue </li>
+<li>Adhesive dries white</li>
+<li>Easy to use </li>
+<li>Take less cure time </li>
+<li>Can fill large gaps</li>
+<li>Good shelf life</li>
+<li>Accept paint</li>
+<li>Exceptional adhesive strength</li>
+<li>Resists most chemicals</li>
+{{</pros>}}
+{{<cons>}}
+<li>For the prolonged immersion in water this bond  not recommended</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07DYDVFJN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DYDVFJN&linkId=470fd325f19de91da622f5da8bc60fd8{{</button>}}
