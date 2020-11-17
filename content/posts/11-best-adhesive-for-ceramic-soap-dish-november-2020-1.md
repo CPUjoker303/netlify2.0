@@ -138,13 +138,23 @@ The adhesive can also use with fabric material, and just you have to be careful 
 </tr>
 <tr>
 <td>Volume</td>
-<td>10.2 Fluid Ounces</td>
+<td>10.2 Fluid Ounces,2x stronger</td>
 </tr>
 <tr>
 <td>Tough</td>
-<td>2x stronger, 60x more flex</td>
+<td>60x more flex</td>
 </tr>
 <tr>
+<td>Waterproof</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Clear</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
 
 You can easily use this Adhesive with wood, rubber, and plastic and can make Christmas ornaments. The E6000 Adhesive can also be used for attaching the foam with plastic. The Adhesive also can repair your damaged things like your car-led light cover get out or break where, on the other hand, your sofa cover gets damaged, then you can also quickly repair and reuse your damaged things by using this E6000 2x stronger Adhesive.
 
