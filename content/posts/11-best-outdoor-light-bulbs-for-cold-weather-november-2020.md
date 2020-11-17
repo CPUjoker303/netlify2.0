@@ -111,11 +111,13 @@ The sensor in the bulb will instantly detect any movement and auto turn for emit
 
 ![ SYLVANIA General Lighting LED Light Bulb](/uploads/sylvania-general-lighting-led-light-bulb.jpg " SYLVANIA General Lighting LED Light Bulb")
 
-First is SYLVANIA GENERAL review. The bulb lumen strength is 2000 and is called a high lumen count LED Light bulb. The Bulb can save your lots of energy because, at 8.5 watts, each of the Bulb emits 800 lumens bright light output, and it will greatly save your energy best bulb for outdoor security light. 
+First is SYLVANIA GENERAL review. The bulb lumen strength is 2000 and is called a high lumen count LED Light bulb. The Bulb can save your lots of energy because, at 8.5 watts, each of the bulb emits 800 lumens bright light output, and it will greatly save your energy and is best bulb for outdoor security light. 
 
-Just you have to fit this led Bulb in a led bulb holder, and the Bulb will last for ten years easily. The SYLVANIA GENERAL LED bulb can brighten your outdoor area and be used indoors and in the household. The Bulb is not dimmable, and the operating temperature of the SYLVANIA LED Bulb is -20 to +40 °C and color temperature of 2700 kelvin. 
+Just you have to fit this led Bulb in a holder, and the Bulb will last for ten years easily. The SYLVANIA GENERAL LED bulb can brighten your outdoor area and be used indoors and in the household. The Bulb is not dimmable, and the operating temperature of the SYLVANIA LED Bulb is -20 to +40 °C and color temperature of 2700 kelvin. 
 
 The SYLVANIA light bulb spread white color soft light and is great for your night-stand, rooms, outdoor, etc.  If you want an LED bulb for a great dinner, then the SYLVANIA GENERAL Lighting bulb is great because it provides 2700k warm white light. 
+
+The Bulb's total lifespan is 11 000 hours, which makes this SYLVANIA bulb perfect for indoor and outdoor usage. The Bulb can substitute a regular 60-watt light bulb. A lot of electric energy can be saved by using this SYLVANIA GENERAL led Bulb and is the best outdoor light bulbs for cold weather.
 
 #### Specifications
 
@@ -154,7 +156,10 @@ The SYLVANIA light bulb spread white color soft light and is great for your nigh
 </table>
 {{</html-code>}}
 
-The Bulb's total lifespan is 11 000 hours, which makes this SYLVANIA bulb perfect for indoor and outdoor usage. The Bulb can substitute a regular 60-watt light bulb. A lot of electric energy can be saved by using this SYLVANIA GENERAL led Bulb and is the best outdoor light bulbs for cold weather.
+{{<singlep pimg="/uploads/sylvania-general-lighting-led-light-bulb.jpg" pname="SYLVANIA General Lighting LED " plink="https://www.amazon.com/gp/product/B0758GXHQK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0758GXHQK&linkId=ab3088c26d8d5946d307ad2b77f2e3a7">}}
+Temperature up to -20 °C to +40 °C
+Energy Saver
+{{</singlep>}}
 
 {{<pros>}}
 
