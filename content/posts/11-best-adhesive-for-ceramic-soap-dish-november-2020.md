@@ -12,8 +12,10 @@ updateDate: 2020-11-16T17:54:17.694Z
 image: /uploads/adhesives.jpg
 tags:
   - Information
-categories:
+  - EPOXY
   - Reviews
+categories:
+  - ADHESIVE
 schemaMarkup: cc
 pickName: E6000 High Viscosity Adhesive
 pickImg: /uploads/e6000-high-viscosity-adhesive.jpg
