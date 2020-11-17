@@ -1,6 +1,6 @@
 ---
 title: " 11 Best Adhesive For Ceramic Soap Dish [November 2020]"
-draft: true
+draft: false
 SEOTitle: " 11 Best Adhesive For Ceramic Soap Dish [November 2020] "
 excrept: "Top 11 New Best Adhesive for Ceramic Soap Dish - We've listed best
   waterproof adhesive for fixing or installing your favorite ceramic soap dish
@@ -136,13 +136,23 @@ The Adhesive is temperature resistant and non-flammable once cured. The E6000 Ad
 </tr>
 <tr>
 <td>Volume</td>
-<td>10.2 Fluid Ounces</td>
+<td>10.2 Fluid Ounces,2x stronger</td>
 </tr>
 <tr>
 <td>Tough</td>
-<td>2x stronger, 60x more flex</td>
+<td>60x more flex</td>
 </tr>
 <tr>
+<td>Waterproof</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Clear</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
 
 The adhesive can also use with fabric material, and just you have to be careful the amount of the sticky liquid you use for it, but the thing you must be cautious, that is, don’t use Adhesive too much. If you use the Adhesive too much, then it will bleed throughout. 
 
