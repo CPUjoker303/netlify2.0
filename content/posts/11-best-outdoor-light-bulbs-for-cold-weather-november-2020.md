@@ -236,3 +236,133 @@ The led bulb light will never flick and produce no buzzing sound. Overall the SA
 {{<cons>}}
 <li>The instruction guide not come with it.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B071P95X5Q/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071P95X5Q&linkId=696df4c077be3088a5f5f466fcad6eee{{</button>}}
+
+### Westinghouse Lighting PAR38 White Light
+
+![Westinghouse Lighting PAR38 White Light](/uploads/westinghouse-lighting-par38-white-light.jpg "Westinghouse Lighting PAR38 White Light")
+
+Next is the Westinghouse Lighting PAR38 White Light review. The bulb is an 18 watt led bulb and provides amazing white light output with a 1350 lumen flux brightness. The appearance of the brightest led light is 3000K. The Westinghouse-led light comes with a fully protected, designed body, and dust and water cannot affect it. 
+
+The lightweight bulb seems very durable, and the bulb can fit instantly in a holder, ceiling light fixture, etc.  It turns on very fast because it is technically manufactured with technology, and a strongly integrated circuit is installed. 
+
+For outdoor purposes, the bulb can easily survive on rainy days. For cold winter nights, the PAR38 White Light is perfect for the protection of homes. The PAR38 bulb is made of china, and for indoor, the bulb is excellent. The bright light makes your indoor beautiful. Energy Savings is equal to Cost Savings and Westinghouse Lighting PAR38 bulb, cost-saving white light because it saves your energy. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>BRAND</td>
+<td>Westinghouse Lighting</td>
+</tr>
+<tr>
+<td>Color Temperature </td>
+<td>3000 Kelvin</td>
+</tr>
+<tr>
+<td>Bulb Socket Base	</td>
+<td>E26 Medium</td>
+</tr>
+<tr>
+<td>lifespan  </td>
+<td>25,000 avg. rated hours</td>
+</tr>
+<tr>
+<td>Lumens Count</td>
+<td>1350 Lumen</td>
+</tr>
+<tr>
+<td>Wattage</td>
+<td>15 watts</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>WHITE BODY </td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Clear</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The Westinghouse energy saver comes with outstanding durability and quality. The perfect use of this bulb is for indoor use but for outdoor; you can also buy it.  In the cold winter season, this bulb can be used for outdoor use because it is the best outdoor light bulb for cold weather.
+
+{{<pros>}}
+
+<li>lumen count of  Westinghouse is  1350 lumen flux</li>
+<li>Can last for 25,000 hours</li>
+<li>The bulb design seems great and has IP65 rating</li>
+<li>Able to saves your 83% of energy</li>
+<li>Brightest light of 3000k</li>
+{{</pros>}}
+{{<cons>}}
+<li>Sometimes the make strange noise</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07G7W19HC/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07G7W19HC&linkId=edec725d089d71ff439177974a6a8d19{{</button>}}
+
+### Bioluz GU10 LED Bulbs
+
+![Bioluz GU10 LED Bulbs](/uploads/bioluz-gu10-led-bulbs.jpg "Bioluz GU10 LED Bulbs")
+
+Next is the Bioluz GU10 LED Bulbs review. The fully aluminum constructed pleasant design body is providing brilliant heat resistivity for longer life and the 3000K color temperature led brightness is perfect for outdoor security light.  The soft led lights are perfect for dim and non-dim able fixtures. The lumen flux count of the led bulb is Lumen, which is less than Westinghouse Lighting, SANSI, and other listed bulbs. 
+
+This cold weather bulb has a crisp, bright light, and the Bioluz GU10 LED Bulb is best for those areas that receive limited light at night.  The instant-on bulb does not take any time to provide warm light compared to the other bulbs, which take time for their full brightness potential. There is no difficulty to fit the led bulb in the fixture. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>BRAND</td>
+<td>Bioluz LED</td>
+</tr>
+<tr>
+<td>Color Temperature </td>
+<td>3000K - Halogen Appearance</td>
+</tr>
+<tr>
+<td>Bulb base	</td>
+<td>Fits great </td>
+</tr>
+<tr>
+<td>lifespan  </td>
+<td>Long time</td>
+</tr>
+<tr>
+<td>Lumens</td>
+<td>350 Lumen</td>
+</tr>
+<tr>
+<td>Wattage</td>
+<td>50 Watts</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>GU10</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>GREAT</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+Bioluz GU10 LED Bulb is very easy to fit in any kind of fixture you want. The bulb will provide you halogen experience as it has a 3000k color temperature, which is perfect for indoor and outdoor use.  The company Bioluz is providing the best outdoor light bulbs for cold weather.
+
+{{<pros>}}
+
+<li>3000 K Halogen Appearance</li>
+<li>Dimmable</li>
+<li>Energy Saving</li>
+<li>Best for outdoor use</li>
+<li>fully aluminum constructed design</li>
+<li>soft led lights</li>
+<li></li>
+{{</pros>}}
+{{<cons>}}
+<li>Low Lumen flux</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00XNZ33ZS/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00XNZ33ZS&linkId=32ef49cdd307c8daa7da26b6ed865994{{</button>}}
