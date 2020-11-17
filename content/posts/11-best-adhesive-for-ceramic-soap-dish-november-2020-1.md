@@ -104,3 +104,63 @@ These are very powerful adhesives with high viscosity and can install and repair
 </tbody>
 </table>
 {{</html-code>}}
+
+### E6000 High Viscosity Adhesive
+
+![E6000 High Viscosity Adhesive](/uploads/e6000-high-viscosity-adhesive.jpg "E6000 High Viscosity Adhesive")
+
+First is E6000 Adhesive Review. The Adhesive is a high viscosity adhesive tube, and you can use this E6000 Adhesive with many compatible materials. The Adhesive is  2x stronger, which is a great thing, and it comes with 60-times more flex than that of polyurethane. 
+
+The thing which is excellent about this best glue is that it is non-flammable Adhesive. The E6000 glue unaffected by extreme heat, and the temperature of the Adhesive remains the same. The E6000 Adhesive is very safe from those applications which exposed to dilute acids and dilute caustics.  The E6000 Adhesive is a waterproof adhesive that makes it 2x strong, and for the snow globe, the adhesive can be used.
+
+After the complete cure, the E6000 Adhesive can also be submerged in salt water and can be submerged into freshwater. The strongness of Adhesive really matters because for proper fitness of ceramic soap dish and other ceramic materials strong adhesives require and in bathrooms there are lots of moistures, dilute acids and dilute caustics which can frail the fewer quality adhesives so, The company has made strong Adhesive E6000 which is for the proper work. 
+
+The Adhesive is temperature resistant and non-flammable once cured. The E6000 Adhesive is made for the proper adhesion to woods, concrete, fiberglass, metal, etc. It is designed and formulated for the higher performance industrial requirements. The E6000 Adhesive is a very powerful bond, and with most of the materials, It remains flexible once cured. 
+
+The adhesive can also use with fabric material, and just you have to be careful the amount of the sticky liquid you use for it, but the thing you must be cautious, that is, don’t use Adhesive too much. If you use the Adhesive too much, then it will bleed throughout. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Compatibility Of Material</td>
+<td>Ceramic, Plastic, Concrete, Wood, Fiberglass, Glass, , Metal, Rubber</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>E6000</td>
+</tr>
+<tr>
+<td>Container Type</td>
+<td>TUBE</td>
+</tr>
+<tr>
+<td>Volume</td>
+<td>10.2 Fluid Ounces</td>
+</tr>
+<tr>
+<td>Tough</td>
+<td>2x stronger, 60x more flex</td>
+</tr>
+<tr>
+
+You can easily use this Adhesive with wood, rubber, and plastic and can make Christmas ornaments. The E6000 Adhesive can also be used for attaching the foam with plastic. The Adhesive also can repair your damaged things like your car-led light cover get out or break where, on the other hand, your sofa cover gets damaged, then you can also quickly repair and reuse your damaged things by using this E6000 2x stronger Adhesive.
+
+So overall, the Adhesive is a great and very powerful liquid bond. The E6000 liquid bond is the best Adhesive for ceramic soap dish for installing and fixing it.
+
+{{<pros>}}
+
+<li>Water Resistance Adhesive </li>
+<li>Non-flammable adhesive</li>
+<li>Very Highly Viscous</li>
+<li>E6000 is temperature resistant</li>
+<li>Very Tough</li>
+<li>Allows for flexibility</li>
+<li>Rubber contact glue</li>
+<li>Can Fill small gaps easily</li>
+{{</pros>}}
+{{<cons>}}
+<li>Sometimes when we opening E6000 tube it get challenging  </li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0044SB3M8/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0044SB3M8&linkId=dd6efcab49ade23da6bf9a86462c88ba{{</button>}}
