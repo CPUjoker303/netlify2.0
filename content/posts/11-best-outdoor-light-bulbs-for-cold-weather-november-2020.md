@@ -167,3 +167,72 @@ The Bulb's total lifespan is 11 000 hours, which makes this SYLVANIA bulb perfec
 {{<cons>}}
 <li>Low durability for long life span </li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0758GXHQK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0758GXHQK&linkId=ab3088c26d8d5946d307ad2b77f2e3a7{{</button>}}
+
+### SANSI 18W  LED Light Bulbs
+
+![SANSI 18W  LED Light Bulbs](/uploads/sansi-18w-led-light-bulbs.jpg "SANSI 18W  LED Light Bulbs")
+
+Next is SANSI 18W LED BULB review. The light bulb socket base is E26 and can easily install in the holder, ceiling light fixture, pendant fixture, bare lamp sockets. The hollow-out design looks very premium, and the body is technically designed for good heat dissipation to maintain temperature for long time bulb use. 
+
+The outdoor light bulb is very reliable and made for a long lifetime of up to 22.8 years. The SANSI light is made of three core technology and is has strong wear resistance. The water resistance bulb is very brilliant, and there will be no effect of rain on SANSI 18W led light at the outdoor place. 
+
+The ceramic chips make this led bulb perfect because chips on ceramic plan provide customize light effectiveness performance. The Installed integrated circuit control output voltages and the SANSI led light save you electricity. The bulb is fully designed to perfection with a CRI of 80+ (CR180+).  The SANSI light comes with a lumen intensity of 2000, which is very high lumen strength. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>BRAND</td>
+<td>SANSI</td>
+</tr>
+<tr>
+<td>Color Temperature </td>
+<td>5000K</td>
+</tr>
+<tr>
+<td>Bulb Socket Base	</td>
+<td>E26 Medium</td>
+</tr>
+<tr>
+<td>lifespan  </td>
+<td>22. 8 years</td>
+</tr>
+<tr>
+<td>Lumens</td>
+<td>2000</td>
+</tr>
+<tr>
+<td>Wattage</td>
+<td>18 watts</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Led bulb, A21 shape</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Clear</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The led bulb light will never flick and produce no buzzing sound. Overall the SANSI 18W bulb will provide you good light output both indoor or outdoor and in cold weather. So, this is the best outdoor light bulb for cold weather.
+
+{{<pros>}}
+
+<li>color temperature of 5000K</li>
+<li>150w replacement bulb</li>
+<li>High flux lumen 2000</li>
+<li>Brilliant light outpot</li>
+<li>No flicker led light</li>
+<li>No UV radiation</li>
+<li>Very easy to install</li>
+<li>Non-Dimmable led bulb</li>
+<li>No buzz</li>
+{{</pros>}}
+{{<cons>}}
+<li>The instruction guide not come with it.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B071P95X5Q/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071P95X5Q&linkId=696df4c077be3088a5f5f466fcad6eee{{</button>}}
