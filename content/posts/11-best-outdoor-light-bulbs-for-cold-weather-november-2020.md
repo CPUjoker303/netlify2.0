@@ -771,4 +771,66 @@ This BOXWOOD bulb is replaceable with a 100W halogen bulb. In daylight, the bulb
 
 ### Comzler 6 Watt Frosted Candelabra LED Bulb
 
-![](/uploads/comzler-6-watt-frosted-candelabra-led-bulb.jpg)
+![Comzler 6 Watt Frosted Candelabra LED Bulb](/uploads/comzler-6-watt-frosted-candelabra-led-bulb.jpg "Comzler 6 Watt Frosted Candelabra LED Bulb")
+
+Next is Comzler 6 Watt led bulb review. This Modern style light bulb has a 5000K light color temperature and has a 600-lumen flux. The bulb is made of Plastic and Aluminum material and seems much durable. The screw base of the light bulb is standard American E12 candelabra, and you can fit in many types of fixtures very easily. 
+
+The light bulb provides proper safety to you and your respective family, and it does not include lead, UV, Mercury, etc. The energy-saving bulb will save your ninety percent energy. In the 85V-265V AC range, the bright light bulb can efficiently work.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>BRAND</td>
+<td>Comzler</td>
+</tr>
+<tr>
+<td>Color Temperature </td>
+<td>5000 Kelvin</td>
+</tr>
+<tr>
+<td>Bulb base		</td>
+<td>standard American E12 candelabra</td>
+</tr>
+<tr>
+<td>lifespan  </td>
+<td>30,000 hours</td>
+</tr>
+<tr>
+<td>Lumens</td>
+<td>600</td>
+</tr>
+<tr>
+<td>Wattage</td>
+<td>6 watts</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Color </td>
+<td>Daylight</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/comzler-6-watt-frosted-candelabra-led-bulb.jpg" pname="Comzler 6 Watt LED Bulb" plink="https://www.amazon.com/gp/product/B0771MYTBH/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0771MYTBH&linkId=3a26b23b244b770f7074770d498d2a04">}}
+saves your 90% energy
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>The Modern style light bulb</li>
+<li>600 lumen flux</li>
+<li>not include lead, UV, Mercury</li>
+<li>saves your 90% energy</li>
+<li>Emits bright light</li>
+<li>Provides proper safety</li>
+{{</pros>}}
+{{<cons>}}
+<li>Issues may occur</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0771MYTBH/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0771MYTBH&linkId=3a26b23b244b770f7074770d498d2a04{{</button>}}
