@@ -366,3 +366,195 @@ Bioluz GU10 LED Bulb is very easy to fit in any kind of fixture you want. The bu
 {{<cons>}}
 <li>Low Lumen flux</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00XNZ33ZS/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00XNZ33ZS&linkId=32ef49cdd307c8daa7da26b6ed865994{{</button>}}
+
+### Govee Dusk to Dawn Light Bulb
+
+![Govee Dusk to Dawn Light Bulb](/uploads/govee-dusk-to-dawn-light-bulb.jpg "Govee Dusk to Dawn Light Bulb")
+
+Next is Govee Dusk to Dawn Light Bulb review. The Govee dusk is a 2700k color temperature light bulb that can easily save your 90 percent of energy. The dusk to dawn bulbs are specially made for outdoor usage, and you can use these bulbs for lamps, security light, etc. The bright led bulb comes with an excellent sensor for auto ON/OFF LEDs with a smart light sensor.  
+
+When dark night appears, the smart light sensor will automatically detect and turn on the led bulb light, and in the morning light, the led bulb smart sensor will automatically off the light. In Gove dusk, the tremendous photonic sensor builds in it, which provides accent lighting. The quick installation led bulb comes with a standard E26 socket and can just you have to screw it in the holder. The dawn is less than 35 lux, the bulb will automatically off and will automatically turn ON at night when it is less than 15 lux. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>BRAND</td>
+<td>Govee</td>
+</tr>
+<tr>
+<td>Temperature </td>
+<td>2700k color temperature</td>
+</tr>
+<tr>
+<td>Bulb base	</td>
+<td>E26 </td>
+</tr>
+<tr>
+<td>lifespan  </td>
+<td>30,000 hours lifetime</td>
+</tr>
+<tr>
+<td>Lumens</td>
+<td>800 Lumen</td>
+</tr>
+<tr>
+<td>Wattage</td>
+<td>9 watts</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Classic</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The 9 watts taking Govee Dusk Light Bulb is perfect for you and will save your energy. The total lumen counts of the Govee bulb are only 800 Lumen, and the warm white light color seems pretty. The Dusk to Dawn is the best long life outdoor light bulbs for cold weather.
+
+{{<pros>}}
+
+<li>Auto On/Off LED Bulb</li>
+<li>Energy Saving bulb </li>
+<li>2700 Kelvin temperature color</li>
+<li>Adopted latest LED technology</li>
+<li>Non flicking led light</li>
+<li>automatically turn on at night</li>
+<li>equivalent to 70W traditional blub</li>
+<li>Longer Lifetime </li>
+{{</pros>}}
+{{<cons>}}
+<li>Sensor might problem sometimes </li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07PQQNNY3/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PQQNNY3&linkId=58a5d6877c50786ad5073b7c62908d3c{{</button>}}
+
+### Great Eagle A19 LED Light Bulb
+
+![Great Eagle A19 LED Light Bulb](/uploads/great-eagle-light-bulb.jpg "Great Eagle A19 LED Light Bulb")
+
+Next is the Great Eagle A19 bulb review. The bulb is providing great white light with a cool 4000K color, which seems excellent. This LED bulb is great as compared to CFL and incandescent technology lights. The brilliant build-in integrated circuit makes it an instant responsive bulb. The Great Eagle A19 bulb is best for indoor usage and able to save your power. 
+
+The safety-certified bulb comes in proper design and can easily fit in all fixtures. The lumen count of the Great Eagle A19 cool white light bulb is 750. The 9-Watt taking LED bulb looks classic and durable. For tables or floor lamps, the Eagle A19 bulb is reliable. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>BRAND</td>
+<td>Great Eagle Lighting Corporation</td>
+</tr>
+<tr>
+<td>Temperature </td>
+<td>Cool White</td>
+</tr>
+<tr>
+<td>Bulb base	</td>
+<td>A19</td>
+</tr>
+<tr>
+<td>lifespan  </td>
+<td>15,000 hours</td>
+</tr>
+<tr>
+<td>Lumens</td>
+<td>750 Lumen</td>
+</tr>
+<tr>
+<td>Wattage</td>
+<td>9 watt</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>classic</td>
+</tr>
+<tr>
+<td>Color Temperature</td>
+<td>4000K</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The bulb installing process is just you have to screw it in a fixture, and there is no need for wire, cable, or any other thing. The bulb's lifespan is very long; up-to 15,000 hours can survive without creating any technical problem. So, Its is best outdoor light bulbs for cold weather.
+
+{{<pros>}}
+
+<li>TheUL LISTED Bulb </li>
+<li>Instant On led bulb</li>
+<li>True A19 size</li>
+<li>High quality led  lighting </li>
+<li>4000K White color temperature.</li>
+<li>Not buzz or flicker</li>
+{{</pros>}}
+{{<cons>}}
+<li>Technical problems may occurs like flick, noise etc </li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07QKR18FB/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07QKR18FB&linkId=0d903b6f902462711d10bf43d3af8c65{{</button>}}
+
+### Philips LED Non-Dimmable A19 Frosted Light Bulb
+
+![Philips LED Non-Dimmable A19 Frosted Light Bulb](/uploads/philips-led-non-dimmable-a19-frosted-light-bulb.jpg "Philips LED Non-Dimmable A19 Frosted Light Bulb")
+
+Next is the Philips A19 Frosted Light Bulb review. The led bulb cannot be compared with Incandescent Bulbs because it takes less power consumption than Incandescent Bulbs and saves your 80 percent energy. The Kelvin color temperature is 2700k and provides soft white light. The bulb can fit in a bedside lamp, desk lamp, etc. 
+
+The non-dim-able light will not have any effect on your eye, and you feel comfortable. The Philips A19 bulb provides stable light with no flicking. The bulb has beautiful shades of white light. The bulb is free of mercury and provides you comfortable lighting. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>BRAND</td>
+<td>Philips Lighting</td>
+</tr>
+<tr>
+<td>Color Temperature </td>
+<td>2700-Kelvin</td>
+</tr>
+<tr>
+<td>Bulb base type</td>
+<td>E26 </td>
+</tr>
+<tr>
+<td>lifespan  </td>
+<td>10,950 hours</td>
+</tr>
+<tr>
+<td>Lumens count</td>
+<td>800 lumen</td>
+</tr>
+<tr>
+<td>Wattage</td>
+<td>10 watts</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>A19</td>
+</tr>
+<tr>
+<td>Color </td>
+<td>Soft White </td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+Like other led bulbs, it is also an energy saver and saves you power up to 80 percent. The main use of this bulb is for homes, offices, rooms only for indoor purposes. It is a perfect design led bulb for in house use and for outdoor purpose seems not durable.
+
+{{<pros>}}
+
+<li>equivalent of 60-watt incandescent lightbulbs</li>
+<li>quality of the light is clearer and crisper</li>
+<li>designed specifically for indoor use</li>
+<li>bulbs do not make noise</li>
+<li>CRI value of 80.</li>
+<li>size and shape of a regular bulb</li>
+<li>light is briite enough</li>
+<li>bulbs do not contain mercury.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Sometimes technical default may occurs.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01CAL1EMY/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CAL1EMY&linkId=d2b4148e0eba18b932510d4ac6a8ebde{{</button>}}
