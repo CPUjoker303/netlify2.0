@@ -558,3 +558,217 @@ Like other led bulbs, it is also an energy saver and saves you power up to 80 pe
 {{<cons>}}
 <li>Sometimes technical default may occurs.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01CAL1EMY/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CAL1EMY&linkId=d2b4148e0eba18b932510d4ac6a8ebde{{</button>}}
+
+### Kasa Smart Light Bulb, LED Smart WiFi Alexa Bulbs Works with Alexa and Google Home
+
+![Kasa Smart Light Bulb](/uploads/kasa-smart-light-bulb-led-smart-wifi-alexa-bulbs-works-with-alexa-and-google-home.jpg "Kasa Smart Light Bulb")
+
+Next is Kasa Smart Light Bulb Review. It is a TP-LINK dimmable smart light bulb that provides great Tunable White light. The Kasa light bulb has immigrated with amazon ALEXA and Google assistance. The light bulb dimmable range is down to 1 percent, which is fantastic. 
+
+This bulb's benefit is that you do not require a hub; you just have to buy it and quickly get started. The setup process of this TP-LINK light bulb is straightforward in installation, and the light bulb's connector is the same as the other light bulbs in the market. The design of the light bulb is made of white plastic and has a cool texture and is best outdoor light bulbs for cold weather. If you want to connect and control the LED bulb with your mobile device, then you just have to install the KASA Android Application.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>BRAND</td>
+<td>TP-Link</td>
+</tr>
+<tr>
+<td>Color Temperature </td>
+<td>soft white (2500 k) , bright light (5000 K)</td>
+</tr>
+<tr>
+<td>Bulb base		</td>
+<td>E27</td>
+</tr>
+<tr>
+<td>lifespan  </td>
+<td>Very Long</td>
+</tr>
+<tr>
+<td>Lumens</td>
+<td>800 Lumen</td>
+</tr>
+<tr>
+<td>Wattage</td>
+<td>10 watts</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>A19 Tunable White</td>
+</tr>
+<tr>
+<td>Color </td>
+<td>soft white,bright light</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+### How to connect KASA Smart Light Bulb with a mobile phone?
+
+* Install KASA application in your android and ios device 
+* Create an account or login on the KASA Smart application
+* You come to the screen where it says “Devices.”
+* On the top right corner of your mobile device there, you find the + button 
+* Press the plus button and then select add device
+* Once the add device comes up just, you have to scroll down and find the smart light option
+* Make sure the Kasa light bulb is power On
+
+{{<pros>}}
+
+<li>white LED light bulb</li>
+<li>Wi-Fi light bulb</li>
+<li>No need for a hub or extra equipment</li>
+<li>Easy to connect with Kasa smart app</li>
+<li>simple voice commands to control with any Alexa, Google</li>
+<li>Perfect for outdoor purpose</li>
+{{</pros>}}
+{{<cons>}}
+<li>Not sealed fixtures</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07FZ289NH/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07FZ289NH&linkId=f4c3f581aea994efba9efb9023afb2ad{{</button>}}
+
+### LOHAS Bug Light Bulb Yellow LED Bulbs
+
+![LOHAS Bug Light Bulb Yellow LED Bulbs](/uploads/lohas-bug-light-bulb-yellow-led-bulbs-.jpg "LOHAS Bug Light Bulb Yellow LED Bulbs")
+
+Next is LOHAS Bug light bulb review. The excellent great value bulb is a non-dimmable LED bulb. It is for long time usage up to 30000 hours of life. The power-saving bulb can save your money by providing great bright yellow light. The LOHAS Bug light is excellent for outdoor usage, and for dark winter nights, the bulb can way you bright. This five-watt bulb lumen flux count upto450 and has an E26 Base socket that can easily fit in any fixture. 
+
+The 2000 kelvin color temperature elegant amber yellow light is for make day bright in the dark night. It is a lead or mercury-free bulb. The brilliant light can be used for indoor, outdoor, and also for security light for homes.Next is LOHAS Bug light bulb review. The excellent great value bulb is a non-dimmable LED bulb. It is for long time usage up to 30000 hours of life. 
+
+The power-saving bulb can save your money by providing great bright yellow light. The LOHAS Bug light is excellent for outdoor usage, and for dark winter nights, the bulb can way you bright. This five-watt bulb lumen flux count upto450 and has an E26 Base socket that can easily fit in any fixture. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>BRAND</td>
+<td>L LOHAS LED</td>
+</tr>
+<tr>
+<td>Color Temperature </td>
+<td>2000 kelvin</td>
+</tr>
+<tr>
+<td>Bulb base		</td>
+<td>E26 Standard Base</td>
+</tr>
+<tr>
+<td>lifespan  </td>
+<td>30000 hours</td>
+</tr>
+<tr>
+<td>Lumens</td>
+<td>450 </td>
+</tr>
+<tr>
+<td>Wattage</td>
+<td>40 Watts</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Color </td>
+<td>Amber</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The 2000 kelvin color temperature elegant amber yellow light is for make day bright in the dark night. It is a lead or mercury-free bulb. The brilliant light can be used for indoor, outdoor, and also for security light for homes.
+
+{{<pros>}}
+
+<li>Size xmas tree light</li>
+<li>non-dimmable LED bulb</li>
+<li>30000 hours of life</li>
+<li>2000 kelvin color temperature</li>
+<li>Both for indoor ans outdoor usage.</li>
+<li>Fits in all fixtures</li>
+<li>durable bulb</li>
+<li>free from lead and mercury </li>
+<li>Never emits infrared and ultraviolet rays </li>
+{{</pros>}}
+{{<cons>}}
+<li>Technical problems may occur</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B072R5PR5N/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072R5PR5N&linkId=962dd8f6e48a7b653ae6db858c367b59{{</button>}}
+
+### Boxlood 12W PIR Motion Sensor Light Bulb
+
+![Boxlood 12W PIR Motion Sensor Light Bulb](/uploads/boxlood-12w-pir-motion-sensor-light-bulb.jpg "Boxlood 12W PIR Motion Sensor Light Bulb")
+
+Next is the BOXWOOD bulb review. The led bulb comes with an automatic detects motion feature, and the motion sensor will automatically turn on the light when it detects any movement within 20 feet sensor range. The motion-sensing feature of the led bulb makes it perfect for outdoor usage. The 12W BOXLOOD bulb will give you 1000 lumen flux counts. 
+
+This BOXWOOD bulb is replaceable with a 100W halogen bulb. In daylight, the bulb automatically off by the Dusk to Dawn Sensor. The dusk to dawn bulb can fit very quickly in any fixture and can be used for indoor, yard, driveway, front door, outdoor, backdoor, Storage Room, Stairs, Courtyard, etc. The bulb is the best outdoor light bulb for cold weather.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>BRAND</td>
+<td>Boxlood</td>
+</tr>
+<tr>
+<td>Color Temperature </td>
+<td>6000 Kelvin</td>
+</tr>
+<tr>
+<td>Bulb base		</td>
+<td>E26 Medium Screw base</td>
+</tr>
+<tr>
+<td>lifespan  </td>
+<td>Long </td>
+</tr>
+<tr>
+<td>Lumens</td>
+<td>1000 lumen</td>
+</tr>
+<tr>
+<td>Wattage</td>
+<td>12W bulb</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Classic</td>
+</tr>
+<tr>
+<td>Color </td>
+<td>Cold White light</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/boxlood-12w-pir-motion-sensor-light-bulb.jpg" pname="Boxlood 12W PIR Motion Sensor Light Bulb" plink="https://www.amazon.com/gp/product/B0771MYTBH/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0771MYTBH&linkId=3a26b23b244b770f7074770d498d2a04">}}
+•Great price point
+•Nice sensitivity to motion
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>Very Bright cold white light</li>
+<li>Great price point</li>
+<li>Nice sensitivity to motion</li>
+<li>Replaceable to 100W halogen bulb</li>
+<li>Automatically turn of in daylight</li>
+<li>best outdoor light bulb</li>
+<li>20 feet sensor range for motion detection</li>
+<li>motion-sensing lightbulb</li>
+{{</pros>}}
+{{<cons>}}
+<li>future Technical issue  may  Occur</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0771MYTBH/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0771MYTBH&linkId=3a26b23b244b770f7074770d498d2a04{{</button>}}
+
+### Comzler 6 Watt Frosted Candelabra LED Bulb
+
+![](/uploads/comzler-6-watt-frosted-candelabra-led-bulb.jpg)
