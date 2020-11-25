@@ -341,7 +341,7 @@ It had plenty of fan headers and much more. For some users, there is a problem w
 
 {{</singlep>}}
 
-The ASUS Prime Z390 is one of the best motherboards for the latest generation of Intel processors. The main reason to consider this motherboard is its excellent overclocking performance and easy installation of components in it. This motherboard is not purely white; it had a black and white color combination with PCB in black color and had a white accent on it. The chipset heatsink and IO backplate are white, which makes it considerable for white PC.Z390-A features two M.2 slots with memory support up to 64 GB and four memory slots. It features some heat sinks, and the overclocking capability of this motherboard is excellent. 
+The ASUS Prime Z390 is one of the best motherboards for the latest generation of Intel processors. The main reason to consider this motherboard is its excellent overclocking performance and easy installation of components in it. This motherboard is not purely white; it had a black and white color combination with PCB in black color and had a white accent on it. The chipset heatsink and IO backplate are white, which makes it considerable for white PC.Z390-A features two M.2 slots with memory support up to 64 GB and four memory slots. It features some heat sinks, and the overclocking capability of this motherboard is excellent.
 
 It supports multi GPU, but you can't use Nvidia SLI as it only supports CrossfireX. You can add RGB lights to this motherboard and use white lights for your white gaming PC. This motherboard can be used for all mid-range builds. Still, overall in that price, this motherboard had a great design and provided reliable performance. If you want something better than H310M GAMING ARCTIC, you can go for it. Its high overclocking power and with that features this motherboard worth a single penny. There is also a similar variant of this motherboard ASUS Prime Z390-P. Take a look at it.
 
@@ -395,6 +395,8 @@ It got two M.2 slots, four SATA slots, USB 3.1 support, and ASUS has its own Opt
 {{</singlep>}}
 
 ASUS Prime X470-Pro is still one of the best mid-range motherboards available in the market, and you can get it at a reasonable price. Like all ASUS prime motherboards, this one got a black colored PCB with some white stripes and heat sinks on it that make it looks good and gives an attractive design. This motherboard is not going the latest and doesn't feature PCI 4, but it got an M.2 slot with a white heat sink on it. Asus Prime motherboards are known because of their cooling, and this one got five-way cooling optimization. If you are going to use the latest heavy GPU, this motherboard got a safe slot which prevents it from damage. 
+
+There is the list of best [motherboard for Ryzen 5 3600](https://www.bestgamingreviews.com/best-motherboard-for-ryzen-5-3600/) that you can also check out.
 
 #### Specifications
 
