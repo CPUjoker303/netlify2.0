@@ -12,8 +12,10 @@ updateDate: 2020-10-09T12:24:17.417Z
 image: /uploads/best-cartridge-alignment-protractor-tool.png
 tags:
   - Reviews
-categories:
   - Information
+  - ACCESSORIES
+categories:
+  - ACCESSORIES
 schemaMarkup: cc
 pickName: "Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler "
 pickImg: /uploads/vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png
