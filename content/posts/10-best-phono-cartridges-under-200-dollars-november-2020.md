@@ -543,7 +543,9 @@ Budget Cartridge
 <li>For the price</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B002SDU67Y/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002SDU67Y&linkId=27561eab7961ab026aaa2637e8a88c89{{</button>}}
 
+### Shure M97xE High-Performance Magnetic Phono Cartridge
 
+![Shure M97xE](/uploads/shure-m97xe-review.jpg "Shure M97xE")
 
 ### What is Phono cartridge?
 
