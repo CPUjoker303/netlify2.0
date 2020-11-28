@@ -469,6 +469,59 @@ Balanced and detailed sound
 
 ![NAGAOKA MM (MP) Cartridge MP-110](/uploads/nagaoka-mm-mp-cartridge-review-mp-110-review.jpg "NAGAOKA MM (MP) Cartridge MP-110")
 
+Next is NAGAOKA MM cartridge, and this cartridge is only used with MM phono inputs of your amplifier. Nagaoka makes the head shall of this cartridge, and the cartridge output voltage is five megavolts. 
+
+The cartridge comes with the pre-installed headshell, which is made of excellent material and has an ergonomic finger-lift, which seems elegant for this head shall. For superior quality audio music, the NAGAOKA MM cartridge is a beast for you. 
+
+If we compare this NAGAOKA MM cartridge with Ortofon 2M Red, this one provides excellent quality audio and is better than that cartridge. The NAGAOKA MM cartridge is the best phono cartridge under 200 dollars.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Output voltage</td>
+<td>5mV (5cm / sec)</td>
+</tr>
+<tr>
+<td>Frequency characteristics</td>
+<td>20Hz ~ 20kHz</td>
+</tr>
+<tr>
+<td>Channel separation</td>
+<td>23dB (1KHz)</td>
+</tr>
+<tr>
+<td>channel balance</td>
+<td>1.5dB below</td>
+</tr>
+<tr>
+<td>Load resistance</td>
+<td>47KΩ</td>
+</tr>
+<tr>
+<td>Load capacity</td>
+<td>100pF</td>
+</tr>
+<tr>
+<td>Cantilever</td>
+<td>Aluminum alloy</td>
+</tr>
+<tr>
+<td>Needle tip</td>
+<td>0.4x0.7mil ellipse</td>
+</tr>
+<tr>
+<td>weight</td>
+<td>6.5g</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+
+
 ### What is Phono cartridge?
 
 It is the electro-mechanical small component set up on the tonearm of a turntable. The performance of the record is wholly dependent upon the capabilities of the Phono cartridge.
