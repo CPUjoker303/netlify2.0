@@ -88,6 +88,8 @@ If we take a look at casing quality which feels very solid and metal designed su
 
 You can also check to set it using instruction book. On the front you will see some six preamps gain controls steps with led light signals and next to it there you can see small subsonic filter button which will use for rolling of frequencies when you turn it on. By using this subsided subsonic filter you can roll-off the frequencies below 20 Hz for cutting any low rumble which may pick-up by your turntable and it also have front Gain control button. 
 
+#### Specifications
+
 {{<html-code tag="div">}}
 
 <table>
@@ -150,3 +152,56 @@ The pre-installed tubes on max S2 box are tremendous and actual amplification, a
 <li>Signal seems ultra precise</li>
 <li>Emits low humming sound</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B075KPB1P2/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B075KPB1P2&linkId=d87cb0e226516215e0f2cc74d6371193{{</button>}}
+
+### Puffin Phono DSP Phono preamp 
+
+![Puffin Phono DSP Phono preamp](/uploads/puffin-phono-dsp-review.jpg "Puffin Phono DSP Phono preamp")
+
+Next one is Puffin Phono DSP review, and this beautiful Phono preamp device comes with only analogue outputs and has a wide range of gain settings. On the top centre, you will find the ground wire hook, and on the left and right of the hook, there are two inputs and two outputs. The main benefit of this Puffin Phono DSP is that it comes with the volume control option. 
+
+The Volume control option In Parks Audio will help you in stopping the sound while when you are changing your records. This amplifier features a tilt control option, which will help you in adjusting the sound warmer and brighter and also helps you in getting higher sound with deep details and in lower for a warm sound. 
+
+People love to listen to bass, and the Puffin Phono DSP Phono pre-amplifier comes with the bass controller which helps you in controlling the graph of bass because in certain types of music you want the bass to turn down so the control button will help you and there is no need to buy any equalizer for adjustment. 
+
+The DSP Phono preamp also has a high-frequency filter will help you in noise, and old LPs sound which you don’t like to listen and on the other hand the filter of low frequency will helps you in getting rid of rumble motor noises and other noises which you don’t want to hear. The mono mod will help you in sums the channel from the left and right, and on the other hand, the amplifier also has stereo mod. Overall the Puffin Phono DSP is best phono preamp under 500.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Firmware </td>
+<td>V1.21</td>
+</tr>
+<tr>
+<td>gain settings</td>
+<td>-4dB (CDs) to 72dB (MCs)</td>
+</tr>
+<tr>
+<td>tube </td>
+<td>(2H)</td>
+</tr>
+<tr>
+<td>tape </td>
+<td>(3H)</td>
+</tr>
+<tr>
+<td>connectors</td>
+<td>traditional RCA-type</td>
+</tr>
+<tr>
+<td>digital inputs</td>
+<td>DAC</td>
+</tr>
+<tr>
+<td>Volume controller</td>
+<td>YES</td>
+</tr>
+<tr>
+<td>Bass controller</td>
+<td>YES</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
