@@ -101,9 +101,11 @@ By using these Phono cartridges, you can enjoy your record collection sound thro
 
 First is Ortofon 2M Red review, and the thing which is full of surprises is that it comes within the budget range of maximum hundred dollars. Inside the box, you get Stylus Brush and a little screwdriver tool in a small plastic packet, an instruction manual, and a 2M Red Phono cartridge. It is a moving magnet cartridge and all-purpose cartridge which can easily fit with most turntables. 
 
-By using this Phono cartridge, you will get a fantastic dynamic sound. The cartridge comes in Elliptical diamond style, and the output voltage of this Phono cartridge is 5.5 mV. It has colour-coded pin terminals, and the phono cartridge maximum frequency is 20 Hz to 20000Hz. It cares about your stylus and gives you the best performance without any lag up-to 1,000 hours, and sounds pretty good. The 2M red has a 1.8 g load resistance and can easily replace with 2M Blue Ortofon Stylus. 
+By using this Phono cartridge, you will get a fantastic dynamic sound. The cartridge comes in Elliptical diamond style, and the output voltage of this Phono cartridge is 5.5 mV. It has colour-coded pin terminals, and the phono cartridge maximum frequency is 20 Hz to 20000Hz. 
 
-The 2m red cartridge sounded warmer, and this phono cartridge is very durable and seems a hi-fi cartridge which performance is perfect. Without screws, this modern-sounding cartridge weight is 7.2 g, and load capacitance is 150-300pF. It is a very budget-friendly cartridge, and many of them can easily buy this budget cartridge. The cartridge can easily use on atlp 1240 tracking at recommended 1.8 grams. Overall this Ortofon 2M Red phono cartridge provides outstanding sound and is best phono cartridge under 200 dollars.
+It cares about your stylus and gives you the best performance without any lag up-to 1,000 hours, and sounds pretty good. The 2M red has a 1.8 g load resistance and can easily replace with 2M Blue Ortofon Stylus. 
+
+The 2m red cartridge sounded warmer, and this phono cartridge is very durable and seems a hi-fi cartridge which performance is perfect. Without screws, this modern-sounding cartridge weight is 7.2 g, and load capacitance is 150-300pF.
 
 #### Specifications
 
@@ -153,6 +155,97 @@ The 2m red cartridge sounded warmer, and this phono cartridge is very durable an
 </tbody>
 </table>
 {{</html-code>}}
+
+ It is a very budget-friendly cartridge, and many of them can easily buy this budget cartridge. The cartridge can easily use on atlp 1240 tracking at recommended 1.8 grams. Overall this Ortofon 2M Red phono cartridge provides outstanding sound and is best phono cartridge under 200 dollars.
+
+{{<pros>}}
+
+<li>Pretty easy to setup</li>
+<li>Fits in most turntables</li>
+<li>No screws and little nuts to deal with it</li>
+<li>Sounds pretty good</li>
+<li>Budget Phono cartridge</li>
+<li>Sounds crisp and clean</li>
+<li>Color coded pin terminals</li>
+{{</pros>}}
+{{<cons>}}
+<li>super-sensitive to any dust</li>
+<li>It is heavy</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B000WMCEKK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000WMCEKK&linkId=da6f165de00cb9c31a84e147ddec7f16{{</button>}}
+
+### Ortofon 2M Blue Moving Magnet Cartridge
+
+![Ortofon 2M Blue Moving Magnet Cartridge](/uploads/ortofon-2m-blue-review-moving-magnet-cartridge-review.jpg "Ortofon 2M Blue Moving Magnet Cartridge")
+
+The next cartridge is Ortofon 2M Blue, which comes in Nude Elliptical style and has a stylus replaceable feature. The cartridge is easy to use, and its weight is the same as a 2M red cartridge, which is 7.2g. You will get the brush in a small packet in the box, which will use for proper Cleaning of the stylus. 
+
+The stylus features split pole pins, and Hopelex manufactures the Ortofon 2M Blue cartridge's body. The 2m blue cartridge tracking force is the same as the 2m red cartridge, 18 mN, and can replaceable with a 2m red phono cartridge. The 2m red and 2m blue cartridge share the same cartridge body, and it takes only a few seconds to swap 2m red cartridge to 2m blue. 
+
+The 2m red and 2m blue cartridge has the same structure, and just the difference between them is the stylus, which is highly polished in Ortofon 2M Blue and gives you excellent tracking and significantly quieter reproduction. The Ortofon 2M Blue is the best phono cartridge under 200.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Output voltage </td>
+<td>5cm/sec,5.5 mV, 1kHz</td>
+</tr>
+<tr>
+<td>Interchangeable</td>
+<td>2M RED</td>
+</tr>
+<tr>
+<td>Frequency Range</td>
+<td>20-25,000 Hz +2/-1 dB</td>
+</tr>
+<tr>
+<td>Stylus Type</td>
+<td>Nude Elliptical</td>
+</tr>
+<tr>
+<td>Tracking Force</td>
+<td>1.8g (18 mN)</td>
+</tr>
+<tr>
+<td>Replacement stylus </td>
+<td>Ortofon Stylus 2M Blue</td>
+</tr>
+<tr>
+<td>Cartridge weight</td>
+<td>7.2g without screws</td>
+</tr>
+<tr>
+<td>Stylus/Diamond</td>
+<td>Nude Elliptical</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/ortofon-2m-blue-review-moving-magnet-cartridge-review.jpg" pname="Ortofon 2M Blue " plink="https://www.amazon.com/gp/product/B001E0CK3K/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001E0CK3K&linkId=8e8f42222d38df95853f3d4eead823a6">}}
+EASY TO USE
+USER REPLACEABLE
+WELL BUILT
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>Ease to use</li>
+<li>Fit with most turntables </li>
+<li>User-replaceable </li>
+<li>Adds more dynamics & resolution</li>
+<li>It sounds more open</li>
+<li>It's well-built</li>
+<li>pre-threaded mounts</li>
+<li>Hi-Fi Choice</li>
+{{</pros>}}
+{{<cons>}}
+<li>Slight record wear</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B001E0CK3K/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001E0CK3K&linkId=8e8f42222d38df95853f3d4eead823a6{{</button>}}
+
+### Ortofon 2M Bronze Moving Magnet Cartridge
 
 
 
