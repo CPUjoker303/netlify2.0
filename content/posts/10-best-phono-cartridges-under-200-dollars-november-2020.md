@@ -547,6 +547,75 @@ Budget Cartridge
 
 ![Shure M97xE](/uploads/shure-m97xe-review.jpg "Shure M97xE")
 
+Next is the Shure M97xE cartridge review, and it is an elliptical diamond designed cartridge with a finely polished tip. The cartridge will give you accurate musical passages in the high-frequency range. The Shure M97xE phono cartridge will give attachment on the tonearm, which is full of free with any vibration and will provide you superb smooth sounding. 
+
+The cantilever of this M97xE cartridge is made of aluminum alloy, and the cartridge tip style is in Elliptical shape. It gives low record wear and sounds very high accuracy and comes is a very low weighted cartridge overall. It is an expensive cartridge, and you cannot buy an M97xE cartridge with-in the range of 200 dollars.
+
+#### Specificatons
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Stylus Mass</td>
+<td>Very Low</td>
+</tr>
+<tr>
+<td>Diamond Stylus Tip</td>
+<td>Elliptical</td>
+</tr>
+<tr>
+<td>Sound Accuracy</td>
+<td>Very High</td>
+</tr>
+<tr>
+<td>Record Wear</td>
+<td>Very Low</td>
+</tr>
+<tr>
+<td>Key Features</td>
+<td>Dynamic Stabilizer Brush</td>
+</tr>
+<tr>
+<td>cantilever</td>
+<td>II low-mass,aluminum alloy</td>
+</tr>
+<tr>
+<td>Included Accessories</td>
+<td>Headshell screwdriver, Stylus cleaning brush, Stylus guard etc</td>
+</tr>
+<tr>
+<td>Installation</td>
+<td>Easy</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/shure-m97xe-review.jpg" pname="Shure M97xE cartridge " plink="https://www.amazon.com/gp/product/B00006I5SB/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00006I5SB&linkId=e68a36c97f48261f960aaf4697a90139">}}
+diamond designed cartridge 
+finely polished tip
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>For mixing and spinning</li>
+<li>It has versatile needles</li>
+<li>low record wear</li>
+<li>high skip resistance</li>
+<li>reliable record cueing</li>
+<li>Has standard headshell</li>
+<li>Very high sound accuracy</li>
+<li>Dynamic Stabilizer</li>
+{{</pros>}}
+{{<cons>}}
+<li>Not many</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00006I5SB/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00006I5SB&linkId=e68a36c97f48261f960aaf4697a90139{{</button>}}
+
+
+
+
+
 ### What is Phono cartridge?
 
 It is the electro-mechanical small component set up on the tonearm of a turntable. The performance of the record is wholly dependent upon the capabilities of the Phono cartridge.
@@ -577,6 +646,8 @@ We have listed some Pros and Cons of spherical and Ellipticl style phono cartrid
 <li>Some Higher record wear</li>
 <li>Less responsive high frequency </li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00KDRPEF6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00KDRPEF6&linkId=25da5b7bbf372b8cec84d405af982f0b{{</button>}}
+
+
 
 #### Elliptical
 
