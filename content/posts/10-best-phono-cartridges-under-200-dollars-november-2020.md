@@ -40,4 +40,30 @@ In the market, you will find two stylus types.
 * Spherical
 * Elliptical
 
-We have listed some Pros and Cons of spherical style phono cartridges.
+We have listed some Pros and Cons of spherical and Ellipticl style phono cartridges.
+
+#### Spherical
+
+{{<pros>}}
+
+<li>Less expensive</li>
+<li>Popular choice of needle</li>
+<li>Have less drag</li>
+<li>Better for scratching</li>
+{{</pros>}}
+{{<cons>}}
+<li>Some Higher record wear</li>
+<li>Less responsive high frequency </li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00KDRPEF6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00KDRPEF6&linkId=25da5b7bbf372b8cec84d405af982f0b{{</button>}}
+
+#### Elliptical
+
+{{<pros>}}
+
+<li>High frequency response</li>
+<li>Less record wear</li>
+{{</pros>}}
+{{<cons>}}
+<li>More expensive</li>
+<li>less popular</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07SFBQZBH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07SFBQZBH&linkCode=as2&tag=technikaya-20&linkId=d1771d82551419b670d48ffe31523b4b{{</button>}}
