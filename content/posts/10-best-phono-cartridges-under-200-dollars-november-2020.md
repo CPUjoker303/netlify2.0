@@ -304,18 +304,83 @@ The proper installation of this 2m Brozen cartridge is a little tricky, and unli
 * In the 2m Brozen packages, you will find no screws, so you have to attach your screws while connecting the 2m Brozen cartridge to you tonearm
 * Tight the screws, and that’s all
 
-  {{<pros>}}
+{{<pros>}}
 
-  <li>replaced with 2M Black stylus</li>
-  <li>more details and resolutions</li>
-  <li>Adds clarity and depth</li>
-  <li>better than the 2M Red</li>
-  <li>Fantastic sound quality</li>
-  <li>Easy to install</li>
-  {{</pros>}}
-  {{<cons>}}
-  <li>Proper installation required</li>
-  {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B002SDY2OC/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002SDY2OC&linkId=0f026c9df7a31dbd3d25f7d6afc9857d{{</button>}}
+<li>replaced with 2M Black stylus</li>
+<li>more details and resolutions</li>
+<li>Adds clarity and depth</li>
+<li>better than the 2M Red</li>
+<li>Fantastic sound quality</li>
+<li>Easy to install</li>
+{{</pros>}}
+{{<cons>}}
+<li>Proper installation required</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B002SDY2OC/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002SDY2OC&linkId=0f026c9df7a31dbd3d25f7d6afc9857d{{</button>}}
+
+### Ortofon 2M Black Moving Magnet Cartridge
+
+![Ortofon 2M Black Moving Magnet Cartridge](/uploads/ortofon-2m-black-review-moving-magnet.jpg "Ortofon 2M Black Moving Magnet Cartridge")
+
+Next is 2M black cartridge which is so much expensive cartridge in our list and we have just listed for providing you information only. The cartridge is very slim and comes in the nude Shibata diamond style, which gives you breathtaking sound quality and great bass. 
+
+The 2m black phono cartridge frequency is up to 20-31,000 Hz, and the output voltage is 5mV. The entire frequency spectrum of this cartridge is much precise in relation and is a high output moving coil cartridge. 
+
+If you have a Technics SL-1200G and use this 2m black phono cartridge with Technics SL-1200G turntable, you will get fantastic quality sound. The 2M black cartridge provides excellent quality but expensive in the budget, so if you have a high-budget, you can buy it from amazon.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Output voltage </td>
+<td>5 mV</td>
+</tr>
+<tr>
+<td>Interchangeable</td>
+<td>Ortofon Stylus 2M Bronze</td>
+</tr>
+<tr>
+<td>Frequency Range</td>
+<td>20-31,000 Hz</td>
+</tr>
+<tr>
+<td>Stylus Type</td>
+<td>Shibata diamond</td>
+</tr>
+<tr>
+<td>Tracking Force</td>
+<td>1.5g (15 mN)</td>
+</tr>
+<tr>
+<td>Others</td>
+<td>Stylus brush, fibre</td>
+</tr>
+<tr>
+<td>Replacement stylus </td>
+<td>Ortofon Stylus 2M Black</td>
+</tr>
+<tr>
+<td>Cartridge weight</td>
+<td>7.2 g</td>
+</tr>
+<tr>
+<td>Stylus/Diamond</td>
+<td>Nude Shibata</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/ortofon-2m-black-review-moving-magnet.jpg" pname="Ortofon 2M Black " plink="https://www.amazon.com/gp/product/B002SE3H74/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002SE3H74&linkId=cb862603bd2f767f6ba6dece59235554">}}
+most expensive phono cartridge
+	
+		
+{{</singlep>}}
+
+
+
+
 
 
 
