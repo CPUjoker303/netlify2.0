@@ -1,6 +1,6 @@
 ---
 title: Best Phono Preamp Under 500 And 200 Dollars [November 2020]
-draft: true
+draft: false
 SEOTitle: Best Phono Preamp Under 500 And 200 Dollars [November 2020]
 excrept: CHECKOUT Best Phono Preamps Under $500 AND $200. These are Stereophile,
   stereo, budget stereo, Tube Replaceable American made preamp for turntable.
@@ -22,7 +22,7 @@ pickLink: https://www.amazon.com/gp/product/B07DKHM2HS/ref=as_li_tl?ie=UTF8&tag=
 ---
 For lovers of vinyl records, our expert team has listed the best phono [preamp](https://en.wikipedia.org/wiki/Preamplifier) under 500 dollars which will give you brilliant quality and exceptional audio experience in price. In online and offline markets there are also lots of cheap preamps but for great quality-price not matters because cheap quality preamplifier will provide you with low quality and you cannot enjoy your vinyl records properly.
 
-These listed preamps support both MM (moving magnet) and MC (moving coil) cartridges and are much compatible will many kinds of turntables. Vinyl record lovers hate off extra and high rumble noise so, these preamps are featuring rumble filters for the cancellation of extra rumble noise and will help you in reducing noise. 
+These listed preamps support both MM (moving magnet) and MC (moving coil) [cartridges](https://www.technikaya.com/best-phono-cartridge-under-200/) and are much compatible will many kinds of turntables. Vinyl record lovers hate off extra and high rumble noise so, these preamps are featuring rumble filters for the cancellation of extra rumble noise and will help you in reducing noise. 
 
 If you need a preamp that has a small body design, then the Puffin phono preamplifier can easily set and adjust near your turntable. All preamplifiers in the given below list has great mono mods, stereo switches, and load adjusting features for proper controlling settings. In the market, you will also find some inexpensive preamps which you can buy easily if you have a very low budget. Still, for a brilliant audio experience and durability, you need some normal investment. So, checkout best phono preamp under 500 and 200 dollars below. 
 
@@ -230,7 +230,7 @@ High-frequency filter
 
 ![Pro-Ject Audio - Phono Box DC Preamplifier](/uploads/pro-ject-audio-review.jpg "Pro-Ject Audio - Phono Box DC Preamplifier")
 
-Next product is Pro-Ject Audio Phono Box, and this compact amplifier will give you straight forward sound. The phono box came in a black and brushed metal look which seems very durable and a bit heavy in weight. On the backside of the phono box, you will see some input ports and line out port. 
+Next product is [Pro-Ject Audio Phono Box](https://www.project-audio.com/en/product/phono-box/), and this compact amplifier will give you straight forward sound. The phono box came in a black and brushed metal look which seems very durable and a bit heavy in weight. On the backside of the phono box, you will see some input ports and line out port. 
 
 The Pro-Ject Audio Phono amplifier comes with the selector, which will help you in selecting the moving coil and magnet which depends upon which cartridge you are using with your turntable. Its small size looks pretty good, and you can install it close to the record player without any trouble. The power consumption if this Pro-Ject Audio amplifier is only eighteen volts and you need 18 volts power supply to run this amplifier. 
 
@@ -384,7 +384,7 @@ Phono Pre-Amp
 
 ![Nobsound Little Bear T11 6N2/12AX7](/uploads/nobsound-little-bear-t11-review.jpg "Nobsound Little Bear T11 6N2/12AX7")
 
-If you are looking for pure tube preamplifier, then this Nobsound Little Bear T11 is suitable for you. It is the improved variant of little bear T10 and gives you brilliant audio performance. If we compare Little Bear T11 with oldest T10 variant, then T11 is offering very low background noise when your volume is average. 
+If you are looking for pure tube preamplifier, then this Nobsound Little Bear T11 is suitable for you. It is the improved variant of little bear T10 and gives you brilliant audio performance and active [RIAA equalization](https://en.wikipedia.org/wiki/RIAA_equalization). If we compare Little Bear T11 with oldest T10 variant, then T11 is offering very low background noise when your volume is average. 
 
 In front body design, you will find both line-in and phonon-in connecting options and in the front centre of this preamps volume controller is installed for equalizing the volume at normal and high stages. It has a replaceable tube feature, and you can easily change and replace 6N2/12AX7 tubes when you want. It is best phono preamp under 500
 
