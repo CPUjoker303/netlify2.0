@@ -378,6 +378,22 @@ most expensive phono cartridge
 		
 {{</singlep>}}
 
+{{<pros>}}
+
+<li>Easily compatible with most turntables</li>
+<li>True to the groove</li>
+<li>Highly polished profile</li>
+<li>Best of the range</li>
+<li>Threaded Wholes</li>
+<li>Color coded pin terminals</li>
+<li>Installment is very easy with lead wires</li>
+<li>Flagship from Ortofon</li>
+<li>Moving magnet cartridge </li>
+{{</pros>}}
+{{<cons>}}
+<li>Expensive</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B002SE3H74/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002SE3H74&linkId=cb862603bd2f767f6ba6dece59235554{{</button>}}
+
 
 
 
