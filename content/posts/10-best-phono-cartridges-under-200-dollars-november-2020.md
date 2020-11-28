@@ -9,7 +9,7 @@ metaKeywords: Best Phono Cartridges Under 200
 url: best-phono-cartridge-under-200/
 date: 2020-11-28T08:38:40.191Z
 updateDate: 2020-11-28T08:38:40.283Z
-image: /uploads/best-phono-cartridges-under-200-dollars-cartridge-accessories.jpg
+image: /uploads/best-phono-cartridges-under-200-dollars-cartridge-accessorie.jpg
 tags:
   - ACCESSORIES
   - Information
