@@ -165,7 +165,7 @@ One-sided protractor mat
 
 ![Cartridge Alignment Protractor Tool For Alignment](/uploads/cartridge-alignment-protractor-tool-phonograph-lp-phono-cartridge-stylus-alignment-protractor-tool.png "Cartridge Alignment Protractor Tool For Alignment")
 
-It can easily work with an s-shaped arm and very easy to use. The instructions are printed on the protractor. It is high contrast protractor and provides improved visibility when you are alignment your cartridge. By using this, you can find Eliminate [tracking errors](https://forums.stevehoffman.tv/threads/tracking-problems-turntable-or-cartridge-issue.218472/). 
+It can easily work with an s-shaped arm and very easy to use. The instructions are printed on the protractor. It is high contrast protractor and provides improved visibility when you are alignment your cartridge. By using this, you can find Eliminate [tracking errors](https://forums.stevehoffman.tv/threads/tracking-problems-turntable-or-cartridge-issue.218472/). It enhances performance and has a mirror surface and can work with all turntables so it is Best Cartridge Alignment Protractor and is very helpful for your cartridge alignment.
 
 #### Specifications
 
@@ -188,7 +188,10 @@ It can easily work with an s-shaped arm and very easy to use. The instructions a
 </table>
 {{</html-code>}}
 
-It enhances performance and has a mirror surface and can work with all turntables so it is Best Cartridge Alignment Protractor and is very helpful for your cartridge alignment.
+{{<singlep pimg="/uploads/cartridge-alignment-protractor-tool-phonograph-lp-phono-cartridge-stylus-alignment-protractor-tool.png" pname="Cartridge Alignment Protractor Tool" plink="https://www.amazon.com/gp/product/B07KK76ZMK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KK76ZMK&linkId=6b87b0ce08242a7382712abea977cc9f">}}
+Eliminate tracking errors
+Can alignment your cartridge
+{{</singlep>}}
 
 {{<pros>}}
 
@@ -202,7 +205,7 @@ It enhances performance and has a mirror surface and can work with all turntable
 
 ![Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler](/uploads/vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png "Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler")
 
-This is a very inexpensive and handy item that will help you out to adjust the azimuth on the turntable. It is VTA (vertical tracking alignment) & Azimuth alignment. It is a high definition and comes with a PU leather bag, and you can use it very easily.
+This is a very inexpensive and handy item that will help you out to adjust the azimuth on the turntable. It is VTA (vertical tracking alignment) & Azimuth alignment. It is a high definition and comes with a PU leather bag, and you can use it very easily. The tool is high penetration, and it uses a headshell alignment block. It is great to test your headshell. You can buy it for your phono cartridge. You will find really quite helpful a magnifying glass.
 
 #### Specifications
 
@@ -233,7 +236,10 @@ This is a very inexpensive and handy item that will help you out to adjust the a
 </table>
 {{</html-code>}}
 
- The tool is high penetration, and it uses a headshell alignment block. It is great to test your headshell. You can buy it for your phono cartridge. You will find really quite helpful a magnifying glass.
+{{<singlep pimg="vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png" pname="Headshell Block VTA Azimuth Ruler" plink="https://www.amazon.com/gp/product/B07KK76ZMK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KK76ZMK&linkId=6b87b0ce08242a7382712abea977cc9f">}}
+Inexpensive cartridge alignment tool
+PU leather bag INCLUDED
+{{</singlep>}}
 
 {{<pros>}}
 
