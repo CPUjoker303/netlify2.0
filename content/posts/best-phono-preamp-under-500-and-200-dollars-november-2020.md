@@ -379,3 +379,76 @@ Phono Pre-Amp
 {{<cons>}}
 <li>Like other preamps, this XPS-1 doesn’t entirely work with the MM type cartridges.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00PMCIYK4/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00PMCIYK4&linkId=5a825f051e95155d1f77da54311970de{{</button>}}
+
+### Nobsound Little Bear T11 6N2/12AX7 Vacuum&Valve Tube Phono Turntable Preamplifie
+
+![Nobsound Little Bear T11 6N2/12AX7](/uploads/nobsound-little-bear-t11-review.jpg "Nobsound Little Bear T11 6N2/12AX7")
+
+If you are looking for pure tube preamplifier, then this Nobsound Little Bear T11 is suitable for you. It is the improved variant of little bear T10 and gives you brilliant audio performance. If we compare Little Bear T11 with oldest T10 variant, then T11 is offering very low background noise when your volume is average. 
+
+In front body design, you will find both line-in and phonon-in connecting options and in the front centre of this preamps volume controller is installed for equalizing the volume at normal and high stages. It has a replaceable tube feature, and you can easily change and replace 6N2/12AX7 tubes when you want. It is best phono preamp under 500
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Output Voltage</td>
+<td>2.0V</td>
+</tr>
+<tr>
+<td>Gain </td>
+<td>= 48dB</td>
+</tr>
+<tr>
+<td>Input RIAA </td>
+<td>≤ 5Mv THD ≤ 0.5%</td>
+</tr>
+<tr>
+<td>Frequency Response</td>
+<td>standard characters</td>
+</tr>
+<tr>
+<td>Signal to Noise Ratio </td>
+<td>≥ 65dB(A)1KHz (input: 10mV; output: 0.7V)</td>
+</tr>
+<tr>
+<td>Power supply</td>
+<td>AC 110V(115V) 60Hz/50Hz</td>
+</tr>
+<tr>
+<td>Manufacturer	</td>
+<td>Nobsound</td>
+</tr>
+<tr>
+<td>Supporting Tubes</td>
+<td>6N2/12AX7 tubes</td>
+</tr>
+<tr>
+<td>Cartridge Type </td>
+<td>Only MM </td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/parasound-zphono-preamps-review.jpg" pname="Nobsound Little Bear" plink="https://www.amazon.com/gp/product/B001RM7BLG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001RM7BLG&linkId=4962359f29d5f1da8ef8c36a807cc2f1">}}
+Best RIAA Preamplifier
+Rechangeable tubes
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>Easy to use </li>
+<li>Low background noise </li>
+<li>Low TDH</li>
+<li>Re-changeable 6H2,6H2n tubes</li>
+<li>Active RIAA equalization</li>
+<li>Three metal covers & four acrylic covers</li>
+<li>Great sound performance</li>
+<li></li>
+{{</pros>}}
+{{<cons>}}
+<li>Only for MM cartridges</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B001RM7BLG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001RM7BLG&linkId=4962359f29d5f1da8ef8c36a807cc2f1{{</button>}}
