@@ -244,6 +244,10 @@ This is a very inexpensive and handy item that will help you out to adjust the a
 
 This is an Overshoot Protractor like other alignment protractors; this one provides visibility to find tracking errors, and this protractor is very high contrast. It can avoid overshoot distortion. The protractor will keep high-quality sound. 
 
+It works with an S-shaped arm. When you are adjusting the overhang, then The Extra magnifier will help you more clear. It is a professional tool for your cartridge alignment. The color of this protractor is white. If we talk about length, then it has 18.9cm length.
+
+
+
 #### Specifications
 
 {{<html-code tag="div">}}
@@ -273,7 +277,10 @@ This is an Overshoot Protractor like other alignment protractors; this one provi
 </table>
 {{</html-code>}}
 
-It works with an S-shaped arm. When you are adjusting the overhang, then The Extra magnifier will help you more clear. It is a professional tool for your cartridge alignment. The color of this protractor is white. If we talk about length, then it has 18.9cm length.
+{{<singlep pimg="zripool-lp-vinyl-pickup-calibration-review.jpg" pname="Zripool LP Vinyl Pickup Calibration" plink="https://www.amazon.com/gp/product/B07QR3HBTR/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07QR3HBTR&linkId=307d851f5db2c41b94795e85c5797991">}}
+Best Overshoot Protractor
+High Contrast Protractor
+{{</singlep>}}
 
 {{<pros>}}
 
@@ -343,10 +350,10 @@ Now we talk about mirror surface alignment protractor, and just like the other o
 
 Another very important aspect of set up your turntable is verticle tracking alignment (VTA). The acrylic block is used for not only aligning the cartridge but also setting VTA (verticle tracking alignment) of the tonearm.
 
-### How to use acrylic block for cartridge alignment?
+### How to use an acrylic block for cartridge alignment?
 
 First, we should have to know about what is azimuth? And how to use an acrylic block for cartridge alignment. Basically, the azimuth is the measurement of the stylus being vertical entirely up and down. When we place this acrylic block tool in front of the cartridge and getting down low and looking at it from the front will show the alignment of the azimuth.
 
 ## Conclusion - Best Cartridge Alignment Protractor (2020 Updated)
 
-We have listed Best Cartridge Alignment Protractor tools that are available on Amazon and also written the instructions for using them so, by using these tools correctly, you can align your cartridge very quickly.
+We have listed the Best Cartridge Alignment Protractor tools that are available on Amazon and also written the instructions for using them so, by using these tools correctly, you can align your cartridge very quickly.
