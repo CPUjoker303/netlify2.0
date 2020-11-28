@@ -225,3 +225,80 @@ High-frequency filter
 <li>Large </li>
 <li>Emits low humming noise</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07DKHM2HS/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DKHM2HS&linkId=b0fb539aea53de6fc807a0a7244b60dc{{</button>}}
+
+### Pro-Ject Audio - Phono Box DC - MM/MC Phono preamp with line Output – Blk
+
+![Pro-Ject Audio - Phono Box DC Preamplifier](/uploads/pro-ject-audio-review.jpg "Pro-Ject Audio - Phono Box DC Preamplifier")
+
+Next product is Pro-Ject Audio Phono Box, and this compact amplifier will give you straight forward sound. The phono box came in a black and brushed metal look which seems very durable and a bit heavy in weight. On the backside of the phono box, you will see some input ports and line out port. 
+
+The Pro-Ject Audio Phono amplifier comes with the selector, which will help you in selecting the moving coil and magnet which depends upon which cartridge you are using with your turntable. Its small size looks pretty good, and you can install it close to the record player without any trouble. The power consumption if this Pro-Ject Audio amplifier is only eighteen volts and you need 18 volts power supply to run this amplifier. 
+
+You will power port on the backside of this Phono Box where other ports are installed. The company gives you the original power supply inside the package, and you don’t have to purchase a new one. Like other amplifiers, this one has the same cartridge compatibility, and you can adjust both MM and MC cartridges easily. So it comes in the budget range and is the best phono preamp under 100 dollars.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Cartridge</td>
+<td>MM, MC</td>
+</tr>
+<tr>
+<td>Gain range</td>
+<td>MM: 40 dB, MC: 60 dB</td>
+</tr>
+<tr>
+<td>TDH</td>
+<td>MM 0.01%, MC 0.05%</td>
+</tr>
+<tr>
+<td>Impedance</td>
+<td>ultra-low impedance</td>
+</tr>
+<tr>
+<td>RCA sockets</td>
+<td>Yes- gold-plated</td>
+</tr>
+<tr>
+<td>Size</td>
+<td>Small size</td>
+</tr>
+<tr>
+<td>Power Supply </td>
+<td>18 Volts </td>
+</tr>
+<tr>
+<td>Manufacturer</td>
+<td>Pro-Ject</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/pro-ject-audio-review.jpg" pname="Pro-Ject Audio Preamp" plink="https://www.amazon.com/gp/product/B007DB5I60/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B007DB5I60&linkId=ac0500eecf0cf5c5d57eca713768789c">}}
+Supports MM and MC Cartridges
+Brushed metal
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>Affordable and best budge preamp</li>
+<li>Excellent sound quality</li>
+<li>Works with any cartridge </li>
+<li>High performance</li>
+<li>Small size </li>
+<li>Ultra-low impedance output</li>
+<li>comes with power adapter</li>
+<li>Great mc settings</li>
+<li>came with RCA cables</li>
+<li>Great body design</li>
+<li>Very user friendly</li>
+<li>delivers high fidelity performance</li>
+<li>RIAA equalization curve</li>
+{{</pros>}}
+{{<cons>}}
+<li>No LED lights</li>
+<li>Bit heavy </li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B007DB5I60/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B007DB5I60&linkId=ac0500eecf0cf5c5d57eca713768789c{{</button>}}
