@@ -25,6 +25,8 @@ Many people love to listen to audio vinyl records in their free time, and they k
 
 By using these Phono cartridges, you can enjoy your record collection sound through your Hi-Fi. These listed budget Phono cartridges and DJ cartridges can reproduce accurately sound for you and are friendly with most turntables, and can efficiently work in many types of turntables. It is crucial to choose a good-sounding Phono cartridge for your audio vinyl records and smooth bass response. Check the list of best Phono cartridges under $200
 
+![]()
+
 ### What is Phono cartridge?
 
 It is the electro-mechanical small component set up on the tonearm of a turntable. The performance of the record is wholly dependent upon the capabilities of the Phono cartridge.
@@ -66,4 +68,6 @@ We have listed some Pros and Cons of spherical and Ellipticl style phono cartrid
 {{<cons>}}
 <li>More expensive</li>
 <li>less popular</li>
+<li>Harder to find replacements.</li>
+<li>Not good for scratching</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07SFBQZBH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07SFBQZBH&linkCode=as2&tag=technikaya-20&linkId=d1771d82551419b670d48ffe31523b4b{{</button>}}
