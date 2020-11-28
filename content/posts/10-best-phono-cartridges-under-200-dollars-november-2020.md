@@ -95,13 +95,64 @@ By using these Phono cartridges, you can enjoy your record collection sound thro
 </table>
 {{</html-code>}}
 
+### Ortofon 2M Red Moving Magnet Cartridge
 
+![Ortofon 2M Red Moving Magnet Cartridge](/uploads/ortofon-2m-red-review-moving-magnet-cartridge-review.jpg "Ortofon 2M Red Moving Magnet Cartridge")
 
+First is Ortofon 2M Red review, and the thing which is full of surprises is that it comes within the budget range of maximum hundred dollars. Inside the box, you get Stylus Brush and a little screwdriver tool in a small plastic packet, an instruction manual, and a 2M Red Phono cartridge. It is a moving magnet cartridge and all-purpose cartridge which can easily fit with most turntables. 
 
+By using this Phono cartridge, you will get a fantastic dynamic sound. The cartridge comes in Elliptical diamond style, and the output voltage of this Phono cartridge is 5.5 mV. It has colour-coded pin terminals, and the phono cartridge maximum frequency is 20 Hz to 20000Hz. It cares about your stylus and gives you the best performance without any lag up-to 1,000 hours, and sounds pretty good. The 2M red has a 1.8 g load resistance and can easily replace with 2M Blue Ortofon Stylus. 
 
+The 2m red cartridge sounded warmer, and this phono cartridge is very durable and seems a hi-fi cartridge which performance is perfect. Without screws, this modern-sounding cartridge weight is 7.2 g, and load capacitance is 150-300pF. It is a very budget-friendly cartridge, and many of them can easily buy this budget cartridge. The cartridge can easily use on atlp 1240 tracking at recommended 1.8 grams. Overall this Ortofon 2M Red phono cartridge provides outstanding sound and is best phono cartridge under 200 dollars.
 
+#### Specifications
 
+{{<html-code tag="div">}}
 
+<table>
+<tbody><tr>
+<td>Output voltage </td>
+<td>5.5 mV (Millivolt)</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>Moving Magnet Cartridge</td>
+</tr>
+<tr>
+<td>Frequency </td>
+<td>20 Hz to 20000Hz</td>
+</tr>
+<tr>
+<td>Stylus Type</td>
+<td>Elliptical</td>
+</tr>
+<tr>
+<td>Tracking Force</td>
+<td>1.8 g (18 mN)</td>
+</tr>
+<tr>
+<td>Load resistance </td>
+<td>47kΩ</td>
+</tr>
+<tr>
+<td>Load capacitance </td>
+<td>150-300pF</td>
+</tr>
+<tr>
+<td>Cartridge weight</td>
+<td>7.2 gram without screws</td>
+</tr>
+<tr>
+<td>Stylus/Diamond</td>
+<td>Elliptical</td>
+</tr>
+<tr>
+<td>Interchangeable</td>
+<td>2M BLUE</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
 
 
 
