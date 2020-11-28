@@ -24,3 +24,20 @@ pickLink: https://www.amazon.com/gp/product/B002SE3H74/ref=as_li_tl?ie=UTF8&tag=
 Many people love to listen to audio vinyl records in their free time, and they know how Phono cartridge is crucial for them. Sometimes it isn't easy to choose the best Phono cartridge, which fulfils your requirements, so our expert team has listed some best phono cartridge under 200 dollars, and they have excellent quality. These high-quality Phono cartridges will satisfy your audio quality needs, and you can easily buy these Phono cartridges in your 200 dollars budget. 
 
 By using these Phono cartridges, you can enjoy your record collection sound through your Hi-Fi. These listed budget Phono cartridges and DJ cartridges can reproduce accurately sound for you and are friendly with most turntables, and can efficiently work in many types of turntables. It is crucial to choose a good-sounding Phono cartridge for your audio vinyl records and smooth bass response. Check the list of best Phono cartridges under $200
+
+### What is Phono cartridge?
+
+It is the electro-mechanical small component set up on the tonearm of a turntable. The performance of the record is wholly dependent upon the capabilities of the Phono cartridge.
+
+#### Cartridge Mount
+
+The use of a cartridge mount is for correctly mounting cartridges on the turntable's tonearm.
+
+#### Types of Stylus
+
+In the market, you will find two stylus types.
+
+* Spherical
+* Elliptical
+
+We have listed some Pros and Cons of spherical style phono cartridges.
