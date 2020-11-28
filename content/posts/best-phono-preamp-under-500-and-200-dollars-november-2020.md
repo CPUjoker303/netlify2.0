@@ -205,3 +205,23 @@ The DSP Phono preamp also has a high-frequency filter will help you in noise, an
 </tbody>
 </table>
 {{</html-code>}}
+
+{{<singlep pimg="/uploads/puffin-phono-dsp-review.jpg" pname="Puffin Phono  preamp" plink="https://www.amazon.com/gp/product/B07DKHM2HS/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DKHM2HS&linkId=b0fb539aea53de6fc807a0a7244b60dc">}}
+Great Volume controller
+High-frequency filter
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>Lots of gain settings </li>
+<li>Easy to adjust</li>
+<li>Easy to hookup </li>
+<li>Compatible  with MC / MM cartridges</li>
+<li>Twenty gain settings</li>
+<li>Tilt tone controls</li>
+<li>Bass and volume controller</li>
+{{</pros>}}
+{{<cons>}}
+<li>Large </li>
+<li>Emits low humming noise</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07DKHM2HS/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DKHM2HS&linkId=b0fb539aea53de6fc807a0a7244b60dc{{</button>}}
