@@ -520,6 +520,29 @@ If we compare this NAGAOKA MM cartridge with Ortofon 2M Red, this one provides e
 </table>
 {{</html-code>}}
 
+{{<singlep pimg="/uploads/nagaoka-mm-mp-cartridge-review-mp-110-review.jpg" pname="NAGAOKA MM (MP) Cartridge MP-110" plink="https://www.amazon.com/gp/product/B002SDU67Y/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002SDU67Y&linkId=27561eab7961ab026aaa2637e8a88c89">}}
+Excellent quality audio
+Budget Cartridge
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>High cost performance</li>
+<li>Calm of the sound</li>
+<li>Ellipse chip adoption</li>
+<li>Blockbuster MP-11 successor model</li>
+<li>MP type stereo cartridge</li>
+<li>Offers well rounded sound</li>
+<li>dual magnet cartridge</li>
+<li>It has excellent stylus</li>
+<li>diamond tip needle</li>
+<li>standard size cartridge</li>
+<li>Warm details with breathtaking Bass</li>
+{{</pros>}}
+{{<cons>}}
+<li>For the price</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B002SDU67Y/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002SDU67Y&linkId=27561eab7961ab026aaa2637e8a88c89{{</button>}}
+
 
 
 ### What is Phono cartridge?
