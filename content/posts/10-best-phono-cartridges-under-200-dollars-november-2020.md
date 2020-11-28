@@ -247,7 +247,75 @@ WELL BUILT
 
 ### Ortofon 2M Bronze Moving Magnet Cartridge
 
+![Ortofon 2M Bronze Moving Magnet Cartridge](/uploads/ortofon-2m-bronze-review.jpg "Ortofon 2M Bronze Moving Magnet Cartridge")
 
+Next is 2M Brozen, which is also a moving magnet cartridge and featuring Nude Fine Line diamond and can be easily replaced with a 2M Black stylus. Let's compare 2M Brozen cartridges with 2M RED and blue cartridges. 2M Brozen cartridges will give you more details and resolutions compared to both Ortofon previous reviewed cartridges. 
+
+The 2m red provides you more warm sound, and on the other hand, the 2m blue cartridges will offer you neutral sound but, if you upgrade the phono cartridge to 2m Brozen, which is so much different in structure, performance, and sound from both 2m blue and 2m red cartridges. 
+
+The proper installation of this 2m Brozen cartridge is a little tricky, and unlike 2m red and 2m blue cartridges, you have to install the entire cartridge, and for this purpose, you need a needle nose plier. It is the best phono cartridge under 200
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Output voltage </td>
+<td>1kHz, 5cm/sec - 5.5 mV</td>
+</tr>
+<tr>
+<td>Frequency Range</td>
+<td>20-20,000 Hz +3/-1 dB</td>
+</tr>
+<tr>
+<td>Stylus Type</td>
+<td>Nude Fine Line </td>
+</tr>
+<tr>
+<td>Tracking Force</td>
+<td>1.8 g (18 mN)</td>
+</tr>
+<tr>
+<td>Others</td>
+<td>Stylus Brush, Screwdriver</td>
+</tr>
+<tr>
+<td>Interchangeable </td>
+<td>Ortofon Stylus 2M Black</td>
+</tr>
+<tr>
+<td>Cartridge weight</td>
+<td>7.2 g</td>
+</tr>
+<tr>
+<td>Stylus/Diamond</td>
+<td>Nude Fine Line diamond</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+### How to install Ortofon 2M Bronze cartridge
+
+* Things you need are nose pliers and remember that your hand will remain very steady while installation
+* Carefully Remove four-colour leads form the back of your currently installed cartridge with a nose plier
+* Remove both two screws which are keeping your cartridge connected to the tonearm
+* In the 2m Brozen packages, you will find no screws, so you have to attach your screws while connecting the 2m Brozen cartridge to you tonearm
+* Tight the screws, and that’s all
+
+  {{<pros>}}
+
+  <li>replaced with 2M Black stylus</li>
+  <li>more details and resolutions</li>
+  <li>Adds clarity and depth</li>
+  <li>better than the 2M Red</li>
+  <li>Fantastic sound quality</li>
+  <li>Easy to install</li>
+  {{</pros>}}
+  {{<cons>}}
+  <li>Proper installation required</li>
+  {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B002SDY2OC/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002SDY2OC&linkId=0f026c9df7a31dbd3d25f7d6afc9857d{{</button>}}
 
 
 
