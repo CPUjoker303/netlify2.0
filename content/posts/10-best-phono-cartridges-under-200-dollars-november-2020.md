@@ -394,11 +394,80 @@ most expensive phono cartridge
 <li>Expensive</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B002SE3H74/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002SE3H74&linkId=cb862603bd2f767f6ba6dece59235554{{</button>}}
 
+### Sumiko - Pearl MM Cartridge
 
+![Sumiko - Pearl MM Cartridge](/uploads/sumiko-pearl-mm-cartridge-review.jpg "Sumiko - Pearl MM Cartridge")
 
+Next is the Sumiko Pearl MM Cartridge review, and this Elliptical phono cartridge comes with a separation channel of 30 DB and 12Hz – 30KHz frequency response. The cartridge can easily fit and works well on any standard tonearm and digital stylus. Throughout the entire spectrum, you will get a very balanced and detailed sound. The cartridge is beautifully designed by audiophiles and gives you a high level of performance. 
 
+The cartridge can perfectly fit with most of the turntables, and installation is relatively easy overall. The Pearl MM Cartridge has a 12Hz – 30KHz responsive frequency range, and you will get outstanding performance at rendering and good details from the distorted electric guitar. 
 
+The Sumiko Pearl MM style is an easily replaceable stylus and has a robust Elliptical shape. The Sumiko Pearl MM is the best phono cartridge under 200.
 
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Cartridge Type </td>
+<td>MM</td>
+</tr>
+<tr>
+<td>Frequency </td>
+<td>12Hz – 30KHz</td>
+</tr>
+<tr>
+<td>Channel Separation</td>
+<td>30db</td>
+</tr>
+<tr>
+<td>Size of Stylus </td>
+<td>0.2µx0.8µ</td>
+</tr>
+<tr>
+<td>Shape of stylus </td>
+<td>Elliptical</td>
+</tr>
+<tr>
+<td>Name </td>
+<td>Sumiko - Pearl MM Cartridge</td>
+</tr>
+<tr>
+<td>Installation</td>
+<td>Easy </td>
+</tr>
+<tr>
+<td>Compatibility </td>
+<td>fits any standard tone arm</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/sumiko-pearl-mm-cartridge-review.jpg" pname="Sumiko - Pearl" plink="https://www.amazon.com/gp/product/B00C6IBH7E/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00C6IBH7E&linkId=3d574a7c861fa6d223ea0643fd6565f8">}}
+Elliptical phono cartridge 
+Balanced and detailed sound 
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>Exquisite tracking</li>
+<li>strong Elliptical shape</li>
+<li>good performance at rendering</li>
+<li>Very good sound</li>
+<li>pretty crystalline sharp</li>
+<li>Characteristic and real sound</li>
+<li>Fits with most turntables</li>
+<li>For MM phono input </li>
+{{</pros>}}
+{{<cons>}}
+<li>The cartridge is only good when it is use on high end system</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00C6IBH7E/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00C6IBH7E&linkId=3d574a7c861fa6d223ea0643fd6565f8{{</button>}}
+
+### NAGAOKA MM (MP) Cartridge MP-110
+
+![NAGAOKA MM (MP) Cartridge MP-110](/uploads/nagaoka-mm-mp-cartridge-review-mp-110-review.jpg "NAGAOKA MM (MP) Cartridge MP-110")
 
 ### What is Phono cartridge?
 
