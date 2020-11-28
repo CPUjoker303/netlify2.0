@@ -612,9 +612,69 @@ finely polished tip
 <li>Not many</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00006I5SB/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00006I5SB&linkId=e68a36c97f48261f960aaf4697a90139{{</button>}}
 
+### Ortofon Concorde MK2 Mix Twin Cartridge
 
+![Ortofon Concorde MK2 Mix Twin Cartridge](/uploads/ortofon-concorde-mk2-mix-twin-review.jpg "Ortofon Concorde MK2 Mix Twin Cartridge")
 
+The next is Ortofon CC MK2 Mix review, and the cartridge demands modern turntable like DJs and can easily fit in top DJ turntables. The cartridge is an all-rounder groove and gives you excellent performance in price. 
 
+For a better needle view and incredible angle view, the wide stylus is cut out. The Ortofon CC MK2 has the best quality spherical stylus and has a substantial and stable cantilever. 
+
+The Ortofon is also providing some other Elliptical and Spherical DJ cartridges like OrtofonCC MK2 DJ, CC MK2 Digital, CC MK2 Club Elliptical, CC MK2 Scratch, which comes in different prices and performance.
+
+#### Specifcations
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Stylus Type	</td>
+<td>Spherical</td>
+</tr>
+<tr>
+<td>Frequency Range	</td>
+<td>20 - 20,000 Hz</td>
+</tr>
+<tr>
+<td>Tracking Force	</td>
+<td>3.0g</td>
+</tr>
+<tr>
+<td>Output	</td>
+<td>6 mV</td>
+</tr>
+<tr>
+<td>Installation </td>
+<td>Easy</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/ortofon-concorde-mk2-mix-twin-review.jpg" pname="Shure M97xE cartridge " plink="https://www.amazon.com/gp/product/B0799NRNJM/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0799NRNJM&linkId=0cf3e9e7205f0e679385c1b5671b459d">}}
+diamond designed cartridge 
+finely polished tip
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>New generation of Ortofon</li>
+<li>Tailored cartridges</li>
+<li>Easliy fit all DJ turntables</li>
+<li>Come with removeable head shell</li>
+<li>groovy all-rounder</li>
+<li>great performance and durability</li>
+<li>high sound quality</li>
+<li>good tracking ability</li>
+<li>Wide stylus cut off</li>
+{{</pros>}}
+{{<cons>}}
+<li>Breaks easily</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0799NRNJM/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0799NRNJM&linkId=0cf3e9e7205f0e679385c1b5671b459d{{</button>}}
+
+### Shure M44-7 Standard DJ Turntable Cartridge
+
+![Shure M44-7 Standard DJ Turntable Cartridge](/uploads/shure-m44-7-review-standard-dj-turntable.jpg "Shure M44-7 Standard DJ Turntable Cartridge")
 
 ### What is Phono cartridge?
 
