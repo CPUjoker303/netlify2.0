@@ -302,3 +302,80 @@ Brushed metal
 <li>No LED lights</li>
 <li>Bit heavy </li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B007DB5I60/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B007DB5I60&linkId=ac0500eecf0cf5c5d57eca713768789c{{</button>}}
+
+### Emotiva Audio XPS-1 Phono Preamp
+
+![Emotiva Audio XPS-1 Phono Preamp](/uploads/emotiva-audio-xps-1-phono-preamp-review.jpg "Emotiva Audio XPS-1 Phono Preamp")
+
+Next is Audio XPS-1 Phono Preamp review and you can easily buy this in the range of two hundred dollars. The Audio XPS-1 amplifier is compatible with the both MM and MC type cartridges, and you can connect both types of cartridges without any trouble. 
+
+The body design of this XPS-1 preamp is very different from other preamps and comes in a long length design. On the front, you will find a resistance value changer, and you can only change one resistance value for the per channel. For output connection, there are two left and right output ports in the bottom end of this XPS-1 when you give power supply to this phono amplifier the durable power led light will give you a turn-on signal. 
+
+For changing the option of the cartridge like MM to MC, the button is broadly installed on the top front of this XPS-1 phono amplifier. Overall the amplifier will provide you with brilliant quality audio with low impedance and is the best phono preamp under 500.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>RIAA</td>
+<td>standard RIAA curve +/- 0.25 dB</td>
+</tr>
+<tr>
+<td>Operating voltage</td>
+<td>100 VAC and 240 VAC</td>
+</tr>
+<tr>
+<td>Supporting Cartridges</td>
+<td>MM/MC</td>
+</tr>
+<tr>
+<td>RCA</td>
+<td>line-level RCA inputs</td>
+</tr>
+<tr>
+<td>Gain range</td>
+<td>MM: 40 dB, MC: 60 dB</td>
+</tr>
+<tr>
+<td>TDH</td>
+<td>MM: <0.0075 % , < 0.02%, 20 Hz – 20 kHz </td>
+</tr>
+<tr>
+<td>connectors</td>
+<td>gold plated brass input</td>
+</tr>
+<tr>
+<td>Ground terminal</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Output connectors</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/emotiva-audio-xps-1-phono-preamp-review.jpg" pname="Emotiva Audio XPS-1" plink="https://www.amazon.com/gp/product/B00PMCIYK4/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00PMCIYK4&linkId=5a825f051e95155d1f77da54311970de">}}
+High Precison
+Low Noise
+Phono Pre-Amp
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>Easy to hookup </li>
+<li>Compatible with MM/MC cartridges </li>
+<li>Very Low TDH</li>
+<li>Easy to adjust</li>
+<li>superb analog sound quality</li>
+<li>excellent technical performance</li>
+<li>Precise equalization RIAA curve</li>
+<li>very low distortion</li>
+<li>LED is pretty bright</li>
+{{</pros>}}
+{{<cons>}}
+<li>Like other preamps, this XPS-1 doesn’t entirely work with the MM type cartridges.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00PMCIYK4/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00PMCIYK4&linkId=5a825f051e95155d1f77da54311970de{{</button>}}
