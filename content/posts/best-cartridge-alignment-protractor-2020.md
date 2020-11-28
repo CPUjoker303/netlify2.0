@@ -145,7 +145,7 @@ By using the latest UV printing technology, it is printed. It can quickly cure y
 </table>
 {{</html-code>}}
 
-{{<singlep pimg="hudson-hi-fi-turntable-cartridge-alignment-protractor-mat-review.jpg" pname="Hudson Hi-Fi Turntable Cartridge" plink="https://www.amazon.com/gp/product/B01MU6AD2E/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MU6AD2E&linkId=c0f7d32683a6a13ec6bdc1032a866e8b">}}
+{{<singlep pimg="/uploads/hudson-hi-fi-turntable-cartridge-alignment-protractor-mat-review.jpg" pname="Hudson Hi-Fi Turntable Cartridge" plink="https://www.amazon.com/gp/product/B01MU6AD2E/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MU6AD2E&linkId=c0f7d32683a6a13ec6bdc1032a866e8b">}}
 Developed In Newyork
 High Contrast Protractor
 One-sided protractor mat
