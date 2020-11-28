@@ -165,7 +165,7 @@ One-sided protractor mat
 
 ![Cartridge Alignment Protractor Tool For Alignment](/uploads/cartridge-alignment-protractor-tool-phonograph-lp-phono-cartridge-stylus-alignment-protractor-tool.png "Cartridge Alignment Protractor Tool For Alignment")
 
-It can easily work with an s-shaped arm and very easy to use. The instructions are printed on the protractor. It is high contrast protractor and provides improved visibility when you are alignment your cartridge. By using this, you can find Eliminate tracking errors. 
+It can easily work with an s-shaped arm and very easy to use. The instructions are printed on the protractor. It is high contrast protractor and provides improved visibility when you are alignment your cartridge. By using this, you can find Eliminate [tracking errors](https://forums.stevehoffman.tv/threads/tracking-problems-turntable-or-cartridge-issue.218472/). 
 
 #### Specifications
 
