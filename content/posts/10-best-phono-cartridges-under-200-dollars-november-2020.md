@@ -676,6 +676,74 @@ finely polished tip
 
 ![Shure M44-7 Standard DJ Turntable Cartridge](/uploads/shure-m44-7-review-standard-dj-turntable.jpg "Shure M44-7 Standard DJ Turntable Cartridge")
 
+Next is Shure M44-7 phono cartridge, which comes with type s cantilever and has low record wear, which is excellent and gives you resonant sound. The installation process of the Shure M44-7 cartridge is straightforward, and its needle can work with most of the turntables and is fully designed for DJ scratching. 
+
+The tracking force of M44-7 is 1.5 to 3 grams, and the resource frequency range is 20 to 20,000 Hz, which is less than 2m black styli. It is much expensive, and we have just listed this M44-7 phono cartridge for providing you best information; and if your budget is good, then the cartridge is best for you, and you can easily buy this Shure M44-7 phono cartridge for the best DJ Music nights and good quality audio. The M44-7 is the best phono cartridge under 500 dollars.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Skip Resistance</td>
+<td>ultra high</td>
+</tr>
+<tr>
+<td>Output</td>
+<td>ultra high</td>
+</tr>
+<tr>
+<td>Record Wear</td>
+<td>ultra low</td>
+</tr>
+<tr>
+<td>Sound Emphasis</td>
+<td>big bass</td>
+</tr>
+<tr>
+<td>Tracking Force</td>
+<td>1.5 to 3 grams</td>
+</tr>
+<tr>
+<td>Frequency</td>
+<td>20 to 20,000 Hz</td>
+</tr>
+<tr>
+<td>Weight </td>
+<td>6.7 grams</td>
+</tr>
+<tr>
+<td>Installation</td>
+<td>Easy</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/shure-m44-7-review-standard-dj-turntable.jpg" pname="Shure M44-7 Standard DJ " plink="https://www.amazon.com/gp/product/B00008W2LW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00008W2LW&linkId=087fa04e9b6f2cf804cdb90efc1628ac">}}
+Easy installation process 
+Good Frequency Range
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>The cartridge is fully designed for scratch DJ's and turntablists</li>
+<li>Unique wide-diameter</li>
+<li>Ultra high skip resistance</li>
+<li>produces powerful resonant sound</li>
+<li>Made for DJ scratching</li>
+<li>Best for vinyl records</li>
+<li>Solid groove tracking</li>
+<li>loud booming output</li>
+<li>Perfect for scratching</li>
+{{</pros>}}
+{{<cons>}}
+<li>Bit too bass heavy</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00008W2LW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00008W2LW&linkId=087fa04e9b6f2cf804cdb90efc1628ac{{</button>}}
+
+
+
 ### What is Phono cartridge?
 
 It is the electro-mechanical small component set up on the tonearm of a turntable. The performance of the record is wholly dependent upon the capabilities of the Phono cartridge.
