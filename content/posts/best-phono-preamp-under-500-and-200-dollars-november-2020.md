@@ -77,3 +77,76 @@ If you need a preamp that has a small body design, then the Puffin phono preampl
 </tbody>
 </table>
 {{</html-code>}}
+
+### Pro-Ject Tube Box S2 Phono Preamplifier - Black
+
+![Pro-Ject Tube Box S2 Phono Preamplifier Black ](/uploads/pro-ject-tube-box-s2-review.jpg "Pro-Ject Tube Box S2 Phono Preamplifier Black ")
+
+First is Tube max S2 box review and the compatibility of this phono preamplifier is with the maximum variety of turntables. This phono preamplifier comes with the supporting technology for both coil and moving magnet cartridges. The amplifier comes in pre-assembled and very easy to set up this amplifier and just you have to set it properly and plug-in. 
+
+If we take a look at casing quality which feels very solid and metal designed surprisingly heavy. The black Tube max S2 box has two pairs of common type replaceable ecc83 tubes which are installed already on it and you can easily swapping them out when you want. On the bottom, you can see switches which we use for changing the input preamps capacitance and these switches are used for the typical setting impedance of that phono cartridge which you are using with your turntable. 
+
+You can also check to set it using instruction book. On the front you will see some six preamps gain controls steps with led light signals and next to it there you can see small subsonic filter button which will use for rolling of frequencies when you turn it on. By using this subsided subsonic filter you can roll-off the frequencies below 20 Hz for cutting any low rumble which may pick-up by your turntable and it also have front Gain control button. 
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Type</td>
+<td>Tube </td>
+</tr>
+<tr>
+<td>THD	</td>
+<td>0.02% (check details on amazon)</td>
+</tr>
+<tr>
+<td>Outboard power supply	</td>
+<td>18 V / 1.000 mA DC</td>
+</tr>
+<tr>
+<td>Power consumption	 </td>
+<td>470 mA DC</td>
+</tr>
+<tr>
+<td>Tubes	</td>
+<td>2 x ECC83 </td>
+</tr>
+<tr>
+<td>Subsonic filter	</td>
+<td>Below 20 Hz </td>
+</tr>
+<tr>
+<td>Line-level output	</td>
+<td>RCA(one pair),phono sockets</td>
+</tr>
+<tr>
+<td>Weight	</td>
+<td>410 g without power supply</td>
+</tr>
+<tr>
+<td>RIAA-equalisation curvee</td>
+<td>nonconformity </td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The pre-installed tubes on max S2 box are tremendous and actual amplification, and this preamplifier has no OpAmps (operational amplifiers) option in circuit design. Overall the Tube max S2 box is best for MM cartridges and MC cartridges. It is best phono preamp under 500 dollars.
+
+{{<pros>}}
+
+<li>Can be used with MM or MC cartridges </li>
+<li>Low TDH </li>
+<li>Multiple gain levels </li>
+<li>Easy to hookup</li>
+<li>Circuit design without OpAmps</li>
+<li>Subsonic filter button</li>
+<li>Dual mono circuitry</li>
+<li>Gold-plated RCA</li>
+<li>Brings 3D "holographic" quality</li>
+{{</pros>}}
+{{<cons>}}
+<li>The Price</li>
+<li>Signal seems ultra precise</li>
+<li>Emits low humming sound</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B075KPB1P2/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B075KPB1P2&linkId=d87cb0e226516215e0f2cc74d6371193{{</button>}}
