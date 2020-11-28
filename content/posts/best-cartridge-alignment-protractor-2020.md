@@ -42,7 +42,7 @@ For proper cartridge [alignment](https://en.wikipedia.org/wiki/Alignment), you n
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B079ZBLJ4M/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079ZBLJ4M&linkId=7fdfc0577efe3e76de14b27b1e073e42" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="hudson-hi-fi-turntable-cartridge-alignment-protractor-mat-review.jpg" alt="Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat " title="Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat "></td>
+<td class="tdimg"><img src="/uploads/hudson-hi-fi-turntable-cartridge-alignment-protractor-mat-review.jpg" alt="Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat " title="Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat "></td>
 <td>Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat </td>
 <td>BEST</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B01MU6AD2E/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MU6AD2E&linkId=c0f7d32683a6a13ec6bdc1032a866e8b" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
