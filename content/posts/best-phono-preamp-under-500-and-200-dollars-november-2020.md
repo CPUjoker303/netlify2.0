@@ -452,3 +452,78 @@ Rechangeable tubes
 {{<cons>}}
 <li>Only for MM cartridges</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B001RM7BLG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001RM7BLG&linkId=4962359f29d5f1da8ef8c36a807cc2f1{{</button>}}
+
+### Parasound Zphono MM/MC Phono Preamplifier with USB
+
+![Parasound Zphono MM/MC Phono Preamplifier](/uploads/parasound-zphono-preamps-review.jpg "Parasound Zphono MM/MC Phono Preamplifier")
+
+Next is Parasound Zphono preamplifier which comes in the list of top phono preamps in market segmentation. The Parasound Zphono will give you high performance better sound quality with-in your budget. For entry-level vinyl lovers, this Zphono is best phono preamp under 500. It features two MM-inputs and MC analogue inputs. 
+
+Both inputs give you balanced XLR and on the other hand, unbalanced RCA inputs. Like Puffin Phono preamplifier it also comes with mono and stereo switch, and even the perfect rumble filter which will significantly help you in reducing and cancelling extras rumble noise. Both mono, stereo, switches will help you in controlling settings for getting exceptional audio experience. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>RIAA equalization</td>
+<td>MM-47 kΩ, MC-47 kΩ or MC-100 Ω </td>
+</tr>
+<tr>
+<td>Additional inputs</td>
+<td>2</td>
+</tr>
+<tr>
+<td>TDH</td>
+<td>not specified</td>
+</tr>
+<tr>
+<td>XRM</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>A-D converter</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>USB output</td>
+<td>Yes - two pairs stereo, line-level input jacks</td>
+</tr>
+<tr>
+<td>Rumble filter switch</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>mono/stereo switch</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The main benefit of this preamp is that at a time you can connect easily connect two turntables with it. On the front body design there you find a select switch which will help you in making it very easy in switching between MM and MC cartridges. The Zphono preamplifier also has load adjusting feature which you can use for moving coil cartridges for adjusting load impedance up to 11 adjustments with impedance knob.
+
+ The Zphono preamplifier gives you high performance and low noise because it has best XRM features. The gain option will help you in selecting very suitable gain options for you MM and MC type cartridges up to standard settings(MC: 40 decibels MM:50 decibels). It is best phono preamp under 500.
+
+{{<pros>}}
+
+<li>Accurate frequency response</li>
+<li>USB has an A-D converter</li>
+<li>High quality digital recordings</li>
+<li>Has rumble filter switch</li>
+<li>Easy To hookup</li>
+<li>Very suitable gain options</li>
+<li>Compatible with MM/MC cartridges</li>
+<li>Exceptional audio experience</li>
+<li>Great body design </li>
+<li>RIAA equalization</li>
+<li>Best phono preamp under 500.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Limited gain range</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B001RM7BLG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B001RM7BLG&linkId=4962359f29d5f1da8ef8c36a807cc2f1{{</button>}}
+
+## Conclusion – Best Phono Preamp Under 500 And 200 Dollars
+
+For expensive phono preamps, you can buy Tube max S2 box which has a tremendous dual-mono circuit and replaceable tube option. For small size phono preamp the Puffin Phono DSP, Pro-Ject Audio and XPS-1 Phono Preamp are perfect. You will find only two interchangeable tube type phono preamps which are Pro-Ject Tube Box S VS s2 and Nobsound Little Bear T11 gives brilliant audio quality. If you are finding Preamplifier for Moving Magnet cartridges, then Nobsound Little Bear T11 is marvellous preamp choice for your vinyl records. The quietest phono preamp on our list is Parasound Zphono and is best phono preamp under 500.
