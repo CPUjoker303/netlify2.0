@@ -281,7 +281,7 @@ It works with an S-shaped arm. When you are adjusting the overhang, then The Ext
 </table>
 {{</html-code>}}
 
-{{<singlep pimg="zripool-lp-vinyl-pickup-calibration-review.jpg" pname="Zripool LP Vinyl Pickup Calibration" plink="https://www.amazon.com/gp/product/B07QR3HBTR/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07QR3HBTR&linkId=307d851f5db2c41b94795e85c5797991">}}
+{{<singlep pimg="/uploads/zripool-lp-vinyl-pickup-calibration-review.jpg" pname="Zripool LP Vinyl Pickup Calibration" plink="https://www.amazon.com/gp/product/B07QR3HBTR/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07QR3HBTR&linkId=307d851f5db2c41b94795e85c5797991">}}
 Best Overshoot Protractor
 High Contrast Protractor
 {{</singlep>}}
