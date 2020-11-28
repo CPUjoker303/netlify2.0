@@ -236,7 +236,7 @@ This is a very inexpensive and handy item that will help you out to adjust the a
 </table>
 {{</html-code>}}
 
-{{<singlep pimg="vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png" pname="Headshell Block VTA Azimuth Ruler" plink="https://www.amazon.com/gp/product/B07KK76ZMK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KK76ZMK&linkId=6b87b0ce08242a7382712abea977cc9f">}}
+{{<singlep pimg="/uploads/vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.png" pname="Headshell Block VTA Azimuth Ruler" plink="https://www.amazon.com/gp/product/B07KK76ZMK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KK76ZMK&linkId=6b87b0ce08242a7382712abea977cc9f">}}
 Inexpensive cartridge alignment tool
 PU leather bag INCLUDED
 {{</singlep>}}
