@@ -251,13 +251,13 @@ The point is that in old times there are 30 to 40 FPS some difference between In
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07GJYS2WM/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJYS2WM&linkId=383b3ff8e26bb9f4f6f315189fc7988e" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/evga-geforce-rtx-2080-super-black-gaming.jpg" alt="EVGA GeForce RTX 2080 Super Black Gaming" title="EVGA GeForce RTX 2080 Super Black Gaming"></td>
+<td class="tdimg"><img src="/uploads/evga-geforce-rtx-2080-super-black-gaming-review.jpg" alt="EVGA GeForce RTX 2080 Super Black Gaming" title="EVGA GeForce RTX 2080 Super Black Gaming"></td>
 <td>EVGA GeForce RTX 2080 Super Black Gaming</td>
 <td>EXCELLENT GAMING CARD</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07VJPNG1M/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VJPNG1M&linkId=c67fea6c52f47d082d84ad1edc2aea5d" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/sapphire-radeon-pulse-rx-5700-xt.jpg" alt="Sapphire Radeon Pulse RX 5700 XT " title="Sapphire Radeon Pulse RX 5700 XT "></td>
+<td class="tdimg"><img src="/uploads/sapphire-radeon-pulse-rx-5700-xt-review.jpg" alt="Sapphire Radeon Pulse RX 5700 XT " title="Sapphire Radeon Pulse RX 5700 XT "></td>
 <td>Sapphire Radeon Pulse RX 5700 XT </td>
 <td>GREAT PERFORMANCE</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07WC7683C/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WC7683C&linkId=049e48e449306c982190243217cb2173" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -310,18 +310,13 @@ The point is that in old times there are 30 to 40 FPS some difference between In
 
 ### ASUS GeForce RTX 2080 Ti Dual-fan Over Clocked
 
-{{<singlep pimg="/uploads/asus-rog-strix-geforce-rtx-2080ti.jpeg" pname="ASUS GeForce RTX 2080 Ti Dual-fan Over clocked" plink="https://www.amazon.com/gp/product/B07HY6QWXN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07HY6QWXN&linkId=bbe5cadeb6d30914a72baa8cb91cddaf">}}
-	Painted wing plate fan design 
-	144-hours valadition process 
-	Allumiunium back plate
+![ASUS GeForce RTX 2080 Ti Dual-fan Over Clocked](/uploads/asus-geforce-rtx-2080-ti-dual-fan-over-clocked-review.jpg "ASUS GeForce RTX 2080 Ti Dual-fan Over Clocked")
 
-{{</singlep>}}
+The video card variant comes with two different models of 2080 Dual 2x Fans, one is the Advanced model, and the second is the OC (overclocked) model. The difference between GPU models is that out of the box, the video card OC addition model has a higher clock speed and a 2.7-Slot Design. You get the best raw performance GPU with a driver DVD and a single instruction book in the box.
 
-There are two different models of 2080 Dual, which are the Advanced model and OC model. The only difference is OC addition comes with higher clock speed out of the box. In the box, you get best raw performance GPU with driver DVD and instruction book. 
+This video card model comes with 1650 MHz Boost Clock (OC Mode), and as far as memory goes, it comes with 11 GB of GDDR 6 at 14000MHz on a 352-bit bus, which should be plenty for most games, and GPU coming with the 250W TDP, which is decently similarly with the 250 TDP of the GTX 1080 Ti performance.
 
-It comes with 4352 cores. This graphics card model comes with a boost speed of 1665-MHz. As far as memory goes, it comes with 11 GB of GDDR 6 at 14000 Mhz on a 352-bit bus, which should be plenty for most games, and it is coming with the 215 TDP, which is decently low with than the 250 TDP of the GTX 1080 Ti performance. 
-
-The heat sink of this best GPU is much bigger then the previous generation, and it is just huge by comparison. It has a painted wing plate fan design. This high-end graphics card comes with Air Dispel Technology. This means the fans will be turned off when you are doing casual things. It has an aluminum backplate, which looks good. So, this is Best Video Card For i9 9900k & i9 10980HK & i9 10900k
+The heat sink of this best GPU is much bigger than the previous generation, and it is just huge by comparison. It has a painted wing plate fan design, and this high-end graphics card comes with Air Dispel Technology, which means the fans will be turned off when you are doing casual things. The aluminum backplate protection of 2080 Dual, looks good and the GPU comes with 4352 cores. So, this is Best Video Card For i9 9900k, Intel i9 10980HK, and i9 10900k.
 
 #### Specifications
 
@@ -329,66 +324,74 @@ The heat sink of this best GPU is much bigger then the previous generation, and 
 
 <table>
 <tbody><tr>
-<td>Interface		</td>
-<td>PCI-E</td>
+<td>Graphics Card</td>
+<td>Nvidia RTX 2080 Ti Dual-fan OC</td>
 </tr>
 <tr>
-<td>Coprocessor		</td>
-<td>NVIDIA GeForce RTX 2080 Ti</td>
+<td>GPU CLOCK SPEED</td>
+<td>1350MHz</td>
 </tr>
 <tr>
-<td>Ram Size		</td>
-<td>11 GB</td>
+<td>MEMORY BUS WIDTH</td>
+<td>352bit</td>
 </tr>
 <tr>
-<td>Graphics Ram		</td>
-<td>GDDR6</td>
+<td>EFFECTIVE MEMORY SPEED</td>
+<td>14000MHz</td>
 </tr>
 <tr>
-<td>Hardware Interface		</td>
-<td>PCI Express x8</td>
+<td>Boost Clock</td>
+<td>1650 MHz</td>
 </tr>
 <tr>
-<td>Memory Speed		</td>
-<td>1665 MHz</td>
+<td>Shading Units</td>
+<td>4352 CUDA CORES</td>
 </tr>
 <tr>
-<td>Max PSU		</td>
-<td>600W</td>
+<td>DISPLAYPORT OUTPUTS</td>
+<td>3</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td>Floating-point performance</td>
+<td>14.23 TFLOPS</td>
+</tr>
+<tr>
+<td>TDP</td>
+<td>250W</td>
+</tr>
+<tr>
+<td>MULTI-GPU</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-It comes with a 144-hours validation process, which includes a bunch of games and benchmark, and it is a really good idea since many people are worried about buying RTX graphics card because they have heard a few stories about reliability issues and things like that, so this is a really good idea by ASUS to make people more comfortable buying their products. 
+It comes with a 144-hours validation process, which includes a bunch of games and benchmark test, and it is an excellent idea since many people are worried about buying RTX graphics card because they have heard a few stories about some reliability issues and things like that, so 144-hours validation process idea by NVIDIA to make people more comfortable buying their products.
 
-We see a single eight-pin and single six-pin and single display port, a single HDMI port, and middle there another display port and type C port. In the bottom there which is insane, and we going to see more and more companies do that now, which is display port that is the one you going to be one thing to use, so that is really good. The card size is 268 mm by 114 mm by 25 mm so, it got a decent size there and fit design with 2.7 slot design. 
+GPU has a single eight-pin, single six-pin and single display port, and a single HDMI port. In the middle, there is another display port and type C port for connection. At the bottom, there is a display port, which is insane, and we are going to see more and more companies do that now; the display port is the one you are going to use, so that seems good. The card has a decent size and will fit perfectly.
 
 {{<pros>}}
 
-<li>Great overclocking </li>
-<li>It Runs cool </li>
-<li>It has customized RGB which looks great </li>
-<li>Supporting up to 4 monitors</li>
-<li>Very quiet card</li>
-<li></li>
+<li>In maximum games GPU Capable of 60fps in 4K QUALITY.</li>
+<li>Super-overclockable.</li>
+<li>Keeps cool and quiet.</li>
+<li>Aluminum Backplate Protection.</li>
 {{</pros>}}
 {{<cons>}}
-<li>The price </li>
-<li>The card is top-notch</li>
-{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07HY6QWXN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07HY6QWXN&linkId=bbe5cadeb6d30914a72baa8cb91cddaf{{</button>}}
+<li>Very Expensive Card.</li>
+<li>DLSS games aren't available.</li>
+<li>Ray tracing Not available.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07GJYS2WM/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJYS2WM&linkId=383b3ff8e26bb9f4f6f315189fc7988e{{</button>}}
 
 ### EVGA GeForce RTX 2080 Super Black Gaming
 
-![EVGA GeForce RTX 2080 Super Black Gaming](/uploads/asus-geforce-rtx-2080-ti-dual-fan-over-clocked-review.jpg "EVGA GeForce RTX 2080 Super Black Gaming")
+![EVGA GeForce RTX 2080 Super Black Gaming](/uploads/evga-geforce-rtx-2080-super-black-gaming-review.jpg "EVGA GeForce RTX 2080 Super Black Gaming")
 
-This specific variant of the card is actually really nice because it is not like huge bulky coolers on it. It fits on all form factors. The GPU has a massive cooling system. The graphic card has EVGA  ICx 2 cooling system and should be more improved over there previous ACX system. 
+This specific variant of the card is brilliant because it is not like some vast, bulky coolers. It fits all form factors, and the massive cooling system of this video card is perfect for gaming. It has an EVGA ICx 2 cooling system, which is more improved than their previous ACX system.
+The GPU heatsink is double that of RTX 2080 Ti, and the designed base plate is made for contact with the Video Card components and dissipates more heat. 
 
-The [heatsink](https://en.wikipedia.org/wiki/Heat_sink) is double than that 2080 ti, and the base plate design is now made more contact with the GPU components, dissipate more heat. Being that the heatsink is a lot thicker and all, it's good to know that you will lose a PCI express slot as this card covered the area of two PCI express slots. This second-fastest GPU supports DLSS. The fans are quieter than the 2080 ti and do a good job at moving air over the heatsink. 
+The heatsink is much thicker and all; it’s good to know that you will lose a PCI express slot as this card covered the area of two PCI express slots. This second-fastest GPU supports DLSS. The fans are quieter than the 2080 ti and do an excellent job at moving air over the heatsink.
 
 #### Specifications
 
@@ -396,66 +399,80 @@ The [heatsink](https://en.wikipedia.org/wiki/Heat_sink) is double than that 2080
 
 <table>
 <tbody><tr>
-<td>Graphics Card Interface		</td>
-<td>PCI-Express x16</td>
+<td>Architecture</td>
+<td>Turing</td>
 </tr>
 <tr>
-<td>Graphics Coprocessor	</td>
-<td>NVIDIA GeForce RTX 2080 </td>
+<td>GPU</td>
+<td>RTX 2080 Super</td>
 </tr>
 <tr>
-<td>Graphics Ram Size		</td>
-<td>8 GB</td>
+<td>CUDA Cores</td>
+<td>3,072</td>
 </tr>
 <tr>
-<td>Graphics Ram	</td>
-<td>GDDR6</td>
+<td>Tensor Cores</td>
+<td>384</td>
 </tr>
 <tr>
-<td>Hardware Interface		</td>
-<td>PCI Express x8</td>
+<td>Bandwidth </td>
+<td>496 GBps</td>
 </tr>
 <tr>
-<td>Memory Bus Width		</td>
-<td>256 bits</td>
+<td>Reference Base Clock</td>
+<td>1,650 MHz</td>
 </tr>
 <tr>
-<td>Memory Clock Speed</td>
-<td>15500 MHz</td>
+<td>Reference Boost Clock</td>
+<td>1,815 MHz</td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>8GB GDDR6</td>
+</tr>
+<tr>
+<td>Memory Controller</td>
+<td>352-bit</td>
+</tr>
+<tr>
+<td>TDP</td>
+<td>250W</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-The GPU requires a six-pin, and eight-pin PCL power connector, so make sure you have appropriate connectors or adapter for your power supply as they are included with this GPU. The power supply required is 650 watt or better is also required. The overall length of this GPU is 10.62 inches or 269 mm. Just another thing to know if you are trying to fit this card into smaller cases. 
+The GPU requires a six-pin, and eight-pin PCL power connector, so make sure that you have an appropriate connector or adapter for your power supply as they are included with this GPU. The PSU required is 650 watts, or better is also required, and the overall length of this video card is 10.62 inches or 269 mm. 
 
-At the end of the card, you get three display ports, version 1.4 and one HDMI port version 2.lb, and best of all, you get a USB type c port, which is very useful. Nowadays, most motherboards come with USB type c port, so having an extra for phones, virtual reality devices, and external hard drives is a major bonus. The installation of this most affordable graphics card is pretty straight forward. So, this best value graphics card is Best Video Card For i9 9900k.
+At the end of the card, you get three display ports, version 1.4 and one HDMI port version 2.lb, and best of all, you get a USB type c port, which is very useful. Nowadays, most motherboards come with a USB type c port, so having an extra for phones, virtual reality devices, and external hard drives is a significant bonus. The installation of this most affordable graphics card is pretty straight forward. So, this best value graphics card is Best Video Card For i9 9900k.
 
 {{<pros>}}
 
-<li>USB-C</li>
-<li>Occupies only 2 PCI-e slots</li>
-<li>It runs cool </li>
-<li>USB type c port</li>
-<li>VerySilent Card</li>
+<li>USB-C.</li>
+<li>Occupies only 2 PCI-e slots.</li>
+<li>It runs cool.</li>
+<li>USB type c port.</li>
+<li>Very Silent Card.</li>
+<li>Easy Installation Process.</li>
+<li>Fastest GPU performance.</li>
+<li>Gaming performance 4K.</li>
+<li>Overkill for 1440P.</li>
+<li>Affordable than 2080TI.</li>
 {{</pros>}}
 {{<cons>}}
-<li>Without any light</li>
-<li>No backplate </li>
+<li>Without any light.</li>
+<li>No backplate.</li>
+<li>Best  base plate GPU.</li>
+<li>Minimal overclocking potential.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07VJPNG1M/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VJPNG1M&linkId=c67fea6c52f47d082d84ad1edc2aea5d{{</button>}}
 
 ### Sapphire Radeon Pulse RX 5700 XT
 
-{{<singlep pimg="/uploads/sapphire-radeon-pulse-rx-5700-xt.jpg" pname="Sapphire Radeon Pulse RX 5700 XT" plink="https://www.amazon.com/gp/product/B07WC7683C/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WC7683C&linkId=049e48e449306c982190243217cb2173">}}
-	Meatl back plate 
-	Red glowing Non-RGB Sapphire Logo
-	Providing excellent Performance
+![Sapphire Radeon Pulse RX 5700 XT](/uploads/sapphire-radeon-pulse-rx-5700-xt-review.jpg "Sapphire Radeon Pulse RX 5700 XT")
 
-{{</singlep>}}
+The card looks good, and it has a proper video card design. The metal backplate looks much better, and on the side of the graphics card, you will find a fantastic Red glowing Non-RGB Sapphire logo. The power connection configuration is the same, and it has one eight-pin and one six-pin PCL express power connector. The same goes for video output configuration with one HDMI and three display ports.
 
-The card looks good, and it has a proper video card design. The metal back plate looks much better. On the side, you will find a red glowing Non-RGB Sapphire logo. The power connection configuration is the same one eight-pin and one six-pin PCL express power connector. The same goes for video output configuration with one HDMI and three display ports. 
-
-For its cooler configuration, Sapphire just slapped on to this Rx 5700 XT. Basically, the same cooler setup on there RX safety 700 plus a nice big single chunk of the aluminum heatsink but with the slight upgrade, this one have five heat pipes instead of three on the RX 5700 model, although its TDP is just slightly higher compare to it as you will see later on despite having a more beefed the cooler. The RX 5700 XT version brings in higher temperatures of is GPU and surrounding components before all as the GPU voltage is around point 2 volts higher with the fan speed being mostly around 1400 to 1500 RPM, which was still very quiet. 
+For its cooler configuration, Sapphire just slapped on to this Rx 5700 XT. The same cooler setup on their RX safety 700 plus a nice big single chunk of the aluminum heatsink but with the slight upgrade, GPU has five heat pipes instead of three on the RX 5700 model. However, its TDP is slightly higher than it, as you will see later on, despite having a more beefed cooler. The RX 5700 XT video card brings in higher temperatures of its GPU and surrounding components before all as the GPU voltage is around point 2 volts higher with the fan speed being mostly around 1400 to 1500 RPM, which still very quiet. It is best video card for i9 9900k.
 
 #### Specifications
 
@@ -463,53 +480,60 @@ For its cooler configuration, Sapphire just slapped on to this Rx 5700 XT. Basic
 
 <table>
 <tbody><tr>
-<td>Memory Speed		</td>
-<td>1.4 GHz</td>
+<td>Base clock </td>
+<td>1670 MHz</td>
 </tr>
 <tr>
-<td>Graphics Coprocessor		</td>
+<td>Game clock </td>
+<td>1815 MHz</td>
+</tr>
+<tr>
+<td>Boost clock </td>
+<td>1925 MHz</td>
+</tr>
+<tr>
+<td>Thermal Design Power 	</td>
+<td>241W</td>
+</tr>
+<tr>
+<td>Memory Size	</td>
+<td>8GB</td>
+</tr>
+<tr>
+<td>PCI-Express</td>
+<td>4.0</td>
+</tr>
+<tr>
+<td>Ports</td>
+<td>HDMI,3DisplayPort</td>
+</tr>
+<tr>
+<td>Graphics Coprocessor</td>
 <td>AMD Radeon Navi</td>
-</tr>
-<tr>
-<td>Chipset Brand		</td>
-<td>AMD</td>
-</tr>
-<tr>
-<td>Card Description		</td>
-<td>RADEON RX 5700XT</td>
-</tr>
-<tr>
-<td>Graphics Card Ram Size		</td>
-<td>8 GB</td>
-</tr>
-<tr>
-<td>Dimensions  LxWxH  </td>
-<td>12.5 x 8.5 x 2.75 inches</td>
-</tr>
-<tr>
-<td>Manufacturer		</td>
-<td>SAPPHIRE</td>
-</tr>
-<tr>
-<td>Memory Bus Width		</td>
-<td>256 bits</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-The GPU base clock is 1670 MHz, and its gaming clock is 1815 MHz. The boost clock of the video card is 1925 MHz. The memory type of the card is 8gb GDDR6 256 bit, and it comes with dual c-cooling technology. It has a tough metal backplate. The bios support of RX 5700 XT is dual UEFI. The power consumption of the card is 241 watt, and the recommended power supply is a minimum of 600 watts and better will 650 watts. For better performance, you must have 8 GB or 16 GB system memory on your pc. The video card is providing excellent performance. So the card is much pretty cool, and It will provide you excellent performance .
+GPU base clock is 1670 MHz, and its gaming clock is 1815 MHz, and the boost clock of the video card is 1925 MHz. The card's memory type is 8 GB GDDR6 256 bit, and it comes with dual c-cooling technology. It has a rigid metal backplate. The bios support of RX 5700 XT is dual UEFI. The card's power consumption is 241 watts, and the recommended power supply is a minimum of 600 watts and better will 650 watts. For better performance, you must have 8 GB or 16 GB system memory on your pc. The video card is providing excellent performance. So the card is much pretty cool, and It will provide you exceptional performance.
 
 {{<pros>}}
 
-<li>The video card is really quiet, </li>
-<li>It Supports VR</li>
-<li>Gpu is solid</li>
-<li>Works fine for gaming</li>
+<li>Quiet video card. </li>
+<li>GPU Supports VR.</li>
+<li>Solid Graphics Card.</li>
+<li>Best GPU for Gaming.</li>
+<li>10% faster GTX 2060 Super.</li>
+<li>Significantly cooler-running. </li>
+<li>Dual-X thermal solution.</li>
+<li>Dual BIOS.</li>
+<li>Functional Trixx software.</li>
 {{</pros>}}
 {{<cons>}}
-<li>Needs a driver update</li>
-<li>People get  a black screen for 3-5 seconds due to AMD drivers issues</li>
+<li>Needs a driver update.</li>
+<li>Some AMD drivers issues  and some rare cases of people get a black screen for 3-5 seconds. </li>
+<li>Consumes more power.</li>
+<li>Large cooler.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07WC7683C/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WC7683C&linkId=049e48e449306c982190243217cb2173{{</button>}}
 
 ### EVGA GeForce RTX 2070 Super Gaming
