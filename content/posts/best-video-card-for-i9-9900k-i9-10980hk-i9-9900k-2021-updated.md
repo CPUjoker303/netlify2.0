@@ -245,10 +245,10 @@ The point is that in old times there are 30 to 40 FPS some difference between In
 <th><strong>Price Check</strong></th>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/asus-rog-strix-geforce-rtx-2080ti.jpeg" alt="ASUS GeForce RTX 2080 Ti Dual-fan Over clocked" title="ASUS GeForce RTX 2080 Ti Dual-fan Over clocked"></td>
+<td class="tdimg"><img src="/uploads/asus-geforce-rtx-2080-ti-dual-fan-over-clocked-review.jpg" alt="ASUS GeForce RTX 2080 Ti Dual-fan Over clocked" title="ASUS GeForce RTX 2080 Ti Dual-fan Over clocked"></td>
 <td>ASUS GeForce RTX 2080 Ti Dual-fan Over clocked</td>
 <td>SUPER PERFORMANCE</td>
-<td><a class="table-button" href="https://www.amazon.com/gp/product/B07HY6QWXN/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07HY6QWXN&linkId=bbe5cadeb6d30914a72baa8cb91cddaf" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
+<td><a class="table-button" href="https://www.amazon.com/gp/product/B07GJYS2WM/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07GJYS2WM&linkId=383b3ff8e26bb9f4f6f315189fc7988e" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/evga-geforce-rtx-2080-super-black-gaming.jpg" alt="EVGA GeForce RTX 2080 Super Black Gaming" title="EVGA GeForce RTX 2080 Super Black Gaming"></td>
@@ -384,12 +384,7 @@ We see a single eight-pin and single six-pin and single display port, a single H
 
 ### EVGA GeForce RTX 2080 Super Black Gaming
 
-{{<singlep pimg="/uploads/evga-geforce-rtx-2080-super-black-gaming.jpg" pname="EVGA GeForce RTX 2080 Super Black Gaming" plink="https://www.amazon.com/gp/product/B07VJPNG1M/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07VJPNG1M&linkId=c67fea6c52f47d082d84ad1edc2aea5d">}}
-	Fits on all form factors 
-	Massive cooling system 
-	Base plate design 
-
-{{</singlep>}}
+![EVGA GeForce RTX 2080 Super Black Gaming](/uploads/asus-geforce-rtx-2080-ti-dual-fan-over-clocked-review.jpg "EVGA GeForce RTX 2080 Super Black Gaming")
 
 This specific variant of the card is actually really nice because it is not like huge bulky coolers on it. It fits on all form factors. The GPU has a massive cooling system. The graphic card has EVGA  ICx 2 cooling system and should be more improved over there previous ACX system. 
 
