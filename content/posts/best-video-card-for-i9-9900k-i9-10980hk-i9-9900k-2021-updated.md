@@ -287,7 +287,7 @@ The point is that in old times there are 30 to 40 FPS some difference between In
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B083R25Z94/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083R25Z94&linkId=ed2b0680ff1984923364d05922200091" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/asus-tuf-gaming-geforce-gtx-1650-super.jpg" alt="Asus TUF Gaming GeForce GTX 1650 Super Overclocked" title="Asus TUF Gaming GeForce GTX 1650 Super Overclocked"></td>
+<td class="tdimg"><img src="/uploads/asus-tuf-gaming-geforce-gtx-1650-super-overclocked-review.jpg" alt="Asus TUF Gaming GeForce GTX 1650 Super Overclocked" title="Asus TUF Gaming GeForce GTX 1650 Super Overclocked"></td>
 <td>Asus TUF Gaming GeForce GTX 1650 Super Overclocked</td>
 <td>GOOD</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B081KY5L57/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081KY5L57&linkId=24849f23c36faf0b2951f9b2f320bde8" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -766,18 +766,13 @@ The boost clock of the GPU is 1770 MHz, and it would have been great to have ano
 
 ### Sapphire Radeon Pulse RX 5600 XT
 
-{{<singlep pimg="/uploads/sapphire-radeon-pulse-rx-5600-xt.jpg" pname="Sapphire Radeon Pulse RX 5600 XT" plink="https://www.amazon.com/gp/product/B083R25Z94/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083R25Z94&linkId=ed2b0680ff1984923364d05922200091">}}
-	6 GB of memory
-	Three display ports 
-	Silent mode  
+![Sapphire Radeon Pulse RX 5600 XT](/uploads/sapphire-radeon-pulse-rx-5600-xt.jpg "Sapphire Radeon Pulse RX 5600 XT")
 
-{{</singlep>}}
+The card is decent and pretty damn small and is as big as the pulse version of the Rx 580, and the card is more powerful than a vega 56 while under volts and overclocked while being more assertive.
 
-The card is decent and pretty damn small. The card is as big as the pulse version of the Rx 580, and the card is more powerful than a vega 56 while under volts and overclocked while being more powerful. 
+It has an eight-pin connector, and the card has 6 GB of memory and a boost clock up to 1750 MHz. The card has dual fans, which feature the quick connect option, which is fantastic. If you want to quickly pop out a fan and replace it or broke one of the fan blades, or If it seizes up or wants to clean it, you can quickly do that.
 
-It has an eight-pin connector. The card has 6 GB of memory and boost clock up to 1750 MHz. The card has dual fans, which feature the quick connect option, which is awesome. If you want to quickly pop out a fan and replace it or If you broke one of the fan blades, or If it seizes up, or If you want to clean it, then you can quickly do that. 
-
-The card has three display ports and a single HDMI port and a 1-1 8 pin connector for your power supply. If we talk about power supply so, you must have at least 500 to 550-watt power supply recommended. This one is Best Video Card For i9 9900k & i9 10980HK & i9 10900k
+The card has three display ports and a single HDMI port, and a 1-1 8 pin connector for your power supply. If we talk about the power supply, you must have at least a 500 to 550-watt power supply recommended. This one is Best Video Card For i9 9900k CPU.
 
 #### Specifications
 
@@ -785,97 +780,146 @@ The card has three display ports and a single HDMI port and a 1-1 8 pin connecto
 
 <table>
 <tbody><tr>
-<td>Memory Speed		</td>
-<td>14000 MHz</td>
+<td>Boost clock</td>
+<td>Up to 1750 MHz</td>
 </tr>
 <tr>
-<td>Graphics Coprocessor	 	</td>
-<td>NVIDIA GeForce RTX 2060</td>
+<td>Game clock</td>
+<td>Up to 1615 MHz</td>
 </tr>
 <tr>
-<td>Graphics Card Ram Size		</td>
-<td>6 GB</td>
+<td>Memory clock</td>
+<td>14 Gbps effective</td>
 </tr>
 <tr>
-<td>Product Dimensions		</td>
-<td>7.96 x 1.54 x 4.38 inches</td>
+<td>PCI Express </td>
+<td>4.0</td>
+</tr>
+<tr>
+<td>Cooling Technology</td>
+<td>Dual-X Cooling Technology</td>
+</tr>
+<tr>
+<td>Stream Processors</td>
+<td>2304</td>
+</tr>
+<tr>
+<td>Bit</td>
+<td>192bit</td>
+</tr>
+<tr>
+<td>Others</td>
+<td>7nm FinFET</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-Sapphire actually has dual bios as well. You got a silent mode, so the fans will not spin when the card is idealing or not working too hard. You also got a gaming mod, so if you want to only just go ahead and unlock all that performance, you can just do that with a physical switch. The card is not super long, and it is only two hundred and ten millimeters long. The card can easily fit in any micro ATX and mini ATX case. The backplate is actually quite nice, and it is a full aluminum backplate.
+Sapphire has dual bios as well, and you got a silent mode, so the fans will not spin when the video card is idealing or not working too hard. You also got a gaming mod, so if you want only to go ahead and unlock all that performance, you can do that with a physical switch. The card is not super long, and it is only two hundred and ten millimeters long. The card can easily fit in any micro ATX and mini ATX case. The backplate is quite lovely, and it is a full aluminum backplate for protection.
 
 {{<pros>}}
 
-<li>Card feels good,</li>
-<li>It has excellent weight, and looks sharp. </li>
-<li>Performance-wise the card is comparable to a RTX2060.</li>
-<li>Effective cooling solution</li>
-<li>Best Thermals</li>
-<li>Best OC headroom</li>
+<li>card feels good,</li>
+<li>It has excellent weight, and looks sharp.</li>
+<li>Performance-wise the video card is comparable to a RTX2060.</li>
+<li>Effective cooling solution.</li>
+<li>Best Thermals.</li>
+<li>Best OC headroom.</li>
 <li>Can be undervolted.</li>
+<li>Fast in its price.</li>
+<li>Runs cool.</li>
+<li>Good for high-end 1080p.</li>
+<li>Midrange 1440p.</li>
+<li>Radeon Boost works.</li>
 {{</pros>}}
 {{<cons>}}
 <li>Can't control the RGB of the card.</li>
-<li>Static red all the time</li>
+<li>Static red all the time.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B083R25Z94/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083R25Z94&linkId=ed2b0680ff1984923364d05922200091{{</button>}}
 
 ### Asus TUF Gaming GeForce GTX 1650 Super Overclocked
 
-{{<singlep pimg="/uploads/asus-tuf-gaming-geforce-gtx-1650-super.jpg" pname="Asus TUF Gaming GeForce GTX 1650 Super OC" plink="https://www.amazon.com/gp/product/B081KY5L57/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081KY5L57&linkId=24849f23c36faf0b2951f9b2f320bde8">}}
-	HDMI and display port 
-	The card has two fans
-	lovely metal back plate
+![Asus TUF Gaming GeForce GTX 1650 Super OC](/uploads/asus-tuf-gaming-geforce-gtx-1650-super-overclocked-review.jpg "Asus TUF Gaming GeForce GTX 1650 Super OC")
 
-{{</singlep>}}
+The design is quite good, and the video card is very similar to the non-super version. It has an HDMI and display port connection. The card has a six-pin power connector that was not present in the non-super version. The cooling system of this graphics card is much better.
+The card has 100-watt TDP versus the 75 or the non-super version. Another essential aspect of this graphics card is the encoder. If we talk about core specifications, It has 4 gigabytes of VRAM. Like the original 1650, but with the original 1650 super, it is 4 GB of G 6, the clock at 12 GB per second.
 
-The design is quite good. The card is very similar to the non-super version. It has the HDMI and display port connection. The card has a six-pin power connector that was not present in the non-super version. The cooling system of this graphics card is much better. 
+It is more accurate to call it a cut-down 1660 rather than an upgraded 1650. It is one of the strict models, and it comes in neat black styling. The card has two fans. The fans are axial tech fans, and they have a ring going around the outside, which contains the fan HSS, and this should improve overall airflow onto the heatsink itself. The two relatively large fans should do the job fine.
 
-The card has 100-watt TDP versus the 75 or the non-super version. The another very important aspect of this graphics card is the encoder. If we talk about core specifications, It has 4 gigabytes of VRAM. Just like the original 1650, but with the original 1650 super, it is 4 GB of G 6, which is the clock at 12 GB per second. 
-
-It is more accurate to call it a cut-down 1660 rather than an upgraded 1650. It is one of the strict models, and it comes in neat black styling.  The card has two fans. The fans are axial tech fans, and they have a ring going around the outside, which contains the fan HSS, and this should improve overall airflow onto the heatsink itself. The two relatively large fans should do the job fine. 
+The card has a lovely metal backplate, and the unique feature on the 1650 super Strix that there is a fan header just on the end of the PCB so, if you have another fan in your case, maybe you have run out of headers on your motherboard, you can plug that indirectly to the graphics card itself into the PCB and have the fan speed controlled by the graphics card itself.
 
 #### Specifications
 
- {{<html-code tag="div">}}
+{{<html-code tag="div">}}
 
 <table>
 <tbody><tr>
-<td>Memory Speed		</td>
-<td>14000 MHz</td>
+<td>Boost Clock OC Mode: </td>
+<td>1800 MHz</td>
 </tr>
 <tr>
-<td>Graphics Coprocessor		</td>
-<td>NVIDIA GeForce GTX 1650 SUPER</td>
+<td>Memory</td>
+<td>4GB 128-Bit Ultra-fast GDDR6</td>
 </tr>
 <tr>
-<td>Chipset Brand		</td>
-<td>NVIDIA</td>
+<td>Core Clock </td>
+<td>1530 MHz</td>
 </tr>
 <tr>
-<td>Graphics Card Ram Size		</td>
-<td>4 GB</td>
+<td>Gaming Mode </td>
+<td>(Default): 1770 MHz</td>
 </tr>
 <tr>
-<td>Item Dimensions 	</td>
-<td>LxWxH	8.1 x 4.9 x 1.8 inches</td>
+<td>CUDA Cores</td>
+<td>1280 CUDA Cores</td>
+</tr>
+<tr>
+<td>PCI Express </td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>Heat Pipes</td>
+<td>DirectCU III copper heatpipes</td>
+</tr>
+<tr>
+<td>Ports</td>
+<td>1 x DVI-D 1 x HDMI 2.0b 1 x DisplayPort 1.4</td>
+</tr>
+<tr>
+<td>Effective Memory Clock 	</td>
+<td>12002 MHz</td>
+</tr>
+<tr>
+<td>DVI </td>
+<td>1 x DVI-D</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-The card has a lovely metal backplate. The unique feature on the 1650 super Strix that there is a fan header just on the end of the PCB so, if you have another fan in your case, maybe you have run out of the headers on your motherboard, you can plug that indirectly to the graphics card itself into the PCB and have the fan speed controlled by the graphics card itself.
+{{<singlep pimg="/uploads/asus-tuf-gaming-geforce-gtx-1650-super-overclocked-review.jpg" pname="Asus TUF Gaming GeForce GTX 1650 Super OC" plink="https://www.amazon.com/gp/product/B081KY5L57/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081KY5L57&linkId=24849f23c36faf0b2951f9b2f320bde8">}}
+	HDMI and display port 
+	The card has two fans
+	Lovely Metal Back Plate
+
+{{</singlep>}}
 
 {{<pros>}}
 
-<li>Multi monitor support</li>
-<li>Solid image quality</li>
-<li>Easy installation</li>
-<li>Good 1080 graphics 2d and 3d</li>
+<li>Multi monitor support.</li>
+<li>Solid image quality.</li>
+<li>Easy installation.</li>
+<li>Good 1080 graphics 2d and 3d.</li>
+<li>Excellent value.</li>
+<li>Great OC potential.</li>
+<li>Vastly cooler.</li>
+<li>Very quiet.</li>
+<li>Power-efficient Video Card than the Radeon GPUs.</li>
 {{</pros>}}
 {{<cons>}}
-<li>Too big for asus X570 board technically</li>
+<li>No factory overclock.</li>
+<li>No hardware support for DLSS.</li>
+<li>Too big for asus X570 board technically.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B081KY5L57/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B081KY5L57&linkId=24849f23c36faf0b2951f9b2f320bde8{{</button>}}
 
 ### Asus Geforce GTX 1660 Super Overclocked 6gb Dual Fan
