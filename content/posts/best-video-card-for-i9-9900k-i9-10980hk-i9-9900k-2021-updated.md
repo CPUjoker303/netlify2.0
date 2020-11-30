@@ -269,13 +269,13 @@ The point is that in old times there are 30 to 40 FPS some difference between In
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07V6SJLSG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V6SJLSG&linkId=972f4532c43c7597ee5b313ddd91477c" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/evga-geforce-rtx-2060-ko.jpg" alt="Evga Geforce Rtx 2060 KO" title="Evga Geforce Rtx 2060 KO"></td>
+<td class="tdimg"><img src="/uploads/evga-geforce-rtx-2060-ko-review.jpg" alt="Evga Geforce Rtx 2060 KO" title="Evga Geforce Rtx 2060 KO"></td>
 <td>Evga Geforce Rtx 2060 KO</td>
 <td>GREAT CARD</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B083GH7LXW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083GH7LXW&linkId=ac4cfd56ae25b1590539ec6d5fb511f4" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/zotac-gaming-geforce-rtx-2070-super-min.jpg" alt="ZOTAC Gaming GeForce RTX 2070 Super Mini" title="ZOTAC Gaming GeForce RTX 2070 Super Mini"></td>
+<td class="tdimg"><img src="/uploads/zotac-gaming-geforce-rtx-2070-super-mini-review.jpg" alt="ZOTAC Gaming GeForce RTX 2070 Super Mini" title="ZOTAC Gaming GeForce RTX 2070 Super Mini"></td>
 <td>ZOTAC Gaming GeForce RTX 2070 Super Mini</td>
 <td>PERFECT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07XSPWMP9/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07XSPWMP9&linkId=2d7aa82617f6120e48cf072138b1b747" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -617,16 +617,13 @@ The 2070 video card has three display ports and one USB type c port, and an HDMI
 
 ### Evga Geforce Rtx 2060 KO
 
-{{<singlep pimg="/uploads/evga-geforce-rtx-2060-ko.jpg" pname="Evga Geforce Rtx 2060 KO" plink="https://www.amazon.com/gp/product/B083GH7LXW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083GH7LXW&linkId=ac4cfd56ae25b1590539ec6d5fb511f4">}}
-	Insane peraformance
-	Flashy back plate
-	Card doesn’t have any SAG 
+![Evga Geforce Rtx 2060 KO](/uploads/evga-geforce-rtx-2060-ko-review.jpg "Evga Geforce Rtx 2060 KO")
 
-{{</singlep>}}
+The KO is just EVGA branding for the RTX 2060, and Basically, RTX 2060 KO is at a low price. The video card is supposed to come at approximately three hundred dollars plus tax and comes in the best affordable GPU.
 
-The KO is just EVGA branding for the RTX 2060. Basically RTX 2060 KO is at a very low price, and the video card is supposed to come at approximately three hundred dollars plus tax. The RTX 2060 KO best affordable GPU is providing insane performance. 
+The RTX 2060 is a peculiar gaming graphics card, and it boasts the same GPU as it is the bigger brother of 2070, but with only 1920 active Cuda cores versus 23:04, and while the 2070 sports 8 gigabytes of VRAM, which is a fair amount of card of its caliber. The RTX 2060 comes equipped with only six as memory bandwidth has reduced RTX intense cores stripped down, and TDP follows suit. It is the best cheapest GPU ever and is the first affordable RTX graphics card. 
 
-The RTX 2060 is a peculiar gaming graphics card, and it boasts the same GPU as it is the bigger brother of 2070, but with only 1920 active Cuda cores versus 23:04 and while the 2070 sports 8 gigabytes of VRAM, which is a fair amount of card of its caliber. The RTX 2060 comes equipped with only six as memory bandwidth has reduced RTX intense cores stripped down, and TDP follows suit. It is best cheapest GPU ever. The card is the first affordable RTX graphics card. It is a beautiful graphics card. A few odd quirks firstly, the eight-pin (8-pin) supplemental power connector resides on the right face of the card, which means it will face toward the front your case, and since the PCB doesn’t reach this for over, the plug is actually an extension purely a cosmetic play from Nvidia start to keep the front face clean. 
+It is a beautiful graphics card. A few odd quirks firstly, the eight-pin (8-pin) supplemental power connector resides on the right face of the card, which means it will face toward the front of your case. Since the PCB doesn’t reach this for over, the plug is an extension purely a cosmetic play from Nvidia start to keep the front face clean.
 
 #### Specifications
 
@@ -634,55 +631,77 @@ The RTX 2060 is a peculiar gaming graphics card, and it boasts the same GPU as i
 
 <table>
 <tbody><tr>
-<td>Memory Speed		</td>
-<td>14000 MHz</td>
+<td>Boost Clock: </td>
+<td>1680 MHz</td>
 </tr>
 <tr>
-<td>Graphics Coprocessor	 	</td>
-<td>NVIDIA GeForce RTX 2060</td>
-</tr>
-<tr>
-<td>Graphics Card Ram Size		</td>
+<td>Graphics Ram Size	</td>
 <td>6 GB</td>
 </tr>
 <tr>
-<td>Product Dimensions		</td>
-<td>7.96 x 1.54 x 4.38 inches</td>
+<td>CUDA CORES</td>
+<td>1920</td>
+</tr>
+<tr>
+<td>MEMORY BIT WIDTH</td>
+<td>192 BIT</td>
+</tr>
+<tr>
+<td>MEMORY CLOCK</td>
+<td>14000 MHZ</td>
+</tr>
+<tr>
+<td>MEMORY BANDWIDTH</td>
+<td>336 GB/S</td>
+</tr>
+<tr>
+<td>DirectX, OpenGL</td>
+<td>DirectX-12 API, OpenGL 4/5</td>
+</tr>
+<tr>
+<td>GRAPHICS CARD GSYNC</td>
+<td>YES-Compatible</td>
+</tr>
+<tr>
+<td>ALL-METAL BACKPLATE</td>
+<td>PRE-INSTALLED</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-The GEFORCE RTX text has a mirror finish but glows neon green. The backplate is beautiful highlighted in a silver that seems to stand out more so than reference cards of year past. The backplate is flashy and looks great. The rare i/o plate is matte black as well the following suit with its bigger brothers. The card doesn’t have any SAG at all, which is good. 
+The GEFORCE RTX text has a mirror finish but glows neon green. The backplate is beautiful, highlighted in silver that seems to stand out more so than the past year's reference cards. The backplate is flashy and looks excellent. The rare i/o plate is matte black as well the following suit with its bigger brothers. 
 
-The card real boost clock is 1618 MHz, and it is a 6144 MB GDDR6 graphics card. The memory bandwidth of this card is 336 GB/s, and the memory bit width is 192 bit. Overall the card is great and providing good performance.
+The card doesn’t have any SAG at all, which is good.
+The card's real boost clock is 1618 MHz, and it is a 6144 MB GDDR6 graphics card. The memory bandwidth of this card is 336 GB/s, and the memory bit width is 192 bit. Overall the card is excellent and providing good performance.
 
 {{<pros>}}
 
-<li>Decent price for performance</li>
-<li>Card is very Short</li>
-<li>Super performance</li>
-<li>Super quiet</li>
-<li>In csgo over 350 fps</li>
+<li>Decent price for performance.</li>
+<li>Card is very Short.</li>
+<li>Super performance.</li>
+<li>Super quiet.</li>
+<li>In CSGO over 350 fps.</li>
+<li>Similar performance.</li>
+<li>2060 KO has higher speed than the RX 5600 XT.</li>
+<li>Ray tracing capabilities.</li>
+<li>DLSS capabilities.</li>
+<li>Low pricing compare RTX 2060.</li>
 {{</pros>}}
 {{<cons>}}
+<li>Fan noise is louder. </li>
 <li>Takes up both full pci-e lanes and the small pci lane.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B083GH7LXW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B083GH7LXW&linkId=ac4cfd56ae25b1590539ec6d5fb511f4{{</button>}}
 
 ### ZOTAC Gaming GeForce RTX 2070 Super Mini
 
-{{<singlep pimg="/uploads/zotac-gaming-geforce-rtx-2070-super-min.jpg" pname="ZOTAC Gaming GeForce RTX 2070 Super Mini" plink="https://www.amazon.com/gp/product/B07XSPWMP9/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07XSPWMP9&linkId=2d7aa82617f6120e48cf072138b1b747">}}
-	Video Card has two fans
-	White LED Logo
-	Dual slot card 
+![ZOTAC Gaming GeForce RTX 2070 Super Mini](/uploads/zotac-gaming-geforce-rtx-2070-super-mini-review.jpg "ZOTAC Gaming GeForce RTX 2070 Super Mini")
 
-{{</singlep>}}
+Next is RTX 2070 MINI review, and the graphics card has a black and grey color scheme so, the neutral colors should help it blend in with most builds. There are two fans on the front, one is  90mm, and the other is  100mm for heat dissipation. The GPU has a brilliant metal backplate with the pre-installed ZOTAC logo.
 
-If we take a look at RTX 2070 MINI graphics card, it has a black and grey color scheme so, the neutral colors should help it blend in with most builds. There are two fans on the front, a 90mm, and 100mm. The graphics card has a nice metal backplate with the ZOTAC logo. 
+It has a single eight-pin connector on top, and there is some white LED lighting on the top ZOTAC logo and the front above and below the center's fans. For the I/o, we got Three display port outputs, which are single HDMI 2.0 and single DVI-D outputs.
 
-It has a single eight-pin connector on top. There is some white LED lighting on the top ZOTAC logo and on the front above and below the fans in the center. For the I/o, we got Three display port outputs, which are single HDMI 2.0 and single DVI-D outputs. 
-
-The card is on the small size, and it comes in at 21cm long and 13cm tall, and 4cm thick. The card is the dual-slot card. We got 8gb of GDDR6 memory, which seems of one of the main selling points over 2060 with 6gb below it. 
+The card is on the small size, and it comes in at 21cm long and 13cm tall, and 4cm thick. The card is a dual-slot card. We got 8 GB of GDDR6 memory, which seems one of the main selling points over 2060 with 6 GB below it.
 
 #### Specifications
 
@@ -690,43 +709,59 @@ The card is on the small size, and it comes in at 21cm long and 13cm tall, and 4
 
 <table>
 <tbody><tr>
-<td>Memory Speed		</td>
-<td>1770 MHz</td>
-</tr>
-<tr>
-<td>Graphics Coprocessor		</td>
-<td>NVIDIA GeForce RTX 2070</td>
-</tr>
-<tr>
-<td>Graphics Card Ram Size		</td>
-<td>11.3 x 8.7 x 3.4 inches</td>
-</tr>
-<tr>
-<td>Dimensions		</td>
-<td>8 GB</td>
-</tr>
-<tr>
-<td>Manufacturer		</td>
+<td>Brand</td>
 <td>ZOTAC</td>
 </tr>
 <tr>
-<td>Chipset Brand	</td>
-<td>Nvidia</td>
+<td>Interface 	</td>
+<td>PCI Express 3.0</td>
+</tr>
+<tr>
+<td>Boost Clock 	</td>
+<td>1770 MHz</td>
+</tr>
+<tr>
+<td>CUDA Cores 	</td>
+<td>2560</td>
+</tr>
+<tr>
+<td>Effective Memory Clock 	</td>
+<td>14 Gbps</td>
+</tr>
+<tr>
+<td>Memory Size	</td>
+<td>8GB</td>
+</tr>
+<tr>
+<td>Memory Interface 	</td>
+<td>256-Bit</td>
+</tr>
+<tr>
+<td>Memory Type</td>
+<td>GDDR6</td>
+</tr>
+<tr>
+<td>DirectX & OpenGL</td>
+<td>DirectX 12, OpenGL 4.5</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-The boost clock of the card is 1770 MHz. It would have been great to have another 2070 to compare the smaller one against. The card is especially capable of 1080p and 1440p resolutions even in higher settings level, 4k is ok in some, but you will probably need lower settings at 2070 for a better experience there. Out of the box, it is providing better cooling and higher boost clocks. It is definitely a nice option if the size is a limitation on your PC. It is a better video card for your i9 9900k & i9 10980HK & i9 10900k
+The boost clock of the GPU is 1770 MHz, and it would have been great to have another 2070 to compare the smaller one against. The card is especially capable of 1080p and 1440p resolutions even in higher settings level, 4k is ok in some, but you will probably need lower settings at 2070 for a better experience there. Out of the box, it is providing better cooling and higher boost clocks. It is a nice option if the size is a limitation on your PC, and it is a better video card for your i9 9900k & i9 10980HK & i9 10900k.
 
 {{<pros>}}
 
-<li>Great Performance</li>
-<li>Dual fans can keep it cool under heavy load</li>
-<li>Cheap price for a decent GPU</li>
+<li>Superb performance for price.</li>
+<li>Stable overclocking.</li>
+<li>Runs quiet.</li>
+<li>RT and Tensor cores.</li>
+<li>Dual fans can keep it cool under heavy load.</li>
+<li>Cheap price for a decent GPU.</li>
 {{</pros>}}
 {{<cons>}}
-<li>Card looked like been in a smokers PC,</li>
+<li>Card looked like been in a smokers PC.</li>
+<li>It didn't come sooner.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07XSPWMP9/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07XSPWMP9&linkId=2d7aa82617f6120e48cf072138b1b747{{</button>}}
 
 ### Sapphire Radeon Pulse RX 5600 XT
