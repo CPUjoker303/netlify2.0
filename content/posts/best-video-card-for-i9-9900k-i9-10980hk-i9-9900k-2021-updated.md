@@ -263,7 +263,7 @@ The point is that in old times there are 30 to 40 FPS some difference between In
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07WC7683C/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07WC7683C&linkId=049e48e449306c982190243217cb2173" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/evga-geforce-rtx-2070-super-gaming.png" alt="EVGA GeForce RTX 2070 Super Gaming" title="EVGA GeForce RTX 2070 Super Gaming"></td>
+<td class="tdimg"><img src="/uploads/evga-geforce-rtx-2070-super-gaming-review.jpg" alt="EVGA GeForce RTX 2070 Super Gaming" title="EVGA GeForce RTX 2070 Super Gaming"></td>
 <td>EVGA GeForce RTX 2070 Super Gaming</td>
 <td>PERFECT CARD</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07V6SJLSG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V6SJLSG&linkId=972f4532c43c7597ee5b313ddd91477c" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -538,16 +538,11 @@ GPU base clock is 1670 MHz, and its gaming clock is 1815 MHz, and the boost cloc
 
 ### EVGA GeForce RTX 2070 Super Gaming
 
-{{<singlep pimg="/uploads/evga-geforce-rtx-2070-super-gaming.png" pname="EVGA GeForce RTX 2070 Super Gaming" plink="https://www.amazon.com/gp/product/B07V6SJLSG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V6SJLSG&linkId=972f4532c43c7597ee5b313ddd91477c">}}
-	Dual HDB fans
-	High performance cooling
-	3 display ports 
+![EVGA GeForce RTX 2070 Super Gaming](/uploads/evga-geforce-rtx-2070-super-gaming-review.jpg "EVGA GeForce RTX 2070 Super Gaming")
 
-{{</singlep>}}
+The GeForce RTX 2070 Super is a brilliant performance GPU, The RTX 2070 video card comes with dual HDB fans, and the fans are offering high-performance cooling without creating noise. The hydrodynamic bearing fans optimize airflow and increase cooling.
 
-The GeForce RTX 2070 Super Gaming is a good performance card, and out of the box, you will get excellent quality performance. The RTX 2070 video card comes with dual HDB fans. The fans are offering high-performance cooling without creating noise. The hydrodynamic bearing fans optimize airflow and increase cooling. 
-
-The  Real Boost Clock of RTX 2070 is 1770 MHz. If we talk about the memory details of this most affordable video card, then we come to know that its memory type is 8192 MB GDDR6. The Cuda cores of this graphics card are 2560. It has a PCle 3.0 bus type, which is insane. The card memory bandwidth is 448 GB/s. the card is providing great performance with a 14000 Mhz memory clock. 
+The Real Boost Clock of RTX 2070 is 1770 MHz, and if we talk about the memory details of this most affordable video card, then we come to know that its memory type is 8192 MB GDDR6. This graphics card's Cuda cores are 2560 and have a PCle 3.0 bus type, which is insane. The card memory bandwidth is 448 GB/s, and GPU provides excellent performance with a 14000 Mhz memory clock.
 
 #### Specifications
 
@@ -555,37 +550,69 @@ The  Real Boost Clock of RTX 2070 is 1770 MHz. If we talk about the memory detai
 
 <table>
 <tbody><tr>
-<td>Memory Speed		</td>
+<td>Graphics Card	</td>
+<td>Nvidia RTX 2070 Super</td>
+</tr>
+<tr>
+<td>Boost Clock Speed</td>
+<td>1770 MHz</td>
+</tr>
+<tr>
+<td>Max Monitors Supported</td>
+<td>4</td>
+</tr>
+<tr>
+<td>Memory Clock Speed </td>
 <td>14000 MHz</td>
 </tr>
 <tr>
-<td>Graphics Coprocessor		</td>
-<td>NVIDIA </td>
+<td>CUDA CORES</td>
+<td>2560</td>
 </tr>
 <tr>
-<td>Graphics Card Ram Size		</td>
-<td>8 GB</td>
+<td>Memory Size	</td>
+<td>8 GB GDDR6</td>
 </tr>
 <tr>
-<td>Product Dimensions		</td>
-<td>10.62 x 1.54 x 4.38 inches</td>
+<td>Bus Width </td>
+<td>256-bit</td>
+</tr>
+<tr>
+<td>Interface Type</td>
+<td>PCI Express 3.0 x16</td>
+</tr>
+<tr>
+<td>TDP</td>
+<td>215 Watt</td>
+</tr>
+<tr>
+<td>Bandwidth </td>
+<td>448 GBps</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-The video card is very solid. The GPU can easily work with 4k monitors. The required PSU for this graphics card is of 650 watts.  It has 10.8 billion transistors. The video card has six plus eight power pin connectors. In the front of the EVGA 2070, Super Black Edition 08G-P4-3071-KR does not have any LEDs, so the logo will never light up. 
+The 2070 Super video card is excellent and can efficiently work with 4k monitors. The required PSU for this graphics card is 650 watts, and it has 10.8 billion transistors installed. The GPU has six & eight power pin connectors, and the front of the EVGA 2070 has no LEDs, so the logo will never light up.
 
-The card has three display ports and one USB type c port and an HDMI port. The card handles VR fantastically. You only need a 970 for VR minimum and can run everything at High-Max settings. The card is SLI supporting graphics card. Overall the EVGA GeForce RTX 2070 Super Gaming is providing excellent performance and is the best video card for i9 9900k. The GPU is good in considering the performance in production and gaming. So, it is Best Video Card For i9 9900k & i9 10980HK & i9 10900k
+The 2070 video card has three display ports and one USB type c port, and an HDMI port. The card handles VR particularly, and you only need a 970 for VR minimum and can run everything at High-Max settings. The card is SLI supporting graphics card, and overall the EVGA GeForce RTX 2070 video card provides excellent performance and is the best GPU for i9 CPUs. The GPU is good in considering the performance in production and gaming. So, it is Best Video Card For i9 9900k & i9 10980HK & i9 10900k.
 
 {{<pros>}}
 
-<li>Work on a 4K monitor. </li>
-<li>3 DP ports and an HDMI </li>
-<li>Can bring 144+ FPS to complement in144hz monitor</li>
+<li>Fit into any mid-tower build.</li>
+<li>Exceptional performance. </li>
+<li>Cheaper than founder addition.</li>
+<li>Supports 1440p. </li>
+<li>4K gaming GPU.</li>
+<li>Full-size backplate.</li>
+<li>Large heatsinks.</li>
+<li>3 DP ports and an HDMI.</li>
+<li>Can bring 144+ FPS to complement in144hz monitor.</li>
 {{</pros>}}
 {{<cons>}}
-<li>Not come with any LED lighting.</li>
+<li>Noisy Fans under high loads.</li>
+<li>Lacks RGB lights.</li>
+<li>Display Not like high end GPUs.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07V6SJLSG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V6SJLSG&linkId=972f4532c43c7597ee5b313ddd91477c{{</button>}}
 
 ### Evga Geforce Rtx 2060 KO
