@@ -1,7 +1,7 @@
 ---
-title: " 11 Best Adhesive For Ceramic Soap Dish [November 2020]"
+title: " 11 Best Adhesive For Ceramic Soap Dish [December 2020]"
 draft: false
-SEOTitle: " 11 Best Adhesive For Ceramic Soap Dish [November 2020] "
+SEOTitle: " 11 Best Adhesive For Ceramic Soap Dish [December 2020]"
 excrept: "Top 11 New Best Adhesive for Ceramic Soap Dish - We've listed best
   waterproof adhesive for fixing or installing your favorite ceramic soap dish
   again. "
