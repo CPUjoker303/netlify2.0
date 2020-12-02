@@ -9,7 +9,7 @@ metaKeywords: Discord Not Opening Windows 10
 url: discord-not-opening-windows-10/
 date: 2020-09-22T17:32:02.753Z
 updateDate: 2020-09-22T17:32:02.849Z
-image: /uploads/discord.jpg
+image: /uploads/fix-discord-not-opening-windows-10-solution.jpg
 tags:
   - Information
 categories:
