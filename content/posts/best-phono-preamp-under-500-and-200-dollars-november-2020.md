@@ -1,7 +1,7 @@
 ---
-title: Best Phono Preamp Under 500 And 200 Dollars [November 2020]
+title: Best Phono Preamp Under 500 And 200 Dollars [December 2020]
 draft: false
-SEOTitle: Best Phono Preamp Under 500 And 200 Dollars [November 2020]
+SEOTitle: Best Phono Preamp Under 500 And 200 Dollars [December 2020]
 excrept: CHECKOUT Best Phono Preamps Under $500 AND $200. These are Stereophile,
   stereo, budget stereo, Tube Replaceable American made preamp for turntable.
 metaKeywords: Best Phono Preamp Under 500
