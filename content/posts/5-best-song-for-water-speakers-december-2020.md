@@ -21,4 +21,10 @@ pickName: I-kool 4 Changing Colors Water Dancing Speaker
 pickImg: /uploads/i-kool-water-speaker-review.jpg
 pickLink: https://www.amazon.com/gp/product/B01IG6N5OC/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IG6N5OC&linkId=9c8943d30239e7f9bcb6ef6e63b9e014
 ---
-cc
+Many people and small kids love to watching dancing water and buy water speakers who show a fantastic water show when you play music. But some music cannot make water dance, and you cannot enjoy the water show properly. For proper dancing water music plays a significant role, and more bass-boosted music makes more water dance. So we have listed below some best songs for water speakers. 
+
+1. Wrecking ball trap nation song
+2. Tsunami SONG
+3. Joyenergizer song
+4. Canvai – Breeze song
+5. I Can't Stop
