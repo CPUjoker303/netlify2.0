@@ -60,3 +60,5 @@ The Canvai– Breeze is also lovely music for dancing water speakers, and you ca
 Next is the I Can't Stop song, and Flux Pavilion are the artist of this song. This song's beat will make a perfect water dance that you will enjoy very well and is the best song for water speaker.
 
 ### Best dancing water speakers
+
+We have listed below some best dancing water speakers for you, and if you don’t have water speakers, you can easily buy them from amazon.
