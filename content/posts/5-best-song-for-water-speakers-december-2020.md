@@ -28,3 +28,29 @@ Many people and small kids love to watching dancing water and buy water speakers
 3. Joyenergizer song
 4. Canvai – Breeze song
 5. I Can't Stop
+
+
+
+#### [Wrecking ball trap nation song](https://youtu.be/GHC8Hwq9Eag)
+
+The wrecking ball trap nation is perfect for your water speakers, and when the wrecking ball trap plays, the water show brilliant dance. 
+
+#### [Tsunami water speaker song](https://youtu.be/0EWbonj7f18)
+
+Tsunami song album and DVBBS, Borgeous is the artists of this song. The song dances the water properly because it has a great beat. At the song start, your dancing water speaker will show basic water dance, and when the song's beat increases, the water fountain will show brilliant hip hop dance; overall, the Tsunami song album is the best song for water speakers.
+
+#### [Joyenergizer water speaker song](https://youtu.be/h4znGUn85y0)
+
+ Next is Joyenergizer (Original Mix) song, and with the start of the song, the water speaker fountain will show an elegant water dance, and the Joyenergizer song is delightful. The leading artist of Joyenergizer is Sander van Doorn, and its writer's names are Mauro Picotto, Massimo Chiticonti, Riccardo Ferri, and Joyenergizer is the best song for water speakers.
+
+#### [Canvai – Breeze water speaker song](https://youtu.be/eJ1tl915qZo)
+
+The Canvai– Breeze is also lovely music for dancing water speakers, and you can listen to and enjoy this Canvai – Breeze song very well.
+
+#### [Wrecking ball trap nation song](https://youtu.be/GHC8Hwq9Eag)
+
+The wrecking ball trap nation is perfect for your water speakers, and when the wrecking ball trap plays, the water show brilliant dance. 
+
+#### [I Can't Stop song](https://youtu.be/3Q9rewnLFYw)
+
+Next is the I Can't Stop song, and Flux Pavilion are the artist of this song. This song's beat will make a perfect water dance that you will enjoy very well and is the best song for water speaker.
