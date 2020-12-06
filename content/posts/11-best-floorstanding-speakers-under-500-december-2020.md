@@ -12,8 +12,6 @@ updateDate: 2020-12-06T14:03:28.412Z
 image: /uploads/best-floor-standing-speakers-under-500.jpg
 tags:
   - ACCESSORIES
-  - Information
-  - Reviews
 categories:
   - ACCESSORIES
 schemaMarkup: cc
@@ -699,7 +697,7 @@ Rockville TM80C is featuring remote controlling option, and when you're relaxing
 <li>Bit Bluetooth quality.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0742WXFJ6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0742WXFJ6&linkId=05abea72b33946686f08328d443f3496{{</button>}}
 
-### Sony SS-CS3 3-Way 4-Driver Floor-Standing Speaker 
+### Sony SS-CS3 3-Way 4-Driver Floor-Standing Speaker
 
 ![Sony SS-CS3 3-Way 4-Driver Floor-Standing Speaker](/uploads/sony-ss-cs3-speaker-review.jpg "Sony SS-CS3 3-Way 4-Driver Floor-Standing Speaker")
 
@@ -850,7 +848,7 @@ Elegant piano black finish.
 
 ### Dayton Audio T652-AIR Dual 6-1/2" 2-Way Tower Speaker Pair
 
-![Dayton Audio T652-AIR Dual 6-1/2" 2-Way Tower Speaker Pair ](/uploads/dayton-audio-t652-air-review.jpg "Dayton Audio T652-AIR Dual 6-1/2\" 2-Way Tower Speaker Pair ")
+![Dayton Audio T652-AIR Dual 6-1/2" 2-Way Tower Speaker Pair ](/uploads/dayton-audio-t652-air-review.jpg "Dayton Audio T652-AIR Dual 6-1/2\\" 2-Way Tower Speaker Pair ")
 
 Next is Dayton Audio T652-AIR review and this Floorstanding speaker size 6.5 Inches with the Dual woofers size of 6-1/2" for brilliant performance. For accurate reproduction the Audio T652-AIR comes with brilliant 1" AMT tweeter which is installed inside the elegant Slim-profile tower cabinet. You will get fully extended and deep bass which is up to 45 Hz. By the design comparison, the Dayton Audio T652-AIR has the same body design as B652-AIR speaker. It is 30 inches tall and is the best floor standing speakers under 500.
 
