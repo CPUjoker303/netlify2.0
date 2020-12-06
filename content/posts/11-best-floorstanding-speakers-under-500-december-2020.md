@@ -985,3 +985,75 @@ floor standing speakers body
 {{<cons>}}
 <li>Less louder than expected.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0058GZWI6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0058GZWI6&linkId=9fdc1f27dd41e7840b7b1aaec1d44f4f{{</button>}}
+
+### Klipsch R-24F Reference Floorstanding Speakers
+
+![Klipsch R-24F Reference Floorstanding Speakers](/uploads/klipsch-r-24f-review-floorstanding-speakers.jpg "Klipsch R-24F Reference Floorstanding Speakers")
+
+Next is Klipsch R-24F review and like other listed floor standing speakers this one has greater Impedance of 8 Ohm. The speaker comes in a black design and has a full length of 35 inches of the front, and the total weight is 64.1lbs. The exciting thing is Basic gold design speakers which are installed inside the speaker cabinet and gives you a brilliant bass response of 18,000Hz and has the excellent speaker sensitivity of 98 dB. The Klipsch R-24F are best floor standing speakers under 500.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Color </td>
+<td>Black </td>
+</tr>
+<tr>
+<td>sensitivity</td>
+<td>98 dB</td>
+</tr>
+<tr>
+<td>Bass Response</td>
+<td>18,000Hz</td>
+</tr>
+<tr>
+<td>length</td>
+<td>35 inches</td>
+</tr>
+<tr>
+<td>weight</td>
+<td>64.1lbs</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>floor standing speakers</td>
+</tr>
+<tr>
+<td>blue tooth</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Dimensions	</td>
+<td>10.00 x 6.50 x 34.80 inches</td>
+</tr>
+<tr>
+<td>Impedance	</td>
+<td>8 Ohm</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/klipsch-r-24f-review-floorstanding-speakers.jpg" pname="Klipsch R-24F Reference Floorstanding Speakers" plink="https://www.amazon.com/gp/product/B01AK9JFOW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AK9JFOW&linkId=81eaf1a43154cf21f5e5cd93e57c0a13">}}
+Black design.\
+Golden speaker cones.
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>They are excellent speakers.</li>
+<li>orange cones though.</li>
+<li>speakers come with grills.</li>
+<li>1.3 mm Speaker Wire.</li>
+<li>Impedance of 8 Ohm.</li>
+<li>Includes bass reflect design.</li>
+<li>Polymer veneer finish.</li>
+<li>Full range sound.</li>
+<li>Removable grill.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Loss handling at low base.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01AK9JFOW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01AK9JFOW&linkId=81eaf1a43154cf21f5e5cd93e57c0a13{{</button>}}
