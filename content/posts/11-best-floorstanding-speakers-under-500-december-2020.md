@@ -541,3 +541,62 @@ It also includes and enables the remote controlling feature for controlling the 
 <li>Not wall mounted.</li>
 <li>Not Get Loud abundant.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00UE9NMM0/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00UE9NMM0&linkId=f465775161bb3155b37294616bfde0c5{{</button>}}
+
+### Polk Audio T50 150 Watt Home Theater Floor Standing Tower Speaker
+
+![Polk Audio T50 150 Watt Home Theater Floor Standing Tower Speaker](/uploads/polk-audio-t50.jpg "Polk Audio T50 150 Watt Home Theater Floor Standing Tower Speaker")
+
+Next is Polk Audio T50 review and as compared to other variants of Polk audio T30, this variant is much better and providing brilliant dynamic sound clarity up to 24000 Hz. The T50 Polk Audio speakers listed in Surround Sound type speakers and T50 body design seems elegant. It comes with one pre-installed tweeter and two 6.5 bass radiators in the bottom of a tweeter. 
+
+The height of this Polk Audio T50 tower speaker is 36.5, which seems excellent. For speaker wire connectivity you will find one pair of gold plated on the backside of speakers bottom. 150 Watts is the power out of Polk Audio T50 and its Nominal Impedance of 6 ohms and frequency 60 - 24,000 Hz response. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Model Name	</td>
+<td>T50</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>Polk Audio</td>
+</tr>
+<tr>
+<td>Sound clarity	</td>
+<td>24000 Hz</td>
+</tr>
+<tr>
+<td>Speaker Type	</td>
+<td>Surround Sound</td>
+</tr>
+<tr>
+<td>Speakers Maximum Output Power	</td>
+<td>150 Watts</td>
+</tr>
+<tr>
+<td>Speaker Use</td>
+<td>Floor Standing</td>
+</tr>
+<tr>
+<td>Recommended Watts/Channel</td>
+<td>20-100 Watts/Channel</td>
+</tr>
+<tr>
+<td>Peak Power Handling</td>
+<td>150 Watts</td>
+</tr>
+<tr>
+<td>Nominal Impedance</td>
+<td>6 ohms</td>
+</tr>
+<tr>
+<td>Overall Frequency</td>
+<td>38Hz-24kHz</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+For small rooms and small bedroom, these speakers are great, and you will get no connectivity issue will arise, and you can straightly use banana clips, speaker wire and it there is no required any kind of receiver at all. The Polk Audio T50 gives puncher/deeper bass and are best floor standing speakers under 500 dollars.
