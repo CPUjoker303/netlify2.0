@@ -1,6 +1,6 @@
 ---
 title: 5 Best Song For Water Speakers [December 2020]
-draft: true
+draft: false
 SEOTitle: 5 Best Song For Water Speakers [December 2020]
 excrept: Check 5 Best Songs for a proper water dance. These songs listed for RGB
   water speakers contain a water fountain, which shows water dance when songs
