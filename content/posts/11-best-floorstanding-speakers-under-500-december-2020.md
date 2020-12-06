@@ -678,3 +678,102 @@ So, this Rockville TM80C speaker has finished the old theatre's concept, and thi
 {{</html-code>}}
 
 Rockville TM80C is featuring remote controlling option, and when you're relaxing on the bed, you can easily control this home theatre using a remote controller. It also has a digital display, and you can also increase and decrease brightness levels of TM80C digital display. It is the best floor standing speakers under 500.
+
+{{<pros>}}
+
+<li>Dual 8" Subs.</li>
+<li>Built in FM radio.</li>
+<li>crystal clear reception.</li>
+<li>deep bass response.</li>
+<li>polypropylene cones.</li>
+<li>Great bullet dust cap.</li>
+<li>Best silk dome tweeters.</li>
+<li>Front digital display screen with the brightness controller.</li>
+<li>Four full range drivers.</li>
+<li>Adjustable bass, treble.</li>
+<li>150 foot range capability.</li>
+<li>The radio is decent.</li>
+<li>The Cherry finish looks.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Bit Bluetooth quality.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0742WXFJ6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0742WXFJ6&linkId=05abea72b33946686f08328d443f3496{{</button>}}
+
+### Sony SS-CS3 3-Way 4-Driver Floor-Standing Speaker 
+
+![Sony SS-CS3 3-Way 4-Driver Floor-Standing Speaker](/uploads/sony-ss-cs3-speaker-review.jpg "Sony SS-CS3 3-Way 4-Driver Floor-Standing Speaker")
+
+Next is the Sony SS-CS3 review, and this black pair of Sony speakers seems durable. By taking a look at SS-CS3 body design which looks the same as other floor standing speakers but the only difference, you will get two pairs of black SS-CS3. If we talk about Sony speaker Impedance which is same like Polk Audio T50 Impedance of Ohm. 
+
+After buying this Sony speaker the included polyester main tweeter which is of one inch and ¾ inch super tweeter. The peak power of the Sony SS-CS3 is 145W and has brilliant cabinet quality. Overall the Sony SS-CS3 are best floor standing speakers under 500 dollars.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Model Name	</td>
+<td>SSCS3</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>Sony</td>
+</tr>
+<tr>
+<td>Speaker Type</td>
+<td>Floorstanding</td>
+</tr>
+<tr>
+<td>Model</td>
+<td>Sony SSCS3 Stereo</td>
+</tr>
+<tr>
+<td>Polyester tweeter</td>
+<td>One Inch</td>
+</tr>
+<tr>
+<td>super tweeter</td>
+<td>¾"</td>
+</tr>
+<tr>
+<td>Peak power</td>
+<td>145W</td>
+</tr>
+<tr>
+<td>speaker impedance </td>
+<td>6 Ohm</td>
+</tr>
+<tr>
+<td>Sound reproduction</td>
+<td>up to 50 kHz</td>
+</tr>
+<tr>
+<td>Foot Pads</td>
+<td>4 x</td>
+</tr>
+<tr>
+<td>Height</td>
+<td>36 1/4" tall</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/sony-ss-cs3-speaker-review.jpg" pname="Sony SS-CS3 3-Way 4-Driver Floor-Standing Speaker" plink="https://www.amazon.com/gp/product/B07147TBD5/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07147TBD5&linkId=29d612ac60b5cfe1ee7eca4c71053c39">}}
+brilliant cabinet quality
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>Great compact design.</li>
+<li>Designed for excellent performance.</li>
+<li>Ease of use.</li>
+<li>3 Way Speakers.</li>
+<li>amazing audio experience.</li>
+<li>Super Tweeter system.</li>
+<li>Speaker delivers ultra responsive.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Loud amplifier.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07147TBD5/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07147TBD5&linkId=29d612ac60b5cfe1ee7eca4c71053c39{{</button>}}
