@@ -193,6 +193,127 @@ The AR1004WH speaker body designed very slim and pure white painted body will pe
 
 #### Specifications
 
+{{<html-code tag="div">}}
 
+<table>
+<tbody><tr>
+<td>SOUND QUALITY</td>
+<td>CRISP AND LOUD</td>
+</tr>
+<tr>
+<td>Input</td>
+<td>AUX 3.5mm Input</td>
+</tr>
+<tr>
+<td>Charging</td>
+<td>USB output</td>
+</tr>
+<tr>
+<td>Bluetooth Connectivity</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Wireless Connectivity</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>LED</td>
+<td>Mooding Lights</td>
+</tr>
+<tr>
+<td>Speakers Count</td>
+<td>Four Dynamic speakers</td>
+</tr>
+<tr>
+<td>Measures</td>
+<td>6, X6, X38[</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
 
-On the top of speakers body design, you will find some great controlling options which will help you in switching led light ON/OFF and volume control options. For charging the speaker has a USB- Charging option on the top and on the side of the charging port, you will also find AUX input. In the price, this white colour in-wall speakers will give brilliant quality sound and are best floor standing speakers under 500.
+On the top of speakers body design, you will find some great controlling options which will help you in switching led light ON/OFF and volume control options. For charging the speaker has a USB- Charging option on the top and on the side of the charging port, you will also find AUX input. In the price, this white colour in-wall speakers will give brilliant quality sound and are best floorstanding speakers under 500.
+
+{{<pros>}}
+
+<li>Blue led mood lights.</li>
+<li>Great crisp sound.</li>
+<li>Brilliant Bluetooth connectivity.</li>
+<li>dimly Lit chill session.</li>
+<li>Elegant tower speaker Innovative design.</li>
+<li>Four active speakers.</li>
+<li>Turn ON/OFF light control.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Light weight speakers.</li>
+<li>No treble.</li>
+<li>No bass modification.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B076XHQY33/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B076XHQY33&linkId=1725cb488509a8a25f9bc7c12069465d{{</button>}}
+
+### Polk Audio Monitor 70 Series II Tower Speaker (Black, Single) for Multichannel Home Theater
+
+![Polk Audio Monitor 70 Series II Tower Speaker](/uploads/polk-audio-monitor-70-series-ii-tower-speaker-review.jpg "Polk Audio Monitor 70 Series II Tower Speaker")
+
+Third is Polk Audio speaker review, and this series 2-speaker has great tower height which is up to 43-1/4 tower height. If we talk about depth and width, then its depth is 15-3/4 and width is 8-7/8 which make perfect balance on the carpet and keeps the speakers steady.  
+
+On the height of Polk Audio speaker there, you will see one dome-type balanced tweeter Installed and down to it you will find two balanced 5.25 woofers which will give you rock-solid bass. This tower speaker body design seems elegant and also it has black Oak vinyl pretty look. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Mounting Type</td>
+<td>Floor Standing</td>
+</tr>
+<tr>
+<td>Manufacturer	</td>
+<td>Polk Audio</td>
+</tr>
+<tr>
+<td>Hight</td>
+<td>42 H</td>
+</tr>
+<tr>
+<td>Width</td>
+<td>15.6 W</td>
+</tr>
+<tr>
+<td>Depth</td>
+<td>7.7 D</td>
+</tr>
+<tr>
+<td>Dome tweeter</td>
+<td>1 DYNAMIC BALANCED</td>
+</tr>
+<tr>
+<td>Dynamic Balance woofers</td>
+<td>6.5</td>
+</tr>
+<tr>
+<td>Sound </td>
+<td>Crisp</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+This Polk CS2 speaker power consumption is 125 watts only, and for Powerful deep bass and quality sound, this Polk speaker is the best floor standing speakers under 500 dollars price. There are also some other variants of Polk Audio speakers like Polk monitor 40, 60, CS1 in a different tag.
+
+{{<pros>}}
+
+<li>Excellent Crisp sound.</li>
+<li>Great sound clarity.</li>
+<li>No reverberating.</li>
+<li>IMMENSE POWER.</li>
+<li>AFFORDABLE PRICE.</li>
+<li>HIGH FREQUENCY RESPONSE.</li>
+<li>Magnetically Shielded.</li>
+<li>Secure and Easy Connection.</li>
+<li>Slim Body design.</li>
+<li>Great Dynamic Balance Technology.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Not Instant Push of Amplifiers.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00631YX62/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00631YX62&linkId=6348c7c14dd23a4e228264567901c4cd{{</button>}}
