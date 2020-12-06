@@ -847,3 +847,7 @@ Elegant piano black finish.
 {{<cons>}}
 <li>More loudness.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B002JCSG12/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002JCSG12&linkId=75f9d789476da8a31d187666dc370103{{</button>}}
+
+### Dayton Audio T652-AIR Dual 6-1/2" 2-Way Tower Speaker Pair
+
+![Dayton Audio T652-AIR Dual 6-1/2" 2-Way Tower Speaker Pair ](/uploads/dayton-audio-t652-air-review.jpg "Dayton Audio T652-AIR Dual 6-1/2\" 2-Way Tower Speaker Pair ")
