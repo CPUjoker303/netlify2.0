@@ -116,3 +116,83 @@ Here you find best floor standing speakers under 500 and 200 dollar range and ar
 </tbody>
 </table>
 {{</html-code>}}
+
+### Sony SSCS3 3-Way Floor-Standing Speaker (Single) – Black
+
+![Sony SSCS3 3-Way Floor-Standing Speaker](/uploads/sony-sscs3-review-a-floorstanding-speaker.jpg "Sony SSCS3 3-Way Floor-Standing Speaker")
+
+First Sony SSCS3 review and this affordable tower speaker has excellent bass reflex. The SSCS3 speaker comes with brilliant soften dome-type three-inch and one-inch tweeter and also has dome-type 5-1/4 inch woofers for fantastic frequency range. The 145 watts is the total wattage output of the Sony SSCS3 speakers and 6-ohm radiate appearance. The speaker's range frequency is between 45 kHz to a maximum of 50 kHz, which is excellent for brilliant high-resolution audio. 
+
+If you take the closer look to these speakers, then you will elegant speaker design and are perfectly shaped as floor standing speakers. On the speaker's front body design, you will feel soft black mesh material. If you want to attach speaker wires then on the back you will see two red and black holes, and you have to compress them for plugging the cables. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Bass-reflex</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Frequency Response</td>
+<td>45～50,000 Hz</td>
+</tr>
+<tr>
+<td>Sensitivity</td>
+<td>88dB (2.83V, 1m)</td>
+</tr>
+<tr>
+<td>Maximum input </td>
+<td>145W</td>
+</tr>
+<tr>
+<td>Impedance</td>
+<td>6Ω</td>
+</tr>
+<tr>
+<td>Woofer </td>
+<td>TWO 130mmMRC cone type</td>
+</tr>
+<tr>
+<td>Super Tweeter</td>
+<td>ONE 19mm soft dome type</td>
+</tr>
+<tr>
+<td>Tweeter</td>
+<td>ONE 25mm soft</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The total height these Sony tower speakers are over 36 inches with 9 inches width and has quarter ten depth. The four footpads on the bottom will protect these floor standing speakers and make a perfect balance for perfectly standing speakers on the floor. Overall the speakers are designed tremendous and will provide you with incredible bass and real audio experience. The Sony SSCS3 are best floor standing speakers under 500 dollars.
+
+{{<pros>}}
+
+<li>Great cabnet material. </li>
+<li>High-density MDF.</li>
+<li>Coated in black vinyl.</li>
+<li>Natural sounding vocals.</li>
+<li>Mica Reinforced Cellular cone.</li>
+<li>Gives High-Resolution Audio.</li>
+<li>Foamed-Mica Reinforced Woofer.</li>
+<li>Gives  clear audio path.</li>
+{{</pros>}}
+{{<cons>}}
+<li>On the backside of speakers there are too much space between the terminals.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00O8YLL8E/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00O8YLL8E&linkId=556940151879f8f46ef86506a6eb1189{{</button>}}
+
+### AR1004WH Wall Powered Bluetooth Tower Speaker with Lights
+
+![AR1004WH Wall Powered Bluetooth Tower Speaker](/uploads/ar1004wh-wall-powered-review-a-bluetooth-tower-speaker-with-lights.jpg "AR1004WH Wall Powered Bluetooth Tower Speaker")
+
+Second ART+SOUND speaker review and this Bluetooth powered speaker featuring excellent quality sound and the lighting mood come with blue lighting effect, which seems very elegant. This speaker comes with great Bluetooth technology which makes it a wireless speaker and without any trouble, you can connect your phone with speakers and can enjoy your lovely sound. 
+
+The AR1004WH speaker body designed very slim and pure white painted body will perfectly match with your setup. Using this Bluetooth Tower Speaker, you can stream online music form different kinds of music platforms like Spotify, youtube and iTunes, Pandora etc. It doesn’t have only Bluetooth connectivity, also have wired input connection option and you can also make a wired connection with 3.5mm aux input. 
+
+#### Specifications
+
+
+
+On the top of speakers body design, you will find some great controlling options which will help you in switching led light ON/OFF and volume control options. For charging the speaker has a USB- Charging option on the top and on the side of the charging port, you will also find AUX input. In the price, this white colour in-wall speakers will give brilliant quality sound and are best floor standing speakers under 500.
