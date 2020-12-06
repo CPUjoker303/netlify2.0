@@ -920,3 +920,68 @@ Brilliant Performance
 ### Yamaha NS-F150 Floor Standing Speaker – Black
 
 ![Yamaha NS-F150 Floor Standing Speaker – Black](/uploads/yamaha-ns-f150-review.jpg "Yamaha NS-F150 Floor Standing Speaker – Black")
+
+Next are the Yamaha NS-F150 review and the floor standing speakers body looks Piano black mirror design which seems gorgeous. It has the large NS-F150 cabinet which has an excellent black finish and comes with the 6-1/2" cone woofer and single soft dome tweeters which are of 1 inch. The Floor Standing speaker will give you outstanding HD audio quality and Luxurious Presence. As compared to other listed floor speakers, the Yamaha NS-F150 has less frequency range which is up to 37 Hz - 30 kHz and takes the input power of 180 W. 
+
+Its total width is 7-7/8 inch and has is 40-1/2 inch heightened with the depth of 14-1/4 inches. It comes with the great sensitivity of 88 dB/2.83 V/1 m with the 6 Ω Impedance and is the best floor standing speakers under 500.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Impedance</td>
+<td>6 ohms</td>
+</tr>
+<tr>
+<td>Sensitivity</td>
+<td>88 dB/2.83 V/1 m</td>
+</tr>
+<tr>
+<td>Maximum Input Power</td>
+<td>180 W</td>
+</tr>
+<tr>
+<td>Nominal Input Power </td>
+<td>50 W</td>
+</tr>
+<tr>
+<td>Frequency Response</td>
+<td>37 Hz - 30 kHz</td>
+</tr>
+<tr>
+<td>Tweeter</td>
+<td>1" soft dome</td>
+</tr>
+<tr>
+<td>Woofers</td>
+<td>Dual 6-1/2" cone</td>
+</tr>
+<tr>
+<td>Type</td>
+<td>2-way bass-reflex floorstanding speaker</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/yamaha-ns-f150-review.jpg" pname="Yamaha NS-F150 Floor Standing Speaker" plink="https://www.amazon.com/gp/product/B0058GZWI6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0058GZWI6&linkId=9fdc1f27dd41e7840b7b1aaec1d44f4f">}}
+floor standing speakers body
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>Yamaha NS-F150  has Gold plated terminals of speaker.</li>
+<li>Great sound experience.</li>
+<li>black mirror finish cabinet.</li>
+<li>Removable speaker grill.</li>
+<li>Brilliant Woofers and Tweeter.</li>
+<li>Sound decent.</li>
+<li>suited for classical music.</li>
+<li>Great Yamaha tower speakers.</li>
+<li>easy speakers connect.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Less louder than expected.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0058GZWI6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0058GZWI6&linkId=9fdc1f27dd41e7840b7b1aaec1d44f4f{{</button>}}
