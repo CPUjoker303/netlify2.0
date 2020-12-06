@@ -317,3 +317,140 @@ This Polk CS2 speaker power consumption is 125 watts only, and for Powerful deep
 {{<cons>}}
 <li>Not Instant Push of Amplifiers.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00631YX62/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00631YX62&linkId=6348c7c14dd23a4e228264567901c4cd{{</button>}}
+
+### Pioneer SP-FS52 Home Audio Andrew Jones Designed Floor Standing Loudspeaker
+
+![Pioneer SP-FS52 Home Audio Andrew Jones Designed Floor Standing Loudspeaker](/uploads/pioneer-sp-fs52-review-home-audio-floor-standing-loudspeaker.jpg "Pioneer SP-FS52 Home Audio Andrew Jones Designed Floor Standing Loudspeaker")
+
+Next is Pioneer SP-FS52 review, and this elegant floor-standing speaker gives you outstanding performance because it comes with one tweeter, which is of the soft dome and has very high efficiency. 
+
+The cabinet quality of Pioneer SP-FS52 is excellent, and it has curve RF molded cabinet design. If we talk about the power input of SP-FS52, then this speaker takes 130W power input. The woody body design is a perfect match for your wooden tables and it you can put this floor standing speaker anywhere on a flat surface you want because the body design can perfectly balance it. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Cabnet </td>
+<td>RF Molded Curved Cabinet</td>
+</tr>
+<tr>
+<td>Woofers </td>
+<td>Three 5-1/4 structure surfaced</td>
+</tr>
+<tr>
+<td>Tweeter</td>
+<td>One Soft Dome type</td>
+</tr>
+<tr>
+<td>Crossover</td>
+<td>8 Element Sophisticated</td>
+</tr>
+<tr>
+<td>Power Handling</td>
+<td>130 Watt</td>
+</tr>
+<tr>
+<td>Manufacturer	</td>
+<td>Pioneer</td>
+</tr>
+<tr>
+<td>Model Name	</td>
+<td>FBA_SP-FS52</td>
+</tr>
+<tr>
+<td>Speaker Type	</td>
+<td>Floorstanding</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+For speaker plug, this Pioneer SP-FS52 is same as other floor-standing speaker and you will able to find speaker plug on the bottom backside of this tower speaker. In price, this one is the best floor standing speakers under 500 dollars.
+
+{{<pros>}}
+
+<li>High Efficiency tweeter.</li>
+<li>8-Element elegant Crossover.</li>
+<li>Quality RF Molded Curved Cabinets.</li>
+<li>Best striking sound.</li>
+<li>Best Taller Speaker.</li>
+<li>oversized magnets.</li>
+{{</pros>}}
+{{<cons>}}
+<li>No bottom stand.</li>
+<li>Sub is needed.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B008NCD2S4/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B008NCD2S4&linkId=eab12bb3b829c865048a14c78327bc26{{</button>}}
+
+### Onkyo SKF-4800 2-Way Bass Reflex Floor-standing Speakers
+
+![Onkyo SKF-4800 2-Way Bass Reflex Floor-standing Speakers](/uploads/onkyo-skf-4800-review-a-2-way-bass-reflex-floor-standing-speaker.jpg "Onkyo SKF-4800 2-Way Bass Reflex Floor-standing Speakers")
+
+Next is Onkyo SKF-4800a review and it is featuring 16 cm twin cone woofers for brilliant, striking sound.   It has 2.5 soften domed Tweeter for quality sound. The SKF-4800a listed in Stylish Floor-Standing speakers because it comes with elegant black beautiful design. Many speakers produce vibration on the loud sound so the Onkyo company is featuring in this SKF-4800a speaker, the MDF stabilizer for preventing vibration and this speaker also includes woofer equalizer which will help in providing fast and excellent sound accuracy. 
+
+The speaker frequency response is between 35 kHz to 55 Hz range with the 6 ohms of Impedance. The connectivity of this speaker with home theatre little different and you have to pair with a sub for home theatre, and overall the speakers' connectivity is easy.  
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Woofer </td>
+<td>x 2 16 cm Cone</td>
+</tr>
+<tr>
+<td>Tweeter</td>
+<td>2.5 cm Soft-Dome</td>
+</tr>
+<tr>
+<td>Maximum Input Power </td>
+<td>130 W</td>
+</tr>
+<tr>
+<td>Compatible</td>
+<td>Banana Plug</td>
+</tr>
+<tr>
+<td>Woofer Equalizer</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>MDF Stabilizer</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Frequency Response:</td>
+<td>55 Hz–35 kHz</td>
+</tr>
+<tr>
+<td>Impedance</td>
+<td>6 ohms</td>
+</tr>
+<tr>
+<td>Weight</td>
+<td>13.0 kg</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+The ONKYO manufactured these floor standing speakers are brilliant in performance and are best floor standing speakers under 500 dollars.
+
+{{<pros>}}
+
+<li>It Enables Woofer Equalizer.</li>
+<li>It Enables  MDF Stabilizer.</li>
+<li>Stylish FloorStanding Design.</li>
+<li>6 ohms Impedance.</li>
+<li>55 Hz 35 kHz frequency response.</li>
+<li>The vinyls sound fantastic.</li>
+<li>Excellent quality materials.</li>
+<li>Massive speaker size.</li>
+<li>Thunderous bass.</li>
+<li>Best for both indoor and outdoor theater setup.</li>
+{{</pros>}}
+{{<cons>}}
+<li>You need to pair these speaker with sub when you use these speakers for home theater.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00EKJQLSC/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00EKJQLSC&linkId=df707ccf4ce4b42372351d6769f2ed08{{</button>}}
