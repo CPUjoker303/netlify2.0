@@ -851,3 +851,68 @@ Elegant piano black finish.
 ### Dayton Audio T652-AIR Dual 6-1/2" 2-Way Tower Speaker Pair
 
 ![Dayton Audio T652-AIR Dual 6-1/2" 2-Way Tower Speaker Pair ](/uploads/dayton-audio-t652-air-review.jpg "Dayton Audio T652-AIR Dual 6-1/2\" 2-Way Tower Speaker Pair ")
+
+Next is Dayton Audio T652-AIR review and this Floorstanding speaker size 6.5 Inches with the Dual woofers size of 6-1/2" for brilliant performance. For accurate reproduction the Audio T652-AIR comes with brilliant 1" AMT tweeter which is installed inside the elegant Slim-profile tower cabinet. You will get fully extended and deep bass which is up to 45 Hz. By the design comparison, the Dayton Audio T652-AIR has the same body design as B652-AIR speaker. It is 30 inches tall and is the best floor standing speakers under 500.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Height </td>
+<td>30 inches</td>
+</tr>
+<tr>
+<td>Tweeter</td>
+<td>AMT Tweeter</td>
+</tr>
+<tr>
+<td>Frequency </td>
+<td>45 Hz</td>
+</tr>
+<tr>
+<td>Model Name	</td>
+<td>T652-AIR</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>Dayton Audio</td>
+</tr>
+<tr>
+<td>Speaker Type	</td>
+<td>Floorstanding</td>
+</tr>
+<tr>
+<td>Speaker Size	</td>
+<td>6.5 Inches</td>
+</tr>
+<tr>
+<td>woofers</td>
+<td>Dual 6-1/2"</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/dayton-audio-t652-air-review.jpg" pname="Dayton Audio T652-AIR Dual 6-1/2" 2-Way Tower Speaker Pair " plink="https://www.amazon.com/gp/product/B07777GY34/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07777GY34&linkId=47ddd7d88167efd9b91c17143a158d26">}}
+Dual woofers
+Brilliant Performance
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>Ported bass-reflex design.</li>
+<li>deep bass to 45 Hz.</li>
+<li>Slim profile tower cabinet.</li>
+<li>AMT tweeter for smooth.</li>
+<li>superb bass response.</li>
+<li>Polypropylene cone drivers.</li>
+<li>2 way compact tower.</li>
+<li>Spring loaded tower.</li>
+<li>Black matt vinyl finish.</li>
+<li>Removable speaker grill.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Not very loud.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07777GY34/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07777GY34&linkId=47ddd7d88167efd9b91c17143a158d26{{</button>}}
