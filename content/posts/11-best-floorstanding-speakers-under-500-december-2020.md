@@ -72,7 +72,7 @@ Here you find best floor standing speakers under 500 and 200 dollar range and ar
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B00UE9NMM0/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00UE9NMM0&linkId=f465775161bb3155b37294616bfde0c5" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/samsung-tw-j5500-review-a-2.2-channel-350-watt-wired-audio-sound-tower.jpg" alt="Polk Audio T50 Floor Standing Speaker" title="Polk Audio T50 Floor Standing Speaker"></td>
+<td class="tdimg"><img src="/uploads/polk-audio-t50.jpg" alt="Polk Audio T50 Floor Standing Speaker" title="Polk Audio T50 Floor Standing Speaker"></td>
 <td>Polk Audio T50 Floor Standing Speaker</td>
 <td>Best floorstanding Speaker under 200</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B013LIN5W2/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013LIN5W2&linkId=67ffa3442d5bdc6014727cfc65f91190" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -600,3 +600,81 @@ The height of this Polk Audio T50 tower speaker is 36.5, which seems excellent. 
 {{</html-code>}}
 
 For small rooms and small bedroom, these speakers are great, and you will get no connectivity issue will arise, and you can straightly use banana clips, speaker wire and it there is no required any kind of receiver at all. The Polk Audio T50 gives puncher/deeper bass and are best floor standing speakers under 500 dollars.
+
+{{<pros>}}
+
+<li>Has puncher/deeper bass.</li>
+<li>high-frequency response.</li>
+<li>Can sound muffled.</li>
+<li>Doesn’t require a receiver.</li>
+<li>Great high quality speakers.</li>
+<li>Easy to set up.</li>
+<li>Minimalistic look.</li>
+<li>Easy to place due to size.</li>
+<li>Great customer service.</li>
+<li>Good build quality.</li>
+<li>Sound decent for movies.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Heights are flat.</li>
+<li>Bass response is ok.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B013LIN5W2/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013LIN5W2&linkId=67ffa3442d5bdc6014727cfc65f91190{{</button>}}
+
+### Rockville TM80C Home Theater Tower Speakers 8" Sub/Bluetooth/USB
+
+![Rockville TM80C Home Theater Tower Speakers](/uploads/rockville-tm80c-review.jpg "Rockville TM80C Home Theater Tower Speakers")
+
+Next is the Rockville TM80C review, and this floor standing speaker is brilliant. The subwoofer comes in brown colour design and has 31.9” Height, 12.99 Depth and 6.3 Width. We know very well about the oldest home theatre which includes on it a lot of devices like equalizer, subwoofer, speakers, wires etc. 
+
+So, this Rockville TM80C speaker has finished the old theatre's concept, and this modern theatre includes all in one build-in. The TM80C fully made of thicker quality MDF and best Cabinet material. On the top front body design there connecting inputs like RCA, USB and SD, 3.5MM aux input, Mic inputs, RCA outputs etc. 
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Frequency </td>
+<td>Response40-20K Hz</td>
+</tr>
+<tr>
+<td>Model Name	</td>
+<td>TM80C</td>
+</tr>
+<tr>
+<td>Separation</td>
+<td>>45dB</td>
+</tr>
+<tr>
+<td>Power supply</td>
+<td>AC 120V 60Hz</td>
+</tr>
+<tr>
+<td>Max. SPL</td>
+<td>106dB</td>
+</tr>
+<tr>
+<td>RMS Power:</td>
+<td>200 Watts</td>
+</tr>
+<tr>
+<td>Speaker Type	</td>
+<td>Floor Standing, Subwoofer</td>
+</tr>
+<tr>
+<td>Remote control</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Bluetooth </td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Digital display</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+Rockville TM80C is featuring remote controlling option, and when you're relaxing on the bed, you can easily control this home theatre using a remote controller. It also has a digital display, and you can also increase and decrease brightness levels of TM80C digital display. It is the best floor standing speakers under 500.
