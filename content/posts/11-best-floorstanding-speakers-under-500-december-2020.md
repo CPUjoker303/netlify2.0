@@ -777,3 +777,73 @@ brilliant cabinet quality
 {{<cons>}}
 <li>Loud amplifier.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07147TBD5/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07147TBD5&linkId=29d612ac60b5cfe1ee7eca4c71053c39{{</button>}}
+
+### Yamaha NS-F210BL 2-Way Bass-Reflex Floorstanding Speaker
+
+![Yamaha NS-F210BL 2-Way Bass-Reflex Floorstanding Speaker](/uploads/yamaha-ns-f210bl-review.jpg "Yamaha NS-F210BL 2-Way Bass-Reflex Floorstanding Speaker")
+
+Next Yamaha NS-F210BL review and this Floorstanding powerful speaker look great in design and takes output power of 120 Watts. If you have flat panel TV in your home, then you can buy Yamaha NS-F210BL speakers which look elegant with flat-panel TVs due to sleek and slim design. For proper balance, the speakers have pre-installed steel bass anchor, which will continue making proper balance.
+
+For brilliant sound quality, the Yamaha NS-F210BL floor standing speakers comes with 7/8" inch dome tweeter and has pre-installed Detachable front grille which can easily remove whenever you want. If you love black colour electronic devices, then Yamaha NS-F210BL is perfect for you because it has a brilliant piano black finish.  Overall this is the best floor standing speakers under 500.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Type</td>
+<td>2-way bass-reflex floorstanding speaker</td>
+</tr>
+<tr>
+<td>Woofers</td>
+<td>Dual 3-1/8" cone</td>
+</tr>
+<tr>
+<td>Tweeter</td>
+<td>7/8" balance dome</td>
+</tr>
+<tr>
+<td>Frequency Response </td>
+<td>50 Hz - 45 kHz</td>
+</tr>
+<tr>
+<td>Nominal Input Power</td>
+<td>40W</td>
+</tr>
+<tr>
+<td>Sensitivity</td>
+<td>86 dB</td>
+</tr>
+<tr>
+<td>Impedance</td>
+<td>6 ohms</td>
+</tr>
+<tr>
+<td>Brand	</td>
+<td>Yamaha Audio</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<singlep pimg="/uploads/yamaha-ns-f210bl-review.jpg" pname="Yamaha NS-F210BL 2-Way Bass-Reflex Floorstanding Speaker" plink="https://www.amazon.com/gp/product/B002JCSG12/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002JCSG12&linkId=75f9d789476da8a31d187666dc370103">}}
+Elegant piano black finish.
+{{</singlep>}}
+
+{{<pros>}}
+
+<li>Elegant piano black finish.</li>
+<li>Great speaker.</li>
+<li>Large room speakers.</li>
+<li>Good quality sound.</li>
+<li>Attractive looking.</li>
+<li>Excellent Slim body design.</li>
+<li>matches flat panel TVs.</li>
+<li>extra-fast response.</li>
+<li>light aluminum cones.</li>
+<li>balanced-dome design.</li>
+{{</pros>}}
+{{<cons>}}
+<li>More loudness.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B002JCSG12/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002JCSG12&linkId=75f9d789476da8a31d187666dc370103{{</button>}}
