@@ -916,3 +916,7 @@ Brilliant Performance
 {{<cons>}}
 <li>Not very loud.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07777GY34/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07777GY34&linkId=47ddd7d88167efd9b91c17143a158d26{{</button>}}
+
+### Yamaha NS-F150 Floor Standing Speaker – Black
+
+![Yamaha NS-F150 Floor Standing Speaker – Black](/uploads/yamaha-ns-f150-review.jpg "Yamaha NS-F150 Floor Standing Speaker – Black")
