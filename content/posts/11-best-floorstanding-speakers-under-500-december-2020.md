@@ -11,7 +11,8 @@ date: 2020-12-06T14:03:28.244Z
 updateDate: 2020-12-06T14:03:28.412Z
 image: /uploads/best-floor-standing-speakers-under-500.jpg
 tags:
-  - ACCESSORIES
+  - Reviews
+  - Information
 categories:
   - ACCESSORIES
 schemaMarkup: cc
