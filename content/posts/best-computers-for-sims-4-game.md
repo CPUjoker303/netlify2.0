@@ -258,17 +258,44 @@ For playing the sims 4 gamers should use NVIDIA GeForce 6600 video card For play
 
 Your Pc must contain windows (7,8,10) of 64-bit.
 
-#### PROCESSOR:
+{{<html-code tag="div">}}
 
- Intel processor core i5  Video card should be in your Pc NVIDIA GTX 650 
+<table>
+<tbody><tr>
+<td>Operating System (OS)</td>
+<td>64 Bit Window 7,8,10</td>
+</tr>
+<tr>
+<td>CPU</td>
+<td>Intel core i5</td>
+</tr>
+<tr>
+<td>RAM Memory</td>
+<td> 4 GB Required</td>
+</tr>
+<tr>
+<td>Hard Disk Space</td>
+<td>18 GB free space</td>
+</tr>
+<tr>
+<td>Graphics Card</td>
+<td>NVIDIA GTX 650</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
 
-#### Internal Memory:
+#### Processor Type
 
-4 GB ram must be installed
+ Intel processor core i5 and Graphics Card should be in your Pc NVIDIA GTX 650 
 
-#### Hard Disk:
+#### Ram Internal Memory
 
- Recommended hard disk is 18 GB of free space
+4 GB ram must be installed.
+
+#### Hard Disk Space
+
+ The Recommended hard disk is 18 GB of free space
 
 ### AVAILABLE CHEAPER AND QUALITY DESKTOP FOR SIM 4
 
