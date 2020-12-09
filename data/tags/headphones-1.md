@@ -1,5 +1,5 @@
 ---
-name: Headphones
-excrept: Best Headphones
-url: headphones
+name: Best Headphones
+excrept: "Best Headphones "
+url: best-headphones/
 ---
