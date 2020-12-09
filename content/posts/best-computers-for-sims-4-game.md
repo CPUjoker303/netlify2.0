@@ -8,7 +8,7 @@ metaKeywords: Best Computers For Sims 4 Game
 url: best-computers-for-sims-4-game/
 date: 2020-09-16T08:03:20.366Z
 updateDate: 2020-09-16T08:03:20.492Z
-image: /uploads/best.jpg
+image: /uploads/best-computers-for-sims-4-games.jpg
 tags:
   - Information
 categories:
