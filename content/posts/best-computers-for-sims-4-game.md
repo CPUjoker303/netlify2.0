@@ -369,7 +369,7 @@ Your Pc must contain windows (7,8,10) of 64-bit.
 * Fans with remote control 
 * RAM 8GB DDR3HDD 1TB
 
-#### Specification Table
+#### Specifications Table
 
 {{<html-code tag="div">}}
 
@@ -427,6 +427,49 @@ Your Pc must contain windows (7,8,10) of 64-bit.
 * NVIDIA  GeForce RTX 2080 Ti 11GB that provides high video graphics. 
 * It has an efficient power supply of 750 Watt Platinum.It contains 2TB 7200RPM Hard Drive storage. It has 64GB RAM and 2TB PCIe.
 
+#### Specifications Table
 
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Brand</td>
+<td>Intel</td>
+</tr>
+<tr>
+<td>CPU Model</td>
+<td>Intel Core i5-7400</td>
+</tr>
+<tr>
+<td>Memory Size</td>
+<td>8 GB other optional</td>
+</tr>
+<tr>
+<td>RAM Installed Size	</td>
+<td>8 GB</td>
+</tr>
+<tr>
+<td>Computer Memory Type</td>
+<td>DDR3 SDRAM</td>
+</tr>
+<tr>
+<td>Model </td>
+<td>HP OMEN 870-224</td>
+</tr>
+<tr>
+<td>Interport Options</td>
+<td>B75 LGA 1155 Motherboard</td>
+</tr>
+<tr>
+<td>Bluetooth</td>
+<td>Bluetooth 4.2 </td>
+</tr>
+<tr>
+<td>Wireless</td>
+<td>LAN 802.11 wireless</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
 
 So, we have listed some desktop for sims 4 better and smooth gameplay.
