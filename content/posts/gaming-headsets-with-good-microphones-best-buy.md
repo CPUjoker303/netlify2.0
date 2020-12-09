@@ -11,8 +11,11 @@ updateDate: 2020-09-02T12:12:38.415Z
 image: /uploads/ryzen.jpg
 tags:
   - Information
-categories:
   - Reviews
+  - Best Headphones
+  - HEADPHONES
+categories:
+  - HEADPHONES
 schemaMarkup: >+
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
