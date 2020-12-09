@@ -12,7 +12,7 @@ image: /uploads/what.png
 tags:
   - Information
 categories:
-  - Reviews
+  - Information
 schemaMarkup: >
   <script type="application/ld+json">
 
