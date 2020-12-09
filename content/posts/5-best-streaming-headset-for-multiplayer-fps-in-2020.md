@@ -12,8 +12,11 @@ updateDate: 2020-09-15T19:28:26.327Z
 image: /uploads/beststreaming.jpg
 tags:
   - Information
-categories:
   - Reviews
+  - Best Headphones
+  - HEADPHONES
+categories:
+  - HEADPHONES
 schemaMarkup: >+
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
