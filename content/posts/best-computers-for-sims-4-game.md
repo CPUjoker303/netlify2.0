@@ -174,13 +174,13 @@ In this informative article, I would like to share some remarkable knowledge tha
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B072NC85LX/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072NC85LX&linkId=3c95f4753b9ec3498aff7918398b54f2" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/dell-inspiron.jpg" alt="Dell Inspiron Gaming PC" title="Dell Inspiron Gaming PC"></td>
+<td class="tdimg"><img src="/uploads/dell-inspiron-gaming-pc.jpg" alt="Dell Inspiron Gaming PC" title="Dell Inspiron Gaming PC"></td>
 <td>Dell Inspiron Gaming PC</td>
 <td>GREAT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07Q3G3B67/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07Q3G3B67&linkId=8ddc1db552916edd99c0e1118dc0d677" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/gaming-pc-deskt.jpg" alt="Alarco Gaming PC Desktop Computer Intel i5 3.10GHz" title="Alarco Gaming PC Desktop Computer Intel i5 3.10GHz"></td>
+<td class="tdimg"><img src="/uploads/alarco-gaming-pc-desktop-computer.jpg" alt="Alarco Gaming PC Desktop Computer Intel i5 3.10GHz" title="Alarco Gaming PC Desktop Computer Intel i5 3.10GHz"></td>
 <td>Alarco Gaming PC Desktop Computer Intel i5 3.10GHz</td>
 <td>GREAT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07K3TM9W5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07K3TM9W5&linkCode=as2&tag=technikaya-20&linkId=fc0da53721530aa8589679a47dd0cdc8" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -303,7 +303,9 @@ Your Pc must contain windows (7,8,10) of 64-bit.
 * #### Alarco Gtx 650 – The Economical Choice For Sims4
 * #### HP OMEN Gaming VR Ready Desktop
 
-## Ryzen 7 and RX 580
+## Dell Inspiron Desktop Ryzen 7 and RX 580
+
+![Dell Inspiron Desktop Ryzen 7 and RX 580](/uploads/dell-inspiron-gaming-pc.jpg "Dell Inspiron Desktop Ryzen 7 and RX 580")
 
 * This Pc is built for a higher capacity of gaming
 * Assiduously designed to boost your gameplay
@@ -312,13 +314,64 @@ Your Pc must contain windows (7,8,10) of 64-bit.
 * 2nd generation AMD Ryzen 7 processor embedded in this Pc that increase your processing power. 
 * This gaming desktop contains 16GB of DDR4 RAM and loaded with fast Memory to provide high performance and multitasking
 
-## Alarco Gtx 650–Economical Choice For Sims4
+#### Specifications Table
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Brand	</td>
+<td>Dell</td>
+</tr>
+<tr>
+<td>CPU Model</td>
+<td>AMD Ryzen 7</td>
+</tr>
+<tr>
+<td>Memory Size	</td>
+<td>16 GB	</td>
+</tr>
+<tr>
+<td>Series</td>
+<td>Inspiron 5676</td>
+</tr>
+<tr>
+<td>Generation</td>
+<td>2nd generation</td>
+</tr>
+<tr>
+<td>Intensive multitasking</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Lightning-quick connection</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Dynamic audio</td>
+<td>7.1 WAVE MAXX audio</td>
+</tr>
+<tr>
+<td>CPU Speed	</td>
+<td>4.1 GHz</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+## Alarco Gtx 650–Economical Choice For Sims 4
+
+![Alarco Gtx 650–Economical ](/uploads/alarco-gaming-pc-desktop-computer.jpg "Alarco Gtx 650–Economical ")
 
 * It has Intel Core i5-2400 3.10 GHz. 
 * It contains B75 LGA 1155 Motherboard.
 * It contains 1GB NVIDIA Getforce GTX 650 video card500W Power supply3 RGB 120mm 
 * Fans with remote control 
 * RAM 8GB DDR3HDD 1TB
+
+#### Specification Table
+
+
 
 ## HP OMEN Gaming VR Ready
 
