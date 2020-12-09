@@ -1,7 +1,7 @@
 ---
-title: Cheap Capture Card For Switch - Best Buy
+title: Cheap Capture Card For Switch - [ December 2020]
 draft: false
-SEOTitle: Cheap Capture Card For Switch - Best Buy
+SEOTitle: Cheap Capture Card For Switch - [ December 2020]
 excrept: >
   Here you find Cheap Capture Card For Switch. Basically capture card is back
   bone of every streamer. These cards supporting 1080P 60fps HD video recording
