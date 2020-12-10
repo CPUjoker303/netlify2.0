@@ -470,7 +470,7 @@ LED light changing capability
 
 ![Aoboo Led Light Dancing Water Speakers](/uploads/aoboo-led-light-review.jpg "Aoboo Led Light Dancing Water Speakers")
 
-Next is Aoboo Water Speakers and the speakers comes in white and black colour and has the speaker cone of silver. After buying you will get two pcs of speakers with Included USB interface also 3.5mm interface with the cable length of one meter. The Aoboo Water Speakers seems very portable, and square transparent body design seems excellent, and you can see the precise dance of water when you plays music. 
+Next is Aoboo Water Speakers and the speakers comes in white and black colour and has the speaker cone of silver. After buying you will get two pcs of speakers with Included USB interface also 3.5mm interface with the cable length of one meter. The Aoboo Water Speakers seems a very portable, and square transparent body design seems excellent, and you can see the precise dance of water when you plays music. 
 
 The sleek speaker body design is very durable, and you can carry on the Aoboo Water Speakers where you want. The simple speaker's connectivity and can also use with Laptops, mobiles extra.
 
