@@ -894,8 +894,7 @@ Next is Dayton Audio T652-AIR review and this Floorstanding speaker size 6.5 Inc
 </tbody>
 </table>
 {{</html-code>}}
-
-{{<singlep pimg="/uploads/dayton-audio-t652-air-review.jpg" pname="Dayton Audio T652-AIR Dual 6-1/2" 2-Way Tower Speaker Pair " plink="https://www.amazon.com/gp/product/B07777GY34/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07777GY34&linkId=47ddd7d88167efd9b91c17143a158d26">}}
+{{<singlep pimg="/uploads/dayton-audio-t652-air-review.jpg" pname="Dayton Audio T652-AIR Dual 6-1/2 2-Way Tower Speaker Pair" plink="https://www.amazon.com/gp/product/B07777GY34/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07777GY34&linkId=47ddd7d88167efd9b91c17143a158d26">}}
 Dual woofers
 Brilliant Performance
 {{</singlep>}}
