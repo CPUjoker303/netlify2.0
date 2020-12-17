@@ -572,3 +572,7 @@ The FiiO A3 amp takes much time to charge fully. Just you need a 3.5mm headphone
 <li>No accurate battery level indicator.</li>
 <li>Slow charging.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00Z9BIODA/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00Z9BIODA&linkId=04d46551e36afe66e4b64446b2c54852{{</button>}}
+
+## Conclusion - Best DAC Amp Under $100
+
+These are the best DAC amp under $100 range, and our expert team has comprehensively reviewed all listed DAC amp beautifully. If you have a short time, you can directly buy these best DAC amp from amazon by clicking the check price button. If you are an iPhone user, don’t worry; checkout FiiO i1 DAC which can easily attach and connect to any Apple iPhone smart device, and if you need a battery-installed DAC amp, then FiiO A3 is the best cheap amp for you.
