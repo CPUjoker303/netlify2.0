@@ -1,6 +1,6 @@
 ---
 title: How To Connect Speakers To Pc Without Amplifier
-draft: true
+draft: false
 SEOTitle: How To Connect Speakers To Pc Without Amplifier
 excrept: Now connect your power speakers and passive speakers easily with your
   personal computers and get info about active speakers and passive speakers.
