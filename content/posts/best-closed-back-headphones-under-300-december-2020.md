@@ -1,6 +1,6 @@
 ---
 title: Best Closed Back Headphones Under 300 [December 2020]
-draft: true
+draft: false
 SEOTitle: Best Closed Back Headphones Under 300 [December 2020]
 excrept: Checkout highly durable Closed-Back Headphones that perfectly fit over
   ears. At $300 price these best Closed-Back headsets are the perfect options.
