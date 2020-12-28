@@ -8,7 +8,7 @@ metaKeywords: Best Dac Amp Under 100
 url: best-dac-amp-under-100/
 date: 2020-12-17T21:10:05.788Z
 updateDate: 2020-12-17T21:10:06.012Z
-image: /uploads/best-dac-amp-under-200.jpg
+image: /uploads/best-dac-under-100-dollars-in-2021.jpg
 tags:
   - ACCESSORIES
   - Reviews
