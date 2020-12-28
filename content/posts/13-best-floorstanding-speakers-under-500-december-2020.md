@@ -2,14 +2,13 @@
 title: 13 Best Floorstanding Speakers Under 500 (DECEMBER 2020)
 draft: false
 SEOTitle: 13 Best Floorstanding Speakers Under 500 (DECEMBER 2020)
-excrept: Here 13 Best floor standing speakers for your Flat-panel TVs, complete
-  stereo output. The speaker price range is $200 and $500 and provides quality
-  audio.
+excrept: Here 13 Best floor standing speakers for your Flat-panel TVs, stereo
+  output. The speaker price range is $200 and $500 and provides quality audio.
 metaKeywords: Best Floorstanding Speakers Under 500
 url: best-floor-standing-speakers-under-500/
 date: 2020-12-08T09:18:05.874Z
 updateDate: 2020-12-08T09:18:06.081Z
-image: /uploads/best-floor-standing-speakers-under-500.jpg
+image: /uploads/best-floor-standing-speakers-500-dollars.jpg
 tags:
   - ACCESSORIES
   - Reviews
