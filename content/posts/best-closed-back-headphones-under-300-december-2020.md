@@ -8,7 +8,7 @@ metaKeywords: Best Closed Back Headphones Under 300
 url: best-closed-back-headphones-under-300/
 date: 2020-12-17T19:11:15.891Z
 updateDate: 2020-12-17T19:11:15.966Z
-image: /uploads/best-closed-back-headphones-under-300.jpg
+image: /uploads/best-closed-back-headphones-under-300-dollars-2021.jpg
 tags:
   - Best Headphones
   - Information
