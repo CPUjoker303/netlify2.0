@@ -127,7 +127,7 @@ For proper cartridge [alignment](https://en.wikipedia.org/wiki/Alignment), you n
 <th><strong>Check Price</strong></th>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/turntable-phonograph-lp-phono-cartridge-stylus.png" alt="Turntable Phonograph LP Phono Cartridge Stylus Alignment Protractor Tool" title="Turntable Phonograph LP Phono Cartridge Stylus Alignment Protractor Tool"></td>
+<td class="tdimg"><img src="/uploads/phono-cartridge-stylus-alignment-protractor-tool-mirror-review.jpg" alt="Turntable Phonograph LP Phono Cartridge Stylus Alignment Protractor Tool" title="Turntable Phonograph LP Phono Cartridge Stylus Alignment Protractor Tool"></td>
 <td>Turntable Phonograph LP Phono Cartridge Stylus Alignment Protractor Tool</td>
 <td>GOOD</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B079ZBLJ4M/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079ZBLJ4M&linkId=7fdfc0577efe3e76de14b27b1e073e42" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -139,7 +139,7 @@ For proper cartridge [alignment](https://en.wikipedia.org/wiki/Alignment), you n
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B01MU6AD2E/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MU6AD2E&linkId=c0f7d32683a6a13ec6bdc1032a866e8b" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/cartridge-alignment-protractor-tool-phonograph-lp-phono-cartridge-stylus-alignment-protractor-tool.png" alt="Cartridge Alignment Protractor Tool " title="Cartridge Alignment Protractor Tool "></td>
+<td class="tdimg"><img src="/uploads/cartridge-alignment-protractor-tool-phonograph-lp-phono-cartridge-stylus-alignment-protractor-tool.jpg" alt="Cartridge Alignment Protractor Tool " title="Cartridge Alignment Protractor Tool "></td>
 <td>Cartridge Alignment Protractor Tool </td>
 <td>GOOD</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07KK76ZMK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KK76ZMK&linkId=6b87b0ce08242a7382712abea977cc9f" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -151,13 +151,13 @@ For proper cartridge [alignment](https://en.wikipedia.org/wiki/Alignment), you n
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07H4D4F5T/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07H4D4F5T&linkId=71c7fb32214e490f0b91c475ee2df394" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/zripool-lp-vinyl-pickup-calibration-distance-gauge-protractor.png" alt="Zripool LP Vinyl Pickup Calibration" title="Zripool LP Vinyl Pickup Calibration"></td>
+<td class="tdimg"><img src="/uploads/zripool-lp-vinyl-pickup-calibration-review.jpg" alt="Zripool LP Vinyl Pickup Calibration" title="Zripool LP Vinyl Pickup Calibration"></td>
 <td>Zripool LP Vinyl Pickup Calibration</td>
 <td>GREAT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07QR3HBTR/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07QR3HBTR&linkId=307d851f5db2c41b94795e85c5797991" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/turntable-phono-cartridge-stylus-alignment-protractor-tool-mirror.png" alt="Alignment Protractor Tool Mirror " title="Alignment Protractor Tool Mirror "></td>
+<td class="tdimg"><img src="/uploads/phono-cartridge-stylus-alignment-protractor-tool-mirror-review.jpg" alt="Alignment Protractor Tool Mirror " title="Alignment Protractor Tool Mirror "></td>
 <td>Alignment Protractor Tool Mirror </td>
 <td>PERFECT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B005KR15HU/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005KR15HU&linkId=848366cfb736138871139f5d252cebfd" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -209,7 +209,7 @@ You can also use this alignment protractor as an S-Shaped arm. You can do profes
 
 ### Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat
 
-![Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat](/uploads/phono-cartridge-stylus-alignment-protractor-tool-mirror-review.jpg "Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat")
+![Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat](/uploads/hudson-hi-fi-turntable-cartridge-alignment-protractor-mat-review.jpg "Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat")
 
 It developed in Newyork and very easy to use and the product is Hudson Hi-Fi turntable cartridge alignment protractor mat tool. It is a one-sided alignment protractor mat which is providing a diagram for alignment. It provides a diagram and instructions, and by using it, you can easily align your cartridge protractor. 
 
