@@ -8,7 +8,7 @@ metaKeywords: Best Phono Preamp Under 500
 url: best-phono-preamp-under-500/
 date: 2020-11-28T17:20:00.801Z
 updateDate: 2020-11-28T17:20:00.835Z
-image: /uploads/best-phono-preamp-under-500-dollars.jpg
+image: /uploads/best-phono-preamp-under-500-dollar.jpg
 tags:
   - ACCESSORIES
   - Information
