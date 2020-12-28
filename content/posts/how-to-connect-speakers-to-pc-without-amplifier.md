@@ -8,7 +8,7 @@ metaKeywords: How To Connect Speakers To Pc Without Amplifier
 url: how-to-connect-speakers-to-pc-without-amplifier/
 date: 2020-12-17T17:38:23.952Z
 updateDate: 2020-12-17T17:38:24.137Z
-image: /uploads/how-to-connect-speakers-to-pc-without-amplifier.jpg
+image: /uploads/how-to-connect-speakers-to-pc-without-amplifiers.jpg
 tags:
   - Information
 categories:
