@@ -9,7 +9,7 @@ metaKeywords: Best Songs For Water Speakers
 url: best-song-for-water-speakers
 date: 2020-12-05T18:36:58.222Z
 updateDate: 2020-12-05T18:36:58.429Z
-image: /uploads/best-songs-for-water-speakers.jpg
+image: /uploads/best-songs-for-testing-water-speakers.jpg
 tags:
   - ACCESSORIES
   - Reviews
