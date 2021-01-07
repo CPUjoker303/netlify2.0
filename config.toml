@@ -32,14 +32,14 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
 
 [params]
     logo = "/images/logo.png" #Logo of your Website (Put Image in dir /static/images)
-    description = "Technikaya" #SEO Discription of your Website
+    description = "Best Gaming Reviews & News" #SEO Discription of your Website
     excrept = "TECHNIKAYA SEO DISCRIPTION" #SEO Exprect of Your Website
     image = "/images/site_banner.png" #Business Cover (1920x1080) Used in SEO
     icon = "/images/favicon.png" #Favicon
 
-    siteAuthor = "Erik Bolinder" #Your Name
+    siteAuthor = "Eric Cowell" #Your Name
     AuthorImage = "/images/author.png" #Your Profile Picure
-    AuthorBio = "There is your Authoer Bio" #Your Author BIO
+    AuthorBio = "ove to play AAA Games" #Your Author BIO
     contactMail = "contact@thewebsite.com"
 
     googleSiteVerify = "code1" #Google Search Console Verification
@@ -55,10 +55,10 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
 
       ##Social Media Profiles Start
       SocialFB = "https://facebook.com/technikaya"
-      SocialTwitter = "https://twitter.com/technikaya_"
-      SocialYouTube = "https://youtube.com"
-      SocialTumblr = "https://tumblr.com"
-      SocialLinkedin = "https://linkedin.com"
+      SocialTwitter = "https://twitter.com/technikaya"
+      SocialYouTube = "https://youtube.com/channel/UCydTdtjJ1V2p--2bOXx1XGg"
+      SocialTumblr = "https://technikaya.tumblr.com/"
+      SocialLinkedin = "www.linkedin.com/in/technikaya-reviews-423544203"
       SocialPinterest = "https://pinterest.com/Technikaya_"
       ##Social Media Profiles END
 
@@ -100,5 +100,15 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
   name = "About Us"
   url = "/about/"
   weight = "2"
+
+[[menu.footermenu]]
+  name = "Contact Us"
+  url = "/contact/"
+  weight = "3"
+
+[[menu.footermenu]]
+  name = "Affiliate Disclosure"
+  url = "/affiliate-disclosure/"
+  weight = "4"
 
   #Footer Menu END
