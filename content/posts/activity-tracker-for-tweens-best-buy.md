@@ -661,11 +661,8 @@ The watch comes with Bluetooth (4.0, IOS 9.0&Android 4.4) connectivity which can
 {{<pros>}}
 
 <li>Comes in many colours.</li>
-<li></li>
 <li>Time can be set with different designs.</li>
-<li></li>
 <li>The clock can be turned off completely.</li>
-<li></li>
 <li>Looks great</li>
 <li> Pedometer is realistic</li>
 {{</pros>}}
