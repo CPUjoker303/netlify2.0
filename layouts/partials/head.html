@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VS1GQK25BM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VS1GQK25BM');
+</script>
     <title>{{ if .IsHome }}{{ .Title }} | {{.Site.Params.description}} {{ else }}{{ .Params.SEOTitle }}{{ end }}</title>
     <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
