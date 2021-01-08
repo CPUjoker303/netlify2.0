@@ -216,7 +216,7 @@ These are the most accurate fitness band for kids, and our team has created a li
 <th><strong>CHECK-PRICE</strong></th>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/garmin-pink.jpg" alt="Garmin Vivofit Jr 2 Disney Pink" title="Garmin Vivofit Jr 2 Disney Pink"></td>
+<td class="tdimg"><img src="/uploads/garmin-vivofit-jr-2-disney-pink.jpg" alt="Garmin Vivofit Jr 2 Disney Pink" title="Garmin Vivofit Jr 2 Disney Pink"></td>
 <td>Garmin Vivofit Jr 2 Disney Pink</td>
 <td>GOOD</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07GLVFVBM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GLVFVBM&linkCode=as2&tag=technikaya-20&linkId=53d5f9e08b96c31a3d95ec116c3afa4e" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
