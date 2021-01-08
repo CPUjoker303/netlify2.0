@@ -218,49 +218,49 @@ These are the most accurate fitness band for kids, and our team has created a li
 <tr>
 <td class="tdimg"><img src="/uploads/garmin-vivofit-jr-2-disney-pink.jpg" alt="Garmin Vivofit Jr 2 Disney Pink" title="Garmin Vivofit Jr 2 Disney Pink"></td>
 <td>Garmin Vivofit Jr 2 Disney Pink</td>
-<td>GOOD</td>
+<td>Best Budget Tracker</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07GLVFVBM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GLVFVBM&linkCode=as2&tag=technikaya-20&linkId=53d5f9e08b96c31a3d95ec116c3afa4e" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/garmin-vivofit-jr-2-marvel.jpg" alt="Garmin Vivofit Jr 2 Marvel Black" title="Garmin Vivofit Jr 2 Marvel Black"></td>
 <td>Garmin Vivofit Jr 2 Marvel Black</td>
-<td>GOOD</td>
+<td>Best Budget Tracker 2021</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07H6TVHD5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07H6TVHD5&linkCode=as2&tag=technikaya-20&linkId=6e60f5aedeaa4cfdb600d8335b7e7f72" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/fitfort-fitness-tracker.jpg" alt="FIitfort Fitness Tracker" title="FIitfort Fitness Tracker"></td>
 <td>FIitfort Fitness Tracker</td>
-<td>GREAT</td>
+<td>Fitness Tracker For Teens</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07XVHX8BC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07XVHX8BC&linkCode=as2&tag=technikaya-20&linkId=2dda35d1313e8835d01f559b9800fab4" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/3plus-lite-activity-tracker.jpg" alt="3Plus Lite Activity Tracker" title="3Plus Lite Activity Tracker"></td>
 <td>3Plus Lite Activity Tracker</td>
-<td>NICE</td>
+<td>Junior fitness tracker</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B06Y1FX1FT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06Y1FX1FT&linkCode=as2&tag=technikaya-20&linkId=568f1bb9dead550b6d247ae15ddf59d1" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/best-withings-move-hybrid-smartwatch.jpg" alt="Withings Move Smartwatch" title="Withings Move Smartwatch"></td>
 <td>Withings Move Smartwatch</td>
-<td>AMAZING</td>
+<td>Best Family Fitness Tracker</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B018SL790Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018SL790Q&linkCode=as2&tag=technikaya-20&linkId=5b2bf3f5194c3d7a04472be19a8ef7a9" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/fitness-tracker-hr-y1-activity-tracker.jpg" alt="Fitness Tracker HR, Y1 Activity Tracker" title="Fitness Tracker HR, Y1 Activity Tracker"></td>
 <td>Fitness Tracker HR, Y1 Activity Tracker</td>
-<td>COOL</td>
+<td>Cool Fitness Tracker</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07FTHHPPJ/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07FTHHPPJ&linkId=b9be97452a596d07e930332234dcbd67" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/yoyofit-slim-kids-fitness-tracker.jpg" alt="YoYoFit Slim Kids Fitness Tracker" title="YoYoFit Slim Kids Fitness Tracker"></td>
 <td>YoYoFit Slim Kids Fitness Tracker</td>
-<td>DURABLE</td>
+<td>Best Activity Tracker 2021</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B08331Z4T8/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08331Z4T8&linkId=0d5fdc9e41cc5e6799686ab4be6f92a8" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/garmin-forerunner-35-bundle.jpg" alt="Garmin Forerunner 35 Bundle" title="Garmin Forerunner 35 Bundle"></td>
 <td>Garmin Forerunner 35 Bundle</td>
-<td>NICE</td>
+<td>Boys Fitness Tracker</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B01KPUHBK6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KPUHBK6&linkId=8b4e94614e23bfe005ef72c3a0a03313" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 </tbody>
