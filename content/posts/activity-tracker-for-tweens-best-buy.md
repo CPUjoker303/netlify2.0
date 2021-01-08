@@ -271,7 +271,7 @@ These are the most accurate fitness band for kids, and our team has created a li
 
 ![Garmin Vivofit Jr 2 Disney Pink](/uploads/garmin-vivofit-jr-2-disney-pink.jpg "Garmin Vivofit Jr 2 Disney Pink")
 
-The first one is Garmin Vivofit Jr 2, and this kids' activity tracker has Disney Princess pink design, and its wrist band is very adjustable & easy to use. This fitness watch is water-resistant and seems very durable. Using this health band, you will get an interactive app experience and very easy to connect with your devices. 
+First Garmin Vivofit Jr 2 review, and this kids' activity tracker has Disney Princess pink design, and its wrist band is very adjustable & easy to use. This fitness watch is water-resistant and seems very durable. Using this health band, you will get an interactive app experience and very easy to connect with your devices. 
 
 You can check your kids' activity on your mobile devices or tablets in one click using the parent control app. Parents can access duty management and recompense tools on the parent-controlled app, and the battery timing of VivoFit Jr 2 is very good. 
 
@@ -324,12 +324,12 @@ After using this accurate fitness tracker, tweens will count their foot-steps on
 
 {{<pros>}}
 
-<li>One year battery life</li>
-<li>It has comfortable band made of Silicon</li>
-<li>Easy connectivity with smart phones</li>
+<li>One year battery life.</li>
+<li>It has comfortable band made of Silicon.</li>
+<li>Easy connectivity with smart phones.</li>
 {{</pros>}}
 {{<cons>}}
-<li>No touch screen</li>
+<li>No touch screen.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07GLVFVBM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GLVFVBM&linkCode=as2&tag=technikaya-20&linkId=53d5f9e08b96c31a3d95ec116c3afa4ehttps://www.amazon.com/gp/product/B07H6TVHD5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07H6TVHD5&linkCode=as2&tag=technikaya-20&linkId=6e60f5aedeaa4cfdb600d8335b7e7f72{{</button>}}
 
 ### Garmin vivofit Jr 2 Marvel
