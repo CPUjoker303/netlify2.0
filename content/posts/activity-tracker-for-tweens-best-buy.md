@@ -222,19 +222,19 @@ These are the most accurate fitness band for kids, and our team has created a li
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07GLVFVBM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GLVFVBM&linkCode=as2&tag=technikaya-20&linkId=53d5f9e08b96c31a3d95ec116c3afa4e" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/marvel.jpg" alt="Garmin Vivofit Jr 2 Marvel Black" title="Garmin Vivofit Jr 2 Marvel Black"></td>
+<td class="tdimg"><img src="/uploads/garmin-vivofit-jr-2-marvel.jpg" alt="Garmin Vivofit Jr 2 Marvel Black" title="Garmin Vivofit Jr 2 Marvel Black"></td>
 <td>Garmin Vivofit Jr 2 Marvel Black</td>
 <td>GOOD</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07H6TVHD5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07H6TVHD5&linkCode=as2&tag=technikaya-20&linkId=6e60f5aedeaa4cfdb600d8335b7e7f72" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/fitfort.jpg" alt="FIitfort Fitness Tracker" title="FIitfort Fitness Tracker"></td>
+<td class="tdimg"><img src="/uploads/fitfort-fitness-tracker.jpg" alt="FIitfort Fitness Tracker" title="FIitfort Fitness Tracker"></td>
 <td>FIitfort Fitness Tracker</td>
 <td>GREAT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07XVHX8BC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07XVHX8BC&linkCode=as2&tag=technikaya-20&linkId=2dda35d1313e8835d01f559b9800fab4" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/3-plus.jpeg" alt="3Plus Lite Activity Tracker" title="3Plus Lite Activity Tracker"></td>
+<td class="tdimg"><img src="/uploads/3plus-lite-activity-tracker.jpg" alt="3Plus Lite Activity Tracker" title="3Plus Lite Activity Tracker"></td>
 <td>3Plus Lite Activity Tracker</td>
 <td>NICE</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B06Y1FX1FT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06Y1FX1FT&linkCode=as2&tag=technikaya-20&linkId=568f1bb9dead550b6d247ae15ddf59d1" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -334,9 +334,9 @@ After using this accurate fitness tracker, tweens will count their foot-steps on
 
 ### Garmin vivofit Jr 2 Marvel
 
-[![](/uploads/marvel.jpg)](https://www.amazon.com/gp/product/B07H6TVHD5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07H6TVHD5&linkCode=as2&tag=technikaya-20&linkId=6e60f5aedeaa4cfdb600d8335b7e7f72)
+![Garmin vivofit Jr 2 Marvel](/uploads/garmin-vivofit-jr-2-marvel.jpg "Garmin vivofit Jr 2 Marvel")
 
-The second product is Gramin Vivofit Jr 2 Marvel for tracking fitness and activity, and Marvel Spider-Man black colour design looks great. This fitness and activity tracker has a very adjustable band, which is made of silicone-like material. About this tracker, the central fact is that it has a customizable colour screen, which your kids enjoy it very well. 
+Next one Vivofit Jr 2 Marvel review, watch for tracking fitness and activity, and Marvel Spider-Man black colour design looks brilliant. This fitness and activity tracker has a very adjustable band, which is made of silicone-like material. About this tracker, the central fact is that it has a customizable colour screen, which your kids enjoy it very well. 
 This budget smartwatch comes with a user-replaceable battery that lasts easily one year, and no recharging is needed one year, and it requires 1 CR2 battery.
 
 This clip-on fitness tracker watch is water-resistant and comes with swim-friendly features, which means when tweens are playing in the water or swimming, it will not affect a watch. The health gadget is straightforward to connect with your phone, and if we talk about battery timing, this fitness tracker has long battery timing. This Garmin fitness watch will count estimate steps, and you can check all activity on your phone quickly. If we talk about the mobile application, It is not just for the kids to enjoy; it is used to manage fitness tracker only.
@@ -386,19 +386,19 @@ You can gift this health and fitness tracker to your kids. Your kids love this f
 
 {{<pros>}}
 
-<li>Battery life 1+ year (According To Garmin) Comfortable band </li>
-<li>Easy connectivity </li>
+<li>Battery life 1+ year (According To Garmin) Comfortable band. </li>
+<li>Easy connectivity. </li>
 {{</pros>}}
 {{<cons>}}
-<li>No touch screen </li>
-<li>Teeny tiny screen </li>
+<li>No touch screen. </li>
+<li>Teeny tiny screen. </li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07H6TVHD5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07H6TVHD5&linkCode=as2&tag=technikaya-20&linkId=6e60f5aedeaa4cfdb600d8335b7e7f72{{</button>}}
 
 ### FITFORT Fitness Tracker
 
-[![](/uploads/fitfort.jpg)](https://www.amazon.com/gp/product/B07XVHX8BC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07XVHX8BC&linkCode=as2&tag=technikaya-20&linkId=2dda35d1313e8835d01f559b9800fab4)
+![FITFORT Fitness Tracker](/uploads/fitfort-fitness-tracker.jpg "FITFORT Fitness Tracker")
 
-The third product is the Fitfort fitness tracker. It is a fitness wristband and heart rate monitor watch that can measure your heart pressure, sleep quality, heart rate, step counts, etc. The health watch is your personal health secretary, which reminds you to move or drink water after a long time, working or gaming. 
+Next Fitfort fitness tracker review. It is a fitness wristband and heart rate monitor watch that can measure your heart pressure, sleep quality, heart rate, step counts, etc. The health watch is your personal health secretary, which reminds you to move or drink water after a long time, working or gaming. 
 
 This fitness watch helps you stay active all day and helps you get rid of bad habits overall, this health and fitness watch is your personal gym coach. The Waterproof Fitness Tracker can easily track up to 14 exercises, and if you are running, dancing, jogging, it will accurately measure all exercises. 
 
@@ -436,18 +436,18 @@ The charging will quickly start. So, Fitfort is manufacturing beast activity tra
 
 {{<pros>}}
 
-<li>It has slight variation </li>
-<li>It is water resistant </li>
-<li>Track up to 14 exercises </li>
+<li>It has slight variation. </li>
+<li>It is water resistant. </li>
+<li>Track up to 14 exercises. </li>
 <li>Beautiful design </li>
 {{</pros>}}
 {{<cons>}}
-<li>Blood pressure measuring problem </li>
+<li>Blood pressure measuring problem. </li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07XVHX8BC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07XVHX8BC&linkCode=as2&tag=technikaya-20&linkId=2dda35d1313e8835d01f559b9800fab4{{</button>}}
 
 ### 3Plus Lite Activity Tracker
 
-[![](/uploads/3-plus.jpeg)](https://www.amazon.com/gp/product/B06Y1FX1FT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06Y1FX1FT&linkCode=as2&tag=technikaya-20&linkId=568f1bb9dead550b6d247ae15ddf59d1)
+![3Plus Lite Activity Tracker](/uploads/3plus-lite-activity-tracker.jpg "3Plus Lite Activity Tracker")
 
 The fourth product is the 3Plus lite activity tracker, a sleep tracking device that tracks your sleep duration and can measure your sleep and improve your sleep habits. 
 It can also show notifications like incoming calls, emails, texts, social media alerts, etc.
