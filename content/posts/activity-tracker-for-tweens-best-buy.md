@@ -269,7 +269,7 @@ These are the most accurate fitness band for kids, and our team has created a li
 
 ### Garmin Vivofit Jr 2 Disney Pink
 
-[![](/uploads/garmin-pink.jpg)](https://www.amazon.com/gp/product/B07GLVFVBM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GLVFVBM&linkCode=as2&tag=technikaya-20&linkId=81e3e8dc505011442e7c6c8a8c7bce32)
+![Garmin Vivofit Jr 2 Disney Pink](/uploads/garmin-vivofit-jr-2-disney-pink.jpg "Garmin Vivofit Jr 2 Disney Pink")
 
 The first one is Garmin Vivofit Jr 2, and this kids' activity tracker has Disney Princess pink design, and its wrist band is very adjustable & easy to use. This fitness watch is water-resistant and seems very durable. Using this health band, you will get an interactive app experience and very easy to connect with your devices. 
 
@@ -673,8 +673,6 @@ The watch comes with Bluetooth (4.0, IOS 9.0&Android 4.4) connectivity which can
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B08331Z4T8/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08331Z4T8&linkId=0d5fdc9e41cc5e6799686ab4be6f92a8{{</button>}}
 
 ### Garmin Forerunner 35 Bundle
-
-
 
 [![](/uploads/garmin-forerunner-35-bundle.jpg)](https://www.amazon.com/gp/product/B01KPUHBK6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01KPUHBK6&linkId=8b4e94614e23bfe005ef72c3a0a03313)
 
