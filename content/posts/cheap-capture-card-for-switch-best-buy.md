@@ -54,7 +54,7 @@ Using a capture card is best for video streaming purposes. It is effortless to u
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B078M15WK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078M15WK4&linkCode=as2&tag=technikaya-20&linkId=adea1386a5f6ccdd645b0a40dac01a1d" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/acodot-capture-card.jpg" alt="Acodot Capture Card" title="Acodot Capture Card"></td>
+<td class="tdimg"><img src="/uploads/acodot-capture-card-review.jpg" alt="Acodot Capture Card" title="Acodot Capture Card"></td>
 <td>Acodot Capture Card</td>
 <td>Good</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B08DXJ2WWZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08DXJ2WWZ&linkCode=as2&tag=technikaya-20&linkId=9d971958ffa9a2212d638b30115914df" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -204,9 +204,13 @@ The card is perfect for quality video recording, but the only thing which is not
 
 ### Acodot Capture Card
 
-The next one is Acodot Capture card. Its manufacturer is Acodot. Its weight is 4.1 ounces which equal to 116.233 grams. It works with work for Nintendo Switch. It also works with OBS studio software.  The capture card is compatible with many operating systems. The capture card can also live stream easily. It does not need any kind of drivers to install.  The capture card is compatible with all third party software. 
+![Acodot Capture Card](/uploads/acodot-capture-card-review.jpg "Acodot Capture Card")
 
-The capturing card is very easy to use and plug and play device for all operating systems like Mac, Linux, window etc. It comes with HDMI signal loop out feature which will provides you best experience and you will enjoy the fun during recording video. If we take a look on software compatibility, then it is compatible with OBS studio and pot player etc. The capture can easily work with PS3, PS4, Xbox 360 and gives the user real time preview for ideal video recording.
+Next Acodot Capture card review. Its manufacturer is Acodot, and it works perfectly for Nintendo Switch and works with OBS studio software. The capture card is compatible with many operating systems and can also do live stream easily. 
+
+It does not need any kind of driver to install. The capture card is compatible with all third-party software. The capturing card is a very easy-to-use and plug-and-play device for all operating systems like Mac, Linux, window, etc. 
+
+It comes with HDMI signal loop-out feature, which will provide you best experience, and you will enjoy the fun during recording video. If we look at software compatibility, it is compatible with OBS studio and pot player, etc. The capture can easily work with PS3, PS4, Xbox 360 and gives the user a real-time preview for ideal video recording.
 
 #### Specifications
 
