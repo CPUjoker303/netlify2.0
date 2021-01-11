@@ -14,7 +14,86 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: cc
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/cheap-capture-card-for-switch/",
+
+  "name": "The Cheap Capture Card For Switch",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/cheap-capture-card-for-switch//elikliv-usb-30-hdmi",
+
+  "@id": "elikliv-usb-30-hdmi ",
+
+  "name": "Elikliv USB 3.0 HDMI"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/cheap-capture-card-for-switch//yh-hdmi-gaming-capture-card",
+
+  "@id": "yh-hdmi-gaming-capture-card ",
+
+  "name": "Y&H HDMI Gaming Capture Card"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/cheap-capture-card-for-switch//acodot-capture-card",
+
+  "@id": "acodot-capture-card ",
+
+  "name": "Acodot Capture Card"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/cheap-capture-card-for-switch//ucec-capture-card",
+
+  "@id": "ucec-capture-card ",
+
+  "name": "UCEC Capture Card"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/cheap-capture-card-for-switch//acemax-hdmi-game-capture-card",
+
+  "@id": "acemax-hdmi-game-capture-card ",
+
+  "name": "ACEMAX HDMI Game Capture Card"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Elikliv USB 3.0 HDMI Capture Card
 pickImg: /uploads/elikliv-usb-3.0-hdmi-review.jpg
 pickLink: https://www.amazon.com/gp/product/B087CZ99D9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087CZ99D9&linkCode=as2&tag=technikaya-20&linkId=30d6d41f0022ae886a5593517ff52ea6
