@@ -272,20 +272,40 @@ The card is plug and play device, and there is no need to install any kind of dr
 
 <table>
 <tbody><tr>
-<td>Dimensions	</td>
-<td> 6 x 4 x 1.5 inches</td>
+<td>Resolution</td>
+<td>4K@30Hz</td>
 </tr>
 <tr>
-<td>Weight	      </td>
-<td> 8.6 ounces</td>
+<td>Output max resolution</td>
+<td>1920×1080P @60Hz</td>
 </tr>
 <tr>
-<td>Manufacturer	      </td>
-<td> UCEC</td>
+<td>Host Interface</td>
+<td>USB3.0.</td>
 </tr>
 <tr>
-<td>ASIN	                </td>
-<td>B088FBN3JW</td>
+<td>Output/Input Interface</td>
+<td>HDMI and Micphone</td>
+</tr>
+<tr>
+<td>Frame Rate</td>
+<td>25/29.97/30/50/59.94/60 fps</td>
+</tr>
+<tr>
+<td>Audio/Video capture</td>
+<td>UVC and UAC</td>
+</tr>
+<tr>
+<td>Software Compatibility</td>
+<td>OBS Studio ,Windows Media Encoder, Adobe Flash Media Live,QuickTime Broadcaster  </td>
+</tr>
+<tr>
+<td>Development interface compatibility</td>
+<td>DirectShow, DirectSound, V4L2</td>
+</tr>
+<tr>
+<td>Stronger Compatibility</td>
+<td>PS5, PS4, PS3, Xbox One,Nintendo Switch</td>
 </tr>
 </tbody>
 </table>
