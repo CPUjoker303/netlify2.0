@@ -15,8 +15,8 @@ tags:
 categories:
   - Reviews
 schemaMarkup: cc
-pickName: Elikliv USB 3.0 HDMI Game Capture Card
-pickImg: /uploads/elikliv.jpg
+pickName: Elikliv USB 3.0 HDMI Capture Card
+pickImg: /uploads/elikliv-usb-3.0-hdmi-review.jpg
 pickLink: https://www.amazon.com/gp/product/B087CZ99D9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087CZ99D9&linkCode=as2&tag=technikaya-20&linkId=30d6d41f0022ae886a5593517ff52ea6
 ---
 We reviewed the Cheap Capture Card For Switch. If you have ever thought to become a streamer or think before doing game streaming, you definitely know about capture cards. If you don’t know about capture cards or some questions arising in your mind, what is a capture card? Or how capture card work? Or you may have ever streamed before using OBS.
