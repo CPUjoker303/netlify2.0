@@ -10,9 +10,9 @@ metaKeywords: Best Laptop For Web Browsing And Office 2020
 url: best-laptop-for-web-browsing-and-office-2020/
 date: 2020-09-15T13:50:53.282Z
 updateDate: 2020-09-15T13:50:53.482Z
-image: /uploads/best.png
+image: /uploads/best-laptop-for-web-browsing-and-office-2021.jpg
 tags:
-  - Information
+  - Reviews
 categories:
   - Reviews
 schemaMarkup: >
