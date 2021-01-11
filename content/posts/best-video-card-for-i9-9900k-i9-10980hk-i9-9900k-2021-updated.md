@@ -9,7 +9,7 @@ metaKeywords: Best Video Card For i9 9900k
 url: best-video-card-for-i9-9900k/
 date: 2020-09-29T09:54:18.304Z
 updateDate: 2020-09-29T09:54:18.331Z
-image: /uploads/best-video-card-for-i9-9900k-i9-10980hk-i9-10900k.jpg
+image: /uploads/best-video-card-for-i9-9900k-i9-10980hk-i9-10900k-2021.jpg
 tags:
   - GRAPHICS CARDS
   - Information
