@@ -289,7 +289,7 @@ Next Acodot Capture card review. Its manufacturer is Acodot, and it works perfec
 
 It does not need any kind of driver to install. The capture card is compatible with all third-party software. The capturing card is a very easy-to-use and plug-and-play device for all operating systems like Mac, Linux, window, etc. 
 
-It comes with HDMI signal loop-out feature, which will provide you best experience, and you will enjoy the fun during recording video. If we look at software compatibility, it is compatible with OBS studio and pot player, etc. The capture can easily work with PS3, PS4, Xbox 360 and gives the user a real-time preview for ideal video recording.
+It comes with HDMI signal loop-out feature, which will provide you best experience, and you will enjoy the fun during recording video. If we look at software compatibility, it is compatible with OBS studio and pot player, etc. The capture can easily work with PS3, [PS5](https://www.digitaltrends.com/video-game-system-reviews/sony-playstation-5-review/), Xbox 360 and gives the user a real-time preview for ideal video recording.
 
 #### Specifications
 
