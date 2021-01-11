@@ -66,7 +66,7 @@ Using a capture card is best for video streaming purposes. It is effortless to u
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B088FBN3JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B088FBN3JW&linkCode=as2&tag=technikaya-20&linkId=8c5239e587bd948b0d89ea29e94f7fce" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/acemax-hdmi.jpg" alt="ACEMAX HDMI Game Capture Card" title="ACEMAX HDMI Game Capture Card"></td>
+<td class="tdimg"><img src="/uploads/acemax-hdmi-capture-card-review.jpg" alt="ACEMAX HDMI Game Capture Card" title="ACEMAX HDMI Game Capture Card"></td>
 <td>ACEMAX HDMI Game Capture Card</td>
 <td>Excellent</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07JYV9QZY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07JYV9QZY&linkCode=as2&tag=technikaya-20&linkId=3afbc5bea8c6bf858154c5ce899f44ac" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -335,11 +335,13 @@ You need a 3.5mm TRS headset to connect with a capture card. The capture card pr
 
 ### ACEMAX HDMI Game Capture Card
 
-The next one is ACEMAX HDMI Capture Card. Its weigh is 13 ounces which is equivalent to 368.544 grams. It captures your display up to 1080P. It is same as Y&H capture card because also not supports streaming. You just simply have to plug a USB flash drive to get video anywhere. It supports USB up to 128 G and  hard disk drive up  to  2 TB USB 2.0 only. 
+![ACEMAX HDMI Game Capture Card](/uploads/acemax-hdmi-capture-card-review.jpg "ACEMAX HDMI Game Capture Card")
 
-As we come to know that is not supporting video streaming just it records video and save it to selected drive. It works with only 3.5mm three sections microphone headset. The capture card is very easy to use and adjusted simply and easy to operate. It has one-touch option for handling recordings. The card is easy to connect with Nintendo switch. 
+Next ACEMAX HDMI Capture Card review. It captures your display up to 1080P. It is the same as the Y&H capture card because it also not supports streaming. You simply have to plug a USB flash drive to get the video anywhere. It supports USB up to 128 G and hard disk drive up to 2 TB USB 2.0 only.
 
-The card cannot record web online games on PC. You need a power supply DC 5V 2A to use this capture card. No need of driver to install and just only Plug & Play device. The record efficiency of this capture card is Max 140MB/minute, 8.4GB/hour. After recording video it saves video in format AVI MP4 and audio type is AAC Stereo. 
+As we come to know, that is not supporting video streaming. It just records the video and saves it to a selected drive. It works with only a 3.5mm three sections microphone headset. The capture card is straightforward to use and adjusted simply, and easy to operate. It has a one-touch option for handling recordings. The card is easy to connect with the Nintendo switch.
+
+The card cannot record web online games on a PC. You need a power supply DC 5V 2A to use this capture card. No need for the driver to install and just only the Plug & Play device. The record efficiency of this capture card is Max 140MB/minute, 8.4GB/hour. After recording the video, it saves the video in format AVI MP4, and the audio type is AAC Stereo.
 
 #### Specifications
 
