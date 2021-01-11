@@ -349,26 +349,44 @@ The card cannot record web online games on a PC. You need a power supply DC 5V 2
 
 <table>
 <tbody><tr>
-<td>Dimensions	</td>
-<td>4.33 x 2.95 x 0.94 inches</td>
+<td>HDMI</td>
+<td>WiiU,Xbox One, PS5, Nintendo Switch</td>
 </tr>
 <tr>
-<td>Weight	        </td>
-<td>13 ounces</td>
+<td>Storage Media</td>
+<td>USB Flash Disk, Portable Hard Disk(FAT, FAT32, NTFS formats)</td>
 </tr>
 <tr>
-<td>Manufacturer	</td>
-<td>acemaxtec</td>
+<td>Record Formats Video</td>
+<td>AVI MP4</td>
 </tr>
 <tr>
-<td>ASIN	        </td>
-<td>B07JYV9QZY</td>
+<td>Audio</td>
+<td>AAC Stereo</td>
+</tr>
+<tr>
+<td>Record Quality</td>
+<td>Max 18Mbps@1080P 30fps</td>
+</tr>
+<tr>
+<td>Record File</td>
+<td>Max 2GB/file</td>
+</tr>
+<tr>
+<td>Record Efficiency</td>
+<td>Max 140MB/minute, 8.4GB/hour</td>
+</tr>
+<tr>
+<td>Power Supply</td>
+<td>DC 5V 2A</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-The card looks so good and providing amazing quality but the main point about this card is that it is not supporting video streaming. Streamers can only record video by using this capture card they cannot stream video live by using this capture card like other cards. The card is compatible with most HDMI outputs. If you want to record audio voice in to your video recordings then you have to attach a 3.5mm microphone headset. If you are finding this type of capture card for only recordings then you can buy it and use it and if you want capture card with streaming option then you can also go with Y&H HDMI Capture card.
+The card looks good and provides amazing quality, but the main point about this card is not supporting video streaming. Streamers can only record video by using this capture card. They cannot stream video live by using this capture card like other cards. The card is compatible with most HDMI outputs and if you want to record audio voice into your video recordings, you have to attach a 3.5mm microphone headset. 
+
+If you find this type of capture card for only recordings, you can buy it and use it, and if you want a capture card with a streaming option, you can also go with the Y&H HDMI Capture card.
 
 {{<pros>}}
 
