@@ -48,7 +48,7 @@ Using a capture card is best for video streaming purposes. It is effortless to u
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B087CZ99D9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087CZ99D9&linkCode=as2&tag=technikaya-20&linkId=d1460a869fc32e6ed08b93b621c215d8" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/y-h.jpg" alt="Y&H HDMI Game Capture Card,Full HD" title="Y&H HDMI Game Capture Card,Full HD"></td>
+<td class="tdimg"><img src="/uploads/y-h-hdmi-capture-card.jpg" alt="Y&H HDMI Game Capture Card,Full HD" title="Y&H HDMI Game Capture Card,Full HD"></td>
 <td>Y&H HDMI Game Capture Card,Full HD</td>
 <td>Great</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B078M15WK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078M15WK4&linkCode=as2&tag=technikaya-20&linkId=adea1386a5f6ccdd645b0a40dac01a1d" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -203,17 +203,6 @@ The card is perfect for quality video recording, but the only thing which is not
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B078M15WK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078M15WK4&linkCode=as2&tag=technikaya-20&linkId=adea1386a5f6ccdd645b0a40dac01a1d{{</button>}}
 
 ### Acodot Capture Card
-
-{{<singlep pimg="/uploads/acodot-capture-card.jpg" pname="Acodot Capture Card" plink="https://www.amazon.com/gp/product/B08DXJ2WWZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08DXJ2WWZ&linkCode=as2&tag=technikaya-20&linkId=9d971958ffa9a2212d638b30115914df">}}
-
-1. It works with work for Nintendo Switch
-2. The capture card can also live stream easily
-3. It comes with HDMI signal loop out feature 
-4. Can stream up to 1080p easily
-
-{{</singlep>}}
-
-[![](/uploads/acodot-capture-card.jpg)](https://www.amazon.com/gp/product/B08DXJ2WWZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08DXJ2WWZ&linkCode=as2&tag=technikaya-20&linkId=9d971958ffa9a2212d638b30115914df)
 
 The next one is Acodot Capture card. Its manufacturer is Acodot. Its weight is 4.1 ounces which equal to 116.233 grams. It works with work for Nintendo Switch. It also works with OBS studio software.  The capture card is compatible with many operating systems. The capture card can also live stream easily. It does not need any kind of drivers to install.  The capture card is compatible with all third party software. 
 
