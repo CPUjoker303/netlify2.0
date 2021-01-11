@@ -44,31 +44,31 @@ Using a capture card is best for video streaming purposes. It is effortless to u
 <tr>
 <td class="tdimg"><img src="/uploads/elikliv-usb-3.0-hdmi-review.jpg" alt="Elikliv USB 3.0 HDMI Game Capture Card" title="Elikliv USB 3.0 HDMI Game Capture Card"></td>
 <td>Elikliv USB 3.0 HDMI Game Capture Card</td>
-<td>Excellent</td>
+<td>Best Usb Capture Card</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B087CZ99D9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087CZ99D9&linkCode=as2&tag=technikaya-20&linkId=d1460a869fc32e6ed08b93b621c215d8" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/y-h-hdmi-capture-card.jpg" alt="Y&H HDMI Game Capture Card,Full HD" title="Y&H HDMI Game Capture Card,Full HD"></td>
 <td>Y&H HDMI Game Capture Card,Full HD</td>
-<td>Great</td>
+<td>Best Cheap Hd Capture Card</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B078M15WK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078M15WK4&linkCode=as2&tag=technikaya-20&linkId=adea1386a5f6ccdd645b0a40dac01a1d" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/acodot-capture-card-review.jpg" alt="Acodot Capture Card" title="Acodot Capture Card"></td>
 <td>Acodot Capture Card</td>
-<td>Good</td>
+<td>Capture Card Best</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B08G186585/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B08G186585&linkId=3f1447ec6efd896a614aed9129a1adc5" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/ucec-capture-card-review.jpg" alt="UCEC Game Capture Card" title="UCEC Game Capture Card"></td>
 <td>UCEC Game Capture Card</td>
-<td>Great</td>
+<td>Best Capture Card For Consoles</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B088FBN3JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B088FBN3JW&linkCode=as2&tag=technikaya-20&linkId=8c5239e587bd948b0d89ea29e94f7fce" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/acemax-hdmi-capture-card-review.jpg" alt="ACEMAX HDMI Game Capture Card" title="ACEMAX HDMI Game Capture Card"></td>
 <td>ACEMAX HDMI Game Capture Card</td>
-<td>Excellent</td>
+<td>Budget Capture Card</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07JYV9QZY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07JYV9QZY&linkCode=as2&tag=technikaya-20&linkId=3afbc5bea8c6bf858154c5ce899f44ac" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 </tbody>
@@ -142,7 +142,7 @@ The capture card is very versatile and reliable, and in price, it is cheap, and 
 
 ![Y&H HDMI Gaming Capture Card](/uploads/y-h-hdmi-capture-card.jpg "Y&H HDMI Gaming Capture Card")
 
-Next Y&H HDMI capture card review. It is manufactured by Y&H. the capture card has a 1080P HDMI Recorder. It can capture games and videos up to1080P and save recordings to a USB drive or in HDD.
+Next Y&H HDMI capture card review. It is manufactured by Y&H. the capture card has a 1080P [HDMI](https://en.wikipedia.org/wiki/HDMI) Recorder. It can capture games and videos up to1080P and save recordings to a USB drive or in HDD.
 
 The bad thing about this capture card is that it does not support live streaming. It does not work with OBS studio or other streaming software. It only records display and sends it to HDD or USB flash drive. It is supporting a USB up to 128 GB and HDD up to 2 TB. It does not work with pc directly. It only supports 3.5mm TRS headsets only.
 
@@ -262,7 +262,7 @@ This capture card will give you a lag-free experience, and you will get the best
 
 ![UCEC Capture Card](/uploads/ucec-capture-card-review.jpg "UCEC Capture Card")
 
-Next UCEC capture card review. It is a USB 3.0 HDMI Video Capture Card, and it has a USB 3.0 Cable. You can record videos in full high definition quality up to 1080p, and it allows you are inputting a 4K 30fps HDMI signal.You can do live video streaming easily and also can share the screen for online meetings etc. 
+Next UCEC capture card review. It is a USB 3.0 HDMI Video Capture Card, and it has a USB 3.0 Cable. You can record videos in full high definition quality up to 1080p, and it allows you are inputting a 4K 30fps HDMI signal. You can do live video streaming easily and also can share the screen for online meetings etc. 
 
 The card is plug and play device, and there is no need to install any kind of driver to play this device. You only have to connect this device and start recording your screen in the best quality. The capture card supports live video streams; Facebook lives, live broadcasting, video recordings, etc.
 
