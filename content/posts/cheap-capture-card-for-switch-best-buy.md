@@ -138,60 +138,68 @@ The capture card is very versatile and reliable, and in price, it is cheap, and 
 <li>May issues occur.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B087CZ99D9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B087CZ99D9&linkCode=as2&tag=technikaya-20&linkId=d1460a869fc32e6ed08b93b621c215d8{{</button>}}
 
-### Y&H HDMI Game Capture Card,Full HD
+### Y&H HDMI Gaming Capture Card
 
-{{<singlep pimg="/uploads/y-h.jpg" pname="Y&H HDMI Game Capture Card" plink="https://www.amazon.com/gp/product/B078M15WK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078M15WK4&linkCode=as2&tag=technikaya-20&linkId=adea1386a5f6ccdd645b0a40dac01a1d">}}
+![Y&H HDMI Gaming Capture Card](/uploads/y-h-hdmi-capture-card.jpg "Y&H HDMI Gaming Capture Card")
 
-1. The capture card has 1080P HDMI Recorder
-2. It only records display 
-3. It only supports 3.5mm TRS headsets only
-4. The image quality of this card is good
+Next Y&H HDMI capture card review. It is manufactured by Y&H. the capture card has a 1080P HDMI Recorder. It can capture games and videos up to1080P and save recordings to a USB drive or in HDD.
 
-{{</singlep>}}
+The bad thing about this capture card is that it does not support live streaming. It does not work with OBS studio or other streaming software. It only records display and sends it to HDD or USB flash drive. It is supporting a USB up to 128 GB and HDD up to 2 TB. It does not work with pc directly. It only supports 3.5mm TRS headsets only.
 
-[![](/uploads/y-and-h.jpeg)](https://www.amazon.com/gp/product/B078M15WK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078M15WK4&linkCode=as2&tag=technikaya-20&linkId=adea1386a5f6ccdd645b0a40dac01a1d)
+It has a button that is used as a one-touch record. It does not record a party chat. The capture card only works with HDMI devices. The image quality of this card is good. The card is perfect, but the main point is that it cannot work for streaming, and you can use it for recording purposes only. 
 
-The next one is Y&H HDMI gaming capture card. Its weight is 12.2 ounces which is equivalent to 345.8642 grams. Its dimensions are 6.38 x 4.65 x 3.39 inches. It is manufactured by Y&H. the capture card has 1080P HDMI Recorder. It is able to capture games and videos up to1080P and save recordings to USB drive or in HDD. 
+If you want to record your voice, you can connect the microphone, which has a 3.5mm TRS audio jack only, and after plugging the Mic with a capture card, you can record your voice during playing games.
 
-The bad thing about this capture card is that it does not support live streaming. It does not work with OBS studio or other streaming software. It only records display and send it to HDD or USB flash drive. It is supporting USB up to 128 GB and HDD up to 2 TB. It does not work with pc directly. It only supports 3.5mm TRS headsets only. 
-
-It has a button which is used as one touch record. It is not record a party chat. The capture card only works with HDMI devices. The image quality of this card is good. The card is very good but main point is that is not able to for streaming and you can only use it for recording purpose only. If you want to record your voice then you can connect microphone which has  3.5mm TRS audio jack only and after plugging the Mic with capture card you are able  to  record your voice during playing games. 
-
-#### Specifications:
+#### Specifications
 
 {{<html-code tag="div">}}
 
 <table>
 <tbody><tr>
-<td>Package Dimensions	</td>
-<td>6.38 x 4.65 x 3.39 inches</td>
+<td>Interface	True</td>
+<td>USB3.0</td>
 </tr>
 <tr>
-<td>Item Weight	       </td>
-<td> 12.2 ounces</td>
+<td>Video Audio</td>
+<td>Input</td>
 </tr>
 <tr>
-<td>Manufacturer	        </td>
-<td>Y&H</td>
+<td>Compatible system</td>
+<td>Windows, Mac os x, Linux</td>
 </tr>
 <tr>
-<td>ASIN	                </td>
-<td>B078M15WK4</td>
+<td>Live Streaming</td>
+<td>OBS studio, Potplayer and VLC</td>
+</tr>
+<tr>
+<td>Video Conferencing</td>
+<td>Zoom, Skype for Business, WebEx, BlueJeans</td>
+</tr>
+<tr>
+<td>Video Recording</td>
+<td>Yes, videos at 60Hz</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-The caprture card has zero Latency Loo HDMI you can easily enjoy 1080P 30fps video quality easily. It only records pc video only and will record no audio. For the ezcap280H HDMI channel in this capture card there is no audio output. The card is perfect for quality video recording but only thing which is not good about this capture card is  that it is not for streaming. So, if any of you is looking a capture card for display recording only then you can go with this card.
+The capture card has zero Latency Loo HDMI. You can enjoy 1080P 30fps video quality easily. It records pc video only and will record no audio. For the ezcap280H HDMI channel in this capture card, there is no audio output. 
+
+The card is perfect for quality video recording, but the only thing which is not good about this capture card is that it is not for streaming. If any of you is looking for a capture card for display recording, only then can you go with this card.
 
 {{<pros>}}
 
-<li>Quality of this card is good</li>
-<li>Able to capture games and videos up to1080P</li>
-<li>Save recordings to USB drive or in HDD.</li>
+<li>High-speed USB 3.0 technology.</li>
+<li>No driver required.</li>
+<li>Enjoy Low latency game, meeting, live streaming.</li>
+<li>4k @ 30hz video recording.</li>
+<li>You don't need any adapter.</li>
+<li>Live RTMP streaming card.</li>
+<li>Easily connect with DSLR.</li>
+<li>Easily Phone/DSLR camera convert to Webcam.</li>
 {{</pros>}}
 {{<cons>}}
-<li> only records display</li>
+<li>May issues occur.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B078M15WK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078M15WK4&linkCode=as2&tag=technikaya-20&linkId=adea1386a5f6ccdd645b0a40dac01a1d{{</button>}}
 
 ### Acodot Capture Card
