@@ -271,7 +271,7 @@ These mobos only support 8/9th generation of Intel Core processors and for Ryzen
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07SW925DQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07SW925DQ&linkCode=as2&tag=technikaya-20&linkId=073d2dd38283d4b16f2bab40587dd8bc" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/asus-prime-x570-p-.png" alt="ASUS Prime X570-P " title="ASUS Prime X570-P "></td>
+<td class="tdimg"><img src="/uploads/asus-prime-x570-p-review.jpg" alt="ASUS Prime X570-P " title="ASUS Prime X570-P "></td>
 <td>ASUS Prime X570-P </td>
 <td>PERFECT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07SW925DR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07SW925DR&linkCode=as2&tag=technikaya-20&linkId=2332429700f48eee8b105ad893a436f5" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -577,48 +577,62 @@ The PCB is black and has white stripes, a heat sink, and VRM. It is one of the w
 
 <table>
 <tbody><tr>
-<td>Memory Speed		</td>
-<td>2133 MHz</td>
+<td>PCI Express x1</td>
+<td>3 x PCIe 4.0 x1</td>
 </tr>
 <tr>
-<td>Product Dimensions		</td>
-<td>13.31 x 10.74 x 2.68 inches</td>
+<td>SATA RAID</td>
+<td>0/1/10</td>
 </tr>
 <tr>
-<td>Manufacturer	       	</td>
-<td>Asus</td>
+<td>Audio Chipset</td>
+<td>Realtek S1220A High Definition Audio</td>
 </tr>
 <tr>
-<td>ASIN	             </td>
-<td>B07SW925DQ</td>
+<td>LAN Chipset</td>
+<td>Intel i211AT</td>
+</tr>
+<tr>
+<td>Max LAN Speed</td>
+<td>10/100/1000Mbps</td>
+</tr>
+<tr>
+<td>Form Factor</td>
+<td>ATX</td>
+</tr>
+<tr>
+<td>LED Lighting</td>
+<td>RGB</td>
+</tr>
+<tr>
+<td>Channel Supported</td>
+<td>Dual Channel</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-It has three M.2 slots with white heatsinks and six SATA ports. For memory, it got four DDR4 RAM slots with memory size up to 128GB. It had three PCIx16 slots with 2-WAY SLI and 3-WAY CrossfireX support. This motherboard had a lot of features like built-in wifi card, USB 3.1 Type-C support, RGB support so you can use white light and make it much brighter. Its overclocking and cooling functions are significant enough to consider it for your white gaming PC.
+It has three M.2 slots with white heatsinks and six SATA ports. For memory, it got four DDR4 RAM slots with memory size up to 128GB. It had three PCIx16 slots with 2-WAY SLI and 3-WAY CrossfireX support. 
+
+This motherboard had a lot of features like built-in wifi card, USB 3.1 Type-C support, RGB support so you can use white light and make it much brighter. Its overclocking and cooling functions are significant enough to consider it for your white gaming PC.
 
 {{<pros>}}
 
 <li>Overall great design.</li>
 <li>Great overclocking capability.</li>
-<li>Metal covered PCI slots</li>
+<li>Metal covered PCI slots.</li>
 {{</pros>}}
 {{<cons>}}
-<li>Software need to be cleaned up</li>
+<li>Software need to be cleaned up.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07SW925DQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07SW925DQ&linkCode=as2&tag=technikaya-20&linkId=073d2dd38283d4b16f2bab40587dd8bc{{</button>}}
 
 ### ASUS Prime X570-P
 
-{{<singlep pimg="/uploads/asus-prime-x570-p-.png" pname="ASUS Prime X570-P" plink="https://www.amazon.com/gp/product/B07SW925DR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07SW925DR&linkCode=as2&tag=technikaya-20&linkId=2332429700f48eee8b105ad893a436f5">}}
-	Three M.2 slots
-	USB 3.1 Type-C ports
-	x16 slot and one PCIx4 slot
-	RGB support
+![ASUS Prime X570-P](/uploads/asus-prime-x570-p-review.jpg "ASUS Prime X570-P")
 
-{{</singlep>}}
+ASUS Prime X570-P is just an alternative of X570-pro is you are tight on budget and don't want to spend much on the motherboard. Like other ASUS Prime motherboards, it got the same black colored motherboard with white stripes on it. 
 
-ASUS Prime X570-P is just an alternative of X570-pro is you are tight on budget and don't want to spend much on the motherboard. Like other ASUS Prime motherboards, it got the same black colored motherboard with white stripes on it. In this mid-range motherboard, you are going to get PCIe Gen 4 slot with three M.2 slots and several USB 3.1 Type-C ports. 
+In this mid-range motherboard, you are going to get PCIe Gen 4 slot with three M.2 slots and several USB 3.1 Type-C ports. It contains black and white color but if you want to add some more colors, RGB support is always there.
 
 #### Specifications
 
@@ -626,39 +640,76 @@ ASUS Prime X570-P is just an alternative of X570-pro is you are tight on budget 
 
 <table>
 <tbody><tr>
-<td>Memory Speed		</td>
-<td>2133 MHz</td>
+<td>Brand</td>
+<td>ASUS</td>
 </tr>
 <tr>
-<td>Wireless Type		</td>
-<td>Bluetooth</td>
-</tr>
-<tr>
-<td>Series		</td>
+<td>Model</td>
 <td>PRIME X570-P</td>
 </tr>
 <tr>
-<td>ASIN		</td>
-<td>B07SW925DR</td>
+<td>CPU Socket Type</td>
+<td>AM4</td>
+</tr>
+<tr>
+<td>Chipset</td>
+<td>AMD X570</td>
+</tr>
+<tr>
+<td>Number of Memory Slots</td>
+<td>4×288pin</td>
+</tr>
+<tr>
+<td>Supported</td>
+<td>128GB</td>
+</tr>
+<tr>
+<td>Channel Supported</td>
+<td>Dual Channel</td>
+</tr>
+<tr>
+<td>PCI Express x1</td>
+<td>3 x PCIe 4.0 x1</td>
+</tr>
+<tr>
+<td>SATA 6Gb/s</td>
+<td>6 x SATA 6Gb/s</td>
+</tr>
+<tr>
+<td>SATA RAID</td>
+<td>0/1/10</td>
+</tr>
+<tr>
+<td>LAN Chipset</td>
+<td>Realtek RTL8111H</td>
+</tr>
+<tr>
+<td>Max LAN Speed</td>
+<td>10/100/1000Mbps</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-There are one x16 slot and one PCIx4 slot, which might cause some problem in Crossfire. If you are not going to use high-end AMD GPU, this might be the perfect option for you because of its pricing and performance. It contains black and white color but if you want to add some more colors, RGB support is always there.
+There are one x16 slot and one PCIx4 slot, which might cause some problem in Crossfire. If you are not going to use high-end AMD GPU, this might be the perfect option for you because of its pricing and performance. 
 
 {{<pros>}}
 
 <li>Solid design.</li>
-<li>Overall great performance.</li>
-<li>Good performance. </li>
+<li>Great performance.</li>
+<li>Mid-range motherboard.</li>
+<li>RGB support.</li>
 {{</pros>}}
 {{<cons>}}
-<li>Doesn\'t have built-in WiFi.</li>
+<li>Doesn't have built-in WiFi</li>
 <li>Lacks some features.</li>
-<li>Software need to be clean up.</li>
+<li>Software need to be clean.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07SW925DR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07SW925DR&linkCode=as2&tag=technikaya-20&linkId=2332429700f48eee8b105ad893a436f5{{</button>}}
 
 ## Conclusion - Best White Motherboards For Gaming 2020
 
-As I said earlier, the White build is the pure love of every PC gamer, but most of them don't go for them due to a lack of components. There MSI H310M GAMING ARCTIC is an entry-level motherboard with no overclocking capabilities. If you want something more powerful, you can go for ASUS Prime Z390-A or ASUS Prime Z390-P as there is not much difference in them except their design. But both of these motherboards are mid rage mobos, so for enthusiast builds, you need something even more powerful. For AMD, ASUS Prime X470-Pro is an entry-level motherboard, while for a few more buck or maybe for the same price, you can get an MSI B450 Tomahawk. The main difference in both of these boards is the overclocking of B450 under its price. If you want something more powerful, you can consider X570 chipset motherboards as they are used for mid-range builds and have high overclocking power. But make sure X570 is not that cheap like B450 boards.
+As I said earlier, the White build is the pure love of every PC gamer, but most of them don't go for them due to a lack of components. There MSI H310M GAMING ARCTIC is an entry-level motherboard with no overclocking capabilities. 
+
+If you want something more powerful, you can go for ASUS Prime Z390-A or ASUS Prime Z390-P as there is not much difference in them except their design. But both of these motherboards are mid rage mobos, so for enthusiast builds, you need something even more powerful. 
+
+For AMD, ASUS Prime X470-Pro is an entry-level motherboard, while for a few more buck or maybe for the same price, you can get an MSI B450 Tomahawk. The main difference in both of these boards is the overclocking of B450 under its price. If you want something more powerful, you can consider X570 chipset motherboards as they are used for mid-range builds and have high overclocking power. But make sure X570 is not that cheap like B450 boards.
