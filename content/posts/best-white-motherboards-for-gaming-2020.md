@@ -228,8 +228,6 @@ White colour is very charming and unique, and if you are building a white build,
 
 These mobos only support 8/9th generation of Intel Core processors and for Ryzen, only 2/3 generation processors. There is also a short review of each motherboard from which you can check out its general specifications. Best White Motherboards There, we are going to start our list with MSI H310M GAMING ARCTIC. Note that all of these motherboards don't support old components. These boards are only made to work with Intel Coffee Lake processors.
 
-
-
 ## The Best White Motherboards For Gaming 2021
 
 {{<html-code tag="div">}}
@@ -243,7 +241,7 @@ These mobos only support 8/9th generation of Intel Core processors and for Ryzen
 <th><strong>Check</strong></th>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/msi-h310m-gaming-arctic.jpeg" alt="MSI H310M GAMING ARCTIC" title="MSI H310M GAMING ARCTIC"></td>
+<td class="tdimg"><img src="/uploads/msi-h310m-gaming-arctic-review.jpg" alt="MSI H310M GAMING ARCTIC" title="MSI H310M GAMING ARCTIC"></td>
 <td>MSI H310M GAMING ARCTIC</td>
 <td>GOOD</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07BZ3NBZZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07BZ3NBZZ&linkCode=as2&tag=technikaya-20&linkId=6a6ffd4a7899840f70e8c1af8e08f120" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -284,17 +282,15 @@ These mobos only support 8/9th generation of Intel Core processors and for Ryzen
 
 ### MSI H310M GAMING ARCTIC
 
-{{<singlep pimg="/uploads/msi-h310m-gaming-arctic.jpeg" pname="MSI H310M GAMING ARCTIC" plink="https://www.amazon.com/gp/product/B07BZ3NBZZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07BZ3NBZZ&linkCode=as2&tag=technikaya-20&linkId=6a6ffd4a7899840f70e8c1af8e08f120">}}
-	Excellent overclocking performance 
-	Easy installation of components
-	Two Ram Slots Only
-	High overclocking power
+![MSI H310M GAMING ARCTIC](/uploads/msi-h310m-gaming-arctic-review.jpg "MSI H310M GAMING ARCTIC")
 
-{{</singlep>}}
 
-Motherboards are famous because of their white color, and they are pure white motherboards for a white PC build. This motherboard has a black and white combination, and most of the components, including the PCB, is white. The LGA 1151 socket supports up to Intel 8th and 9th generation processors, but the h310 chipset is the primary chipset in Intel motherboards. Still, it is a great budget gaming motherboard in such a price with reliable performance and design. 
 
-The main problem of this motherboard with most gamers is you can't overclock your components with it. For a few more bucks, you can get a good option, but overall at this price, it is not a bad deal. You might be thinking that what is interesting in this motherboard? It had an M.2 port with NVMe support, which supports data transfer rate up to 20GBPS, several USB 3.1 ports; the software package of this motherboard is also excellent. 
+Motherboards are famous because of their white color, and they are pure white motherboards for a white PC build. This motherboard has a black and white combination, and most of the components, including the PCB, is white. 
+
+The LGA 1151 socket supports up to Intel 8th and 9th generation processors, but the h310 chipset is the primary chipset in Intel motherboards. Still, it is a great budget gaming motherboard in such a price with reliable performance and design. The main problem of this motherboard with most gamers is you can't overclock your components with it. 
+
+For a few more bucks, you can get a good option, but overall at this price, it is not a bad deal. You might be thinking that what is interesting in this motherboard? It had an M.2 port with NVMe support, which supports data transfer rate up to 20GBPS, several USB 3.1 ports; the software package of this motherboard is also excellent. 
 
 #### Specifications
 
@@ -302,26 +298,46 @@ The main problem of this motherboard with most gamers is you can't overclock you
 
 <table>
 <tbody><tr>
-<td>Memory Speed	</td>
-<td>2666 MHz</td>
-</tr>
-<tr>
-<td>Number of USB 2.0 Ports		</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Series	</td>
-<td>H310M GAMING ARCTIC</td>
-</tr>
-<tr>
-<td>Brand		</td>
+<td>Manufacturer</td>
 <td>MSI</td>
+</tr>
+<tr>
+<td>Socket / CPU</td>
+<td>LGA1151</td>
+</tr>
+<tr>
+<td>Form Factor</td>
+<td>Micro ATX</td>
+</tr>
+<tr>
+<td>Memory Max</td>
+<td>32 GB</td>
+</tr>
+<tr>
+<td>Memory Type</td>
+<td>DDR4</td>
+</tr>
+<tr>
+<td>Memory Speed</td>
+<td>DDR4-2133, DDR4-2400, DDR4-2666</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>White</td>
+</tr>
+<tr>
+<td>M.2 Slots</td>
+<td>2242/2260/2280 M-key</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-It had plenty of fan headers and much more. For some users, there is a problem with the onboard RGB controller as it only supports red lights, but we are considering it for a white build, we don't need them. This motherboard is good in all ways, but if you can afford a few more bucks, there are some other choices too. The bad in this motherboard is only two RAM slots and one PCI slot, and it is not made for enthusiast builds. This motherboard also lacks a postcode display, so you can't get post errors on it, and it is hard to find them. Although if you don't want to spend much on the motherboard and to save money for other components, this might be a good deal for you.
+It had plenty of fan headers and much more. For some users, there is a problem with the onboard RGB controller as it only supports red lights, but we are considering it for a white build, we don't need them. 
+
+This motherboard is good in all ways, but if you can afford a few more bucks, there are some other choices too. The bad in this motherboard is only two RAM slots and one PCI slot, and it is not made for enthusiast builds. 
+
+This motherboard also lacks a postcode display, so you can't get post errors on it, and it is hard to find them. Although if you don't want to spend much on the motherboard and to save money for other components, this might be a good deal for you.
 
 {{<pros>}}
 
@@ -329,7 +345,6 @@ It had plenty of fan headers and much more. For some users, there is a problem w
 <li>Plenty Of Fan Headers.</li>
 <li>M.2 and NVMe support.</li>
 <li>Great Connectivity Options.</li>
-<li></li>
 {{</pros>}}
 {{<cons>}}
 <li>Only two RAM slots.</li>
