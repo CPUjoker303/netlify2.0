@@ -64,13 +64,13 @@ These mobos only support 8/9th generation of Intel Core processors and for Ryzen
 <tr>
 <td class="tdimg"><img src="/uploads/asus-prime-x570-pro-review.jpg" alt="ASUS Prime X570-Pro" title="ASUS Prime X570-Pro"></td>
 <td>ASUS Prime X570-Pro</td>
-<td>PERFECT</td>
+<td>Best x570 Motherboard 2021</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07SW925DQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07SW925DQ&linkCode=as2&tag=technikaya-20&linkId=073d2dd38283d4b16f2bab40587dd8bc" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/asus-prime-x570-p-review.jpg" alt="ASUS Prime X570-P " title="ASUS Prime X570-P "></td>
 <td>ASUS Prime X570-P </td>
-<td>PERFECT</td>
+<td>Best ASUS Prime</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07SW925DR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07SW925DR&linkCode=as2&tag=technikaya-20&linkId=2332429700f48eee8b105ad893a436f5" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 </tbody>
