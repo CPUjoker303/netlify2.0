@@ -259,13 +259,13 @@ These mobos only support 8/9th generation of Intel Core processors and for Ryzen
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07C57Q1XH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07C57Q1XH&linkCode=as2&tag=technikaya-20&linkId=e205bfec800feac1f2812196ca199b29" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/msi-b450m-mortar-titanium.jpg" alt="MSI B450M MORTAR TITANIUM" title="MSI B450M MORTAR TITANIUM"></td>
+<td class="tdimg"><img src="/uploads/msi-b450m-mortar-titanium-review.jpg" alt="MSI B450M MORTAR TITANIUM" title="MSI B450M MORTAR TITANIUM"></td>
 <td>MSI B450M MORTAR TITANIUM</td>
 <td>PERFECT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07FQCSVYC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FQCSVYC&linkCode=as2&tag=technikaya-20&linkId=c027400f43ce63a055209c993eb48b6b" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/asus-prime-x570-pro.jpg" alt="ASUS Prime X570-Pro" title="ASUS Prime X570-Pro"></td>
+<td class="tdimg"><img src="/uploads/asus-prime-x570-pro-review.jpg" alt="ASUS Prime X570-Pro" title="ASUS Prime X570-Pro"></td>
 <td>ASUS Prime X570-Pro</td>
 <td>PERFECT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07SW925DQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07SW925DQ&linkCode=as2&tag=technikaya-20&linkId=073d2dd38283d4b16f2bab40587dd8bc" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -497,15 +497,11 @@ It is an entry-level motherboard and can't be used for overclocking if you want 
 
 ### MSI B450M MORTAR TITANIUM
 
-{{<singlep pimg="/uploads/msi-b450m-mortar-titanium.jpg" pname="MSI B450M MORTAR TITANIUM" plink="https://www.amazon.com/gp/product/B07FQCSVYC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FQCSVYC&linkCode=as2&tag=technikaya-20&linkId=c027400f43ce63a055209c993eb48b6b">}}
-	low-cost alternative 
-	fantastic design
-	pure white color with some red RGB lights 
-	4 RAM slots
+![MSI B450M MORTAR TITANIUM](/uploads/msi-b450m-mortar-titanium-review.jpg "MSI B450M MORTAR TITANIUM")
 
-{{</singlep>}}
+MSI B450M MORTAR TITANIUM is a pure white motherboard with some black slots and components on it. If you are looking for a white motherboard, you can consider this one. 
 
-MSI B450M MORTAR TITANIUM is a pure white motherboard with some black slots and components on it. If you are looking for a white motherboard, you can consider this one. This motherboard is a part of the MSI Arsenal Gaming collection, or you can call it a low-cost alternative of it with a fantastic design. The B450M MORTAR TITANIUM is of pure white color with some red RGB lights on the right side of it to give it a great touch. 
+This motherboard is a part of the MSI Arsenal Gaming collection, or you can call it a low-cost alternative of it with a fantastic design. The B450M MORTAR TITANIUM is of pure white color with some red RGB lights on the right side of it to give it a great touch. 
 
 ### Specifications
 
@@ -513,48 +509,67 @@ MSI B450M MORTAR TITANIUM is a pure white motherboard with some black slots and 
 
 <table>
 <tbody><tr>
-<td>Brand		</td>
-<td>MSI</td>
+<td>Chipset</td>
+<td>AMD B450</td>
 </tr>
 <tr>
-<td>Product Dimensions		</td>
-<td>24.4 x 24.4 x 3 cm</td>
+<td>CPU Socket</td>
+<td>AM4</td>
 </tr>
 <tr>
-<td>Manufacturer		</td>
-<td>MSI COMPUTER</td>
+<td>Back Panel</td>
+<td>I/O</td>
 </tr>
 <tr>
-<td>ASIN		</td>
-<td>B07FQCSVYC</td>
+<td>Memory Slots</td>
+<td>4 x 288-Pin</td>
+</tr>
+<tr>
+<td>Buttons</td>
+<td>BIOS Flashback</td>
+</tr>
+<tr>
+<td>Audio</td>
+<td>5 x 3.5 mm</td>
+</tr>
+<tr>
+<td>SATA</td>
+<td>4 x SATA III</td>
+</tr>
+<tr>
+<td>RAID Support</td>
+<td>RAID 0, 1, 10 (SATA) RAID 0, 1 (M.2)</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-This motherboard is micro ATX with 4 RAM slots and supports memory up to 64GB and memory clock up to 3466MHz. For storage, it got two M.2 slots and four SATA slots, two PCI x16 slots, and support CrossfireX. It features USB 3.1, both Type-A and Type-C support, and LAN with five audio 3.5mm jacks. If you are looking for a pure white motherboard with good design and performance, you can go with this one.
+This motherboard is micro ATX with 4 RAM slots and supports memory up to 64GB and memory clock up to 3466MHz. For storage, it got two M.2 slots and four SATA slots, two PCI x16 slots, and support CrossfireX. 
+
+It features USB 3.1, both Type-A and Type-C support, and LAN with five audio 3.5mm jacks. If you are looking for a pure white motherboard with good design and performance, you can go with this one.
 
 {{<pros>}}
 
+<li>Low-cost alternative.</li>
+<li>	</li>
+<li>Fantastic design.</li>
+<li>Pure white color with some red RGB lights.</li>
+<li>4 RAM slots.</li>
 <li>Great white color.</li>
 <li>Two M.2 slots.</li>
-<li>Five Audio jacks</li>
+<li>Five Audio jacks.</li>
 {{</pros>}}
 {{<cons>}}
-<li>No SLI support</li>
+<li>No SLI support.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07FQCSVYC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FQCSVYC&linkCode=as2&tag=technikaya-20&linkId=c027400f43ce63a055209c993eb48b6b{{</button>}}
 
 ### ASUS Prime X570-Pro
 
-{{<singlep pimg="/uploads/asus-prime-x570-pro.jpg" pname="ASUS Prime X570-Pro" plink="https://www.amazon.com/gp/product/B07SW925DQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07SW925DQ&linkCode=as2&tag=technikaya-20&linkId=073d2dd38283d4b16f2bab40587dd8bc">}}
-	Great design
-	PCB is black and has white stripes
-	Supports the X570 chipset
-	High-performance motherboard
+![ASUS Prime X570-Pro](/uploads/asus-prime-x570-pro-review.jpg "ASUS Prime X570-Pro")
 
-{{</singlep>}}
+It is equipped with the AM4 socket and is compatible with all second and third-generation Ryzen processors. This motherboard gives a reliable performance in overclocking and have a great design. 
 
-It is equipped with the AM4 socket and is compatible with all second and third-generation Ryzen processors. This motherboard gives a reliable performance in overclocking and have a great design. The PCB is black and has white stripes, a heat sink, and VRM. It is one of the white motherboards that supports the X570 chipset. The X570-Pro is a high-performance motherboard in the market with such great features. 
+The PCB is black and has white stripes, a heat sink, and VRM. It is one of the white motherboards that supports the X570 chipset. The X570-Pro is a high-performance motherboard in the market with such great features. 
 
 ### Specifications
 
