@@ -247,7 +247,7 @@ These mobos only support 8/9th generation of Intel Core processors and for Ryzen
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07BZ3NBZZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07BZ3NBZZ&linkCode=as2&tag=technikaya-20&linkId=6a6ffd4a7899840f70e8c1af8e08f120" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/asus-prime-z390.jpg" alt="ASUS Prime Z390" title="ASUS Prime Z390"></td>
+<td class="tdimg"><img src="/uploads/asus-prime-z390-review.jpg" alt="ASUS Prime Z390" title="ASUS Prime Z390"></td>
 <td>ASUS Prime Z390</td>
 <td>GREAT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07HCY7K9L/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07HCY7K9L&linkCode=as2&tag=technikaya-20&linkId=d72ba41710468a4b1e340bf83d2a667d" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -352,36 +352,52 @@ This motherboard also lacks a postcode display, so you can't get post errors on 
 
 ### ASUS Prime Z390
 
-{{<singlep pimg="/uploads/asus-prime-z390.jpg" pname="ASUS Prime Z390" plink="https://www.amazon.com/gp/product/B07HCY7K9L/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07HCY7K9L&linkCode=as2&tag=technikaya-20&linkId=d72ba41710468a4b1e340bf83d2a667d">}}
-	Black and white color combination 
-	Mid-range builds
-	High overclocking power 
-	Four SATA slots
+![ASUS Prime Z390](/uploads/asus-prime-z390-review.jpg "ASUS Prime Z390")
 
-{{</singlep>}}
+The ASUS Prime Z390 is one of the best motherboards for the latest generation of Intel processors. The main reason to consider this motherboard is its excellent overclocking performance and easy installation of components in it. 
 
-The ASUS Prime Z390 is one of the best motherboards for the latest generation of Intel processors. The main reason to consider this motherboard is its excellent overclocking performance and easy installation of components in it. This motherboard is not purely white; it had a black and white color combination with PCB in black color and had a white accent on it. The chipset heatsink and IO backplate are white, which makes it considerable for white PC.Z390-A features two M.2 slots with memory support up to 64 GB and four memory slots. It features some heat sinks, and the overclocking capability of this motherboard is excellent.
+This motherboard is not purely white; it had a black and white color combination with PCB in black color and had a white accent on it. The chipset heatsink and IO backplate are white, which makes it considerable for white PC.Z390-A features two M.2 slots with memory support up to 64 GB and four memory slots. It features some heat sinks, and the overclocking capability of this motherboard is excellent.
 
-It supports multi GPU, but you can't use Nvidia SLI as it only supports CrossfireX. You can add RGB lights to this motherboard and use white lights for your white gaming PC. This motherboard can be used for all mid-range builds. Still, overall in that price, this motherboard had a great design and provided reliable performance. If you want something better than H310M GAMING ARCTIC, you can go for it. Its high overclocking power and with that features this motherboard worth a single penny. There is also a similar variant of this motherboard ASUS Prime Z390-P. Take a look at it.
+It supports multi GPU, but you can't use Nvidia SLI as it only supports CrossfireX. You can add RGB lights to this motherboard and use white lights for your white gaming PC. This motherboard can be used for all mid-range builds. 
+
+Still, overall in that price, this motherboard had a great design and provided reliable performance. If you want something better than H310M GAMING ARCTIC, you can go for it. Its high overclocking power and with that features this motherboard worth a single penny. There is also a similar variant of this motherboard ASUS Prime Z390-P. Take a look at it.
+
+#### Specifications
 
 {{<html-code tag="div">}}
 
 <table>
 <tbody><tr>
-<td>Wireless Type		</td>
-<td>802.11ac</td>
+<td>Manufacturer</td>
+<td>Asus</td>
 </tr>
 <tr>
-<td>Number of USB 2.0 Ports		</td>
-<td>1</td>
+<td>Form Factor</td>
+<td>ATX</td>
 </tr>
 <tr>
-<td>Brand	                </td>
-<td>ASUS</td>
+<td>Chipset</td>
+<td>Intel Z390</td>
 </tr>
 <tr>
-<td>ASIN  	</td>
-<td>B07HCY7K9L</td>
+<td>PCI-E</td>
+<td>x16 Slots 3</td>
+</tr>
+<tr>
+<td>Onboard Ethernet</td>
+<td>1 x 1000 Mbit/s</td>
+</tr>
+<tr>
+<td>RAID Support</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Wireless</td>
+<td>Networking  None</td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>Type DDR4</td>
 </tr>
 </tbody>
 </table>
@@ -391,7 +407,9 @@ If you are looking for something that's beast in performance and reasonable in p
 
 This motherboard had a Z390 chipset and LGA 1151 socket so that you can pair Intel 9th generation i5 processor with RTX 2060 and 16GB ram with this motherboard. This motherboard had a black PCB with a white accent on it that makes it looks better than ASUS Prime Z390-A. Z390-P has two PCIe ports, but it doesn't support Nvidia SLI, so you can only use two AMD cards as Crossfire. 
 
-It got two M.2 slots, four SATA slots, USB 3.1 support, and ASUS has its own Optimum II technology that helps you in overclocking your memory. It got four fans headers, and you are also getting a patent-pending safe slot core so that the latest GPUs don't damage the motherboard in any way. There is no RGB lighting in this motherboard, which makes it a much better deal, but for white gaming PC, it doesn't matter a lot. In my opinion, this one is beast at that price if you are looking for a white motherboard for a white gaming PC. This board is not for enthusiast builds but is still suitable for mid-range PC. Its black color with white stripes made us consider it for our white motherboard list. 
+It got two M.2 slots, four SATA slots, USB 3.1 support, and ASUS has its own Optimum II technology that helps you in overclocking your memory. It got four fans headers, and you are also getting a patent-pending safe slot core so that the latest GPUs don't damage the motherboard in any way. 
+
+There is no RGB lighting in this motherboard, which makes it a much better deal, but for white gaming PC, it doesn't matter a lot. In my opinion, this one is beast at that price if you are looking for a white motherboard for a white gaming PC. This board is not for enthusiast builds but is still suitable for mid-range PC. Its black color with white stripes made us consider it for our white motherboard list. 
 
 {{<pros>}}
 
