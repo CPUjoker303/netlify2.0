@@ -40,25 +40,25 @@ These mobos only support 8/9th generation of Intel Core processors and for Ryzen
 <tr>
 <td class="tdimg"><img src="/uploads/msi-h310m-gaming-arctic-review.jpg" alt="MSI H310M GAMING ARCTIC" title="MSI H310M GAMING ARCTIC"></td>
 <td>MSI H310M GAMING ARCTIC</td>
-<td>GOOD</td>
+<td>Best White Lga1151 Motherboard</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07BZ3NBZZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07BZ3NBZZ&linkCode=as2&tag=technikaya-20&linkId=6a6ffd4a7899840f70e8c1af8e08f120" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/asus-prime-z390-review.jpg" alt="ASUS Prime Z390" title="ASUS Prime Z390"></td>
 <td>ASUS Prime Z390</td>
-<td>GREAT</td>
+<td>Best Looking z390 White Motherboard</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07HCY7K9L/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07HCY7K9L&linkCode=as2&tag=technikaya-20&linkId=d72ba41710468a4b1e340bf83d2a667d" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/asus-prime-x470-pro-review.jpg" alt="ASUS Prime X470-Pro" title="ASUS Prime X470-Pro"></td>
 <td>ASUS Prime X470-Pro</td>
-<td>GREAT</td>
+<td>Best White Asus Motherboard 2021</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07C57Q1XH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07C57Q1XH&linkCode=as2&tag=technikaya-20&linkId=e205bfec800feac1f2812196ca199b29" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/msi-b450m-mortar-titanium-review.jpg" alt="MSI B450M MORTAR TITANIUM" title="MSI B450M MORTAR TITANIUM"></td>
 <td>MSI B450M MORTAR TITANIUM</td>
-<td>PERFECT</td>
+<td>Best b450m Motherboard 2021</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07FQCSVYC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07FQCSVYC&linkCode=as2&tag=technikaya-20&linkId=c027400f43ce63a055209c993eb48b6b" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
