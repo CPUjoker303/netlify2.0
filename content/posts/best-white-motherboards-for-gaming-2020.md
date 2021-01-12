@@ -253,7 +253,7 @@ These mobos only support 8/9th generation of Intel Core processors and for Ryzen
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07HCY7K9L/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07HCY7K9L&linkCode=as2&tag=technikaya-20&linkId=d72ba41710468a4b1e340bf83d2a667d" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/5asus-prime-x470-pro.jpg" alt="ASUS Prime X470-Pro" title="ASUS Prime X470-Pro"></td>
+<td class="tdimg"><img src="/uploads/asus-prime-x470-pro-review.jpg" alt="ASUS Prime X470-Pro" title="ASUS Prime X470-Pro"></td>
 <td>ASUS Prime X470-Pro</td>
 <td>GREAT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07C57Q1XH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07C57Q1XH&linkCode=as2&tag=technikaya-20&linkId=e205bfec800feac1f2812196ca199b29" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -413,25 +413,24 @@ There is no RGB lighting in this motherboard, which makes it a much better deal,
 
 {{<pros>}}
 
-<li>Great Overclocking.  </li>
-<li>CrossFireX Support. </li>
-<li>Easy To Install. </li>
+<li>Black and white color combination.</li>
+<li>Mid-range builds</li>
+<li>.</li>
+<li>High overclocking power.</li>
+<li>Four SATA slots.</li>
+<li>best white motherboards for 9900k.</li>
 {{</pros>}}
 {{<cons>}}
-<li>No Built-in Wifi</li>
+<li>No Built-in Wifi.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07HCY7K9L/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07HCY7K9L&linkCode=as2&tag=technikaya-20&linkId=d72ba41710468a4b1e340bf83d2a667d{{</button>}}
 
 ### ASUS Prime X470-Pro
 
-{{<singlep pimg="/uploads/5asus-prime-x470-pro.jpg" pname="ASUS Prime X470-Pro" plink="https://www.amazon.com/gp/product/B07C57Q1XH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07C57Q1XH&linkCode=as2&tag=technikaya-20&linkId=e205bfec800feac1f2812196ca199b29">}}
-	M.2 slot
-	Realtek S1220 A codec
-	Solid design
-	Has an onboard RGB controller
+![ASUS Prime X470-Pro](/uploads/asus-prime-x470-pro-review.jpg "ASUS Prime X470-Pro")
 
-{{</singlep>}}
+ASUS Prime X470-Pro is still one of the best mid-range motherboards available in the market, and you can get it at a reasonable price. Like all ASUS prime motherboards, this one got a black colored PCB with some white stripes and heat sinks on it that make it looks good and gives an attractive design. 
 
-ASUS Prime X470-Pro is still one of the best mid-range motherboards available in the market, and you can get it at a reasonable price. Like all ASUS prime motherboards, this one got a black colored PCB with some white stripes and heat sinks on it that make it looks good and gives an attractive design. This motherboard is not going the latest and doesn't feature PCI 4, but it got an M.2 slot with a white heat sink on it. Asus Prime motherboards are known because of their cooling, and this one got five-way cooling optimization. If you are going to use the latest heavy GPU, this motherboard got a safe slot which prevents it from damage. 
+This motherboard is not going the latest and doesn't feature PCI 4, but it got an M.2 slot with a white heat sink on it. Asus Prime motherboards are known because of their cooling, and this one got five-way cooling optimization. If you are going to use the latest heavy GPU, this motherboard got a safe slot which prevents it from damage. 
 
 #### Specifications
 
@@ -439,37 +438,61 @@ ASUS Prime X470-Pro is still one of the best mid-range motherboards available in
 
 <table>
 <tbody><tr>
-<td>Memory Speed	</td>
-<td>2133 MHz</td>
+<td>Chipset</td>
+<td>AMD X470</td>
 </tr>
 <tr>
-<td>Wireless Type		</td>
-<td>802.11a/b/g/n/ac</td>
+<td>CPU Socket</td>
+<td>AM4</td>
 </tr>
 <tr>
-<td>ASIN		</td>
-<td>B07C57Q1XH</td>
+<td>Ethernet / Controller</td>
+<td>1 x Intel I211-AT Gigabit PS/2 1 x Combo</td>
 </tr>
 <tr>
-<td>Product Dimensions		</td>
-<td>12 x 2.8 x 9.6 inches</td>
+<td>Maximum Capacity</td>
+<td>64 GB</td>
+</tr>
+<tr>
+<td>Channel Architecture</td>
+<td>Dual Channel</td>
+</tr>
+<tr>
+<td>ECC Support</td>
+<td>Non-ECC, ECC Unbuffered</td>
+</tr>
+<tr>
+<td>RAID Support</td>
+<td>RAID 0, 1, 10 (SATA)</td>
+</tr>
+<tr>
+<td>Form Factor</td>
+<td>ATX</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-The audio quality of this mobo is also fantastic as it features Realtek S1220 A codec. There are several SATA ports, USB Type-A and Type-C ports, fan headers on this motherboard. Also, it has an onboard RGB controller, which gives it a plus point, and with that is fantastic features, we considered it for our list. It is an entry-level motherboard and can't be used for overclocking if you want something sturdy, it's better to go with X570 motherboards. Overall with that features and solid design, this motherboard might be the best deal for budget gamers. ASUS Prime X470-Pro fulfills most of the user's requirements if you are going for a mid-range PC
+The audio quality of this mobo is also fantastic as it features Realtek S1220 A codec. There are several SATA ports, USB Type-A and Type-C ports, fan headers on this motherboard. Also, it has an onboard RGB controller, which gives it a plus point, and with that is fantastic features, we considered it for our list. 
+
+It is an entry-level motherboard and can't be used for overclocking if you want something sturdy, it's better to go with X570 motherboards. Overall with that features and solid design, this motherboard might be the best deal for budget gamers. ASUS Prime X470-Pro fulfills most of the user's requirements if you are going for a mid-range PC
 
 {{<pros>}}
 
-<li>Great design.</li>
+<li>M.2 slot</li>
+<li>.</li>
+<li>Realtek S1220 A codec</li>
+<li>.</li>
+<li>Solid design</li>
+<li>.</li>
+<li>Has an onboard RGB controller.</li>
+<li>Great texture design.</li>
 <li>Good BIOS and software.</li>
-<li>Two M.2 Slots</li>
+<li>Two M.2 Slots.</li>
 <li>Onboard RGB and RGB headers.</li>
-<li></li>
 {{</pros>}}
 {{<cons>}}
-<li>No CMOS button (only jumper).</li>
+<li>No CMOS button.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07C57Q1XH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07C57Q1XH&linkCode=as2&tag=technikaya-20&linkId=e205bfec800feac1f2812196ca199b29{{</button>}}
 
 ### MSI B450M MORTAR TITANIUM
