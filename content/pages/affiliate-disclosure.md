@@ -3,7 +3,7 @@ title: Affiliate Disclosure
 type: pages
 draft: true
 SEOTitle: Affiliate Disclosure
-excrept: Affiliate Disclosure-Technikya
+excrept: Affiliate Disclosure
 url: affiliate-disclosure/
 date: 2021-01-12T07:47:31.394Z
 ---
