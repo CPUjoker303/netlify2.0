@@ -1,7 +1,7 @@
 ---
 title: Affiliate Disclosure
 type: pages
-draft: true
+draft: false
 SEOTitle: Affiliate Disclosure
 excrept: Affiliate Disclosure
 url: affiliate-disclosure/
