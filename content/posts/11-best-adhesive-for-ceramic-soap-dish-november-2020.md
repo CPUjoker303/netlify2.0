@@ -1,7 +1,7 @@
 ---
-title: " 11 Best Adhesive For Ceramic Soap Dish [December 2020]"
+title: 11 Best Adhesive For Ceramic Soap Dish [January 2021]
 draft: false
-SEOTitle: " 11 Best Adhesive For Ceramic Soap Dish [December 2020]"
+SEOTitle: 11 Best Adhesive For Ceramic Soap Dish [January 2021]
 excrept: "Top 11 New Best Adhesive for Ceramic Soap Dish - We've listed best
   waterproof adhesive for fixing or installing your favorite ceramic soap dish
   again. "
@@ -12,10 +12,9 @@ updateDate: 2020-11-16T17:54:17.694Z
 image: /uploads/adhesives.jpg
 tags:
   - Information
-  - EPOXY
   - Reviews
 categories:
-  - ADHESIVE
+  - Reviews
 schemaMarkup: cc
 pickName: E6000 High Viscosity Adhesive
 pickImg: /uploads/e6000-high-viscosity-adhesive.jpg
