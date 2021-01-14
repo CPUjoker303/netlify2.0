@@ -1,7 +1,7 @@
 ---
-title: Best Activity Tracker For Tweens 2021
+title: Best Activity Tracker For Tweens [January 2021]
 draft: false
-SEOTitle: Best Activity Tracker For Tweens 2021
+SEOTitle: Best Activity Tracker For Tweens [January 2021]
 excrept: Checkout Best Activity Trackers for Tweens. These health gadgets will
   motivate your kids in health betterment and connectivity is easy with
   smartphones.
