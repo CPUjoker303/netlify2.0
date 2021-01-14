@@ -1,7 +1,7 @@
 ---
-title: 10 Best Phono Cartridges Under 200 Dollars [December 2020]
+title: 10 Best Phono Cartridges Under 200 Dollars [January 2021]
 draft: false
-SEOTitle: 10 Best Phono Cartridges Under 200 Dollars [December 2020]
+SEOTitle: 10 Best Phono Cartridges Under 200 Dollars [January 2021]
 excrept: CHECKOUT Best Phono Cartridge Accessories Under $200 and 500 Dollars
   For Turntables. Best Moving Coil and Moving Magnet Cartridge Accessories For
   you.
