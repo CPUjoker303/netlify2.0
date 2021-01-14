@@ -45,7 +45,7 @@ If you need a preamp that has a small body design, then the Puffin phono preampl
 <tr>
 <td class="tdimg"><img src="/uploads/puffin-phono-dsp-review.jpg" alt="Puffin Phono DSP Phono preamp " title="Puffin Phono DSP Phono preamp "></td>
 <td>Puffin Phono DSP Phono preamp </td>
-<td>Best Parks Audio Preamp</td>
+<td>Best Phono Stage Under 500</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07DKHM2HS/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DKHM2HS&linkId=b0fb539aea53de6fc807a0a7244b60dc" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ The pre-installed tubes on max S2 box are tremendous and actual amplification, a
 <li>Emits low humming sound</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B075KPB1P2/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B075KPB1P2&linkId=d87cb0e226516215e0f2cc74d6371193{{</button>}}
 
-### Puffin Phono DSP Phono preamp 
+### Puffin Phono DSP Phono preamp
 
 ![Puffin Phono DSP Phono preamp](/uploads/puffin-phono-dsp-review.jpg "Puffin Phono DSP Phono preamp")
 
