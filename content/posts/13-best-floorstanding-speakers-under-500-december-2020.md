@@ -698,9 +698,9 @@ Rockville TM80C is featuring remote controlling option, and when you're relaxing
 <li>Bit Bluetooth quality.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0742WXFJ6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0742WXFJ6&linkId=05abea72b33946686f08328d443f3496{{</button>}}
 
-### Sony SS-CS3 3-Way 4-Driver Floor-Standing Speaker
+### Sony SS-CS3 3-Way 4-Driver Speaker
 
-![Sony SS-CS3 3-Way 4-Driver Floor-Standing Speaker](/uploads/sony-ss-cs3-speaker-review.jpg "Sony SS-CS3 3-Way 4-Driver Floor-Standing Speaker")
+![Sony SS-CS3 3-Way 4-Driver Speaker](/uploads/sony-ss-cs3-speaker-review.jpg "Sony SS-CS3 3-Way 4-Driver Speaker")
 
 Next is the Sony SS-CS3 review, and this black pair of Sony speakers seems durable. By taking a look at SS-CS3 body design which looks the same as other floor standing speakers but the only difference, you will get two pairs of black SS-CS3. If we talk about Sony speaker Impedance which is same like Polk Audio T50 Impedance of Ohm. 
 
