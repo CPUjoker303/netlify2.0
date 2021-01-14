@@ -11,11 +11,9 @@ date: 2020-09-29T09:54:18.304Z
 updateDate: 2020-09-29T09:54:18.331Z
 image: /uploads/best-video-card-for-i9-9900k-i9-10980hk-i9-10900k-2021.jpg
 tags:
-  - GRAPHICS CARDS
-  - Information
   - Reviews
 categories:
-  - GRAPHICS CARD
+  - Reviews
 schemaMarkup: >-
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
@@ -236,7 +234,7 @@ The point is that in old times there are 30 to 40 FPS some difference between In
 
 {{<html-code tag="div">}}
 
-<table class="no-mobile product-table" width="100%">
+<table class="" width="100%">
 <tbody>
 <tr class="thead" style="background-color:#f9f9f9!important">
 <th><strong>Products</strong></th>
