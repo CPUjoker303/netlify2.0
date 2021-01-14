@@ -1,7 +1,7 @@
 ---
-title: Best Phono Preamp Under 500 And 200 Dollars [December 2020]
+title: Best Phono Preamp Under 500 And 200 Dollars [January 2021]
 draft: false
-SEOTitle: Best Phono Preamp Under 500 And 200 Dollars [December 2020]
+SEOTitle: Best Phono Preamp Under 500 And 200 Dollars [January 2021]
 excrept: CHECKOUT Best Phono Preamps Under $500 AND $200. These are Stereophile,
   stereo, budget stereo, Tube Replaceable American made preamp for turntable.
 metaKeywords: Best Phono Preamp Under 500
@@ -10,11 +10,9 @@ date: 2020-11-28T17:20:00.801Z
 updateDate: 2020-11-28T17:20:00.835Z
 image: /uploads/best-phono-preamp-under-500-dollar.jpg
 tags:
-  - ACCESSORIES
-  - Information
   - Reviews
 categories:
-  - ACCESSORIES
+  - Reviews
 schemaMarkup: cc
 pickName: "Puffin Phono DSP Phono preamp "
 pickImg: /uploads/puffin-phono-dsp-review.jpg
@@ -30,7 +28,7 @@ If you need a preamp that has a small body design, then the Puffin phono preampl
 
 {{<html-code tag="div">}}
 
-<table class="no-mobile product-table" width="100%">
+<table class="" width="100%">
 <tbody>
 <tr class="thead" style="background-color:#f9f9f9!important">
 <th><strong>PHONO PREAMPS IMAGE</strong></th>
