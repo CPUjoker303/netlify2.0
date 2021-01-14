@@ -1,7 +1,7 @@
 ---
-title: 11 Best Outdoor Light Bulbs For Cold Weather [December 2020]
+title: 11 Best Outdoor Light Bulbs For Cold Weather [January 2021]
 draft: false
-SEOTitle: 11 Best Outdoor Light Bulbs For Cold Weather [December 2020]
+SEOTitle: 11 Best Outdoor Light Bulbs For Cold Weather [January 2021]
 excrept: Checkout 11 Best Outdoor Light Bulbs For Cold Weather, These
   temperature resistance led bulbs can withstand the harsh winters and can fit
   easily in fixtures.
@@ -11,11 +11,9 @@ date: 2020-11-17T16:32:35.368Z
 updateDate: 2020-11-17T16:32:35.481Z
 image: /uploads/best-light-bulbs.jpg
 tags:
-  - LED LIGHT BULBS
-  - Information
   - Reviews
 categories:
-  - LED LIGHT BULBS
+  - Reviews
 schemaMarkup: cc
 pickName: Boxlood 12W PIR Motion Sensor Light Bulb
 pickImg: /uploads/boxlood-12w-pir-motion-sensor-light-bulb.jpg
@@ -29,7 +27,7 @@ The sensor in the bulb will instantly detect any movement and auto turn for emit
 
 {{<html-code tag="div">}}
 
-<table class="no-mobile product-table" width="100%">
+<table class="" width="100%">
 <tbody>
 <tr class="thead" style="background-color:#f9f9f9!important">
 <th><strong>PRODUCT IMAGE</strong></th>
