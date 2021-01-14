@@ -1,5 +1,5 @@
 ---
-title: The Best White Gaming Monitor Buyers Guide [January 2021]
+title: Best White Gaming Monitor Buyers Guide [January 2021]
 draft: false
 SEOTitle: The Best White Gaming Monitor Buyers Guide [January 2021]
 excrept: Learn more about Best White Motherboards For Gaming when you click here
@@ -184,7 +184,7 @@ White gaming builds are a dream of every gamer, and after building a white gamin
 
 {{<html-code tag="div">}}
 
-<table class="no-mobile product-table" width="100%">
+<table class="" width="100%">
 <tbody>
 <tr class="thead" style="background-color:#f9f9f9!important">
 <th><strong>Products</strong></th>
