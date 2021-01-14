@@ -11,11 +11,9 @@ date: 2020-11-28T08:38:40.191Z
 updateDate: 2020-11-28T08:38:40.283Z
 image: /uploads/best-phono-cartridges-under-200-dollars-cartridge-accessorie.jpg
 tags:
-  - ACCESSORIES
-  - Information
   - Reviews
 categories:
-  - ACCESSORIES
+  - Reviews
 schemaMarkup: cc
 pickName: Ortofon 2M Black Moving Magnet Cartridge
 pickImg: /uploads/ortofon-2m-black-review-moving-magnet.jpg
@@ -29,7 +27,7 @@ By using these Phono cartridges, you can enjoy your record collection sound thro
 
 {{<html-code tag="div">}}
 
-<table class="no-mobile product-table" width="100%">
+<table class="" width="100%">
 <tbody>
 <tr class="thead" style="background-color:#f9f9f9!important">
 <th><strong>PHONO CARTRIDGES IMAGE</strong></th>
