@@ -297,7 +297,7 @@ Brushed metal
 <li>RIAA equalization curve</li>
 {{</pros>}}
 {{<cons>}}
-<li>No LED lights</li>
+<li>No LED lights.</li>
 <li>Bit heavy </li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B007DB5I60/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B007DB5I60&linkId=ac0500eecf0cf5c5d57eca713768789c{{</button>}}
 
