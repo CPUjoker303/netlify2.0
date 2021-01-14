@@ -31,7 +31,7 @@ So, our team has listed the Best Amd Fx Processors For Gaming, and if you don’
 
 {{<html-code tag="div">}}
 
-<table class="no-mobile product-table" width="100%">
+<table class="" width="100%">
 <tbody>
 <tr class="thead" style="background-color:#f9f9f9!important">
 <th><strong>PRODUCTS</strong></th>
