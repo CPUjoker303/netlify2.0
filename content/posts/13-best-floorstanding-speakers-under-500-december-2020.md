@@ -621,7 +621,7 @@ For small rooms and small bedroom, these speakers are great, and you will get no
 
 ### Rockville TM80C Home Theater Tower Speakers 8" Sub/Bluetooth/USB
 
-![Rockville TM80C Home Theater Tower Speakers](/uploads/rockville-tm80c-review.jpg "Rockville TM80C Home Theater Tower Speakers")
+![Rockville TM80C Tower Speakers](/uploads/rockville-tm80c-tower-speakers-review.jpg "Rockville TM80C Tower Speakers")
 
 Next is the Rockville TM80C review, and this floor standing speaker is brilliant. The subwoofer comes in brown colour design and has 31.9” Height, 12.99 Depth and 6.3 Width. We know very well about the oldest home theatre which includes on it a lot of devices like equalizer, subwoofer, speakers, wires etc. 
 
@@ -849,7 +849,7 @@ Elegant piano black finish.
 
 ### Dayton Audio T652-AIR Dual 6-1/2" 2-Way Tower Speaker Pair
 
-![Dayton Audio T652-AIR Dual 6-1/2" 2-Way Tower Speaker Pair ](/uploads/dayton-audio-t652-air-review.jpg "Dayton Audio T652-AIR Dual 6-1/2\\" 2-Way Tower Speaker Pair ")
+![Dayton Audio T652-AIR Dual 6-1/2" 2-Way Tower Speaker Pair ](/uploads/dayton-audio-t652-air-review.jpg "Dayton Audio T652-AIR Dual 6-1/2\\\" 2-Way Tower Speaker Pair ")
 
 Next is Dayton Audio T652-AIR review and this Floorstanding speaker size 6.5 Inches with the Dual woofers size of 6-1/2" for brilliant performance. For accurate reproduction the Audio T652-AIR comes with brilliant 1" AMT tweeter which is installed inside the elegant Slim-profile tower cabinet. You will get fully extended and deep bass which is up to 45 Hz. By the design comparison, the Dayton Audio T652-AIR has the same body design as B652-AIR speaker. It is 30 inches tall and is the best floor standing speakers under 500.
 
