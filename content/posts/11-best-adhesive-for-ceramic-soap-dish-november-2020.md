@@ -11,7 +11,6 @@ date: 2020-11-16T17:54:17.613Z
 updateDate: 2020-11-16T17:54:17.694Z
 image: /uploads/adhesives.jpg
 tags:
-  - Information
   - Reviews
 categories:
   - Reviews
@@ -28,7 +27,7 @@ These are very powerful adhesives with high viscosity and can install and repair
 
 {{<html-code tag="div">}}
 
-<table class="no-mobile product-table" width="100%">
+<table class="" width="100%">
 <tbody>
 <tr class="thead" style="background-color:#f9f9f9!important">
 <th><strong>PRODUCT IMAGE</strong></th>
