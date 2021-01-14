@@ -1,7 +1,7 @@
 ---
-title: Best Closed Back Headphones Under 300 [December 2020]
+title: Best Closed Back Headphones Under 300 [January 2021]
 draft: false
-SEOTitle: Best Closed Back Headphones Under 300 [December 2020]
+SEOTitle: Best Closed Back Headphones Under 300 [January 2021]
 excrept: Checkout highly durable Closed-Back Headphones that perfectly fit over
   ears. At $300 price these best Closed-Back headsets are the perfect options.
 metaKeywords: Best Closed Back Headphones Under 300
@@ -10,11 +10,9 @@ date: 2020-12-17T19:11:15.891Z
 updateDate: 2020-12-17T19:11:15.966Z
 image: /uploads/best-closed-back-headphones-under-300-dollars-2021.jpg
 tags:
-  - Best Headphones
-  - Information
   - Reviews
 categories:
-  - HEADPHONES
+  - Reviews
 schemaMarkup: cc
 pickName: Sony MDR7506 Professional Large Diaphragm Headphone
 pickImg: /uploads/sony-diaphragm-headphone-review.jpg
@@ -28,7 +26,7 @@ These wired and wireless headsets seem much reliable and give bass-boasted detai
 
 {{<html-code tag="div">}}
 
-<table class="no-mobile product-table" width="100%">
+<table class="" width="100%">
 <tbody>
 <tr class="thead" style="background-color:#f9f9f9!important">
 <th><strong>PRODUCT IMAGE</strong></th>
