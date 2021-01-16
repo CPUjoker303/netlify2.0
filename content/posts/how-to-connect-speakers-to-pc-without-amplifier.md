@@ -49,9 +49,9 @@ You can also say powered speakers, and the connectivity of these speakers is str
 
 The passive speakers are opposite to active speakers, and you need one separate amplifier for producing sound from these types of speakers. For using passive speakers, you may need some listed below things.
 
-* Speaker cables.
-* Separate crossovers.
-* Separate power amplifier.
+* Speaker cables
+* Separate crossovers
+* Separate power amplifier
 
 {{<pros>}}
 
@@ -68,25 +68,31 @@ The passive speakers are opposite to active speakers, and you need one separate 
 <li>Signal loss for greater potential.</li>
 {{</cons>}}
 
-### What is audio amplifier?
+#### What is audio amplifier
 
-Without amplification (audio signal intensification), your speakers are not able to work and the amplifier used for powering your speakers for brilliant sound quality. The amplifier's primary work is gaining signal, and after gaining the signals, it amplifies them for louder sound.
+Without amplification (audio signal intensification), your speakers are not able to work and the amplifier used for powering your speakers for brilliant sound quality. 
 
-#### Example:
+The amplifier's primary work is gaining signal, and after gaining the signals, it amplifies them for louder sound.
+
+#### Example Of Audio Amplifier
 
 It gains the signal comes from the Microphone and makes loud sound produced by speakers.
 
 ### Passive Speakers and Amplifiers
 
-As we know, the amplification system did not come with passive speakers, and due to this reason, these passive speakers cannot able to produce a louder sound. If you already have passive speakers, you must need to connect a power amplifier to enhance sound quality and create enough sound from speakers.
+As we know, the amplification system did not come with passive speakers, and due to this reason, these passive speakers cannot able to produce a louder sound.
+
+If you already have passive speakers, you must need to connect a power amplifier to enhance sound quality and create enough sound from speakers.
 
 ### How to connect speakers to pc without amplifier?
 
-Every personal computer must come with its own built-in amplification system. If you want to attach the passive speakers with your pc without having any amp, you have to use your pc amplification system. For connecting the speakers with your PC amplifier, you have to follow the below steps.
+Every personal computer must come with its own built-in amplification system. If you want to attach the passive speakers with your pc without having any amp, you have to use your pc amplification system. 
+
+For connecting the speakers with your PC amplifier, you have to follow the below steps.
 
 * Correct the positions of your equipment.
 
-1. **speakers, PC**
+1. **Speakers, PC (Personal Computer)**
 2. **Jack**
 
 * Besides your personal computer, you have to place your speakers.
@@ -100,4 +106,6 @@ Every personal computer must come with its own built-in amplification system. If
 
 ## Conclusion - How To Connect Speakers To Pc Without Amplifier
 
-Without an amplifier, you can use your passive speakers with your PC to follow the proper steps. If you have active speakers, you don't need any procedure because they come with pre-installed amplifiers, and you need to attach the 3.5mm audio connector to your pc audio jack. So the article's primary focus is on passive speaker connectivity with your pc amplifier, and you have to follow the steps correctly.
+Without an amplifier, you can use your passive speakers with your PC to follow the proper steps. If you have active speakers, you don't need any procedure because they come with pre-installed amplifiers, and you need to attach the 3.5mm audio connector to your pc audio jack. 
+
+So the article's primary focus is on passive speaker connectivity with your pc amplifier, and you have to follow the steps correctly.
