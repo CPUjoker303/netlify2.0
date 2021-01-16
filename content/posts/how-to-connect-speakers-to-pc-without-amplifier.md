@@ -18,7 +18,9 @@ pickName: Sony MDR7506 Headphone.
 pickImg: /uploads/sony-diaphragm-headphone-review.jpg
 pickLink: https://www.amazon.com/gp/product/B000AJIF4E/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000AJIF4E&linkId=bac568bc2332dd39840b9f3d4e6c00ba
 ---
-The article is about speaker connectivity to your personal computer without any amplifier. First, you must know about your speakers that they are active or passive speakers because the amplification method is fully based on this thing. We mostly see passive speakers in the market. Using the passive speakers, you must have to need a single amplifier to power it and if you want to use passive speakers without having any kind of amp then read this informative article properly.
+The article is about speaker connectivity to your personal computer without any amplifier. First, you must know about your speakers that they are active or passive speakers because the amplification method is fully based on this thing. 
+
+We mostly see passive speakers in the market. Using the passive speakers, you must have to need a single amplifier to power it and if you want to use passive speakers without having any kind of amp then read this informative article properly.
 
 ### What are Active Speakers?
 
@@ -41,7 +43,7 @@ You can also say powered speakers, and the connectivity of these speakers is str
 <li>Can’t tweak amplification.</li>
 <li>Much heavier than that of passive type speakers.</li>
 <li>Much expensive speakers.</li>
-{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0742WXFJ6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0742WXFJ6&linkId=05abea72b33946686f08328d443f3496{{</button>}}
+{{</cons>}}
 
 ### What are passive speakers?
 
