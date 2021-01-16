@@ -66,7 +66,7 @@ The passive speakers are opposite to active speakers, and you need one separate 
 {{<cons>}}
 <li>Compatibility issues may occurs.</li>
 <li>Signal loss for greater potential.</li>
-{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0742WXFJ6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0742WXFJ6&linkId=05abea72b33946686f08328d443f3496{{</button>}}
+{{</cons>}}
 
 ### What is audio amplifier?
 
