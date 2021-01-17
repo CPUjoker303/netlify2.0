@@ -519,3 +519,139 @@ The fluence turntable has an excellent quality platter made of ACRYLIC material,
 {{<cons>}}
 <li>Low quality dust cover.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07KGL56XJ/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KGL56XJ&linkId=d84087505574c32023d75b0e2663c3e9{{</button>}}
+
+### U-Turn Audio Orbit Plus
+
+![U-Turn Audio Orbit Plus](/uploads/u-turn-audio-orbit-plus-review.webp "U-Turn Audio Orbit Plus")
+
+Now the Beautiful USA assembled a black U-Turn turntable review. This slim turntable has excellent quality machined platter. The insane precision tonearm comes with the company pre-installed Ortofon OM5E cartridge. 
+
+From dust protection, this U-Turn Audio Orbit Plus has a quality dust cover installed, which can make it secure from cement dust, metallic, mineral, muddy dust, and the counterweight can also be adjusted easily. Overall this black U-Turn is the best audiophile turntable under $2000.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Brand</td>
+<td>U-Turn Audio</td>
+</tr>
+<tr>
+<td>Connections</td>
+<td>Wired</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Black</td>
+</tr>
+<tr>
+<td>Motor Type</td>
+<td>AC Motor</td>
+</tr>
+<tr>
+<td>Pluto preamp</td>
+<td>Built-in</td>
+</tr>
+<tr>
+<td>Cartridge</td>
+<td>Ortofon OM5E cartridge</td>
+</tr>
+<tr>
+<td>Platter</td>
+<td>Acrylic platter</td>
+</tr>
+<tr>
+<td>Dust cover</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Counter-weight</td>
+<td>Adjustable</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<pros>}}
+
+<li>Built-in Pluto preamp.</li>
+<li>High-performance turntable.</li>
+<li>Easy to set up.</li>
+<li>OA2 gimbal arm.</li>
+<li>Preset anti-skate.</li>
+<li>Adjustable counterweight.</li>
+<li>Two-Speed Belt Drive System.</li>
+<li>Low-Resonance Acrylic Platter.</li>
+<li>Built-In Preamp.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Sometimes belts do not stay.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01F9NE5IA/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01F9NE5IA&linkId=bf41efcf673d920aa0ff0dff08c892e0{{</button>}}
+
+### Audio-Technica Dj Turntable
+
+![Audio-Technica Dj Turntable](/uploads/audio-technica-at-lp1240usbxp-review.webp "Audio-Technica Dj Turntable")
+
+Next is the Technica AT-LP1240USB DJ turntable review. The turntable design is similar to all other listed turntables and beautifully designed black, which seems durable, but if we take a look at feet, which are some higher and greatly balance turntable as we know that this one is Technica Dj turntable and is featuring lots of DJ features which every DJ demands like Direct-drive, high-torque and much more.
+
+You will also find some buttons like Dual buttons, which help you start/stop, and you also get full control on the pitch by variable pitch controller and for selecting RPM Speeds up to 33/45/78, you can use brake controller for adjustments. Overall this AT-LP1240USB XP is the best audiophile turntable under $2000.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Operation</td>
+<td>3-speed</td>
+</tr>
+<tr>
+<td>Speeds</td>
+<td>33-1/3 RPM, 45 RPM,78 RPM</td>
+</tr>
+<tr>
+<td>Turntable Platter</td>
+<td>332 mm die-cast aluminum</td>
+</tr>
+<tr>
+<td>Starting Torque</td>
+<td>>4.5 kgf.cm</td>
+</tr>
+<tr>
+<td>Braking System</td>
+<td>Electronic brake</td>
+</tr>
+<tr>
+<td>Anti-skating Range</td>
+<td>0-3 g</td>
+</tr>
+<tr>
+<td>Tone Arm Type</td>
+<td>Static balanced S-shaped tone arm</td>
+</tr>
+<tr>
+<td>Drive Method</td>
+<td>Direct drive</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<pros>}}
+
+<li>Solid, built like a tank.</li>
+<li>Beautiful design overall.</li>
+<li>Exudes quality tonearm, gimbal, cueing, etc.</li>
+<li>Detachable head shell.</li>
+<li>Brake adjustment.</li>
+<li>Beutiful targeting light.</li>
+<li>Adjustable feet for leveling.</li>
+<li>Built-in pre-amp.</li>
+<li>Best Dj Turntable 2021.</li>
+<li>Professional DJ features.</li>
+<li>Rock-solid playback.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Counterweight not heavy and solid.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B079QQ131N/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079QQ131N&linkId=7181dd538836f18df8f084fcf0cb102e{{</button>}}
