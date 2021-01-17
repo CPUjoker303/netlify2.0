@@ -14,7 +14,158 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: cc
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather/",
+
+  "name": "Best Outdoor Light Bulbs For Cold Weather",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//sylvania-general-lighting-led-light-bulb",
+
+  "@id": "sylvania-general-lighting-led-light-bulb ",
+
+  "name": "SYLVANIA General Lighting LED Light Bulb"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//sansi-18w--led-light-bulbs",
+
+  "@id": "sansi-18w--led-light-bulbs ",
+
+  "name": "SANSI 18W  LED Light Bulbs"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//westinghouse-lighting-par38-white-light",
+
+  "@id": "westinghouse-lighting-par38-white-light ",
+
+  "name": "Westinghouse Lighting PAR38 White Light"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//bioluz-gu10-led-bulbs",
+
+  "@id": "bioluz-gu10-led-bulbs ",
+
+  "name": "Bioluz GU10 LED Bulbs"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//govee-dusk-to-dawn-light-bulb",
+
+  "@id": "govee-dusk-to-dawn-light-bulb ",
+
+  "name": "Govee Dusk to Dawn Light Bulb"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//great-eagle-a19-led-light-bulb",
+
+  "@id": "great-eagle-a19-led-light-bulb ",
+
+  "name": "Great Eagle A19 LED Light Bulb"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 7,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//philips-led-non-dimmable-a19-frosted-light-bulb",
+
+  "@id": "philips-led-non-dimmable-a19-frosted-light-bulb ",
+
+  "name": "Philips LED Non-Dimmable A19 Frosted Light Bulb"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 8,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//kasa-smart-light-bulb",
+
+  "@id": "kasa-smart-light-bulb ",
+
+  "name": "Kasa Smart Light Bulb"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 9,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//lohas-bug-light-bulb-yellow-led-bulbs",
+
+  "@id": "lohas-bug-light-bulb-yellow-led-bulbs ",
+
+  "name": "LOHAS Bug Light Bulb Yellow LED Bulbs"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 10,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//boxlood-12w-pir-motion-sensor-light-bulb",
+
+  "@id": "boxlood-12w-pir-motion-sensor-light-bulb ",
+
+  "name": "Boxlood 12W PIR Motion Sensor Light Bulb"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 11,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//comzler-6-watt-frosted-candelabra-led-bulb",
+
+  "@id": "comzler-6-watt-frosted-candelabra-led-bulb ",
+
+  "name": "Comzler 6 Watt Frosted Candelabra LED Bulb"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Boxlood 12W PIR Motion Sensor Light Bulb
 pickImg: /uploads/boxlood-12w-pir-motion-sensor-light-bulb.jpg
 pickLink: https://www.amazon.com/gp/product/B0771MYTBH/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0771MYTBH&linkId=3a26b23b244b770f7074770d498d2a04
@@ -109,7 +260,7 @@ The sensor in the bulb will instantly detect any movement and auto turn for emit
 
 ![ SYLVANIA General Lighting LED Light Bulb](/uploads/sylvania-general-lighting-led-light-bulb.jpg " SYLVANIA General Lighting LED Light Bulb")
 
-First is SYLVANIA GENERAL review. The bulb lumen strength is 2000 and is called a high lumen count LED Light bulb. The Bulb can save your lots of energy because, at 8.5 watts, each of the bulb emits 800 lumens bright light output, and it will greatly save your energy and is best bulb for outdoor security light. 
+First is SYLVANIA bulb review. The bulb lumen strength is 2000 and is called a high lumen count LED Light bulb. The Bulb can save your lots of energy because, at 8.5 watts, each of the bulb emits 800 lumens bright light output, and it will greatly save your energy and is best bulb for outdoor security light. 
 
 Just you have to fit this led Bulb in a holder, and the Bulb will last for ten years easily. The SYLVANIA GENERAL LED bulb can brighten your outdoor area and be used indoors and in the household. The Bulb is not dimmable, and the operating temperature of the SYLVANIA LED Bulb is -20 to +40 °C and color temperature of 2700 kelvin. 
 
@@ -562,7 +713,7 @@ Like other led bulbs, it is also an energy saver and saves you power up to 80 pe
 <li>Sometimes technical default may occurs.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01CAL1EMY/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CAL1EMY&linkId=d2b4148e0eba18b932510d4ac6a8ebde{{</button>}}
 
-### Kasa Smart Light Bulb, LED Smart WiFi Alexa Bulbs Works with Alexa and Google Home
+### Kasa Smart Light Bulb
 
 ![Kasa Smart Light Bulb](/uploads/kasa-smart-light-bulb-led-smart-wifi-alexa-bulbs-works-with-alexa-and-google-home.jpg "Kasa Smart Light Bulb")
 
