@@ -103,7 +103,7 @@ Basically, this is a belt-drive turntable and can easily operate with two speeds
 
 The altered tonearm can brilliantly track and reduce resonance very easily and comes with an Audio-Technica cartridge (diamond stylus- ATN3600L), which is of very high quality and can easily replace it. For user-friendly connectivity, the pre-installed built-in pre-amp will give you both phono output and line-level output.
 
-After buying an audio Technica turntable, you also get a 45 RPM adapter and RCA output cable, which is 3.5 mm male to dual and can easily De-attach whenever you want. Overall this Belt-Drive Stereo Turntable is the best audiophile turntable under $2000.
+After buying an audio Technica turntable, you also get a 45 RPM adapter and RCA output cable, which is 3.5 mm male to dual and can easily De-attach whenever you want. Overall this Belt-Drive Stereo Turntable is the Best Audiophile Turntable Under $2000.
 
 #### Specifications
 
@@ -167,3 +167,85 @@ After buying an audio Technica turntable, you also get a 45 RPM adapter and RCA 
 <li>No other adjustments.</li>
 <li>Light-weighted turntable.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07N3XJ66N/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07N3XJ66N&linkId=9c730efa2681654c85ac5d648cda3ae4{{</button>}}
+
+### Turntable Pro-Ject Debut Carbon DC
+
+![Pro-Ject Debut Carbon DC](/uploads/pro-ject-debut-carbon-dc-review.webp "Pro-Ject Debut Carbon DC")
+
+Next Pro-Ject Debut Carbon turntable review and this Piano Black turntable have a beautiful finish design and look perfect for your black audiophile setup. The platter's build quality is brilliant and made of medium density fiberboard, and in weight, it is heavy and sturdy. 
+
+Due to the best quality of platter, this will cause unwanted vibrations and noises. The Pro-Ject Debut turntable comes with installed rubber feet, which also aid in preventing outside unwanted noises or vibrations. 
+
+This Pro-Ject turntable comes with an elegant transparent dust cover made of excellent material and covers turntable from dust and maintains its shine clean. 
+
+Its carbon fiber arm increases stiffness and decreases unwanted resonances, resulting from the brilliant sound quality. Overall this Pro-Ject Debut Carbon is the best audiophile turntable under $2000.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Speed</td>
+<td>33.45</td>
+</tr>
+<tr>
+<td>Drive principle</td>
+<td>belt drive</td>
+</tr>
+<tr>
+<td>Platter</td>
+<td>300mm metal</td>
+</tr>
+<tr>
+<td>Mains bearing</td>
+<td>stainless steel</td>
+</tr>
+<tr>
+<td>Wow & flutter</td>
+<td>33: +/- 0.60%, 45: +/- 0.70%</td>
+</tr>
+<tr>
+<td>Speed Drift</td>
+<td>33: +/- 0.19%, 45: +/- 0.17%</td>
+</tr>
+<tr>
+<td>Signal to noise</td>
+<td>68dB</td>
+</tr>
+<tr>
+<td>Tonearm</td>
+<td>8.6”, Carbon</td>
+</tr>
+<tr>
+<td>Effective arm length</td>
+<td>218.5 mm</td>
+</tr>
+<tr>
+<td>Effective arm mass</td>
+<td>6.0 g</td>
+</tr>
+<tr>
+<td>Tracking force</td>
+<td>10 - 30mN</td>
+</tr>
+<tr>
+<td>Power connection</td>
+<td>110/120 or 230/240 Volt - 50 or 60 Hz</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<pros>}}
+
+<li>Excellent entry level turntable.</li>
+<li>Turntable easy to setup.</li>
+<li>Comes with a good cartridge.</li>
+<li>Great sound and sleek look.</li>
+<li>Great record player for price.</li>
+<li>Good build quality.</li>
+{{</pros>}}
+{{<cons>}}
+<li>No mains in socket.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00IIMXATU/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00IIMXATU&linkId=e5b5d931607e30380b2e0a49174d83fe{{</button>}}
