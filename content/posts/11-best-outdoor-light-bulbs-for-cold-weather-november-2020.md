@@ -7,7 +7,7 @@ excrept: Checkout Best Outdoor Light Bulbs For Cold Weather, These temperature
 metaKeywords: Best Outdoor Light Bulbs For Cold Weather
 url: best-outdoor-light-bulbs-for-cold-weather/
 date: 2020-11-17T16:32:35.368Z
-updateDate: 2020-11-17T16:32:35.481Z
+updateDate: 2021-01-17T15:48:14.909Z
 image: /uploads/best-outdoor-light-bulbs-for-cold-weather.webp
 tags:
   - Reviews
