@@ -1,6 +1,6 @@
 ---
 title: Best audiophile turntable under $2000 [January 2021]
-draft: true
+draft: false
 SEOTitle: Best audiophile turntable under $2000 [January 2021]
 excrept: Check out the best audiophile turntable under $2000 on the market which
   you want for a high-end audiophile record player. Click here for best
