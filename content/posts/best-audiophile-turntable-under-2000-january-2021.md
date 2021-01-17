@@ -335,3 +335,121 @@ The T1 Turntable base is made of solid MDF material with pre-installed rubber fe
 The coming cartridge with T1 Turntable is named Ortofon OM5e Cartridge, a moving magnet cartridge. You can easily mount this cartridge and do an alignment to the top the bottom headshell. For non-stop performance, this turntable has ultra-precise, which is belt systemized.
 
 The size of the Tonearm is 8.6 and is made of aluminum material. The total effective length of the arm is218.5 mm. Overall the Pro-Ject T1 Turntable is the best audiophile turntable under $2000.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Model Name</td>
+<td>T1</td>
+</tr>
+<tr>
+<td>Brand</td>
+<td>Pro-Ject</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Walnut</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>MDF</td>
+</tr>
+<tr>
+<td>Motor Type</td>
+<td>DC Motor</td>
+</tr>
+<tr>
+<td>Power Source</td>
+<td>Corded Electric</td>
+</tr>
+<tr>
+<td>Platter</td>
+<td>Thick bead-blasted glass(8mm)</td>
+</tr>
+<tr>
+<td>Cartridge</td>
+<td>Ortofon OM5e Cartridge</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<pros>}}
+
+<li>Sound crisp and good.</li>
+<li>Good quality turntable.</li>
+<li>Comes with dust cover.</li>
+<li>Features Ortofon OM5e Cartridge.</li>
+<li>Easy To setup.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Low quality belt.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07Z8N3CYB/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07Z8N3CYB&linkId=ed9001eec1e4023da71fcb9ff6b982b8{{</button>}}
+
+### Audio Technica  Turntable (AT-LP120XUSB)
+
+![Audio Technica  Turntable (AT-LP120XUSB)](/uploads/audio-technica-at-lp120xusb-review.webp "Audio Technica  Turntable (AT-LP120XUSB)")
+
+Next Technica turntable review and this black design turntable have a brilliant dc motor with 33/45/78 RPM speeds. The solid turntable body design seems perfect, and the pre-installed four feet make perfect balance when you put this turntable on smooth and rough surfaces.
+
+The turntable featuring anti-skate control, and to the tonearm, this controller will fully help you in controlling small outward forces. With a quartz speed lock, you can easily control the variable pitch.
+
+The beautifully designed S-shaped tonearm has insane features and comes with lockable rest, and also, you will get a hydraulically damped lift. You can also do the conversion of your vinyl records into digital audio files using MAC and Windows personal computers.
+
+The solid plastic dust covers a great good job in protecting Technica turntables from dust. Overall the one is the best audiophile turntable under $2000.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Model Name</td>
+<td>AT-LP120XUSB-BK</td>
+</tr>
+<tr>
+<td>Brand</td>
+<td>Audio-Technica</td>
+</tr>
+<tr>
+<td>Connections</td>
+<td>Wired</td>
+</tr>
+<tr>
+<td>Target light</td>
+<td>Popup stylus target light</td>
+</tr>
+<tr>
+<td>Motor Type</td>
+<td>DC Motor</td>
+</tr>
+<tr>
+<td>Signal Format</td>
+<td>Analog</td>
+</tr>
+<tr>
+<td>Motor Speed</td>
+<td>33/45/78 RPM speeds</td>
+</tr>
+<tr>
+<td>accessories</td>
+<td>USB cable, RCA output cable, AC adapter, 45 RPM adapter</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<pros>}}
+
+<li>High-fidelity audio.</li>
+<li>Direct-drive.</li>
+<li>Great RPM speed.</li>
+<li>Adjustable dynamic anti-skate control.</li>
+<li>Balanced S-shaped tonearm.</li>
+{{</pros>}}
+{{<cons>}}
+<li>No tonearm counter weigh.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07N3S4X3P/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07N3S4X3P&linkId=0b2b59ec0d18eea08822aae768ab2521{{</button>}}
