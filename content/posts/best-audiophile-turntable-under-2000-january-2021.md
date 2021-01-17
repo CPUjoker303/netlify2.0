@@ -249,3 +249,77 @@ Its carbon fiber arm increases stiffness and decreases unwanted resonances, resu
 {{<cons>}}
 <li>No mains in socket.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00IIMXATU/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00IIMXATU&linkId=e5b5d931607e30380b2e0a49174d83fe{{</button>}}
+
+### Marantz TT-15S1 Turntable
+
+![Marantz TT-15S1 Turntable](/uploads/marantz-tt-15s1-turntable-review.webp "Marantz TT-15S1 Turntable")
+
+Next Marantz tt-15s1 turntable review and this elegant white turntable are perfect for your white audiophile setup. The Marantz turntable is beautifully designed by the company and comes in a Transparent White color, which looks very elegant.
+
+Basically, this turntable is a belt-drive turntable and comes with a belt that is made of silicone material, and a non-servo AC motor which is installed in it will provide you insane performance without creating any motor noise. 
+
+The total power consumption of this tt-15s1 turntable is 5W and has a frequency response is 20Hz to 20kHz.The Marantz turntable comes with heightened and solid aluminum feet, which gives a very strong base and stability to the turntable; you can easily put this turntable on a plane or irregular surfaces. 
+
+The thing you never get with this turntable is a transparent Dust cover, and if you want to protect your Marantz tt-15s1from dust, you have to purchase a dust cover for your expenses. Overall this elegant white Marantz tt-15s is the best audiophile turntable under $2000.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Manufacturer</td>
+<td>Marantz</td>
+</tr>
+<tr>
+<td>RPM</td>
+<td>33 1/3 & 45 rpm</td>
+</tr>
+<tr>
+<td>Feet</td>
+<td>3 highted Aluminum Feet</td>
+</tr>
+<tr>
+<td>Signal</td>
+<td>Ratio 80 dB signal to Noise </td>
+</tr>
+<tr>
+<td>Coming Cartridge Type</td>
+<td>MM(moving magnet cartridge)</td>
+</tr>
+<tr>
+<td>Platter</td>
+<td>Thick, heavy platter</td>
+</tr>
+<tr>
+<td>Belt Material</td>
+<td>Silicon belt.</td>
+</tr>
+<tr>
+<td>Anti-skating system</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Mat</td>
+<td>Clever Clamp(felt slip mat)</td>
+</tr>
+<tr>
+<td>Others</td>
+<td>White gloves, Bearing oil, Tonearm Height Shim</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<pros>}}
+
+<li>Build Top-end tonearm.</li>
+<li>Three adjustable feet.</li>
+<li>Dense solid acrylic platter.</li>
+<li>Silent AC motor.</li>
+<li>Comes with clear audio virtuoso cartridge.</li>
+{{</pros>}}
+{{<cons>}}
+<li>No dust-cover.</li>
+<li>Hole in the plinth.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B000EI2I76/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000EI2I76&linkId=19cda156d43b17919e6eb0cd4e34feb2{{</button>}}
