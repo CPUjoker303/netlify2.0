@@ -453,3 +453,69 @@ The solid plastic dust covers a great good job in protecting Technica turntables
 {{<cons>}}
 <li>No tonearm counter weigh.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07N3S4X3P/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07N3S4X3P&linkId=0b2b59ec0d18eea08822aae768ab2521{{</button>}}
+
+### Fluance RT85 Truntable
+
+![Fluance RT85 Truntable](/uploads/fluance-rt85-review.webp "Fluance RT85 Truntable")
+
+Next is fluence turntable review and this wood material-made turntable has an elegant Piano Black color design cabinet. The turntable will give you full analog performance, and using this turntable, and you will enjoy warm, natural music. You will find Ortofon 2M Blue Cartridge pre-installed on the tonearm of this fluence turntable.
+
+The turntable body seems solid, and if we talk about balance damping feet, which are installed four and make continue stable balance, you can adjust these damping feet.
+
+The fluence turntable has an excellent quality platter made of ACRYLIC material, and about performance, this platter gives you 3-dimensional sound quality. The installed type AC Motor in the turntable can perfectly handle speed control, and you will not feel any vibration and noise.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Brand</td>
+<td>Fluance</td>
+</tr>
+<tr>
+<td>Connections</td>
+<td>Wired</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Piano Black</td>
+</tr>
+<tr>
+<td>Material</td>
+<td>Wood</td>
+</tr>
+<tr>
+<td>Signal Format</td>
+<td>Analog</td>
+</tr>
+<tr>
+<td>Motor Type</td>
+<td>AC Motor</td>
+</tr>
+<tr>
+<td>Performance</td>
+<td>Analogue Performance</td>
+</tr>
+<tr>
+<td>Cartridge</td>
+<td>Ortofon 2M Blue</td>
+</tr>
+<tr>
+<td>Sound</td>
+<td>3-dimentional sound</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<pros>}}
+
+<li>Pure analogue performance turntable.</li>
+<li>Great speed control.</li>
+<li>Solid wood plinth cabinet.</li>
+<li>High density Acrylic platter.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Low quality dust cover.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07KGL56XJ/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KGL56XJ&linkId=d84087505574c32023d75b0e2663c3e9{{</button>}}
