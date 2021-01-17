@@ -151,3 +151,19 @@ After buying an audio Technica turntable, you also get a 45 RPM adapter and RCA 
 1. Slides off the transparent turntable plastic cover.
 2. Take your die-cast aluminum platter and hold the rubber band, and after placing the platter, you have to place the rubber on the gold side perfectly.
 3. Now you have put the felt mat on the platter and place and press down the 45 RPM adapter in the turntable back slot.
+
+{{<pros>}}
+
+<li>Simple to set up.</li>
+<li>Very user-friendly turntable and you have to place your vinyl record and then hit play, and then it runs.</li>
+<li>Clean lines & nothing fancy.</li>
+<li>Good clear sound.</li>
+<li>No gimmicks.</li>
+<li>Best turntable for an audiophile.</li>
+{{</pros>}}
+{{<cons>}}
+<li>No speed adjustment.</li>
+<li>No tonearm adjustment.</li>
+<li>No other adjustments.</li>
+<li>Light-weighted turntable.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07N3XJ66N/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07N3XJ66N&linkId=9c730efa2681654c85ac5d648cda3ae4{{</button>}}
