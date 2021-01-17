@@ -655,3 +655,7 @@ You will also find some buttons like Dual buttons, which help you start/stop, an
 {{<cons>}}
 <li>Counterweight not heavy and solid.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B079QQ131N/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079QQ131N&linkId=7181dd538836f18df8f084fcf0cb102e{{</button>}}
+
+## Conclusion - best audiophile turntable under $2000
+
+On a good budget, the Marantz TT-15S1 is the best audiophile turntable. If you want the best midrange turntables, Audio-Technica, Fluance RT85, Pro-Ject Debut, and U-Turn Audio are brilliant turntables. These include DJ features, a Built-in pre-amp, solid playback, and quality audio.
