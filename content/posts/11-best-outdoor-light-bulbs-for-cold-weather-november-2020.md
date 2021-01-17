@@ -3,13 +3,12 @@ title: 11 Best Outdoor Light Bulbs For Cold Weather [January 2021]
 draft: false
 SEOTitle: 11 Best Outdoor Light Bulbs For Cold Weather [January 2021]
 excrept: Checkout Best Outdoor Light Bulbs For Cold Weather, These temperature
-  resistance led bulbs can withstand the harsh winters and can fit easily in
-  fixtures.
+  resistant led bulbs can withstand in harsh winters dark nights perfectly.
 metaKeywords: Best Outdoor Light Bulbs For Cold Weather
 url: best-outdoor-light-bulbs-for-cold-weather/
 date: 2020-11-17T16:32:35.368Z
 updateDate: 2020-11-17T16:32:35.481Z
-image: /uploads/best-light-bulbs.jpg
+image: /uploads/best-outdoor-light-bulbs-for-cold-weather.webp
 tags:
   - Reviews
 categories:
