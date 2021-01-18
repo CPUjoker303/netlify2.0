@@ -304,7 +304,7 @@ High Contrast Protractor
 {{<cons>}}
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07QR3HBTR/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07QR3HBTR&linkId=307d851f5db2c41b94795e85c5797991{{</button>}}
 
-### Turntable [Phono Cartridge](https://www.technikaya.com/best-phono-cartridge-under-200/) Stylus Alignment Protractor Tool Mirror
+### Turntable Phono Cartridge Stylus Alignment Protractor Tool Mirror
 
 ![Alignment Protractor Tool Mirror](/uploads/phono-cartridge-stylus-alignment-protractor-tool-mirror-review.jpg "Alignment Protractor Tool Mirror")
 
