@@ -76,7 +76,7 @@ It all depends upon sound quality. To record a song or need to talk while playin
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/gaming-headset-for-ps4-.jpg" alt="Brown Gaming Headset" title="Brown Gaming Headset"></td>
-<td>Gaming Headset for PS4, Xbox One, PC, Laptop</td>
+<td>Brown Gaming Headset</td>
 <td>Normal</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07MLWVQSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MLWVQSY&linkCode=as2&tag=technikaya-20&linkId=3a209014ba13f727600b66e8e1c73ffb" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
