@@ -354,7 +354,7 @@ The battery performance of this Laptop is excellent, and you can use it for up t
 
 ### ASUS ZenBook Flip 14
 
-![](/uploads/asus-zenbook-fl-laptop.webp)
+![ASUS ZenBook Flip 14](/uploads/asus-zenbook-fl-laptop.webp "ASUS ZenBook Flip 14")
 
 ASUS ZenBook Flip 14 comes with a 14 inches full HD nano edge, touch screen display on which you can enjoy movies, games, and much more. This laptop also supports a stylus with which you can use it as a display graphics tablet.
 
