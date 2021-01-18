@@ -383,3 +383,82 @@ We found 639 global ratings of KICKER WHITE OEM speakers and 82% 5-star ratings,
 <li>No retail box you get.</li>
 <li>Led Version some pricey.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B015DA6VCC/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B015DA6VCC&linkId=b99fbdd1c38d259db961bb1b10ccb30e{{</button>}}
+
+### Polk Audio DB522 DB+ Coaxial Speakers
+
+![Polk Audio DB522 DB+ Coaxial Speakers](/uploads/polk-audio-db522-db-coaxial-speakers.webp "Polk Audio DB522 DB+ Coaxial Speakers")
+
+Next Polk audio coaxial speaker review and these two black version speakers are of 5.25 Inches size which seems small if we compare with Sony, JBL and Kenwood marine speakers. 
+
+The black removable grill will make its speaker UV tolerant cone protected, and if we talk about marine speakers, saltwater resistivity, then the Polk Audio speakers variant gives you fully water resistance and weather resistance features. Now let's talk about the quality of Polk audio coaxial speakers' sound, which is fully signature quality sound. 
+
+The process of installation of these Polk audio jeep speakers is super easy and can be used with cars, boats, ATVs, and especially marines because these are Marine certified with IP55.
+
+## What is recent buyers report
+
+We found 742 global ratings and a 74% five-stars rating, which showed great signs of these marine speakers' quality of sound and structure. Most people love these coaxial speakers with crystal clear quality sound (75 MPH) but normal bass.
+
+The speaker's black version body structure looks pretty cool and people's design. But you must check coaxial speaker size because these are 5.25 Inches (Diameter - 4.76 and Bottom Mount - 2.01) variant if compare with JBL or Kicker White Oem, which are 6.5 inches sized speakers.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Brand</td>
+<td>Polk Audio</td>
+</tr>
+<tr>
+<td>Speaker Type</td>
+<td>Surround Sound</td>
+</tr>
+<tr>
+<td>Model Name</td>
+<td>Marine Certified</td>
+</tr>
+<tr>
+<td>Marine Certified Speaker</td>
+<td>Marine certified with IP55 rating</td>
+</tr>
+<tr>
+<td>Size</td>
+<td>5.25 Inches</td>
+</tr>
+<tr>
+<td>Top Mount</td>
+<td>1.74</td>
+</tr>
+<tr>
+<td>dirt-resistant</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>water resistant</td>
+<td>yes</td>
+</tr>
+<tr>
+<td>Cut out Diameter</td>
+<td>4.76</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Black</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<pros>}}
+
+<li>They look super cool.</li>
+<li>These are of compact size.</li>
+<li>The price is fair.</li>
+<li>The signature quality sound.</li>
+<li>Marine certified with IP55.</li>
+<li>Dirt-resistant Coaxial Speakers.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Bass quality is a little low.</li>
+<li>The compact size.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B01EZWFNKA/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EZWFNKA&linkId=6512a7ce4e9bda80fe8c5a7ca07b7e3f{{</button>}}
