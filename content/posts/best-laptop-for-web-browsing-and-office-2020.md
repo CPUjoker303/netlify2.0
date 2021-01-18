@@ -245,8 +245,6 @@ There is also a docking port for this laptop that you can consider while buying 
 
 ![Lenovo IdeaPad](/uploads/lenovo-ideapad-330-17.jpg "Lenovo IdeaPad")
 
-
-
 If you are a true fan of big screens, you might consider this laptop because it had a 17 LED-backlit display. This laptop is available in many different configurations. With eighth-generation Core i7 and Nvidia Geforce MX150, while the cheaper version comes with Core i3 and Intel HD 620.
 
 If you are looking for something sturdy, you can go with i7 8750H with Nvidia GTX 1050Ti 2GB. In that configuration, it's a powerful machine, and you can even play the latest games on it. One of the best features of this laptop is its antiglare screen with resolution support of 1600x900p.
