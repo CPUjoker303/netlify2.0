@@ -14,7 +14,98 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: "\n"
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-laptop-for-web-browsing-and-office",
+
+  "name": "Best Laptop For Web Browsing And Office [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-laptop-for-web-browsing-and-office/google-pixelbook-go",
+
+  "@id": "google-pixelbook-go ",
+
+  "name": "Google Pixelbook Go"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-laptop-for-web-browsing-and-office/lenovo-flex-14",
+
+  "@id": "lenovo-flex-14 ",
+
+  "name": "Lenovo Flex 14"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-laptop-for-web-browsing-and-office/microsoft-surface-3",
+
+  "@id": "microsoft-surface-3 ",
+
+  "name": "Microsoft Surface 3"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-laptop-for-web-browsing-and-office/lenovo-ideapad",
+
+  "@id": "lenovo-ideapad ",
+
+  "name": "Lenovo IdeaPad"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-laptop-for-web-browsing-and-office/google-pixelbook",
+
+  "@id": "google-pixelbook ",
+
+  "name": "Google Pixelbook"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-laptop-for-web-browsing-and-office/asus-zenbook-flip-14",
+
+  "@id": "asus-zenbook-flip-14 ",
+
+  "name": "ASUS ZenBook Flip 14"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Lenovo IdeaPad 330-17
 pickImg: /uploads/lenovo-ideapad-330-17.jpg
 pickLink: https://www.amazon.com/gp/product/B07D6F9H8X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07D6F9H8X&linkCode=as2&tag=technikaya-20&linkId=a054fbe0f1bf2fb8d5ecf97fd63251db
