@@ -1,227 +1,32 @@
 ---
-title: Best Studio Headphones For Gaming  [January 2021]
+title: Best Studio Headphones For Gaming [January 2021]
 draft: false
-SEOTitle: Best Studio Headphones For Gaming  [January 2021]
+SEOTitle: Best Studio Headphones For Gaming [January 2021]
 excrept: Checkout Best Studio Headphones For Gaming. There are lots of companies
   like Razer, JBL, HelloPower, Plantronics and a couple of other companies.
 metaKeywords: Best Studio Headphones For Gaming
 url: best-studio-headphones-for-gaming/
 date: 2020-09-02T12:12:38.272Z
 updateDate: 2020-09-02T12:12:38.415Z
-image: /uploads/ryzen.jpg
+image: /uploads/best-studio-headphones-for-gaming.webp
 tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: >+
-  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
-
-  "@context": "http://schema.org",
-
-  "@type": "ItemList",
-
-  "url": "https://www.technikaya.com/best-studio-headphones-for-gaming/",
-
-  "name": "Best Studio Headphones For Gaming - Best Buy",
-
-  "itemListElement":
-
-  [
-
-  {"@type": "ListItem",
-
-  "position": 1,
-
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/audio-technica-bphs1",
-
-  "@id": "audio-technica-bphs1 ",
-
-  "name": "AUDIO-TECHNICA BPHS1"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 2,
-
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/turtle-beach---i30-premium",
-
-  "@id": "turtle-beach---i30-premium ",
-
-  "name": "Turtle Beach - i30 Premium"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 3,
-
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/razer-kraken-pro-v2",
-
-  "@id": "razer-kraken-pro-v2 ",
-
-  "name": "Razer Kraken Pro V2"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 4,
-
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/plantronics-rig-stereo-headset",
-
-  "@id": "plantronics-rig-stereo-headset ",
-
-  "name": "Plantronics RIG Stereo Headset"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 5,
-
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/hellopower-gaming-headset",
-
-  "@id": "hellopower-gaming-headset ",
-
-  "name": "HelloPower Gaming Headset"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 6,
-
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/jbl-quantum-100",
-
-  "@id": "jbl-quantum-100 ",
-
-  "name": "JBL Quantum 100"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 7,
-
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/gaming-headset-for-ps4-xbox-one-pc-laptop",
-
-  "@id": "gaming-headset-for-ps4-xbox-one-pc-laptop ",
-
-  "name": "Gaming Headset for PS4, Xbox One, PC, Laptop"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 8,
-
-  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/razer-kraken-x-ultralight",
-
-  "@id": "razer-kraken-x-ultralight ",
-
-  "name": "Razer Kraken X Ultralight"
-
-  }
-
-  ]
-
-  }
-
-  </script>
-
-
-  <script type="application/ld+json">
-
-  {
-
-  "@context": "https://schema.org",
-
-  "@type": "FAQPage",
-
-  "mainEntity": [
-
-  {
-
-  "@type": "Question",
-
-  "name": "what is the best audio-technica headphones for gaming?",
-
-  "acceptedAnswer": {
-
-  "@type": "Answer",
-
-  "text": "Audio-Technica is a Japanese company. The company is a professional manufacturing microphone, headphones, and other audio equipment.If we talk about the headset, the headset is the broadcast stereo headset. The headphones have a dynamic cardioid boom microphone. It has a rugged design with buyer mutual cable and ear pads.The cardioid looks up the pattern of the lively microphone flotsam off-axis sound.It is designed mainly for on-air news and sports broadcasting and interviews etc"
-
-  }
-
-  },
-
-  {
-
-  "@type": "Question",
-
-  "name": "what is best headphones for gaming?",
-
-  "acceptedAnswer": {
-
-  "@type": "Answer",
-
-  "text": "It is not making sense to use a $40-50 gaming headphones with $1500 PC, right? .With that out of the strategy, this gave way to a lot of companies like Razer, JBL, HelloPower, Plantronics and couple of other companies that are providing the best studio headphones in the market. Headphones are also used during editing videos. A gamer needs headphones like whose sound quality is better and those headphones which is comfortable to wear and whose noise cancellation is perfect. Sound quality and microphone quality are significant for gamers. So, we are going to review Best Studio Headphones For Gaming."
-
-  }
-
-  },
-
-  {
-
-  "@type": "Question",
-
-  "name": "What is best wireless headphones for music and gaming?",
-
-  "acceptedAnswer": {
-
-  "@type": "Answer",
-
-  "text": "Turtle Beach is an international gaming accessory producer company in California. It produces gaming headsets for Xbox One, PlayStation 4, gaming devices, personal computers Nintendo switch, and mobile devices. It is the advanced wireless Bluetooth technology, and it enables you to take full control of your audio tracks, and it adjusts volume and plane take calls without extending for your mobile device. It has an Invisible Microphone and Multiple built-in microphones, which is with the noise filtering technology and provides incredible voice pick up for all your chats or calls need."
-
-  }
-
-  },
-
-  {
-
-  "@type": "Question",
-
-  "name": "what are best studio headphons for gaming purpose?",
-
-  "acceptedAnswer": {
-
-  "@type": "Answer",
-
-  "text": "the Best Studio Headphones For Gaming which you can consider in the year 2020. The best headset you can use for gaming purpose is Audio Technica BPHSI, Turtle Beach - i30, Razer Kraken 7.1, Plantronics RIG Stereo, HelloPower Headset, JBL Quantum 100 Razer Kraken X Ultralight Gaming etc."
-
-  }
-
-  }
-
-  ]
-
-  }
-
-  </script>
-
+schemaMarkup: "\n\n\n"
 pickName: Audio-Technica BPHS1
 pickImg: /uploads/audio-technica-bphs1.jpg
 pickLink: https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=ec598c2d160044660777eedfc4e9715d
 ---
-It is not making sense to use a $40-50 gaming headphones with $1500 PC, right? .With that out of the strategy, this gave way to a lot of companies like Razer, JBL, HelloPower, Plantronics and couple of other companies that are providing the best studio headphones in the market. Headphones are also used during editing videos. A gamer needs headphones like whose sound quality is better and those headphones which is comfortable to wear and whose noise cancellation is perfect. Sound quality and microphone quality are significant for gamers. So, we are going to review Best Studio Headphones For Gaming.
+It is not making sense to use a $40-50 gaming headphones with $1500 PC, right? .With that out of the strategy, this gave way to a lot of companies like Razer, JBL, HelloPower, Plantronics and couple of other companies that are providing the best studio headphones in the market.
 
-For a better experience in editing songs and films, best headphones will require with better sound quality. In-studio best quality headphones are essential to enhance the best gaming experience and music. Better sound quality, more you will enjoy. 
+Headphones are also used during editing videos. A gamer needs headphones like whose sound quality is better and those headphones which is comfortable to wear and whose noise cancellation is perfect. Sound quality and microphone quality are significant for gamers. So, we are going to review Best Studio Headphones For Gaming.
 
-It all depends upon sound quality. To record a song or need to talk while playing online games, you need the best microphone quality. If you are gamer and searching for best studio headphones for gaming, then you are at the right place. So, now we will discuss the best headphones for gaming.
+For a better experience in editing songs and films, best headphones will require with better sound quality. In-studio best quality headphones are essential to enhance the best gaming experience and music. Better sound quality, more you will enjoy.
 
 ## Best Studio Headphones For Gaming
+
+It all depends upon sound quality. To record a song or need to talk while playing online games, you need the best microphone quality. If you are gamer and searching for best studio headphones for gaming, then you are at the right place. So, now we will discuss the best headphones for gaming.
 
 {{<html-code tag="div">}}
 
@@ -240,13 +45,13 @@ It all depends upon sound quality. To record a song or need to talk while playin
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=e60aa2dcd6967f2611aece648b28834f" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/turtle-beech.jpeg" alt="Turtle Beach - i30 Premium" title="Turtle Beach - i30 Premium"></td>
+<td class="tdimg"><img src="/uploads/turtle-beach-i30-premium.webp" alt="Turtle Beach - i30 Premium" title="Turtle Beach - i30 Premium"></td>
 <td>Turtle Beach - i30 Premium</td>
 <td>Normal</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B00EDNLO32/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EDNLO32&linkCode=as2&tag=technikaya-20&linkId=b52ff0f27c1912d0ae457f35ef83a5a9" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/ryzen-ever-v2.jpg" alt="Razer Kraken Pro V2" title="Razer Kraken Pro V2"></td>
+<td class="tdimg"><img src="/uploads/razer-kraken-pro-v2.webp" alt="Razer Kraken Pro V2" title="Razer Kraken Pro V2"></td>
 <td>Razer Kraken Pro V2</td>
 <td>Good</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07BH7KSMB/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07BH7KSMB&linkCode=as2&tag=technikaya-20&linkId=f01b03267fe14973d1fcc78fca85ca8e" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -287,18 +92,7 @@ It all depends upon sound quality. To record a song or need to talk while playin
 
 ### AUDIO-TECHNICA BPHS1
 
-{{<singlep pimg="/uploads/audio-technica-bphs1.jpg" pname="Audio-Technica BPHS1" plink="https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=e60aa2dcd6967f2611aece648b28834f">}}
-• It is broadcast stereo headset
-
-• It has dynamic cardioid boom microphone
-
-• It has three pins male XLR for the mic 
-
-• It has a Phono jack
-
-{{</singlep>}}
-
-[![](/uploads/audio-tech.jpg)](https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=e60aa2dcd6967f2611aece648b28834f)
+![AUDIO-TECHNICA BPHS1](/uploads/audio-technica-bphs1.jpg "AUDIO-TECHNICA BPHS1")
 
 The first product on our list is Audio Technica BPHSI. Audio-Technica is a Japanese company. The company is a professional manufacturing microphone, headphones, and other audio equipment. 
 
@@ -308,45 +102,53 @@ It is designed mainly for on-air news and sports broadcasting and interviews etc
 
 The headset microphone has a cardioid pattern for pickup of speech with maximum voice clarity over a wide range of frequencies. The headphone has three pins male XLR for the Microphone and the three 1/3 TRS jack for the headphones. It works fine with premium five input two-bus mixer with XENYX microphone compressor and USB/Audio interface and windows ten personal computer.
 
+It has a very long cable that can be separated by physically unscrewing a bolt on the headphone; however, this makes it very heavy too. The headset has a Phono jack at the other end. The Microphone has a male XLR.
+
+The microphone arm is most easy Positionable of any headset. It stops all background noise when you are listening to sound. The noise-cancelling option is ideal in this headset. The dynamic Mic is excellent in performance. It is also a professional broadcast headset and the best studio headphone for gaming purposes and other purposes as we know that it is a wired headset with flexible long-range wire. 
+
+It is perfect for a smash player. The Microphone is of such excellent quality. The wire is of good quality material, and a long cable can easily hold anywhere. The ear cups help seal out massive noise and all other background distractions. Ear cups are designed for noise cancellation. The headset is very durable and comfortable. If you are looking for the best studio headphone for gaming, then it is best for your experience.
+
+ It is a great product. It is the right Microphone for studio setup and recording style. If someone is looking for the headsets for ham radio, there is a perfect deal of choice. It is a great sounding pair of headphones
+
 #### Specifications
 
 {{<html-code tag="div">}}
 
 <table>
 <tbody><tr>
-<td>Brand	</td>
+<td>Brand</td>
 <td>Audio-Technica</td>
 </tr>
 <tr>
-<td>Connections	</td>
+<td>Connections</td>
 <td>Wired</td>
 </tr>
 <tr>
-<td>Model Name	</td>
+<td>Model Name</td>
 <td>BPHS1</td>
 </tr>
 <tr>
-<td>Color	</td>
+<td>Color</td>
 <td>Black</td>
 </tr>
 <tr>
-<td>Connector Type	</td>
+<td>Connector Type</td>
 <td>3-Pin Male XLR and 1/4" TRS</td>
 </tr>
 <tr>
-<td>Element	</td>
+<td>Element</td>
 <td>Dynamic</td>
 </tr>
 <tr>
-<td>Polar Pattern	</td>
+<td>Polar Pattern</td>
 <td>Hypercardioid</td>
 </tr>
 <tr>
-<td>Pen Circuit Sensitivity	</td>
+<td>Pen Circuit Sensitivity</td>
 <td>–57 dB (5.6 mV) (0 dB = 1 V/Pa, 1 kHz)</td>
 </tr>
 <tr>
-<td>Dimensions	</td>
+<td>Dimensions</td>
 <td>Height: 18.0 mm (0.71”),</td>
 </tr>
 <tr>
@@ -357,44 +159,40 @@ The headset microphone has a cardioid pattern for pickup of speech with maximum 
 </table>
 {{</html-code>}}
 
-It has a very long cable that can be separated by physically unscrewing a bolt on the headphone; however, this makes it very heavy too. The headset has a Phono jack at the other end. The Microphone has a male XLR.
-
-The microphone arm is most easy Positionable of any headset. It stops all background noise when you are listening to sound. The noise-cancelling option is ideal in this headset. The dynamic Mic is excellent in performance. It is also a professional broadcast headset and the best studio headphone for gaming purposes and other purposes as we know that it is a wired headset with flexible long-range wire. 
-
-It is perfect for a smash player. The Microphone is of such excellent quality. The wire is of good quality material, and a long cable can easily hold anywhere. The ear cups help seal out massive noise and all other background distractions. Ear cups are designed for noise cancellation. The headset is very durable and comfortable. If you are looking for the best studio headphone for gaming, then it is best for your experience.
-
- It is a great product. It is the right Microphone for studio setup and recording style. If someone is looking for the headsets for ham radio, there is a perfect deal of choice. It is a great sounding pair of headphones
-
 {{<pros>}}
 
 <li>The sound quality of these cans is very well, and the dynamic mic is also excellent</li>
-<li>High broadcast quality with the astonishing frequency range</li>
-<li>Perfect passive noise canceling, perfect for a smash player</li>
-<li>It is durable and Comfortable</li>
+<li>High broadcast quality with the astonishing frequency range.</li>
+<li>Perfect passive noise canceling, perfect for a smash player.</li>
+<li>It is durable and Comfortable.</li>
 {{</pros>}}
 {{<cons>}}
-<li>Not enough padding around the earpieces</li>
+<li>Not enough padding around the earpieces.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=e60aa2dcd6967f2611aece648b28834f{{</button>}}
 
 ### Turtle Beach - i30 Premium
 
-{{<singlep pimg="/uploads/turtle-beach-ear-force-i30-500x500.jpg" pname="Turtle Beach - i30 Premium" plink="https://www.amazon.com/gp/product/B00EDNLO32/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EDNLO32&linkCode=as2&tag=technikaya-20&linkId=b52ff0f27c1912d0ae457f35ef83a5a9">}}
-•	It comes with noise filtering technology 
-•	Headset is very comfortable
-•	Eassy connnectivity
-•	supporting Bluetooth 3.0
-
-{{</singlep>}}
-
-[![](/uploads/turtle-beech.jpeg)](https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=e60aa2dcd6967f2611aece648b28834f)
+![](/uploads/turtle-beach-i30-premium.webp)
 
 Second is Turtle Beach i30. Turtle Beach is an international gaming accessory producer company in California. It produces gaming headsets for Xbox One, PlayStation 4, gaming devices, personal computers Nintendo switch, and mobile devices. 
 
-The headset is the advanced wireless Bluetooth technology, and it enables you to take full control of your audio tracks, and it adjusts volume and plane take calls without extending for your mobile device. It has an Invisible Microphone and Multiple built-in microphones, which is with the noise filtering technology and provides incredible voice pick up for all your chats or calls need. It has exceptional noise canceling feature which is the latest energetic noise cancellation technology silences undesired background noise so you can be concentrated on your sound experience easily. 
+The headset is the advanced wireless Bluetooth technology, and it enables you to take full control of your audio tracks, and it adjusts volume and plane take calls without extending for your mobile device.
 
-This headset is truly designed for comfort and With the rich memory foam ear headrest and a pulpy leather headband so that you can get easily lost in your music. This headset has a vibrant 50MM Speakers so you can hear your music clearly with that way it was wilful with four preset EQ levels, which is including very loud bass boost mode case you are watching movies or you are playing games, or you are listening to music, the headset 
+It has an Invisible Microphone and Multiple built-in microphones, which is with the noise filtering technology and provides incredible voice pick up for all your chats or calls need.
+
+It has exceptional noise canceling feature which is the latest energetic noise cancellation technology silences undesired background noise so you can be concentrated on your sound experience easily.This headset is truly designed for comfort and With the rich memory foam ear headrest and a pulpy leather headband so that you can get easily lost in your music.
+
+This headset has a vibrant 50MM Speakers so you can hear your music clearly with that way it was wilful with four preset EQ levels, which is including very loud bass boost mode case you are watching movies or you are playing games, or you are listening to music, the headset 
 
 Turtle Beach i30 Wireless Mobile phone Headset, with earcup dominance that let you change volume, and track selections and many more easily. The headset has vibrant stereo sound, which is With the Active Noise Cancellation that quietness undesired background noise. The headset is with the dual noise-canceling boomless mics, which are providing outstanding voice pickup.
+
+The headset comes with a built-in battery that allows you over fifteen hours of totally wireless use per charge. The Turtle Beach i30 is supporting Bluetooth 3.0 to connecting wirelessly to your mobile devices like iPhone,iPad,iPod touch, Samsung Galaxy, Android phones, etc.
+
+The headset weight is 11 ounce with is equivalent to 311.845g. The headset comes with many useful features which are very useful in your gaming experience.
+
+Just only the mic quality is normal as compared to audio Technica BPHS1 because of the wired mic. The headset has no wired mic. It has an invisible mic. It is awe-inspiring and builds quality and sound quality. The headset is some kind of heavy and bulky as compares to other headphones.
+
+The body shape is awe-inspiring and builds quality but some sort of bulky and heavy because of their body weight and size. So,The turtle beach is also manufacturing best studio headphones for gaming So, you can go with turtle beach, but for both sound quality and mic quality the recommend product is audio Technica BPHS1.
 
 #### Specifications
 
@@ -402,28 +200,28 @@ Turtle Beach i30 Wireless Mobile phone Headset, with earcup dominance that let y
 
 <table>
 <tbody><tr>
-<td>ASIN	</td>
+<td>ASIN</td>
 <td>B00EDNLO32</td>
 </tr>
 <tr>
-<td>Dimensions	</td>
+<td>Dimensions</td>
 <td>7.99 x 4.49 x 9.21 inches; 11 Ounces</td>
 </tr>
 <tr>
-<td>Item model number	</td>
+<td>Item model number</td>
 <td>TBS-7010-01</td>
 </tr>
 <tr>
-<td>Weight	</td>
+<td>Weight</td>
 <td>11 ounces</td>
 </tr>
 <tr>
-<td>Manufacturer	</td>
+<td>Manufacturer</td>
 <td>Turtle Beach</td>
 </tr>
 <tr>
-<td>Batteries	</td>
-<td>1 Lithium Polymer </td>
+<td>Batteries</td>
+<td>1 Lithium Polymer</td>
 </tr>
 <tr>
 <td></td>
@@ -432,10 +230,6 @@ Turtle Beach i30 Wireless Mobile phone Headset, with earcup dominance that let y
 </tbody>
 </table>
 {{</html-code>}}
-
-The headset comes with a built-in battery that allows you over fifteen hours of totally wireless use per charge. The Turtle Beach i30 is supporting Bluetooth 3.0 to connecting wirelessly to your mobile devices like iPhone,iPad,iPod touch, Samsung Galaxy, Android phones, etc. The headset weight is 11 ounce with is equivalent to 311.845g. The headset comes with many useful features which are very useful in your gaming experience. 
-
-Just only the mic quality is normal as compared to audio Technica BPHS1 because of the wired mic. The headset has no wired mic. It has an invisible mic. It is awe-inspiring and builds quality and sound quality. The headset is some kind of heavy and bulky as compares to other headphones. The body shape is awe-inspiring and builds quality but some sort of bulky and heavy because of their body weight and size. So,The turtle beach is also manufacturing best studio headphones for gaming So, you can go with turtle beach, but for both sound quality and mic quality the recommend product is audio Technica BPHS1 
 
 {{<pros>}}
 
@@ -449,15 +243,7 @@ Just only the mic quality is normal as compared to audio Technica BPHS1 because 
 
 ### Razer Kraken Pro V2
 
-{{<singlep pimg="/uploads/razer-kraken-x-.jpg" pname="Razer Kraken Pro V2" plink="https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e">}}
-•	Very light weight and flexible
-•	It has 3.5 mm Jack
-•	The headset comes with line splitter and extension
-•	In-line mute and also volume controller
-
-{{</singlep>}}
-
-[![](/ryzen-ever-v2.jpg)](https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e)
+![](/uploads/razer-kraken-pro-v2.webp)
 
 The next is Razer Kraken X Ultra Gaming Headset. We know that Razer is an international gaming hardware design and manufacturing company. Razer is also esports and financial services providing company and it established by Robert Krakoff. The headquarter of the company is currently in California and even in Singapore.
 
