@@ -33,8 +33,8 @@ It all depends upon sound quality. To record a song or need to talk while playin
 <table class="" width="100%">
 <tbody>
 <tr class="thead" style="background-color:#f9f9f9!important">
-<th><strong>Producrts</strong></th>
-<th><strong>Headsets</strong></th>
+<th><strong>Products</strong></th>
+<th><strong>Headphone Brand</strong></th>
 <th><strong>Award</strong></th>
 <th><strong>Check Price</strong></th>
 </tr>
