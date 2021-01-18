@@ -227,6 +227,7 @@ There is also a docking port for this laptop that you can consider while buying 
 </tr>
 </tbody>
 </table>
+{{</html-code>}}
 
 {{<pros>}}
 
