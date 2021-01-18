@@ -13,7 +13,123 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: "\n\n\n"
+schemaMarkup: >+
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-studio-headphones-for-gaming",
+
+  "name": "Best Studio Headphones For Gaming [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/audio-technica-bphs1",
+
+  "@id": "audio-technica-bphs1 ",
+
+  "name": "AUDIO-TECHNICA BPHS1"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/turtle-beach---i30-premium",
+
+  "@id": "turtle-beach---i30-premium ",
+
+  "name": "Turtle Beach - i30 Premium"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/razer-kraken-pro-v2",
+
+  "@id": "razer-kraken-pro-v2 ",
+
+  "name": "Razer Kraken Pro V2"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/plantronics-rig-stereo-headset",
+
+  "@id": "plantronics-rig-stereo-headset ",
+
+  "name": "Plantronics RIG Stereo Headset"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/hellopower-gaming-headset",
+
+  "@id": "hellopower-gaming-headset ",
+
+  "name": "HelloPower Gaming Headset"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/jbl-quantum-100",
+
+  "@id": "jbl-quantum-100 ",
+
+  "name": "JBL Quantum 100"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 7,
+
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/brown-gaming-headset",
+
+  "@id": "brown-gaming-headset ",
+
+  "name": "Brown Gaming Headset"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 8,
+
+  "url":"https://www.technikaya.com/best-studio-headphones-for-gaming/razer-kraken-x-ultralight",
+
+  "@id": "razer-kraken-x-ultralight ",
+
+  "name": "Razer Kraken X Ultralight"
+
+  }
+
+  ]
+
+  }
+
+  </script>
+
 pickName: Audio-Technica BPHS1
 pickImg: /uploads/audio-technica-bphs1.jpg
 pickLink: https://www.amazon.com/gp/product/B003D87JI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003D87JI2&linkCode=as2&tag=technikaya-20&linkId=ec598c2d160044660777eedfc4e9715d
