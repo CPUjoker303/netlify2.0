@@ -13,7 +13,98 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: cc
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-white-motherboards-for-gaming",
+
+  "name": "The Best White Motherboards For Gaming [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming/msi-h310m-gaming-arctic",
+
+  "@id": "msi-h310m-gaming-arctic ",
+
+  "name": "MSI H310M GAMING ARCTIC"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming/asus-prime-z390",
+
+  "@id": "asus-prime-z390 ",
+
+  "name": "ASUS Prime Z390"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming/asus-prime-x470-pro",
+
+  "@id": "asus-prime-x470-pro ",
+
+  "name": "ASUS Prime X470-Pro"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming/msi-b450m-mortar-titanium",
+
+  "@id": "msi-b450m-mortar-titanium ",
+
+  "name": "MSI B450M MORTAR TITANIUM"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming/asus-prime-x570-pro",
+
+  "@id": "asus-prime-x570-pro ",
+
+  "name": "ASUS Prime X570-Pro"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-white-motherboards-for-gaming/asus-prime-x570-p",
+
+  "@id": "asus-prime-x570-p ",
+
+  "name": "ASUS Prime X570-P"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Asus Prime z390
 pickImg: /uploads/asus-prime-z390-review.jpg
 pickLink: https://www.amazon.com/gp/product/B07HCY7K9L/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07HCY7K9L&linkCode=as2&tag=technikaya-20&linkId=d72ba41710468a4b1e340bf83d2a667d
