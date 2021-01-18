@@ -13,7 +13,98 @@ tags:
   - Reviews
 categories:
   - Information
-schemaMarkup: "\n"
+schemaMarkup: >
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-cartridge-alignment-protractor",
+
+  "name": "Best Cartridge Alignment Protractor [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-cartridge-alignment-protractor/turntable-phonograph-lp-phono-cartridge-stylus-alignment-protractor-tool",
+
+  "@id": "turntable-phonograph-lp-phono-cartridge-stylus-alignment-protractor-tool ",
+
+  "name": "Turntable Phonograph LP Phono Cartridge Stylus Alignment Protractor Tool"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-cartridge-alignment-protractor/hudson-hi-fi-turntable-cartridge-alignment-protractor-mat",
+
+  "@id": "hudson-hi-fi-turntable-cartridge-alignment-protractor-mat ",
+
+  "name": "Hudson Hi-Fi Turntable Cartridge Alignment Protractor Mat"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-cartridge-alignment-protractor/cartridge-alignment-protractor-tool",
+
+  "@id": "cartridge-alignment-protractor-tool ",
+
+  "name": "Cartridge Alignment Protractor Tool"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-cartridge-alignment-protractor/cartridge-elevation-alignment-ruler-headshell-block-vta-azimuth-ruler",
+
+  "@id": "cartridge-elevation-alignment-ruler-headshell-block-vta-azimuth-ruler ",
+
+  "name": "Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-cartridge-alignment-protractor/zripool-lp-vinyl-pickup-calibration",
+
+  "@id": "zripool-lp-vinyl-pickup-calibration ",
+
+  "name": "Zripool LP Vinyl Pickup Calibration"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-cartridge-alignment-protractor/turntable-phono-cartridge-stylus-alignment-protractor-tool-mirror",
+
+  "@id": "turntable-phono-cartridge-stylus-alignment-protractor-tool-mirror ",
+
+  "name": "Turntable Phono Cartridge Stylus Alignment Protractor Tool Mirror"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: "Cartridge Elevation Alignment Ruler Headshell Block VTA Azimuth Ruler "
 pickImg: /uploads/vta-azimuth-ruler-lp-vinyl-record-player-tonearm-alignment-ruler-headshell.jpg
 pickLink: https://www.amazon.com/gp/product/B07H4D4F5T/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07H4D4F5T&linkId=4fa49695a4279b8fa3da14e6a44b7fed
