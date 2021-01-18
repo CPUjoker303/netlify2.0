@@ -14,7 +14,110 @@ tags:
   - Information
 categories:
   - Reviews
-schemaMarkup: "\n"
+schemaMarkup: >
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/activity-tracker-for-tweens",
+
+  "name": "Best Activity Tracker For Tweens [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens/garmin-vivofit-jr-2-disney-pink",
+
+  "@id": "garmin-vivofit-jr-2-disney-pink ",
+
+  "name": "Garmin Vivofit Jr 2 Disney Pink"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens/garmin-vivofit-jr-2-marvel",
+
+  "@id": "garmin-vivofit-jr-2-marvel ",
+
+  "name": "Garmin vivofit Jr 2 Marvel"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens/3plus-lite-activity-tracker",
+
+  "@id": "3plus-lite-activity-tracker ",
+
+  "name": "3Plus Lite Activity Tracker"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens/withings-move-smartwatch",
+
+  "@id": "withings-move-smartwatch ",
+
+  "name": "Withings Move Smartwatch"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens/fitness-tracker-hr-y1-activity-tracker",
+
+  "@id": "fitness-tracker-hr-y1-activity-tracker ",
+
+  "name": "Fitness Tracker HR, Y1 Activity Tracker"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens/yoyofit-slim-kids-fitness-tracker",
+
+  "@id": "yoyofit-slim-kids-fitness-tracker ",
+
+  "name": "YoYoFit Slim Kids Fitness Tracker"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 7,
+
+  "url":"https://www.technikaya.com/activity-tracker-for-tweens/garmin-forerunner-35-bundle-smartwatch",
+
+  "@id": "garmin-forerunner-35-bundle-smartwatch ",
+
+  "name": "Garmin Forerunner 35 Bundle Smartwatch"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: "Withings Move Hybrid Smartwatch "
 pickImg: /uploads/best-withings-move-hybrid-smartwatch.jpg
 pickLink: https://www.amazon.com/gp/product/B018SL790Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018SL790Q&linkCode=as2&tag=technikaya-20&linkId=cd3aa467900c409b1036419eeac5f231
