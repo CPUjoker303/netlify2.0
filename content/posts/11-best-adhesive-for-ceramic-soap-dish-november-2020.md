@@ -14,7 +14,158 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: "\n"
+schemaMarkup: >
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-adhesive-for-ceramic-soap-dish",
+
+  "name": "11 Best Adhesive For Ceramic Soap Dish [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-adhesive-for-ceramic-soap-dish/e6000-high-viscosity-adhesive",
+
+  "@id": "e6000-high-viscosity-adhesive ",
+
+  "name": "E6000 High Viscosity Adhesive"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-adhesive-for-ceramic-soap-dish/j-b-weld-8272-marineweld-marine-epoxy---2-oz",
+
+  "@id": "j-b-weld-8272-marineweld-marine-epoxy---2-oz ",
+
+  "name": "J-B Weld 8272 MarineWeld Marine Epoxy - 2 oz"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-adhesive-for-ceramic-soap-dish/bob-smith-industries-bsi-201-quik-cure-epoxy-fоur-paсk-clear",
+
+  "@id": "bob-smith-industries-bsi-201-quik-cure-epoxy-fоur-paсk-clear ",
+
+  "name": "Bob Smith Industries BSI-201 Quik-Cure Epoxy (Fоur Paсk, Clear)"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-adhesive-for-ceramic-soap-dish/gorilla-2-part-epoxy-5-minute-set-85-ounce-syringe-clear",
+
+  "@id": "gorilla-2-part-epoxy-5-minute-set-85-ounce-syringe-clear ",
+
+  "name": "Gorilla 2 Part Epoxy, 5 Minute Set, .85 Ounce Syringe, Clear"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-adhesive-for-ceramic-soap-dish/elmers-e1012-china-and-glass-cement-1-ounce",
+
+  "@id": "elmers-e1012-china-and-glass-cement-1-ounce ",
+
+  "name": "Elmer’s E1012 China and Glass Cement, 1 Ounce"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-adhesive-for-ceramic-soap-dish/pratley-quickset-white-epoxy---shiny-white-finish",
+
+  "@id": "pratley-quickset-white-epoxy---shiny-white-finish ",
+
+  "name": "Pratley Quickset White Epoxy - Shiny White Finish"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 7,
+
+  "url":"https://www.technikaya.com/best-adhesive-for-ceramic-soap-dish/Loctite Super Glue Gel 2-Gram Tube",
+
+  "@id": "Loctite Super Glue Gel 2-Gram Tube ",
+
+  "name": "Loctite Super Glue Gel 2-Gram Tube"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 8,
+
+  "url":"https://www.technikaya.com/best-adhesive-for-ceramic-soap-dish/devcon-epoxy-2-ton-epoxy",
+
+  "@id": "devcon-epoxy-2-ton-epoxy ",
+
+  "name": "Devcon Epoxy, 2 Ton Epoxy"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 9,
+
+  "url":"https://www.technikaya.com/best-adhesive-for-ceramic-soap-dish/hg-power-glue-industrial-cyanoacrylate-ca-adhesive",
+
+  "@id": "hg-power-glue-industrial-cyanoacrylate-ca-adhesive ",
+
+  "name": "HG POWER GLUE Industrial cyanoacrylate ca Adhesive"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 10,
+
+  "url":"https://www.technikaya.com/best-adhesive-for-ceramic-soap-dish/j-b-weld-50101-minuteweld-instant-setting-epoxy-syringe",
+
+  "@id": "j-b-weld-50101-minuteweld-instant-setting-epoxy-syringe ",
+
+  "name": "J-B Weld 50101 MinuteWeld Instant-Setting Epoxy Syringe"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 11,
+
+  "url":"https://www.technikaya.com/best-adhesive-for-ceramic-soap-dish/Red Devil 0497 Tile Paste Adhesive",
+
+  "@id": "Red Devil 0497 Tile Paste Adhesive ",
+
+  "name": "Red Devil 0497 Tile Paste Adhesive"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: E6000 High Viscosity Adhesive
 pickImg: /uploads/e6000-high-viscosity-adhesive.jpg
 pickLink: https://www.amazon.com/gp/product/B0044SB3M8/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0044SB3M8&linkId=dd6efcab49ade23da6bf9a86462c88ba
