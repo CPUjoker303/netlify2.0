@@ -311,3 +311,75 @@ We found 961 global ratings and a seventy-six percent 5-star rating of Kenwood K
 {{<cons>}}
 <li>May damage in high UV sun rays.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00U7RW0B8/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00U7RW0B8&linkId=1688cf9d4bdb3780cb5cca0be288b17e{{</button>}}
+
+### Kicker White OEM Coaxial Speaker
+
+![Kicker White OEM Coaxial Speaker](/uploads/kicker-white-oem-coaxial-speaker.webp "Kicker White OEM Coaxial Speaker")
+
+Next KICKER WHITE OEM review and these coaxial speakers come in many color variants like black, Led charcoal, white, etc. These are low-frequency speakers and have a big magnet structure in the speaker, which provides brilliant quality sound.
+
+When you remove the white grill, then below, you will find a three-quarter-inch tweeter. Like the Kenwood KFC-1653MRW speaker, this KICKER boat speaker has a similarly rated impedance, which is 4Ω, but a different Mounting Depth of 2-1/2, 62, and also has Santoprene surrounds.
+
+The best quality grill and basket will be maintained in a boat and marine environment and have weather and water resistivity. These Kicker marines speakers can easily handle 50 Watts RMS power.
+
+## What is recent buyers report
+
+We found 639 global ratings of KICKER WHITE OEM speakers and 82% 5-star ratings, and most people review these boat speakers sound great, installation is easy, and mind range marine speakers.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Brand</td>
+<td>KICKER</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>White</td>
+</tr>
+<tr>
+<td>Speaker Type</td>
+<td>Woofer</td>
+</tr>
+<tr>
+<td>Speaker Size</td>
+<td>6.5 Inches</td>
+</tr>
+<tr>
+<td>Woofer</td>
+<td>6-1/2, 160</td>
+</tr>
+<tr>
+<td>Impedance</td>
+<td>4 Ω</td>
+</tr>
+<tr>
+<td>Continuous Power</td>
+<td>50 Watts RMS</td>
+</tr>
+<tr>
+<td>Frequency Response (Hz)</td>
+<td>35-21k</td>
+</tr>
+<tr>
+<td>Mounting Depth (in,mm)</td>
+<td>2-1/2, 62</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<pros>}}
+
+<li>You get four speakers.</li>
+<li>The asking price is great considering there are four speakers.</li>
+<li>Sound quality was pretty awesome.</li>
+<li>Easily install on golf cart, jet ski, Jeep wangle, boat, marine etc.</li>
+<li>Speakers came with grills.</li>
+{{</pros>}}
+{{<cons>}}
+<li>No retail box you get.</li>
+<li>Led Version some pricey.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B015DA6VCC/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B015DA6VCC&linkId=b99fbdd1c38d259db961bb1b10ccb30e{{</button>}}
