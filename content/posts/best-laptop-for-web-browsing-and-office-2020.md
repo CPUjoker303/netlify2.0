@@ -46,7 +46,7 @@ There are thousands of laptops models in the market, but how to know which one i
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07YMM4YC1/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07YMM4YC1&linkCode=as2&tag=technikaya-20&linkId=efcb78a42f87f9f89120253571a686da" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/lenovo-flex-14.jpg" alt="Lenovo Flex 14" title="Lenovo Flex 14"></td>
+<td class="tdimg"><img src="/uploads/lenovo-flex.webp" alt="Lenovo Flex 14" title="Lenovo Flex 14"></td>
 <td>Lenovo Flex 14</td>
 <td>GREAT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07TWHYTSQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07TWHYTSQ&linkCode=as2&tag=technikaya-20&linkId=f48456f97fc245906c2503b1fa31f59c" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -136,7 +136,7 @@ Yes, you don't have to pick up your charger everywhere with this laptop. Also, w
 
 ### Lenovo Flex 14
 
-![Lenovo Flex 14](/uploads/lenovo-flex.jpg "Lenovo Flex 14")
+![Lenovo Flex 14](/uploads/lenovo-flex.webp "Lenovo Flex 14")
 
 Lenovo Flex 14 comes in an excellent robust black color design with a foldable screen. It had a 14 inches and 1080p display on which you can enjoy movies and games. If you need something more than web browsing, watching movies, and office use Lenovo Flex 14 will be an excellent choice for you.
 
