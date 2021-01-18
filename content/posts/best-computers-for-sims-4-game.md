@@ -13,7 +13,62 @@ tags:
   - Information
 categories:
   - Reviews
-schemaMarkup: "\n"
+schemaMarkup: >
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-computers-for-sims-4-game",
+
+  "name": "Best Computers For Sims 4 Game [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-computers-for-sims-4-game/dell-inspiron-desktop-ryzen-7-and-rx-580",
+
+  "@id": "dell-inspiron-desktop-ryzen-7-and-rx-580 ",
+
+  "name": "Dell Inspiron Desktop Ryzen 7 and RX 580"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-computers-for-sims-4-game/alarco-gtx-650economical-choice-for-sims-4",
+
+  "@id": "alarco-gtx-650economical-choice-for-sims-4 ",
+
+  "name": "Alarco Gtx 650–Economical Choice For Sims 4"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-computers-for-sims-4-game/hp-omen-gaming-vr-ready",
+
+  "@id": "hp-omen-gaming-vr-ready ",
+
+  "name": "HP OMEN Gaming VR Ready"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Dell Inspiron Gaming PC
 pickImg: /uploads/dell.jpg
 pickLink: https://www.amazon.com/gp/product/B07Q3G3B67/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07Q3G3B67&linkId=8ddc1db552916edd99c0e1118dc0d677
