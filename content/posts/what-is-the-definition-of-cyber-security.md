@@ -7,7 +7,7 @@ excrept: If you  don't know about cyber security and Types of cyber security
 metaKeywords: What Is The Definition Of Cyber Security
 url: what-is-the-definition-of-cyber-security/
 date: 2020-09-14T17:55:52.652Z
-updateDate: 2021-01-18T17:52:40.270Z
+updateDate: 2021-01-18T17:58:39.428Z
 image: /uploads/cyber.jpg
 tags:
   - Information
