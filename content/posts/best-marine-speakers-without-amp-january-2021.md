@@ -18,6 +18,8 @@ pickName: Boss MRWT40 Waketower Speaker
 pickImg: /uploads/boss-audio-systems-mrwt40-marine-waketower-speaker.webp
 pickLink: https://www.amazon.com/gp/product/B00VV6YQAW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00VV6YQAW&linkId=2a05c6366e8e682296962021632a536e
 ---
+
+
 Our expert team Technikaya listed these Best marine speakers by reviewing sound quality, water resistivity, body-color & design, weather resistivity, ultraviolet rays resistivity, etc. Before buying these boat speakers, you first make sure technical specifications like size, design, cone quality, resistivity, tweeter, etc. These marine speakers can be used with or without an amp, whether you want. So these best marine speakers are listed below.
 
 ### Are these waterproof Maine speakers or not waterproof?
@@ -84,3 +86,90 @@ Using these marine speakers with amp or without an amp depends on you, and we on
 </tbody>
 </table>
 {{</html-code>}}
+
+### Sony XSMP1611 Dual Cone Marine Speakers
+
+![Sony XSMP1611 Dual Cone Marine Speakers](/uploads/sony-dual-cone-xsmp1611.webp "Sony XSMP1611 Dual Cone Marine Speakers")
+
+First are Sony XSMP1611 reviews and these marine speakers have elegant white color, which seems elegant. These are Dual Cone Marine Speakers and come with a speakers size of 6.5 Inches. 
+
+These marine speakers are Water-resistant, and for the enjoyment of powerful sound, you also get the Removable grille feature. These Marine Speakers are capable of handling 40 W of power, and if we talk about RMS Power, then Sony marine speakers take RMS power of 65 Watts CEA2031. 
+
+The sound produced by these Sony marine speakers is brilliant, and you are able to Hear rich bass; due to the rigid cone structure of the Sony woofer, you will get clear vocals.
+
+## What is recent buyers report
+
+We found 662 global ratings and 70+ percentage of five stars rating for Sony XSMP1611 marine speakers on amazon. People love these white versions of marine speakers, and the main thing is that these are IPx5 certified for marine usage, and you can easily Use Sony marine speakers in a boat. The white pair is cheaper than Sony XSMP1611 black version, but both have a similar design.
+
+But some people disagree with speakers Cone material and calling material lowest quality and when they buy and installed these marine speakers on a boat these works perfectly but after one-two years the Sony XSMP1611 marine speakers cone damaged badly. So, the maximum percentage of reviews are showing signs of sony speakers are the Best marine speakers without amp at all.
+
+#### Specifications
+
+{{<html-code tag="div">}}
+
+<table>
+<tbody><tr>
+<td>Frequency range</td>
+<td>Wide 45–20000Hz</td>
+</tr>
+<tr>
+<td>Power handling</td>
+<td>40 W</td>
+</tr>
+<tr>
+<td>Speaker size</td>
+<td>6.5 in (16. 5 cm)</td>
+</tr>
+<tr>
+<td>Speakers Design</td>
+<td>Dual cone design</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>White</td>
+</tr>
+<tr>
+<td>Water Resistant</td>
+<td>Yes- salt Water Resistant marine Speakers</td>
+</tr>
+<tr>
+<td>IPx5 certified</td>
+<td>Yes-For marine use</td>
+</tr>
+<tr>
+<td>Removable Grille</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>RMS Power Handling</td>
+<td>65 Watts CEA2031 rated</td>
+</tr>
+<tr>
+<td>Max Power Handling</td>
+<td>140 Watts</td>
+</tr>
+</tbody>
+</table>
+{{</html-code>}}
+
+{{<pros>}}
+
+<li>Best Dual Cone design speakers.</li>
+<li>IPx5 certified for marine use.</li>
+<li>Come with Removable grille.</li>
+<li>UV proof speakers.</li>
+<li>Enjoy powerful sound.</li>
+<li>Replaceable sony xs- mp61 speakers.</li>
+<li>Perfectly fits Holes on the rear deck of your boat.</li>
+<li>Sound quality is good.</li>
+<li>Best in price range.</li>
+{{</pros>}}
+{{<cons>}}
+<li>Black version of sony marine speakers little costly.</li>
+<li>For large vessels, these sony marine speakers might some lacking raw power.</li>
+<li>Cone quality little low.</li>
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0066130EA/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0066130EA&linkId=89c14f161b2a3f5dfc417167cb31c9e7{{</button>}}
+
+### JBL MS6510 Boat ATV Speakers
+
+![JBL MS6510 Boat ATV Speakers](/uploads/jbl-ms6510-boat-atv-speakers.webp "JBL MS6510 Boat ATV Speakers")
