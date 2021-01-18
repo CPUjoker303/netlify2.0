@@ -64,13 +64,13 @@ There are thousands of laptops models in the market, but how to know which one i
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07D6F9H8X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07D6F9H8X&linkCode=as2&tag=technikaya-20&linkId=1a30030a75a958b936cbfdd7d07ee12b" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/google-pixelbook-.jpg" alt="Google Pixelbook " title="Google Pixelbook "></td>
+<td class="tdimg"><img src="/uploads/google-pixelbook-laptop.webp" alt="Google Pixelbook " title="Google Pixelbook "></td>
 <td>Google Pixelbook </td>
 <td>PERFECT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B075JSK7TR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075JSK7TR&linkCode=as2&tag=technikaya-20&linkId=f95b87c9e1ce64cd915efe03a098deb6" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/asus-zenbook-fl.jpg" alt="ASUS ZenBook Flip 14" title="ASUS ZenBook Flip 14"></td>
+<td class="tdimg"><img src="/uploads/asus-zenbook-fl-laptop.webp" alt="ASUS ZenBook Flip 14" title="ASUS ZenBook Flip 14"></td>
 <td>ASUS ZenBook Flip 14</td>
 <td>GOOD</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B078YN3VY9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078YN3VY9&linkCode=as2&tag=technikaya-20&linkId=024f2cbade096e5d579aa3c3804462b6" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -190,9 +190,15 @@ There are several versions of this laptop available on Amazon, and you can get o
 
 ### Microsoft Surface 3
 
-![](/uploads/microsoft-surface-3.webp)
+![Microsoft Surface 3](/uploads/microsoft-surface-3.webp "Microsoft Surface 3")
 
-Microsoft Surface 3 is one of the most powerful laptops from the company. If you want something more than a laptop, this will be great for you because you can convert it into a tablet. This laptop comes in a clean and elegant design, and it's just 2.79 pounds in weight so you can carry it anywhere you want. This laptop is available in four different color tones, Matte Black, Sandstone, Platinum, and Cobalt Blue. This powerful machine comes with Intel 10th generation Core i5/i7 processors, while some models have AMD Ryzen 5/7. It comes with 8GB DDR4 memory, which is extendable up to 32GB. For storage, it had 128GB SSD; for further storage, you can extend it up to 1TB, which is enough to store your games, movies, and documents. 
+Microsoft Surface 3 is one of the most powerful laptops from the company. If you want something more than a laptop, this will be great for you because you can convert it into a tablet. This laptop comes in a clean and elegant design, and it's just 2.79 pounds in weight so you can carry it anywhere you want. This laptop is available in four different color tones, Matte Black, Sandstone, Platinum, and Cobalt Blue.
+
+This powerful machine comes with Intel 10th generation Core i5/i7 processors, while some models have AMD Ryzen 5/7. It comes with 8GB DDR4 memory, which is extendable up to 32GB. For storage, it had 128GB SSD; for further storage, you can extend it up to 1TB, which is enough to store your games, movies, and documents.
+
+It had integrated AMD RX Vega graphics, with which you can play the latest titles and watch high-resolution videos. The battery performance of this laptop is excellent, and you can use it for 11 hours continuously without the power brick. Going with an empty battery, you can charge it up to 80% just within one hour. This is no option for the optical drive in this laptop, but there are several USB 3.1 and Type-C ports.
+
+There is also a docking port for this laptop that you can consider while buying this. Microsoft release Surface 1 and 2, but both of them were not sold according to the target, so after learning from all mistakes, they have done. Currently, this laptop is available for sale on Amazon at a discount, so get it before the offer gets expired.
 
 #### Specifications
 
@@ -200,29 +206,27 @@ Microsoft Surface 3 is one of the most powerful laptops from the company. If you
 
 <table>
 <tbody><tr>
-<td>Standing screen display size		</td>
+<td>Standing screen display size</td>
 <td>8 Inches</td>
 </tr>
 <tr>
-<td>ASIN		</td>
+<td>ASIN</td>
 <td>B00VGNZ4PG</td>
 </tr>
 <tr>
-<td>Memory Speed		</td>
+<td>Memory Speed</td>
 <td>1600 MHz</td>
 </tr>
 <tr>
-<td>Number of USB 3.0 Ports		</td>
+<td>Number of USB 3.0 Ports</td>
 <td>1</td>
 </tr>
 <tr>
-<td>Wireless Type		</td>
+<td>Wireless Type</td>
 <td>802.11abg</td>
 </tr>
 </tbody>
 </table>
-
-It had integrated AMD RX Vega graphics, with which you can play the latest titles and watch high-resolution videos. The battery performance of this laptop is excellent, and you can use it for 11 hours continuously without the power brick. Going with an empty battery, you can charge it up to 80% just within one hour. This is no option for the optical drive in this laptop, but there are several USB 3.1 and Type-C ports. There is also a docking port for this laptop that you can consider while buying this. Microsoft release Surface 1 and 2, but both of them were not sold according to the target, so after learning from all mistakes, they have done. Currently, this laptop is available for sale on Amazon at a discount, so get it before the offer gets expired.
 
 {{<pros>}}
 
@@ -239,16 +243,17 @@ It had integrated AMD RX Vega graphics, with which you can play the latest title
 
 ### Lenovo IdeaPad
 
-{{<singlep pimg="/uploads/lenovo-ideapad-330-17.jpg" pname="Lenovo IdeaPad" plink="https://www.amazon.com/gp/product/B07D6F9H8X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07D6F9H8X&linkCode=as2&tag=technikaya-20&linkId=1a30030a75a958b936cbfdd7d07ee12b">}}
-	Nvidia GTX 1050Ti 2GB 
-	Antiglare screen 
-	16GB of DDR4 memory 
-	High-speed 
-	USB 3.1 Type-C ports
+![Lenovo IdeaPad](/uploads/lenovo-ideapad-330-17.jpg "Lenovo IdeaPad")
 
-{{</singlep>}}
 
-If you are a true fan of big screens, you might consider this laptop because it had a 17 LED-backlit display. This laptop is available in many different configurations. With eighth-generation Core i7 and Nvidia Geforce MX150, while the cheaper version comes with Core i3 and Intel HD 620. If you are looking for something sturdy, you can go with i7 8750H with Nvidia GTX 1050Ti 2GB. In that configuration, it's a powerful machine, and you can even play the latest games on it. 
+
+If you are a true fan of big screens, you might consider this laptop because it had a 17 LED-backlit display. This laptop is available in many different configurations. With eighth-generation Core i7 and Nvidia Geforce MX150, while the cheaper version comes with Core i3 and Intel HD 620.
+
+If you are looking for something sturdy, you can go with i7 8750H with Nvidia GTX 1050Ti 2GB. In that configuration, it's a powerful machine, and you can even play the latest games on it. One of the best features of this laptop is its antiglare screen with resolution support of 1600x900p.
+
+It had 16GB of DDR4 memory with which you can do multitasking and run other applications without any lag. IdeaPad 330 comes with pre-installed Windows 10 and 30 days trial of Office 365. For storage, it had 1000GB of HDD, which is enough to store your games, movies but if you want to upgrade it to SSD, you can install it up to 2TB. It had an optical drive, HDML port, and eternal port.
+
+It also comes with high-speed USB 3.1 Type-C ports. The weight of this laptop is about 6.17 pounds, and its battery life is quite good. It had one Lithium polymer battery, and you can use it up to 5 hours with a single charge and also support fast charging with which you can charge it fully in just 1 hour. With a Core i7 processor, GDDR5 GPU, and that features this laptop is one of the best deals there you can consider.
 
 #### Specifications
 
@@ -256,7 +261,7 @@ If you are a true fan of big screens, you might consider this laptop because it 
 
 <table>
 <tbody><tr>
-<td>Standing screen display size		</td>
+<td>Standing screen display size</td>
 <td>17.3 Inches</td>
 </tr>
 <tr>
@@ -264,11 +269,11 @@ If you are a true fan of big screens, you might consider this laptop because it 
 <td>B07D6F9H8X</td>
 </tr>
 <tr>
-<td>Max Screen Resolution		</td>
+<td>Max Screen Resolution</td>
 <td>1600 x 900</td>
 </tr>
 <tr>
-<td>Graphics Coprocessor		</td>
+<td>Graphics Coprocessor</td>
 <td>Intel UHD Graphics 620</td>
 </tr>
 <tr>
@@ -279,11 +284,9 @@ If you are a true fan of big screens, you might consider this laptop because it 
 </table>
 {{</html-code>}}
 
-One of the best features of this laptop is its antiglare screen with resolution support of 1600x900p. It had 16GB of DDR4 memory with which you can do multitasking and run other applications without any lag. IdeaPad 330 comes with pre-installed Windows 10 and 30 days trial of Office 365. For storage, it had 1000GB of HDD, which is enough to store your games, movies but if you want to upgrade it to SSD, you can install it up to 2TB. It had an optical drive, HDML port, and eternal port. It also comes with high-speed USB 3.1 Type-C ports. The weight of this laptop is about 6.17 pounds, and its battery life is quite good. It had one Lithium polymer battery, and you can use it up to 5 hours with a single charge and also support fast charging with which you can charge it fully in just 1 hour. With a Core i7 processor, GDDR5 GPU, and that features this laptop is one of the best deals there you can consider.
-
 {{<pros>}}
 
-<li>Solid build and slim form factor. </li>
+<li>Solid build and slim form factor.</li>
 <li>1TB HDD means plenty of storage.</li>
 <li>8GB of DDR4 memory for multitasking </li>
 <li>Matte screen .</li>
@@ -298,15 +301,19 @@ One of the best features of this laptop is its antiglare screen with resolution 
 
 ### Google Pixelbook
 
-{{<singlep pimg="/uploads/google-pixelbook-.jpg" pname="Google Pixelbook " plink="https://www.amazon.com/gp/product/B075JSK7TR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075JSK7TR&linkCode=as2&tag=technikaya-20&linkId=f95b87c9e1ce64cd915efe03a098deb6">}}
-	High-speed USB 3.1 ports
-	Eight-generation Intel Core i5 mobile processor
-	8GB of DDR4 memory
-	Easy to use
+![Google Pixelbook](/uploads/google-pixelbook-laptop.webp "Google Pixelbook")
 
-{{</singlep>}}
+Google Pixelbook is a powerful Chromebook by Google. This Laptop comes with an eight-generation Intel Core i5 mobile processor. It had 8GB of DDR4 memory, which is enough to use multiple tabs while web browsing.
 
-Google Pixelbook is a powerful Chromebook by Google. This Laptop comes with an eight-generation Intel Core i5 mobile processor. It had 8GB of DDR4 memory, which is enough to use multiple tabs while web browsing. For storage, it had 128GB of SSD, which sounds too low, but as it is using Chrome OS, so it's enough for it. Still, if you want some more storage, it had high-speed USB 3.1 ports. Google Pixelbook is the first Chromebook that comes with Google Assistant built-in. All you have to do is say "Ok Google" or press the assistant button on your keyboard, and it will be available to help you. Its 4 in 1 design allows you to convert it into Laptop, Tablet, Tent, and Entertainment modes. 
+For storage, it had 128GB of SSD, which sounds too low, but as it is using Chrome OS, so it's enough for it. Still, if you want some more storage, it had high-speed USB 3.1 ports. Google Pixelbook is the first Chromebook that comes with Google Assistant built-in.
+
+All you have to do is say "Ok Google" or press the assistant button on your keyboard, and it will be available to help you. Its 4 in 1 design allows you to convert it into Laptop, Tablet, Tent, and Entertainment modes. 
+
+You can enjoy your favorite apps, like Google Chrome, Youtube, Netflix, Roblox, and much more. Pixelbook is one of the thinnest and lightest laptops as it is only 10.3mm in height while it weights only 2.45 pounds. It had a 12.3 inches touch rotatable display on which you can enjoy high res movies and TV shows.
+
+One more thing to consider this Laptop is if you don't want to run most of the Windows applications, this might be the best deal for you. It comes with Chrome OS, which is lighter in Windows & amp; Mac and takes less than 10 secs.
+
+The battery performance of this Laptop is excellent, and you can use it for up to 10 hours. It had a fast charging feature, too, with which charging it for 15 minutes can give you 2 hours of battery backup. It's small in size, and with this excellent battery performance, you can easily take it anywhere you want.
 
 #### Specifications
 
@@ -314,50 +321,50 @@ Google Pixelbook is a powerful Chromebook by Google. This Laptop comes with an e
 
 <table>
 <tbody><tr>
-<td>Standing screen display size		</td>
+<td>Standing screen display size</td>
 <td>12.3 Inches</td>
 </tr>
 <tr>
-<td>Number of USB 3.0 Ports		</td>
+<td>Number of USB 3.0 Ports</td>
 <td>2</td>
 </tr>
 <tr>
-<td>ASIN		</td>
+<td>ASIN</td>
 <td>B075JSK7TR</td>
 </tr>
 <tr>
-<td>Max Screen Resolution		</td>
+<td>Max Screen Resolution</td>
 <td>2400 x 1600</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-You can enjoy your favorite apps, like Google Chrome, Youtube, Netflix, Roblox, and much more. Pixelbook is one of the thinnest and lightest laptops as it is only 10.3mm in height while it weights only 2.45 pounds. It had a 12.3 inches touch rotatable display on which you can enjoy high res movies and TV shows. One more thing to consider this Laptop is if you don't want to run most of the Windows applications, this might be the best deal for you. It comes with Chrome OS, which is lighter in Windows & amp; Mac and takes less than 10 secs. The battery performance of this Laptop is excellent, and you can use it for up to 10 hours. It had a fast charging feature, too, with which charging it for 15 minutes can give you 2 hours of battery backup. It's small in size, and with this excellent battery performance, you can easily take it anywhere you want.
-
 {{<pros>}}
 
-<li>The design is Sleek and sexy</li>
+<li>The design is Sleek and sexy.</li>
 <li>Touchscreen is very fast and responsive.</li>
 <li>Chrome OS is super fast </li>
 <li>Blazing fast processor </li>
-<li>Tablet mode allows for multiple viewing angles </li>
+<li>Tablet mode allows for multiple viewing angles.</li>
 {{</pros>}}
 {{<cons>}}
-<li>The screen is very blue with high contrast</li>
+<li>The screen is very blue with high contrast.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B075JSK7TR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B075JSK7TR&linkCode=as2&tag=technikaya-20&linkId=f95b87c9e1ce64cd915efe03a098deb6{{</button>}}
 
 ### ASUS ZenBook Flip 14
 
-{{<singlep pimg="/uploads/asus-zenbook-flip-14.jpeg" pname="ASUS ZenBook Flip 14" plink="https://www.amazon.com/gp/product/B078YN3VY9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078YN3VY9&linkCode=as2&tag=technikaya-20&linkId=024f2cbade096e5d579aa3c3804462b6">}}
-	Full HD nano edge 
-	Supports a stylus 
-	Several USB 3.1 Type-C and Type-A 
-	16GB of ram
+![](/uploads/asus-zenbook-fl-laptop.webp)
 
-{{</singlep>}}
+ASUS ZenBook Flip 14 comes with a 14 inches full HD nano edge, touch screen display on which you can enjoy movies, games, and much more. This laptop also supports a stylus with which you can use it as a display graphics tablet.
 
-ASUS ZenBook Flip 14 comes with a 14 inches full HD nano edge, touch screen display on which you can enjoy movies, games, and much more. This laptop also supports a stylus with which you can use it as a display graphics tablet. It had an eight-generation Intel Core i7 processor 8550U, which is enough for any application and game to run on this machine. The software comes with this laptop are Window 10 pre-installed and Office 365 in some regions. There are several USB 3.1 Type-C and Type-A, an HDMI and an Ethernet port on the left and right side of it. 
+ It had an eight-generation Intel Core i7 processor 8550U, which is enough for any application and game to run on this machine. The software comes with this laptop are Window 10 pre-installed and Office 365 in some regions. There are several USB 3.1 Type-C and Type-A, an HDMI and an Ethernet port on the left and right side of it.
+
+There is no room for the optical drive on this laptop; however, if you want to transfer data, you can use high-speed USB ports. It comes with fast NVMe SSD with a storage capacity of 512GB, which is enough for storing your games, Softwares, and videos. ASUS ZenBook Flip 14 had 16GB of ram with which you can use several tabs at the same time without any lag or problem.
+
+One of the best things on this laptop is Nvidia Geforce MX150 2GB GDDR5. You can play most of the AAA games with this laptop, but you have to make a little compromise with the graphics and resolution.
+
+ It's the best choice if you are considering it for web browsing or office use. Currently, it's available on Amazon, and with that excellent features and robust design, it's a good deal.
 
 ### Specifications
 
@@ -365,30 +372,28 @@ ASUS ZenBook Flip 14 comes with a 14 inches full HD nano edge, touch screen disp
 
 <table>
 <tbody><tr>
-<td>Standing screen display size		</td>
+<td>Standing screen display size</td>
 <td>14 Inches</td>
 </tr>
 <tr>
-<td>ASIN		</td>
+<td>ASIN</td>
 <td>B078YN3VY9</td>
 </tr>
 <tr>
-<td>Number of USB 3.0 Ports		</td>
+<td>Number of USB 3.0 Ports</td>
 <td>3</td>
 </tr>
 <tr>
-<td>Memory Speed		</td>
+<td>Memory Speed</td>
 <td>2133 MHz</td>
 </tr>
 <tr>
-<td>Max Screen Resolution		</td>
+<td>Max Screen Resolution</td>
 <td>1920 x 1080 Pixels</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
-
-There is no room for the optical drive on this laptop; however, if you want to transfer data, you can use high-speed USB ports. It comes with fast NVMe SSD with a storage capacity of 512GB, which is enough for storing your games, Softwares, and videos. ASUS ZenBook Flip 14 had 16GB of ram with which you can use several tabs at the same time without any lag or problem. One of the best things on this laptop is Nvidia Geforce MX150 2GB GDDR5. You can play most of the AAA games with this laptop, but you have to make a little compromise with the graphics and resolution. It's the best choice if you are considering it for web browsing or office use. Currently, it's available on Amazon, and with that excellent features and robust design, it's a good deal.
 
 {{<pros>}}
 
