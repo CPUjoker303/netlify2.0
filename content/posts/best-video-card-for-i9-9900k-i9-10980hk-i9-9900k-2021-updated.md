@@ -14,7 +14,146 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: dd
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-video-card-for-i9-9900k",
+
+  "name": "Best Video Card For i9 9900k & 10980HK &10900k [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-video-card-for-i9-9900k/asus-geforce-rtx-2080-ti",
+
+  "@id": "asus-geforce-rtx-2080-ti ",
+
+  "name": "Asus GeForce RTX 2080 Ti"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-video-card-for-i9-9900k/evga-geforce-rtx-2080-super-black-gaming",
+
+  "@id": "evga-geforce-rtx-2080-super-black-gaming ",
+
+  "name": "EVGA GeForce RTX 2080 Super Black Gaming"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-video-card-for-i9-9900k/sapphire-radeon-pulse-rx-5700-xt",
+
+  "@id": "sapphire-radeon-pulse-rx-5700-xt ",
+
+  "name": "Sapphire Radeon Pulse RX 5700 XT"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-video-card-for-i9-9900k/evga-geforce-rtx-2070-super-gaming",
+
+  "@id": "evga-geforce-rtx-2070-super-gaming ",
+
+  "name": "EVGA GeForce RTX 2070 Super Gaming"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-video-card-for-i9-9900k/evga-geforce-rtx-2060-ko",
+
+  "@id": "evga-geforce-rtx-2060-ko ",
+
+  "name": "Evga Geforce Rtx 2060 KO"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-video-card-for-i9-9900k/zotac-gaming-geforce-rtx-2070-super-mini",
+
+  "@id": "zotac-gaming-geforce-rtx-2070-super-mini ",
+
+  "name": "ZOTAC Gaming GeForce RTX 2070 Super Mini"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 7,
+
+  "url":"https://www.technikaya.com/best-video-card-for-i9-9900k/sapphire-radeon-pulse-rx-5600-xt",
+
+  "@id": "sapphire-radeon-pulse-rx-5600-xt ",
+
+  "name": "Sapphire Radeon Pulse RX 5600 XT"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 8,
+
+  "url":"https://www.technikaya.com/best-video-card-for-i9-9900k/asus-tuf-gaming-geforce-gtx-1650-super-overclocked",
+
+  "@id": "asus-tuf-gaming-geforce-gtx-1650-super-overclocked ",
+
+  "name": "Asus TUF Gaming GeForce GTX 1650 Super Overclocked"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 9,
+
+  "url":"https://www.technikaya.com/best-video-card-for-i9-9900k/asus-geforce-gtx-1660-super-overclocked-6gb-dual-fan",
+
+  "@id": "asus-geforce-gtx-1660-super-overclocked-6gb-dual-fan ",
+
+  "name": "Asus Geforce GTX 1660 Super Overclocked 6gb Dual Fan"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 10,
+
+  "url":"https://www.technikaya.com/best-video-card-for-i9-9900k/asus-geforce-gtx-1660-ti",
+
+  "@id": "asus-geforce-gtx-1660-ti ",
+
+  "name": "Asus Geforce GTX 1660 ti"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: EVGA GeForce RTX 2070 Super Gaming
 pickImg: /uploads/evga-geforce-rtx-2070-super-gaming-review.jpg
 pickLink: https://www.amazon.com/gp/product/B07V6SJLSG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07V6SJLSG&linkId=972f4532c43c7597ee5b313ddd91477c
