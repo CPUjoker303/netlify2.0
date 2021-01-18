@@ -69,7 +69,7 @@ It all depends upon sound quality. To record a song or need to talk while playin
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07G9XCTY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07G9XCTY4&linkCode=as2&tag=technikaya-20&linkId=31d44a28e7d66d1ee36437c8b8de1091" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/jbl.jpg" alt="JBL Quantum 100" title="JBL Quantum 100"></td>
+<td class="tdimg"><img src="/uploads/jbl-quantum-100.webp" alt="JBL Quantum 100" title="JBL Quantum 100"></td>
 <td>JBL Quantum 100</td>
 <td>Cool</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B084CZT5SX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084CZT5SX&linkCode=as2&tag=technikaya-20&linkId=72388e78cf7b46b101a70635f12c5879" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -81,7 +81,7 @@ It all depends upon sound quality. To record a song or need to talk while playin
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07MLWVQSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MLWVQSY&linkCode=as2&tag=technikaya-20&linkId=3a209014ba13f727600b66e8e1c73ffb" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/x.jpg" alt="Razer Kraken X Ultralight" title="Razer Kraken X Ultralight"></td>
+<td class="tdimg"><img src="/uploads/razer-kraken-x-ultralight.webp" alt="Razer Kraken X Ultralight" title="Razer Kraken X Ultralight"></td>
 <td>Razer Kraken X Ultralight</td>
 <td>Great</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -172,7 +172,7 @@ It is perfect for a smash player. The Microphone is of such excellent quality. T
 
 ### Turtle Beach - i30 Premium
 
-![](/uploads/turtle-beach-i30-premium.webp)
+![Turtle Beach - i30 Premium](/uploads/turtle-beach-i30-premium.webp "Turtle Beach - i30 Premium")
 
 Second is Turtle Beach i30. Turtle Beach is an international gaming accessory producer company in California. It produces gaming headsets for Xbox One, PlayStation 4, gaming devices, personal computers Nintendo switch, and mobile devices. 
 
@@ -180,9 +180,11 @@ The headset is the advanced wireless Bluetooth technology, and it enables you to
 
 It has an Invisible Microphone and Multiple built-in microphones, which is with the noise filtering technology and provides incredible voice pick up for all your chats or calls need.
 
-It has exceptional noise canceling feature which is the latest energetic noise cancellation technology silences undesired background noise so you can be concentrated on your sound experience easily.This headset is truly designed for comfort and With the rich memory foam ear headrest and a pulpy leather headband so that you can get easily lost in your music.
+It has exceptional noise canceling feature which is the latest energetic noise cancellation technology silences undesired background noise so you can be concentrated on your sound experience easily.
 
-This headset has a vibrant 50MM Speakers so you can hear your music clearly with that way it was wilful with four preset EQ levels, which is including very loud bass boost mode case you are watching movies or you are playing games, or you are listening to music, the headset 
+This headset is truly designed for comfort and With the rich memory foam ear headrest and a pulpy leather headband so that you can get easily lost in your music.
+
+This headset has a vibrant 50MM Speakers so you can hear your music clearly with that way it was wilful with four preset EQ levels, which is including very loud bass boost mode case you are watching movies or you are playing games, or you are listening to music, the headset.
 
 Turtle Beach i30 Wireless Mobile phone Headset, with earcup dominance that let you change volume, and track selections and many more easily. The headset has vibrant stereo sound, which is With the Active Noise Cancellation that quietness undesired background noise. The headset is with the dual noise-canceling boomless mics, which are providing outstanding voice pickup.
 
@@ -243,13 +245,27 @@ The body shape is awe-inspiring and builds quality but some sort of bulky and he
 
 ### Razer Kraken Pro V2
 
-![](/uploads/razer-kraken-pro-v2.webp)
+![Razer Kraken Pro V2](/uploads/razer-kraken-pro-v2.webp "Razer Kraken Pro V2")
 
 The next is Razer Kraken X Ultra Gaming Headset. We know that Razer is an international gaming hardware design and manufacturing company. Razer is also esports and financial services providing company and it established by Robert Krakoff. The headquarter of the company is currently in California and even in Singapore.
 
-The headset  Razer Kraken X ultralight is a gaming headphone. This headphone will full fill your gaming setup. Then you can go with Razer Kraken X ultralight headphone. It is a series of Kraken. The headset is manufactured in the US. It comes with integrated audio controls. You can easily control audio with integrated audio controls. The Kraken headset weight is 250 grams. If we measure weight is an ounce, the actual weight of Razer Kraken x ultralight is 8.8 ounces which is around 40% lighter than the competition. The weight of the headset  Razer Kraken X ultralight is very light. 
+The headset  Razer Kraken X ultralight is a gaming headphone. This headphone will full fill your gaming setup. Then you can go with Razer Kraken X ultralight headphone. It is a series of Kraken. The headset is manufactured in the US. It comes with integrated audio controls.
+
+You can easily control audio with integrated audio controls. The Kraken headset weight is 250 grams. If we measure weight is an ounce, the actual weight of Razer Kraken x ultralight is 8.8 ounces which is around 40% lighter than the competition. The weight of the headset  Razer Kraken X ultralight is very light. 
 
 The sound quality of Razer Kraken is excellent, and a cardioid mic reduces all background noises for crystal-clear communication. The Mic quality is excellent and effortless connections.
+
+The Headphone audio control Include a congener volume control wheel and mute mic switch on the headset for instant and convenient adjustments. The long-lasting Construction Kraken X frame is very flexible. The headset is very lightweight and easy to use. The user feels very comfortable and enjoyable.
+
+The headset is very comfortable, and it very fits well. The headset has Flexibility, and it very decent in style. The foam stuffing on a headband is very comfortable. The headset has a Noise cancelling feature which is perfect and cancels all disordered Noise. 
+
+The headset looks pretty cool. It is very comfortable and relaxing. You can use this headset, and you will feel comfortable while using because of its lightweight body elegant design.
+
+The headset strap is long and not elastic, which is excellent curl up and tangle. The headset Razer Kraken x ultra gaming headset are best studio headset for gaming.
+
+The headset is basically plugged and play headset. The Build-in microphone is of outstanding quality and provides crystal-clear communication during gameplay. The headset Razer Kraken x ultralight dimensions are 6.3 x 8.27 x 3.47 inches.
+
+The headset Kraken X has 7.1 surround sound. The headset mic quality is organic. The user can do crystal clear communication.  The headset is best for gaming So, you can go with Razer Kraken X Ultra Gaming Headset.
 
 #### Specifications
 
@@ -257,64 +273,63 @@ The sound quality of Razer Kraken is excellent, and a cardioid mic reduces all b
 
 <table>
 <tbody><tr>
-<td>Item Weight	     </td>
+<td>Item Weight</td>
 <td>8.8 ounces</td>
 </tr>
 <tr>
-<td>Product Dimensions	inches</td>
-<td>6.3 x 8.27 x 3.47 </td>
+<td>Product Dimensions</td>
+<td>6.3 x 8.27 x 3.47</td>
 </tr>
 <tr>
-<td>Item Dimensions LxWxH	</td>
+<td>Item Dimensions LxWxH</td>
 <td>6.3 x 8.27 x 3.47 inches</td>
 </tr>
 <tr>
-<td>Color	Classic         </td>
+<td>Color</td>
 <td>Black</td>
 </tr>
 <tr>
-<td>Manufacturer	         </td>
+<td>Manufacturer</td>
 <td>Razer Inc.</td>
 </tr>
 <tr>
-<td>ASIN	                   </td>
+<td>ASIN</td>
 <td>B07RMC5BRL</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
 
-The Headphone audio control Include a congener volume control wheel and mute mic switch on the headset for instant and convenient adjustments. The long-lasting Construction Kraken X frame is very flexible. The headset is very lightweight and easy to use. The user feels very comfortable and enjoyable.
-
-The headset is very comfortable, and it very fits well. The headset has Flexibility, and it very decent in style. The foam stuffing on a headband is very comfortable. The headset has a Noise cancelling feature which is perfect and cancels all disordered Noise. 
-The headset looks pretty cool. It is very comfortable and relaxing. You can use this headset, and you will feel comfortable while using because of its lightweight body elegant design.
-
-The headset strap is long and not elastic, which is excellent curl up and tangle. The headset Razer Kraken x ultra gaming headset are best studio headset for gaming. 
-
-The headset is basically plugged and play headset. The Build-in microphone is of outstanding quality and provides crystal-clear communication during gameplay. The headset Razer Kraken x ultralight dimensions are 6.3 x 8.27 x 3.47 inches. The headset Kraken X has 7.1 surround sound. The headset mic quality is organic. The user can do crystal clear communication.  The headset is best for gaming So, you can go with Razer Kraken X Ultra Gaming Headset.
-
 {{<pros>}}
 
-<li>Mic quality is great</li>
-<li>Comfortable on the head & ears, for many hours</li>
+<li>Mic quality is great.</li>
+<li>Comfortable on the head & ears, for many hours.</li>
 {{</pros>}}
 {{<cons>}}
-<li>Ear cups are not big enough</li>
+<li>Ear cups are not big enough.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e{{</button>}}
 
 ### Plantronics RIG Stereo Headset
 
-{{<singlep pimg="/uploads/plantronics.jpeg" pname="Plantronics RIG Stereo" plink="https://www.amazon.com/gp/product/B00EV00MZ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EV00MZ8&linkCode=as2&tag=technikaya-20&linkId=d1909aa675de79014b86cb1e9a24cdb6">}}
-•	It has headset has 40mm speakers
-•	It has has dual microphones 
-•	It is wired headset
-•	Very Good Sound Quality
+![Plantronics RIG Stereo Headset](/uploads/plantronics.jpg "Plantronics RIG Stereo Headset")
 
-{{</singlep>}}
-
-[![](/uploads/plantronics.jpg)](https://www.amazon.com/gp/product/B00EV00MZ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EV00MZ8&linkCode=as2&tag=technikaya-20&linkId=d1909aa675de79014b86cb1e9a24cdb6)The next is Plantronics RIG gaming headset. The company, Plantronics, is an electronics manufacturing audio communication device for business and purchasers. It is producing support merge communications, mobile use, music, and gaming. Plantronics is headquartered in California and many of the products it is creating in China and Mexico. 
+The next is Plantronics RIG gaming headset. The company, Plantronics, is an electronics manufacturing audio communication device for business and purchasers. It is producing support merge communications, mobile use, music, and gaming. Plantronics is headquartered in California and many of the products it is creating in China and Mexico.
 
 This headset is RIG stereo headphones, and its mixer lets you swiftly blend mobile calls and music, games, and audio. The headset has three EQ profiles, which will let you dial in and up the audio levels refined. The headset has 40mm speakers, which deliver intense bass and enveloping stereo sound. The headset has secure storage, and the earpods put flat for off-ear listening.
+
+The headset RIG stereo has a mixer from Plantronics Gaming, which will keep you stay connected to your mobile and your games, So you can play more, and break less. You just have to connect your phone to the mixer, and only with the one-touch, very easily you can move from game to mobile.
+
+Users can take calls and can dial in your best-loved music, pick an EQ profile, or rollover to game chat - ruler your own mix without leaving the game. With convertible mics, RIG also rotates with you. It changes out the boom mic for the secrecy inline and takes your gaming or music on the go.
+
+No matter where you go, the audio is incredible, with accurate stereo and a clear voice. With the adaptability to games on personal computers or Mac, or other devices or tablets or smartphones, RIG delivers your games, life, and mix.
+
+The headset has dual microphones and the boom mic or cable Swap out for the stealth inline mic for on-the-go gaming and music.
+
+The headset has a noise-canceling boom mic, which blocks all background noise for clear conversations while the secrecy inline mic, which includes mute and calls control if we talk about the weight of the headset, which is 2 pounds or equivalent to 0.907185kg.
+
+The headphones are very comfortable after a couple of hours don’t get sweaty ear disorders. The Sound is very clear and has no problem with hearing other people, and they hear you.
+
+The mic is wired, and the noise cancellation feature is perfect for crystal clear voice. The headset has Inline mic for on the go gaming and music or other things. If you were finding a headphone for a studio, you can also go with the Plantronics Rig stereo gaming headset.
 
 #### Specifications
 
@@ -322,41 +337,28 @@ This headset is RIG stereo headphones, and its mixer lets you swiftly blend mobi
 
 <table>
 <tbody><tr>
-<td>Manufacturer	</td>
+<td>Manufacturer</td>
 <td>Plantronics</td>
 </tr>
 <tr>
-<td>Weight	</td>
+<td>Weight</td>
 <td>2 pounds</td>
 </tr>
 <tr>
-<td>model number	</td>
+<td>model number</td>
 <td>200040-22</td>
 </tr>
 <tr>
-<td>Dimensions	</td>
-<td>10.2 x 9.9 x 4.2 inches; 2 PoundsPackage Dimensions	10.2 x 9.9 x 4.2 inches; 2 Pounds</td>
+<td>Dimensions</td>
+<td>10.2 x 9.9 x 4.2</td>
 </tr>
 <tr>
-<td>ASIN	</td>
+<td>ASIN</td>
 <td>B00EV00MZ8</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
-
-The headset RIG stereo has a mixer from Plantronics Gaming, which will keep you stay connected to your mobile and your games, So you can play more, and break less. You just have to connect your phone to the mixer, and only with the one-touch, very easily you can move from game to mobile. 
-
-Users can take calls and can dial in your best-loved music, pick an EQ profile, or rollover to game chat - ruler your own mix without leaving the game. With convertible mics, RIG also rotates with you. It changes out the boom mic for the secrecy inline and takes your gaming or music on the go. 
-
-No matter where you go, the audio is incredible, with accurate stereo and a clear voice. With the adaptability to games on personal computers or Mac, or other devices or tablets or smartphones, RIG delivers your games, life, and mix. 
-
-The headset has dual microphones and the boom mic or cable Swap out for the stealth inline mic for on-the-go gaming and music.
-
-The headset has a noise-canceling boom mic, which blocks all background noise for clear conversations while the secrecy inline mic, which includes mute and calls control if we talk about the weight of the headset, which is 2 pounds or equivalent to 0.907185kg. 
-The headphones are very comfortable after a couple of hours don’t get sweaty ear disorders. The Sound is very clear and has no problem with hearing other people, and they hear you.
-
-The mic is wired, and the noise cancellation feature is perfect for crystal clear voice. The headset has Inline mic for on the go gaming and music or other things. If you were finding a headphone for a studio, you can also go with the Plantronics Rig stereo gaming headset.
 
 {{<pros>}}
 
@@ -370,23 +372,23 @@ The mic is wired, and the noise cancellation feature is perfect for crystal clea
 
 ### HelloPower Gaming Headset
 
-{{<singlep pimg="/uploads/hellopower.jpg" pname="HelloPower Gaming Headset" plink="https://www.amazon.com/gp/product/B07G9XCTY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07G9XCTY4&linkCode=as2&tag=technikaya-20&linkId=31d44a28e7d66d1ee36437c8b8de1091">}}
-•	It has Glaring LED lights 
-•	The headset comes with braided wire
-•	Headset is very durable
-•	Comes noise controller
+![HelloPower Gaming Headset](/uploads/hello.jpg "HelloPower Gaming Headset")
 
-{{</singlep>}}
+The Fifth is HelloPower Gaming Headset. HelloPower is a brand. The headphone is for over-ear and comes with a volume controller. The headset has High exactness which is up to 50mm magnetic neodymium driver, that brings you authentic sound field and sound transparency, and shock feelings are able of various games with magnificent surrounding noise isolation.
 
-[![](/uploads/hello.jpg)](https://www.amazon.com/gp/product/B07G9XCTY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07G9XCTY4&linkCode=as2&tag=technikaya-20&linkId=31d44a28e7d66d1ee36437c8b8de1091)
+The hearing protection used with skin- favourable leather material, and it is super soft Over-ear pads that are furthermore relaxing and comfortable for very long time wear.The headset comes with Glaring LED lights which are designed on the earcups and Mic that is highlighting the climate of the game.
 
-The Fifth is HelloPower Gaming Headset. HelloPower is a brand. The headphone is for over-ear and comes with a volume controller. The headset has High exactness which is up to 50mm magnetic neodymium driver, that brings you authentic sound field and sound transparency, and shock feelings are able of various games with magnificent surrounding noise isolation. The hearing protection used with skin- favourable leather material, and it is super soft Over-ear pads that are furthermore relaxing and comfortable for very long time wear.
+The headset comes with Braided wire and a durable tensile which effectively reduce the external resistance. The Velcro cable tie, avert the line association.The headphone line is fit-out with a rotary volume controller, and one of the keys of mic is mute for more convenient to users.
 
-The headset comes with Glaring LED lights which are designed on the earcups and Mic that is highlighting the climate of the game. The headset comes with Braided wire and a durable tensile which effectively reduce the external resistance. The Velcro cable tie, avert the line association.
+It is beautiful craftsmanship and fashion appearance. It is the professional gaming headphone for your choice. The driver of the headset has High accuracy 50mm magnetic neodymium which will conduct you vivid sound field, clarity and shock feeling, capable of various games. The weight of the headset is 1.16 pounds which is equivalent to 0.5261671 kg.
 
-The headphone line is fit-out with a rotary volume controller, and one of the keys of mic is mute for more convenient to users. It is beautiful craftsmanship and fashion appearance. It is the professional gaming headphone for your choice. 
+The headset is durable and very easy to use. The noise controller of the headset comes with sound isolation. A gamer needs a headset like which has the best sound quality and which has the best microphone quality to enhance the best gaming experience.
 
-The driver of the headset has High accuracy 50mm magnetic neodymium which will conduct you vivid sound field, clarity and shock feeling, capable of various games. The weight of the headset is 1.16 pounds which is equivalent to 0.5261671 kg.
+More sound quality more the user will enjoy games and music. The headset is very comfortable, and it is made for long time wear. You can wear this headset for a long time as much as you can. The design of the headset is very pretty good.
+
+The body covers with pretty led Lights which were designed beautifully on the earcups and also on the microphone which is fully highlighting the atmosphere of the game. The light colours are RGB which are very looking pretty good and adjustable.
+
+The main dimensions of the headset are 8.5 x 7.72 x 4.17 inches. If we compare this headset with other headphones In our product list, then it has fewer features as compared to audio Technica BPHSI, Turtle Beach - i30 and Razer Kraken 7.1. So it is best studio headphones for gaming, It is up to you, buy it or not.
 
 #### Specifications
 
@@ -394,40 +396,32 @@ The driver of the headset has High accuracy 50mm magnetic neodymium which will c
 
 <table>
 <tbody><tr>
-<td>Manufacturer		</td>
+<td>Manufacturer</td>
 <td>HelloPower</td>
 </tr>
 <tr>
-<td>ASIN		         </td>
+<td>ASIN</td>
 <td>B07G9XCTY4</td>
 </tr>
 <tr>
-<td>Dimensions		</td>
+<td>Dimensions</td>
 <td>8.5 x 7.72 x 4.17 inches</td>
 </tr>
 <tr>
-<td>Weight		         </td>
+<td>Weight</td>
 <td>1.16 pounds</td>
 </tr>
 <tr>
-<td>Headphones Form Factor		</td>
+<td>Headphones Form Factor</td>
 <td>Over Ear</td>
 </tr>
 <tr>
-<td>Noise Control		    </td>
+<td>Noise Control</td>
 <td>Sound Isolation</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
-
-The headset is durable and very easy to use. The noise controller of the headset comes with sound isolation. A gamer needs a headset like which has the best sound quality and which has the best microphone quality to enhance the best gaming experience.
-
-More sound quality more the user will enjoy games and music. The headset is very comfortable, and it is made for long time wear. You can wear this headset for a long time as much as you can. The design of the headset is very pretty good.
-
-The body covers with pretty led Lights which were designed beautifully on the earcups and also on the microphone which is fully highlighting the atmosphere of the game. The light colours are RGB which are very looking pretty good and adjustable. 
-
-The main dimensions of the headset are 8.5 x 7.72 x 4.17 inches. If we compare this headset with other headphones In our product list, then it has fewer features as compared to audio Technica BPHSI, Turtle Beach - i30 and Razer Kraken 7.1. So it is best studio headphones for gaming, It is up to you, buy it or not.
 
 {{<pros>}}
 
@@ -440,50 +434,46 @@ The main dimensions of the headset are 8.5 x 7.72 x 4.17 inches. If we compare t
 
 ### JBL Quantum 100
 
-{{<singlep pimg="/uploads/jbl.jpg" pname="JBL Quantum 100" plink="https://www.amazon.com/gp/product/B084CZT5SX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084CZT5SX&linkCode=as2&tag=technikaya-20&linkId=72388e78cf7b46b101a70635f12c5879">}}
-•	echo cancelling technology
-•	ear cups cover with soft leather
-•	Its connection type is 3.5mm connection 
-•	Pretty good boom mic
+![JBL Quantum 100](/uploads/jbl-quantum-100.webp "JBL Quantum 100")
 
-{{</singlep>}}
+The sixth is JBL Quantum 100. The company JBL is an American company that is manufacturing the audio equipment, like headsets, loudspeakers etc. The headset JBL Quantum 100 is pretty good in style. It comes with white colour. JBL is a brand name which is manufacturing the headset JBL Quantum 100.
 
-[![](/uploads/jbl-22.jpg)](https://www.amazon.com/gp/product/B084CZT5SX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084CZT5SX&linkCode=as2&tag=technikaya-20&linkId=72388e78cf7b46b101a70635f12c5879)
+The connections of this headset are wired. The connection type of the headset is 3.5mm stereo. As we know that In competitive gaming the sound is survival and best sound quality matters to enhance the best gaming experience So, JBL knows all about the great music From the fun of keeping in sight enemies in FPS (Frames Per Second ) games to fetching in epic battles. 
 
-The sixth is JBL Quantum 100. The company JBL is an American company that is manufacturing the audio equipment, like headsets, loudspeakers etc. The headset JBL Quantum 100 is pretty good in style. It comes with white colour. JBL is a brand name which is manufacturing the headset JBL Quantum 100. 
+The JBL Quantum 100 comes with Nintendo Switch. The headset JBL Quantum also comes in black colour.The Headset JBL Quantum 100 is a gaming headphone, and it has a boom mic which comes with echo cancelling technology. It allows users to focus on their teammate player voice rather than the background noise for perfect and crystal clear conversations and communication.
 
-The connections of this headset are wired. The connection type of the headset is 3.5mm stereo. As we know that In competitive gaming the sound is survival and best sound quality matters to enhance the best gaming experience So, JBL knows all about the great music From the fun of keeping in sight enemies in FPS (Frames Per Second ) games to fetching in epic battles. The JBL Quantum 100 comes with Nintendo Switch. The headset JBL Quantum also comes in black colour.
+The ear cushions are cover with soft PU leather, and it gives you comfort. The user can easily plug and play the headset with 3.5mm connection for multi-platform of gaming like can connect on PC(personal computers), Mac, PS4, Nintendo Switch extra. 
+
+The boom mic is a pretty good microphone for crystal clear voice capturing and very easy to communicate while playing online games. The JBL Quantum 100 is an over-ear headset.
+
+The headset is stunning and exceptional. The sound quality is evident upto 360 degree. If we take the example of any game like Call of Duty, So directional sound is essential. The headset sound quality is outstanding that you can hear directional music easily.
+
+The headphone Mic quality is excellent. Your voice comes through clearly, and you Can communicate a lot of in-game. The assemble is a little on the flimsy side. They seem splintery and a few "loose" in their construction.
+
+The headphones work very well for the price. The microphone has to be pretty close to your mouth so that your voice will be crystal clear. Many Of the people after using this headset they review that sound quality is Good and microphone quality is excellent. The microphone works very well and has a very isolating noise.
 
 {{<html-code tag="div">}}
 
 <table>
 <tbody><tr>
-<td>Manufacturer		</td>
+<td>Manufacturer</td>
 <td>JBL</td>
 </tr>
 <tr>
-<td>Dimensions		</td>
+<td>Dimensions</td>
 <td>9.65 x 3.54 x 9.06 inches</td>
 </tr>
 <tr>
-<td>Item model number		</td>
+<td>Item model number</td>
 <td>JBLQUANTUM100WHTAM</td>
 </tr>
 <tr>
-<td>Weight		           </td>
+<td>Weight</td>
 <td>7.8  ounces</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
-
-The Headset JBL Quantum 100 is a gaming headphone, and it has a boom mic which comes with echo cancelling technology. It allows users to focus on their teammate player voice rather than the background noise for perfect and crystal clear conversations and communication.
-
-The ear cushions are cover with soft PU leather, and it gives you comfort. The user can easily plug and play the headset with 3.5mm connection for multi-platform of gaming like can connect on PC(personal computers), Mac, PS4, Nintendo Switch extra. The boom mic is a pretty good microphone for crystal clear voice capturing and very easy to communicate while playing online games. The JBL Quantum 100 is an over-ear headset.
-
-The headset is stunning and exceptional. The sound quality is evident upto 360 degree. If we take the example of any game like Call of Duty, So directional sound is essential. The headset sound quality is outstanding that you can hear directional music easily. The headphone Mic quality is excellent. Your voice comes through clearly, and you Can communicate a lot of in-game. The assemble is a little on the flimsy side. They seem splintery and a few "loose" in their construction.
-
-The headphones work very well for the price. The microphone has to be pretty close to your mouth so that your voice will be crystal clear. Many Of the people after using this headset they review that sound quality is Good and microphone quality is excellent. The microphone works very well and has a very isolating noise.
 
 {{<pros>}}
 
@@ -495,22 +485,21 @@ The headphones work very well for the price. The microphone has to be pretty clo
 <li>The gain control on the head set comes set pretty low</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B084CZT5SX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B084CZT5SX&linkCode=as2&tag=technikaya-20&linkId=72388e78cf7b46b101a70635f12c5879{{</button>}}
 
-### Gaming Headset for PS4, Xbox One, PC, Laptop
+### Brown Gaming Headset
 
-{{<singlep pimg="/uploads/gaming-headset-for-ps4-.jpg" pname="Gaming Headset for PS4, Xbox One, PC, Laptop" plink="https://www.amazon.com/gp/product/B07MLWVQSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MLWVQSY&linkCode=as2&tag=technikaya-20&linkId=3a209014ba13f727600b66e8e1c73ffb">}}
-•	stunning LED Lights
-•	high accuracy 50mm
-•	It is very lightweight
+![Brown Gaming Headset](/uploads/gaming-headset-for-ps4-.jpg "Brown Gaming Headset")
 
-{{</singlep>}}
-
-[![](/uploads/gaming-headset-for-ps4-.jpg)](https://www.amazon.com/gp/product/B07MLWVQSY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07MLWVQSY&linkCode=as2&tag=technikaya-20&linkId=3a209014ba13f727600b66e8e1c73ffb)
-
-The next is a gaming headphone. It is the Gaming Headphone for PS4, Xbox One, personal computers (Pc), Laptops and smartphones The headset has stereo Surround with Microphone, and Noise Cancelling feature which enables you to do crystal clear communication.
-
-The  LED Lights are stunning, and it looks pretty good. The headset has a volume Controller which control the volume and have 3.5 mm Jack  Camo.
+The next is a gaming headphone. It is the Gaming Headphone for PS4, Xbox One, personal computers (Pc), Laptops and smartphones The headset has stereo Surround with Microphone, and Noise Cancelling feature which enables you to do crystal clear communication.The LED Lights are stunning, and it looks pretty good. The headset has a volume Controller which control the volume and have 3.5 mm Jack  Camo.
 
 The headset has high-quality Sound, and it has precise sound control strong bass, magnificent surrounding noise isolation and high accuracy 50mm engaging neodymium driver, auditory positioning accuracy enhance the susceptivity of the speaker unit which bringing you the vivid sound field and sound clarity and shock feeling sound. The headset is very lightweight and very comfortable.
+
+The headset has an over-ear design with soft memory foam and  Skin-friendly leather material that you can wear for a long period. The LED lights are designed on the earcups, which looks so perfect and elegant.
+
+ The headset is braided wire, and the durable tensile can effectively reduce the external resistance. The diameter of the headset is 50mm. The headset wire is 2.2M long cable which allows you to control the volume very quickly and you can mute the mic as effortless volume controller as one key mute.
+
+The weight of the headset is 385 g which is equivalent to 13.6 ounces. The headset is an amazing quality of price.The headset is of great style, and print on the headphones look so elegant. The headset comes with an aux cable and a USB connector, and it is very easy to connect. The Headset RGB Lights will only work with USB connector. The headphones are very comfortable over the ear.
+
+The headset has good quality Sound and microphone such a pretty camouflage print. The headphones itself is very padded, and the headphones are very comfortable. The earmuffs go over the ears, and they are very comfortable to be worn for long periods. The headset comes with multiple connection cords, and it works great.
 
 #### Specifications
 
@@ -526,15 +515,15 @@ The headset has high-quality Sound, and it has precise sound control strong bass
 <td>Over-the ear</td>
 </tr>
 <tr>
-<td>Frequency response </td>
+<td>Frequency response</td>
 <td>20HZ-20KHZ</td>
 </tr>
 <tr>
-<td>Sensitivity </td>
+<td>Sensitivity</td>
 <td>105±3Db</td>
 </tr>
 <tr>
-<td>Cable Length </td>
+<td>Cable Length</td>
 <td>2.1±0.15M</td>
 </tr>
 <tr>
@@ -542,7 +531,7 @@ The headset has high-quality Sound, and it has precise sound control strong bass
 <td>: DC5V±5%</td>
 </tr>
 <tr>
-<td>Headphone Interface </td>
+<td>Headphone Interface</td>
 <td>USB±3.5mm4pin</td>
 </tr>
 <tr>
@@ -552,14 +541,6 @@ The headset has high-quality Sound, and it has precise sound control strong bass
 </tbody>
 </table>
 {{</html-code>}}
-
-The headset has an over-ear design with soft memory foam and  Skin-friendly leather material that you can wear for a long period. The LED lights are designed on the earcups, which looks so perfect and elegant.
-
- The headset is braided wire, and the durable tensile can effectively reduce the external resistance. The diameter of the headset is 50mm. The headset wire is 2.2M long cable which allows you to control the volume very quickly and you can mute the mic as effortless volume controller as one key mute. The weight of the headset is 385 g which is equivalent to 13.6 ounces. The headset is an amazing quality of price.
-
-The headset is of great style, and print on the headphones look so elegant. The headset comes with an aux cable and a USB connector, and it is very easy to connect. The Headset RGB Lights will only work with USB connector. The headphones are very comfortable over the ear. 
-
-The headset has good quality Sound and microphone such a pretty camouflage print. The headphones itself is very padded, and the headphones are very comfortable. The earmuffs go over the ears, and they are very comfortable to be worn for long periods. The headset comes with multiple connection cords, and it works great.
 
 {{<pros>}}
 
@@ -573,19 +554,25 @@ The headset has good quality Sound and microphone such a pretty camouflage print
 
 ### Razer Kraken X Ultralight
 
-{{<singlep pimg="/uploads/x.jpg" pname="Razer Kraken X Ultralight" plink="https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e">}}
-•	Built-in advanced 7.1 virtual circumambient sound 
-•	Bauxite aluminium
-•	Perfect voice capturing sensor
-•	USB connectivity
+![Razer Kraken X Ultralight](/uploads/razer-kraken-x-ultralight.webp "Razer Kraken X Ultralight")
 
-{{</singlep>}}
-
-[![](/uploads/raxe.jpg)](https://www.amazon.com/gp/product/B07RMC5BRL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07RMC5BRL&linkCode=as2&tag=technikaya-20&linkId=c1e8711267f59568607c43e2ee44b76e)
-
-The next is Razer Kraken 7.1. Razer is a global gaming hardware designing and manufacturing company and also esports and financial services providers. Min-Liang and Robert Krakoff establish it. The currently headquarter of the company is in California and Singapore. 
+The next is Razer Kraken 7.1. Razer is a global gaming hardware designing and manufacturing company and also esports and financial services providers. Min-Liang and Robert Krakoff establish it. The currently headquarter of the company is in California and Singapore.
 
 The product which we are going to review is Razer Kraken 7.1 headset. It comes with a Built-in advanced 7.1 virtual circumambient sound engine, which enables the Razer Kraken 7.1 to deliver positional audio sound with precise accuracy. If we talk about the body structure and material, The headset is Made of Bauxite aluminium, and with the new and very better headband of the Razer Kraken, 7.1 V2 is both lightweight and extraordinarily tensile and flexible.
+
+The headset customizes the nearby sound to your listening alternatives across Razer Synapse and realizes precisely where the enemy is coming from to hit with clarity and secure your win. The Razer Kraken 7.1 V2 brings a fantastic surround sound for the gaming experience to enhance your acoustic situational understanding.
+
+You can always hear where the opponent is coming from, and where your team is come across, to strike with correctness. The advanced virtual 7.1 background sound software via Synapse Razer, You can use this headset razer Kraken 7.1 with your personal computer and with your ps4 or mac only.
+
+The sound is perfect if you push the mic in; the sound subtle enough that you would think about they are medium and high-end headphones. This is the area most headphones are lacking for some kind of reason.The headset customizes the nearby sound to your listening alternatives across Razer Synapse and realizes precisely where the enemy is coming from to hit with clarity and secure your win.
+
+The Razer Kraken 7.1 V2 brings a fantastic surround sound for the gaming experience to enhance your acoustic situational understanding. You can always hear where the opponent is coming from, and where your team is come across, to strike with correctness.
+
+The advanced virtual 7.1 background sound software via Synapse Razer, You can use this headset razer Kraken 7.1 with your personal computer and with your ps4 or mac only. The sound is perfect if you push the mic in; the sound subtle enough that you would think about they are medium and high-end headphones. This is the area most headphones are lacking for some kind of reason.
+
+The mic is fine, okay. It sounded great, and it's nice that it pushes back in so they look and feel like regular headsets again. You also really like that the microphone is flexible and can be set as close or as far away from your head as you want. Suppose you are looking for the best studio headphones for gaming so. In that case, you can go with Razer Kraken 7.1 because it's sound quality and microphone quality are perfect for gaming and noise cancellation feature is perfectly fine.
+
+The dynamic mic comes with a perfect voice capturing sensor, which is ideal when you play different types of games that need a microphonic conversation. The best part of this headset is sound quality. This headset has all options are USB connectivity; there is no audio jack. If you are looking for a headphone like this, so you can go with Razer Kraken 7.1.
 
 #### Specifications
 
@@ -593,44 +580,32 @@ The product which we are going to review is Razer Kraken 7.1 headset. It comes w
 
 <table>
 <tbody><tr>
-<td>Brand Name	</td>
+<td>Brand Name</td>
 <td>Razer</td>
 </tr>
 <tr>
-<td>Item Weight	</td>
+<td>Item Weight</td>
 <td>11.4 ounces</td>
 </tr>
 <tr>
-<td>Dimensions	</td>
+<td>Dimensions</td>
 <td>6.15 x 3.86 x 7.8 inches</td>
 </tr>
 <tr>
-<td>Batteries	</td>
+<td>Batteries</td>
 <td>1 Lithium Polymer batteries</td>
 </tr>
 <tr>
-<td>Connections	</td>
+<td>Connections</td>
 <td>Usb</td>
 </tr>
 <tr>
-<td>Material	</td>
+<td>Material</td>
 <td>Aluminum</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
-
-The headset customizes the nearby sound to your listening alternatives across Razer Synapse and realizes precisely where the enemy is coming from to hit with clarity and secure your win. The Razer Kraken 7.1 V2 brings a fantastic surround sound for the gaming experience to enhance your acoustic situational understanding.
-
-You can always hear where the opponent is coming from, and where your team is come across, to strike with correctness. The advanced virtual 7.1 background sound software via Synapse Razer, You can use this headset razer Kraken 7.1 with your personal computer and with your ps4 or mac only. 
-
-The sound is perfect if you push the mic in; the sound subtle enough that you would think about they are medium and high-end headphones. This is the area most headphones are lacking for some kind of reason.The headset customizes the nearby sound to your listening alternatives across Razer Synapse and realizes precisely where the enemy is coming from to hit with clarity and secure your win. 
-
-The Razer Kraken 7.1 V2 brings a fantastic surround sound for the gaming experience to enhance your acoustic situational understanding. You can always hear where the opponent is coming from, and where your team is come across, to strike with correctness. The advanced virtual 7.1 background sound software via Synapse Razer, You can use this headset razer Kraken 7.1 with your personal computer and with your ps4 or mac only. The sound is perfect if you push the mic in; the sound subtle enough that you would think about they are medium and high-end headphones. This is the area most headphones are lacking for some kind of reason.
-
-The mic is fine, okay. It sounded great, and it's nice that it pushes back in so they look and feel like regular headsets again. You also really like that the microphone is flexible and can be set as close or as far away from your head as you want. Suppose you are looking for the best studio headphones for gaming so. In that case, you can go with Razer Kraken 7.1 because it's sound quality and microphone quality are perfect for gaming and noise cancellation feature is perfectly fine.
-
-The dynamic mic comes with a perfect voice capturing sensor, which is ideal when you play different types of games that need a microphonic conversation. The best part of this headset is sound quality. This headset has all options are USB connectivity; there is no audio jack. If you are looking for a headphone like this, so you can go with Razer Kraken 7.1.
 
 {{<pros>}}
 
