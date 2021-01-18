@@ -8,7 +8,7 @@ excrept: Check-out Best Video Card For i9 9900k, 10980HK. If you pair these
 metaKeywords: Best Video Card For i9 9900k
 url: best-video-card-for-i9-9900k/
 date: 2020-09-29T09:54:18.304Z
-updateDate: 2020-09-29T09:54:18.331Z
+updateDate: 2021-01-18T13:57:09.597Z
 image: /uploads/best-video-card-for-i9-9900k.webp
 tags:
   - Reviews
