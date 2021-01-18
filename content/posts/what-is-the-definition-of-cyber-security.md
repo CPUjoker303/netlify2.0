@@ -13,7 +13,102 @@ tags:
   - Information
 categories:
   - Information
-schemaMarkup: "\n"
+schemaMarkup: >-
+  <script type="application/ld+json">
+
+  {
+
+  "@context": "https://schema.org",
+
+  "@type": "FAQPage",
+
+  "mainEntity": [
+
+  {
+
+  "@type": "Question",
+
+  "name": "What is Cyber Security Framework",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Any organization or any eligible body should have to follow these policies in order to comply with standard or framework."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "What is network security",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "By  Securing the infrastructures, network security protects the internal networks from intruders or malicious attacks."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "What is Application security",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Application security uses software and hardware to protect the systems against external threats and in an applications development stage."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "What is Information Security",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "It protects the both physical and digital data. Information Security is known as set of practices intended to keep data secure from unauthorized access when it being transmitted from one location to another."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "What is Cloud security",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Cloud computing security refers to the set of policies , applications, technologies, to protect the data online from leakage, deletion and alternation of data via cloud computing platforms."
+
+  }
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: The Beginner's Guide Book - Cybersecurity
 pickImg: /uploads/cybersecurity-the-beginners-guide.jpg
 pickLink: https://www.amazon.com/gp/product/1789616190/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1789616190&linkCode=as2&tag=technikaya-20&linkId=e4107f0fc110777c9d838444ab689124
