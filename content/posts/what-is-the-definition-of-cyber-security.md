@@ -2,169 +2,27 @@
 title: What Is The Definition Of Cyber Security - Information
 draft: false
 SEOTitle: What Is The Definition Of Cyber Security
-excrept: What is cyber security and main question is What Is The Definition Of
-  Cyber Security. If you  don't know about cyber security and Types of cyber
-  security then we are here to teach you.
+excrept: If you  don't know about cyber security and Types of cyber security
+  then we are here to teach you.Read article about cyber security and its types.
 metaKeywords: What Is The Definition Of Cyber Security
 url: what-is-the-definition-of-cyber-security/
 date: 2020-09-14T17:55:52.652Z
-updateDate: 2020-09-14T17:55:52.849Z
+updateDate: 2021-01-18T17:52:40.270Z
 image: /uploads/cyber.jpg
 tags:
   - Information
 categories:
   - Information
-schemaMarkup: >
-  <script type="application/ld+json">
-
-  {
-
-  "@context": "https://schema.org",
-
-  "@type": "FAQPage",
-
-  "mainEntity": [
-
-  {
-
-  "@type": "Question",
-
-  "name": "What Is The Definition Of Cyber Security?",
-
-  "acceptedAnswer": {
-
-  "@type": "Answer",
-
-  "text": "Cyber security is the application of technologies and the practice of protecting systems, networks, mobile devices, servers, electronic systems, and data from unauthorized access or malicious attacks. Its primary purpose is to reduce the risk of malicious attacks, cyber-attacks, and digital attacks. These attacks aim to access, changing, and destroying sensitive information or interrupting the business processes. This Is The Definition Of Cyber Security."
-
-  }
-
-  },
-
-  {
-
-  "@type": "Question",
-
-  "name": "what is Cyber Security Framework?",
-
-  "acceptedAnswer": {
-
-  "@type": "Answer",
-
-  "text": "There are some set of policies that define the cyber security framework. Any organization or any eligible body should have to follow these policies in order to comply with standard or framework."
-
-  }
-
-  },
-
-  {
-
-  "@type": "Question",
-
-  "name": "what are Types Of Cyber Security?",
-
-  "acceptedAnswer": {
-
-  "@type": "Answer",
-
-  "text": "Network security,Application Security,Information Security,Data Loss Prevention,Cloud Security"
-
-  }
-
-  },
-
-  {
-
-  "@type": "Question",
-
-  "name": "what is Network Security?",
-
-  "acceptedAnswer": {
-
-  "@type": "Answer",
-
-  "text": "By Securing the infrastructures, network security protects the internal networks from intruders or malicious attacks. "
-
-  }
-
-  },
-
-  {
-
-  "@type": "Question",
-
-  "name": "what is Application security?",
-
-  "acceptedAnswer": {
-
-  "@type": "Answer",
-
-  "text": "Application security uses software and hardware to protect the systems against external threats and in an applications development stage, these softwares may present themselves"
-
-  }
-
-  },
-
-  {
-
-  "@type": "Question",
-
-  "name": "what is Information Security?",
-
-  "acceptedAnswer": {
-
-  "@type": "Answer",
-
-  "text": "It protects the both physical and digital data. Information Security is known as set of practices intended to keep data secure from unauthorized access when it being transmitted from one location to another."
-
-  }
-
-  },
-
-  {
-
-  "@type": "Question",
-
-  "name": "what is Data Loss Prevention?",
-
-  "acceptedAnswer": {
-
-  "@type": "Answer",
-
-  "text": "Data Loss Prevention is a set of processes used to ensure that your sensitive data or information is not misused or accessed by unauthorized access."
-
-  }
-
-  },
-
-  {
-
-  "@type": "Question",
-
-  "name": "what is Cloud security?",
-
-  "acceptedAnswer": {
-
-  "@type": "Answer",
-
-  "text": "Cloud computing security refers to the set of policies , applications, technologies, to protect the data online from leakage, deletion and alternation of data via cloud computing platforms."
-
-  }
-
-  }
-
-  ]
-
-  }
-
-  </script>
+schemaMarkup: "\n"
 pickName: The Beginner's Guide Book - Cybersecurity
 pickImg: /uploads/cybersecurity-the-beginners-guide.jpg
 pickLink: https://www.amazon.com/gp/product/1789616190/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1789616190&linkCode=as2&tag=technikaya-20&linkId=e4107f0fc110777c9d838444ab689124
 ---
 ## Definition of cyber security
 
-Cyber security is the application of [technologies](https://en.wikipedia.org/wiki/Technology) and the practice of protecting systems, networks, mobile devices, servers, electronic systems, and data from unauthorized access or malicious attacks. Its primary purpose is to reduce the risk of malicious attacks, cyber-attacks, and digital attacks. These attacks aim to access, changing, and destroying sensitive information or interrupting the business processes. This Is The Definition Of Cyber Security.
+Cyber security is the application of [technologies](https://en.wikipedia.org/wiki/Technology) and the practice of protecting systems, networks, mobile devices, servers, electronic systems, and data from unauthorized access or malicious attacks.
+
+Its primary purpose is to reduce the risk of malicious attacks, cyber-attacks, and digital attacks. These attacks aim to access, changing, and destroying sensitive information or interrupting the business processes. This Is The Definition Of Cyber Security.
 
 ### Cyber Security Framework
 
@@ -187,7 +45,7 @@ Two factor authentication (2FA)
 
 ### Application security
 
-Application security uses software and hardware to protect the systems against external threats and in an applications development stage, these softwares may present themselves. Examples of Application Security are given below
+Application security uses software and hardware to protect the systems against external threats and in an applications development stage, these softwares may present themselves. Examples of Application Security are given below.
 
 * Antivirus Programs 
 * Firewalls 
@@ -199,7 +57,9 @@ It protects the both physical and digital data. Information Security is known as
 
 ### Data Loss Prevention
 
-Data Loss Prevention is a set of processes used to ensure that your sensitive data or information is not misused or accessed by unauthorized access. DLP is a set of tools or software that classifies business confidential or critical data and identifies the unauthorized access and violations of policies defined by the companies and organizations. Once the violations are identified, [DLP](https://digitalguardian.com/blog/what-data-loss-prevention-dlp-definition-data-loss-prevention) enforces to perform protective actions like encryption to prevent the end-users from maliciously sharing data or malicious attacks.
+Data Loss Prevention is a set of processes used to ensure that your sensitive data or information is not misused or accessed by unauthorized access. DLP is a set of tools or software that classifies business confidential or critical data and identifies the unauthorized access and violations of policies defined by the companies and organizations.
+
+Once the violations are identified, [DLP](https://digitalguardian.com/blog/what-data-loss-prevention-dlp-definition-data-loss-prevention) enforces to perform protective actions like encryption to prevent the end-users from maliciously sharing data or malicious attacks.
 
 ### Cloud security
 
