@@ -37,7 +37,7 @@ Using these marine speakers with amp or without an amp depends on you, and we on
 
 {{<html-code tag="div">}}
 
-<table class="no-mobile product-table" width="100%">
+<table class="" width="100%">
 <tbody>
 <tr class="thead" style="background-color:#f9f9f9!important">
 <th><strong>Marine Speakers Image</strong></th>
