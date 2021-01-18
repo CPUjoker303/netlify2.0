@@ -14,7 +14,86 @@ tags:
   - Information
 categories:
   - Information
-schemaMarkup: cc
+schemaMarkup: >
+  <script type="application/ld+json">
+
+  {
+
+  "@context": "https://schema.org",
+
+  "@type": "FAQPage",
+
+  "mainEntity": [
+
+  {
+
+  "@type": "Question",
+
+  "name": "What are Active Speakers?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "This type of speaker comes with build-in-amplifiers, and you can directly connect these Speakers with the sound source and are very connection friendly with the other components of audio."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "What are passive speakers?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "passive speakers are opposite to active speakers, and you need one separate amplifier for producing sound from these types of speakers. For using passive speakers, you may need some listed below things."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "What is audio amplifier?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "Without amplification (audio signal intensification), your speakers are not able to work and the amplifier used for powering your speakers for brilliant sound quality."
+
+  }
+
+  },
+
+  {
+
+  "@type": "Question",
+
+  "name": "How to connect speakers to pc without amplifier?",
+
+  "acceptedAnswer": {
+
+  "@type": "Answer",
+
+  "text": "If you want to attach the passive speakers with your pc without having any amp, you have to use your pc amplification system."
+
+  }
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Sony MDR7506 Headphone.
 pickImg: /uploads/sony-diaphragm-headphone-review.jpg
 pickLink: https://www.amazon.com/gp/product/B000AJIF4E/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000AJIF4E&linkId=bac568bc2332dd39840b9f3d4e6c00ba
