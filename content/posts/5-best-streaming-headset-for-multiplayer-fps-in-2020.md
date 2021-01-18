@@ -49,7 +49,7 @@ These gaming headphones support directional sound, and you will probably need th
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B075SVS8GL/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B075SVS8GL&linkId=9023f1497573622a4a18dc076de53660" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/hyperx-cloud-stinger.webp" alt="HyperX Cloud Stinger" title="HyperX Cloud Stinger"></td>
+<td class="tdimg"><img src="/uploads/hyperx-cloud-flight.jpg" alt="HyperX Cloud Stinger" title="HyperX Cloud Stinger"></td>
 <td>HyperX Cloud Stinger</td>
 <td>GREAT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B01L2ZRYVE/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01L2ZRYVE&linkId=2f8288cbe54b26395f9e94aeaf9a0cfc" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -61,7 +61,7 @@ These gaming headphones support directional sound, and you will probably need th
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B072DRCM1Q/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072DRCM1Q&linkId=828ab2de53041c651adbe1b4b3f8a3be" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/hyperx-cloud-.jpg" alt="HyperX Cloud Flight" title="HyperX Cloud Flight"></td>
+<td class="tdimg"><img src="/uploads/hyperx-cloud-flight.webp" alt="HyperX Cloud Flight" title="HyperX Cloud Flight"></td>
 <td>HyperX Cloud Flight</td>
 <td>PERFECT</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B077ZGRY9V/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077ZGRY9V&linkId=93dc4624875c0b02ae11589a2041a536" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -161,7 +161,7 @@ Razer also launched a few add-ons with this headset, Razer headset case, and Raz
 
 ### HyperX Cloud Stinger
 
-![HyperX Cloud Stinger](/uploads/hyperx-cloud-stinger.webp "HyperX Cloud Stinger")
+![HyperX Cloud Stinger](/uploads/hyperx-cloud-flight.jpg "HyperX Cloud Stinger")
 
 HyperX cloud stinger headset comes with rotating earcups that can rotate with a 90-degree angle and also provides you snug fit according to your head. It has a flexible steel slider that provides you a long-lasting and strong, sturdy feel.
 
@@ -204,14 +204,15 @@ For audio Precision, there are 50mm directional drivers so you can easily enjoy 
 
 ### Razer Kraken 7.1 V2
 
-{{<singlep pimg="/uploads/razer-kraken-7.1.jpg" pname="Razer Kraken 7.1 V2" plink="https://www.amazon.com/gp/product/B072DRCM1Q/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072DRCM1Q&linkId=828ab2de53041c651adbe1b4b3f8a3be">}}
- High-quality sound
- Crystal clear audio quality 
- Noise-Cancellation 
- Maximum input power is 30 (mW). 
-{{</singlep>}}
+![Razer Kraken 7.1 V2](/uploads/razer-kraken-7.1.jpg "Razer Kraken 7.1 V2")
 
-This headphone is designed with the advanced virtual surround sound (7.1)  that  provides immersive and high-quality sound. It is built-in with large 50(mm) Drivers and gives us crystal clear audio quality in-game and communication. Its retractable microphone with noise-Cancellation ensures clear communication, and its noise-cancellation is only Compatible with Pc. Streamers can use for a long period of time because this headset is lightweight & amp; its quality is durable. Its frame is made up of Bauxite aluminum; that's why it is flexible and incredibly reliable. 
+This headphone is designed with the advanced virtual surround sound (7.1)  that  provides immersive and high-quality sound. It is built-in with large 50(mm) Drivers and gives us crystal clear audio quality in-game and communication.
+
+Its retractable microphone with noise-Cancellation ensures clear communication, and its noise-cancellation is only Compatible with Pc. Streamers can use for a long period of time because this headset is lightweight & amp; its quality is durable. Its frame is made up of Bauxite aluminum; that's why it is flexible and incredibly reliable. 
+
+Razer Kraken focused on full ear coverage, and they design the ear cushions in an oval shape. Due to the full ear coverage of ear cushions, outer sound cannot distract the attention of the gamers while playing the game.
+
+For Gamers, this headphone is best for long-lasting wearing and provides them extended usability. The USB connection is also available in this headphone, and its maximum input power is 30 (mW). Although we can say, this headset could be the best for Streamers.
 
 #### Specifications
 
@@ -219,26 +220,24 @@ This headphone is designed with the advanced virtual surround sound (7.1)  that 
 
 <table>
 <tbody><tr>
-<td>Brand		</td>
+<td>Brand</td>
 <td>Razer</td>
 </tr>
 <tr>
-<td>Item Weight		</td>
+<td>Item Weight</td>
 <td>11.4 ounces</td>
 </tr>
 <tr>
-<td>Product Dimensions		</td>
+<td>Product Dimensions</td>
 <td>6.15 x 3.86 x 7.8 inches</td>
 </tr>
 <tr>
-<td>ASIN		</td>
+<td>ASIN</td>
 <td>B072DRCM1Q</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
-
-Razer Kraken focused on full ear coverage, and they design the ear cushions in an oval shape. Due to the full ear coverage of ear cushions, outer sound cannot distract the attention of the gamers while playing the game. For Gamers, this headphone is best for long-lasting wearing and provides them extended usability. The USB connection is also available in this headphone, and its maximum input power is 30 (mW). Although we can say, this headset could be the best for Streamers.
 
 {{<pros>}}
 
@@ -255,14 +254,13 @@ Razer Kraken focused on full ear coverage, and they design the ear cushions in a
 
 ### HyperX Cloud Flight
 
-{{<singlep pimg="/uploads/hyperx-cloud-.jpg" pname="HyperX Cloud Flight" plink="https://www.amazon.com/gp/product/B077ZGRY9V/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077ZGRY9V&linkId=93dc4624875c0b02ae11589a2041a536">}}
- wireless connectivity 
- Led Lighting effects on ear cups
- Elegant black color 
- Flexible steel slider
-{{</singlep>}}
+![](/uploads/hyperx-cloud-flight.webp)
 
- This headset has a wireless connectivity of 2.4 (GHz) gaming-grade. To increase the interest of gamers, HyperX Cloud Flight designs its ear cups with Led Lighting effects &amp; 90 degree rotation. Its  noise cancellation Detachable  microphone engineered  in such a way that it performs functions only when it is on wireless mode and connected only on PC and PS4. Only Detectable with PS4, PS4 Pro, and PC.
+This headset has a wireless connectivity of 2.4 (GHz) gaming-grade. To increase the interest of gamers, HyperX Cloud Flight designs its ear cups with Led Lighting effects &amp; 90 degree rotation.
+
+Its  noise cancellation Detachable  microphone engineered  in such a way that it performs functions only when it is on wireless mode and connected only on PC and PS4. Only Detectable with PS4, PS4 Pro, and PC.
+
+It comes with an elegant black color with a durable frame quality adjustable, flexible steel slider. Built-in with intuitive mic controls.  After a single time charge, streamers can use this wireless headset up to 30 hours therefore it has long-lasting battery life.
 
 #### Specifications
 
@@ -270,26 +268,24 @@ Razer Kraken focused on full ear coverage, and they design the ear cushions in a
 
 <table>
 <tbody><tr>
-<td>Brand		</td>
+<td>Brand</td>
 <td>HyperX</td>
 </tr>
 <tr>
-<td>Item Weight		</td>
+<td>Item Weight</td>
 <td>10.1 ounces</td>
 </tr>
 <tr>
-<td>Product Dimensions		</td>
+<td>Product Dimensions</td>
 <td>7.48 x 3.43 x 7.36 inches</td>
 </tr>
 <tr>
-<td>ASIN		</td>
+<td>ASIN</td>
 <td>B077ZGRY9V</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
-
-It comes with an elegant black color with a durable frame quality adjustable, flexible steel slider. Built-in with intuitive mic controls.  After a single time charge, streamers can use this wireless headset up to 30 hours therefore it has long-lasting battery life.
 
 {{<pros>}}
 
