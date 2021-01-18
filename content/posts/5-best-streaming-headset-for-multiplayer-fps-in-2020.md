@@ -13,7 +13,86 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: "\n"
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-streaming-headset-for-multiplayer-fps",
+
+  "name": "5 Best Streaming Headset For Multiplayer FPS [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-streaming-headset-for-multiplayer-fps/logitech-g430",
+
+  "@id": "logitech-g430 ",
+
+  "name": "Logitech G430"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-streaming-headset-for-multiplayer-fps/razer-electra-v2",
+
+  "@id": "razer-electra-v2 ",
+
+  "name": "Razer Electra V2"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-streaming-headset-for-multiplayer-fps/hyperx-cloud-stinger",
+
+  "@id": "hyperx-cloud-stinger ",
+
+  "name": "HyperX Cloud Stinger"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-streaming-headset-for-multiplayer-fps/razer-kraken-71-v2",
+
+  "@id": "razer-kraken-71-v2 ",
+
+  "name": "Razer Kraken 7.1 V2"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-streaming-headset-for-multiplayer-fps/hyperx-cloud-flight",
+
+  "@id": "hyperx-cloud-flight ",
+
+  "name": "HyperX Cloud Flight"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: HyperX Cloud Flight
 pickImg: /uploads/hyperx-cloud-flight.jpg
 pickLink: https://www.amazon.com/gp/product/B077ZGRY9V/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B077ZGRY9V&linkId=872a91558c49c561b43647092d8595b4
