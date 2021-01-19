@@ -14,7 +14,134 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: cc
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-amd-fx-processor-for-gaming",
+
+  "name": "10 Best Amd Fx Processor For Gaming [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-amd-fx-processor-for-gaming/amd-ryzen-7-2700x-processor",
+
+  "@id": "amd-ryzen-7-2700x-processor ",
+
+  "name": "AMD Ryzen 7 2700X Processor"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-amd-fx-processor-for-gaming/amd-ryzen-3-2200g-processor",
+
+  "@id": "amd-ryzen-3-2200g-processor ",
+
+  "name": "AMD Ryzen 3 2200G Processor"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-amd-fx-processor-for-gaming/amd-ryzen-5-2600-processor",
+
+  "@id": "amd-ryzen-5-2600-processor ",
+
+  "name": "AMD Ryzen 5 2600 Processor"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-amd-fx-processor-for-gaming/amd-fx-6300-processor",
+
+  "@id": "amd-fx-6300-processor ",
+
+  "name": "AMD FX-6300 Processor"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-amd-fx-processor-for-gaming/amd-ryzen-3-1200",
+
+  "@id": "amd-ryzen-3-1200 ",
+
+  "name": "AMD Ryzen 3 1200"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-amd-fx-processor-for-gaming/amd-fx-8350-fx-series-8-core",
+
+  "@id": "amd-fx-8350-fx-series-8-core ",
+
+  "name": "AMD FX-8350 FX-Series 8-Core"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 7,
+
+  "url":"https://www.technikaya.com/best-amd-fx-processor-for-gaming/amd-fx-8320-processor",
+
+  "@id": "amd-fx-8320-processor ",
+
+  "name": "AMD FX-8320 Processor"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 8,
+
+  "url":"https://www.technikaya.com/best-amd-fx-processor-for-gaming/amd-fx-4300-processor",
+
+  "@id": "amd-fx-4300-processor ",
+
+  "name": "AMD FX-4300 Processor"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 9,
+
+  "url":"https://www.technikaya.com/best-amd-fx-processor-for-gaming/amd-fx-8120-processor",
+
+  "@id": "amd-fx-8120-processor ",
+
+  "name": "AMD FX-8120 Processor"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: AMD Ryzen 7 2700X Processor
 pickImg: /uploads/amd-ryzen-7-2700x.jpg
 pickLink: https://www.amazon.com/gp/product/B07B428M7F/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07B428M7F&linkId=b520dc04fcc5ffba71576a9b7daf1fa4
