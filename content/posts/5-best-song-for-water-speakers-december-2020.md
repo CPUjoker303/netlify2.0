@@ -21,9 +21,9 @@ schemaMarkup: >-
 
   "@type": "ItemList",
 
-  "url": "https://www.technikaya.com/best-song-for-water-speakers/",
+  "url": "https://www.technikaya.com/best-song-for-water-speakers",
 
-  "name": "Best Song For Water Speakers ",
+  "name": "5 Best Song For Water Speakers [January 2021]",
 
   "itemListElement":
 
@@ -33,7 +33,7 @@ schemaMarkup: >-
 
   "position": 1,
 
-  "url":"https://www.technikaya.com/best-song-for-water-speakers//soundsoul-water-dancing-speakers",
+  "url":"https://www.technikaya.com/best-song-for-water-speakers/soundsoul-water-dancing-speakers",
 
   "@id": "soundsoul-water-dancing-speakers ",
 
@@ -45,7 +45,7 @@ schemaMarkup: >-
 
   "position": 2,
 
-  "url":"https://www.technikaya.com/best-song-for-water-speakers//aolyty-colorful-led-water-speaker",
+  "url":"https://www.technikaya.com/best-song-for-water-speakers/aolyty-colorful-led-water-speaker",
 
   "@id": "aolyty-colorful-led-water-speaker ",
 
@@ -57,7 +57,7 @@ schemaMarkup: >-
 
   "position": 3,
 
-  "url":"https://www.technikaya.com/best-song-for-water-speakers//dancing-water-speaker-with-black-base",
+  "url":"https://www.technikaya.com/best-song-for-water-speakers/dancing-water-speaker-with-black-base",
 
   "@id": "dancing-water-speaker-with-black-base ",
 
@@ -69,7 +69,7 @@ schemaMarkup: >-
 
   "position": 4,
 
-  "url":"https://www.technikaya.com/best-song-for-water-speakers//i-kool-4-changing-colors-water-dancing-speaker",
+  "url":"https://www.technikaya.com/best-song-for-water-speakers/i-kool-4-changing-colors-water-dancing-speaker",
 
   "@id": "i-kool-4-changing-colors-water-dancing-speaker ",
 
@@ -81,7 +81,7 @@ schemaMarkup: >-
 
   "position": 5,
 
-  "url":"https://www.technikaya.com/best-song-for-water-speakers//aoboo-led-light-dancing-water-speakers",
+  "url":"https://www.technikaya.com/best-song-for-water-speakers/aoboo-led-light-dancing-water-speakers",
 
   "@id": "aoboo-led-light-dancing-water-speakers ",
 
