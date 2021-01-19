@@ -79,13 +79,13 @@ On cold winter nights, these bright bulbs will help you brighten the way. For ou
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B01CAL1EMY/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01CAL1EMY&linkId=d2b4148e0eba18b932510d4ac6a8ebde" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/kasa-smart-light-bulb-led-smart-wifi-alexa-bulbs-works-with-alexa-and-google-home.jpg" alt="Kasa Smart Light Bulb" title="Kasa Smart Light Bulb"></td>
+<td class="tdimg"><img src="/uploads/kasa-smart-light-bulb-led-smart-wifi-alexa-bulbs-works-with-alexa-and-google-home.webp" alt="Kasa Smart Light Bulb" title="Kasa Smart Light Bulb"></td>
 <td>Kasa Smart Light Bulb</td>
 <td>Best Wifi Bulb For Alexa</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07FZ289NH/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07FZ289NH&linkId=f4c3f581aea994efba9efb9023afb2ad" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/lohas-bug-light-bulb-yellow-led-bulbs-.jpg" alt="LOHAS Bug Light Bulb Yellow LED Bulbs" title="LOHAS Bug Light Bulb Yellow LED Bulbs"></td>
+<td class="tdimg"><img src="/uploads/lohas-bug-light-bulb-yellow-led-bulbs.webp" alt="LOHAS Bug Light Bulb Yellow LED Bulbs" title="LOHAS Bug Light Bulb Yellow LED Bulbs"></td>
 <td>LOHAS Bug Light Bulb Yellow LED Bulbs</td>
 <td>Best Yellow Light Bulb</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B072R5PR5N/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072R5PR5N&linkId=962dd8f6e48a7b653ae6db858c367b59" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -97,7 +97,7 @@ On cold winter nights, these bright bulbs will help you brighten the way. For ou
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B0771MYTBH/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0771MYTBH&linkId=3a26b23b244b770f7074770d498d2a04" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/comzler-6-watt-frosted-candelabra-led-bulb.jpg" alt="Comzler 6 Watt Frosted Candelabra LED Bulb" title="Comzler 6 Watt Frosted Candelabra LED Bulb"></td>
+<td class="tdimg"><img src="/uploads/comzler-6-watt-frosted-candelabra-led-bulb.webp" alt="Comzler 6 Watt Frosted Candelabra LED Bulb" title="Comzler 6 Watt Frosted Candelabra LED Bulb"></td>
 <td>Comzler 6 Watt Frosted Candelabra LED Bulb</td>
 <td>Best Modern Style Light Bulb</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07FNT25PS/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07FNT25PS&linkId=60d93a9c6026f0d7cce2575f05ab20f1" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -573,7 +573,7 @@ Like other led bulbs, it is also an energy saver and saves you power up to 80 pe
 
 ### Kasa Smart Light Bulb
 
-![Kasa Smart Light Bulb](/uploads/kasa-smart-light-bulb-led-smart-wifi-alexa-bulbs-works-with-alexa-and-google-home.jpg "Kasa Smart Light Bulb")
+![Kasa Smart Light Bulb](/uploads/kasa-smart-light-bulb-led-smart-wifi-alexa-bulbs-works-with-alexa-and-google-home.webp "Kasa Smart Light Bulb")
 
 Next is Kasa Smart Light Bulb Review. It is a TP-LINK dimmable smart light bulb that provides great Tunable White light. The Kasa light bulb has immigrated with amazon ALEXA and Google assistance. The light bulb dimmable range is down to 1 percent, which is fantastic.
 
@@ -647,7 +647,7 @@ The design of the light bulb is made of white plastic and has a cool texture and
 
 ### LOHAS Bug Light Bulb Yellow LED Bulbs
 
-![LOHAS Bug Light Bulb Yellow LED Bulbs](/uploads/lohas-bug-light-bulb-yellow-led-bulbs-.jpg "LOHAS Bug Light Bulb Yellow LED Bulbs")
+![LOHAS Bug Light Bulb Yellow LED Bulbs](/uploads/lohas-bug-light-bulb-yellow-led-bulbs.webp "LOHAS Bug Light Bulb Yellow LED Bulbs")
 
 Next is LOHAS Bug light bulb review. The excellent great value bulb is a non-dimmable LED bulb. It is for long time usage up to 30000 hours of life. The power-saving bulb can save your money by providing great bright yellow light.
 
@@ -789,7 +789,7 @@ In daylight, the bulb automatically off by the Dusk to Dawn Sensor. The dusk to 
 
 ### Comzler 6 Watt Frosted Candelabra LED Bulb
 
-![Comzler 6 Watt Frosted Candelabra LED Bulb](/uploads/comzler-6-watt-frosted-candelabra-led-bulb.jpg "Comzler 6 Watt Frosted Candelabra LED Bulb")
+![Comzler 6 Watt Frosted Candelabra LED Bulb](/uploads/comzler-6-watt-frosted-candelabra-led-bulb.webp "Comzler 6 Watt Frosted Candelabra LED Bulb")
 
 Next is Comzler 6 Watt led bulb review. This Modern style light bulb has a 5000K light color temperature and has a 600-lumen flux. The bulb is made of Plastic and Aluminum material and seems much durable. The screw base of the light bulb is standard American E12 candelabra, and you can fit in many types of fixtures very easily. 
 
