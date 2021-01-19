@@ -13,158 +13,7 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: >-
-  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
-
-  "@context": "http://schema.org",
-
-  "@type": "ItemList",
-
-  "url": "https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather/",
-
-  "name": "Best Outdoor Light Bulbs For Cold Weather",
-
-  "itemListElement":
-
-  [
-
-  {"@type": "ListItem",
-
-  "position": 1,
-
-  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//sylvania-general-lighting-led-light-bulb",
-
-  "@id": "sylvania-general-lighting-led-light-bulb ",
-
-  "name": "SYLVANIA General Lighting LED Light Bulb"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 2,
-
-  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//sansi-18w--led-light-bulbs",
-
-  "@id": "sansi-18w--led-light-bulbs ",
-
-  "name": "SANSI 18W  LED Light Bulbs"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 3,
-
-  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//westinghouse-lighting-par38-white-light",
-
-  "@id": "westinghouse-lighting-par38-white-light ",
-
-  "name": "Westinghouse Lighting PAR38 White Light"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 4,
-
-  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//bioluz-gu10-led-bulbs",
-
-  "@id": "bioluz-gu10-led-bulbs ",
-
-  "name": "Bioluz GU10 LED Bulbs"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 5,
-
-  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//govee-dusk-to-dawn-light-bulb",
-
-  "@id": "govee-dusk-to-dawn-light-bulb ",
-
-  "name": "Govee Dusk to Dawn Light Bulb"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 6,
-
-  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//great-eagle-a19-led-light-bulb",
-
-  "@id": "great-eagle-a19-led-light-bulb ",
-
-  "name": "Great Eagle A19 LED Light Bulb"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 7,
-
-  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//philips-led-non-dimmable-a19-frosted-light-bulb",
-
-  "@id": "philips-led-non-dimmable-a19-frosted-light-bulb ",
-
-  "name": "Philips LED Non-Dimmable A19 Frosted Light Bulb"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 8,
-
-  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//kasa-smart-light-bulb",
-
-  "@id": "kasa-smart-light-bulb ",
-
-  "name": "Kasa Smart Light Bulb"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 9,
-
-  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//lohas-bug-light-bulb-yellow-led-bulbs",
-
-  "@id": "lohas-bug-light-bulb-yellow-led-bulbs ",
-
-  "name": "LOHAS Bug Light Bulb Yellow LED Bulbs"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 10,
-
-  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//boxlood-12w-pir-motion-sensor-light-bulb",
-
-  "@id": "boxlood-12w-pir-motion-sensor-light-bulb ",
-
-  "name": "Boxlood 12W PIR Motion Sensor Light Bulb"
-
-  },
-
-  {"@type": "ListItem",
-
-  "position": 11,
-
-  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather//comzler-6-watt-frosted-candelabra-led-bulb",
-
-  "@id": "comzler-6-watt-frosted-candelabra-led-bulb ",
-
-  "name": "Comzler 6 Watt Frosted Candelabra LED Bulb"
-
-  }
-
-  ]
-
-  }
-
-  </script>
+schemaMarkup: "\n"
 pickName: Boxlood 12W PIR Motion Sensor Light Bulb
 pickImg: /uploads/boxlood-12w-pir-motion-sensor-light-bulb.jpg
 pickLink: https://www.amazon.com/gp/product/B0771MYTBH/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0771MYTBH&linkId=3a26b23b244b770f7074770d498d2a04
@@ -287,7 +136,7 @@ The Bulb's total lifespan is 11 000 hours, which makes this SYLVANIA bulb perfec
 <td>E26 Medium</td>
 </tr>
 <tr>
-<td>lifespan  </td>
+<td>lifespan</td>
 <td>up to 11, 000 hours</td>
 </tr>
 <tr>
@@ -347,15 +196,15 @@ The led bulb light will never flick and produce no buzzing sound. Overall the SA
 <td>SANSI</td>
 </tr>
 <tr>
-<td>Color Temperature </td>
+<td>Color Temperature</td>
 <td>5000K</td>
 </tr>
 <tr>
-<td>Bulb Socket Base	</td>
+<td>Bulb Socket Base</td>
 <td>E26 Medium</td>
 </tr>
 <tr>
-<td>lifespan  </td>
+<td>lifespan</td>
 <td>22. 8 years</td>
 </tr>
 <tr>
@@ -418,15 +267,15 @@ The Westinghouse energy saver comes with outstanding durability and quality. The
 <td>Westinghouse Lighting</td>
 </tr>
 <tr>
-<td>Color Temperature </td>
+<td>Color Temperature</td>
 <td>3000 Kelvin</td>
 </tr>
 <tr>
-<td>Bulb Socket Base	</td>
+<td>Bulb Socket Base</td>
 <td>E26 Medium</td>
 </tr>
 <tr>
-<td>lifespan  </td>
+<td>lifespan</td>
 <td>25,000 avg. rated hours</td>
 </tr>
 <tr>
@@ -439,7 +288,7 @@ The Westinghouse energy saver comes with outstanding durability and quality. The
 </tr>
 <tr>
 <td>Style</td>
-<td>WHITE BODY </td>
+<td>WHITE BODY</td>
 </tr>
 <tr>
 <td>Color</td>
@@ -487,11 +336,11 @@ Bioluz GU10 LED Bulb is very easy to fit in any kind of fixture you want. The bu
 <td>3000K - Halogen Appearance</td>
 </tr>
 <tr>
-<td>Bulb base	</td>
+<td>Bulb base</td>
 <td>Fits great </td>
 </tr>
 <tr>
-<td>lifespan  </td>
+<td>lifespan </td>
 <td>Long time</td>
 </tr>
 <tr>
@@ -550,15 +399,15 @@ The 9 watts taking Govee Dusk Light Bulb is perfect for you and will save your e
 <td>Govee</td>
 </tr>
 <tr>
-<td>Temperature </td>
+<td>Temperature</td>
 <td>2700k color temperature</td>
 </tr>
 <tr>
-<td>Bulb base	</td>
+<td>Bulb base</td>
 <td>E26 </td>
 </tr>
 <tr>
-<td>lifespan  </td>
+<td>lifespan</td>
 <td>30,000 hours lifetime</td>
 </tr>
 <tr>
@@ -612,15 +461,15 @@ The bulb installing process is just you have to screw it in a fixture, and there
 <td>Great Eagle Lighting Corporation</td>
 </tr>
 <tr>
-<td>Temperature </td>
+<td>Temperature</td>
 <td>Cool White</td>
 </tr>
 <tr>
-<td>Bulb base	</td>
+<td>Bulb base</td>
 <td>A19</td>
 </tr>
 <tr>
-<td>lifespan  </td>
+<td>lifespan</td>
 <td>15,000 hours</td>
 </tr>
 <tr>
@@ -676,7 +525,7 @@ Like other led bulbs, it is also an energy saver and saves you power up to 80 pe
 <td>Philips Lighting</td>
 </tr>
 <tr>
-<td>Color Temperature </td>
+<td>Color Temperature</td>
 <td>2700-Kelvin</td>
 </tr>
 <tr>
@@ -684,7 +533,7 @@ Like other led bulbs, it is also an energy saver and saves you power up to 80 pe
 <td>E26 </td>
 </tr>
 <tr>
-<td>lifespan  </td>
+<td>lifespan</td>
 <td>10,950 hours</td>
 </tr>
 <tr>
@@ -701,7 +550,7 @@ Like other led bulbs, it is also an energy saver and saves you power up to 80 pe
 </tr>
 <tr>
 <td>Color </td>
-<td>Soft White </td>
+<td>Soft White</td>
 </tr>
 </tbody>
 </table>
@@ -742,7 +591,7 @@ The design of the light bulb is made of white plastic and has a cool texture and
 <td>TP-Link</td>
 </tr>
 <tr>
-<td>Color Temperature </td>
+<td>Color Temperature</td>
 <td>soft white (2500 k) , bright light (5000 K)</td>
 </tr>
 <tr>
@@ -750,7 +599,7 @@ The design of the light bulb is made of white plastic and has a cool texture and
 <td>E27</td>
 </tr>
 <tr>
-<td>lifespan  </td>
+<td>lifespan</td>
 <td>Very Long</td>
 </tr>
 <tr>
@@ -766,7 +615,7 @@ The design of the light bulb is made of white plastic and has a cool texture and
 <td>A19 Tunable White</td>
 </tr>
 <tr>
-<td>Color </td>
+<td>Color</td>
 <td>soft white,bright light</td>
 </tr>
 </tbody>
@@ -820,15 +669,15 @@ The 2000 kelvin color temperature elegant amber yellow light is for make day bri
 <td>L LOHAS LED</td>
 </tr>
 <tr>
-<td>Color Temperature </td>
+<td>Color Temperature</td>
 <td>2000 kelvin</td>
 </tr>
 <tr>
-<td>Bulb base		</td>
+<td>Bulb base</td>
 <td>E26 Standard Base</td>
 </tr>
 <tr>
-<td>lifespan  </td>
+<td>lifespan</td>
 <td>30000 hours</td>
 </tr>
 <tr>
@@ -911,7 +760,7 @@ In daylight, the bulb automatically off by the Dusk to Dawn Sensor. The dusk to 
 <td>Classic</td>
 </tr>
 <tr>
-<td>Color </td>
+<td>Color</td>
 <td>Cold White light</td>
 </tr>
 </tbody>
