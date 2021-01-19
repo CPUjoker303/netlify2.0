@@ -68,7 +68,7 @@ Our Technikaya team created Best Fx Processor list below and if you don’t have
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B0741DN383/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0741DN383&linkId=e5b614bd92bd3a6321b3b05de9be5730" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/amd-fx-8350.jpg" alt="AMD FX-8350 FX-Series " title="AMD FX-8350 FX-Series "></td>
+<td class="tdimg"><img src="/uploads/amd-fx-8350-fx-series.webp" alt="AMD FX-8350 FX-Series " title="AMD FX-8350 FX-Series "></td>
 <td>AMD FX-8350 FX-Series </td>
 <td>Amd Fx 8350 Benchmarks Gaming</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B009O7YUF6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YUF6&linkId=fade07dc9a998142135d40707535f44b" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -459,7 +459,7 @@ If we talk about gaming live streaming, then for better handling, you can use an
 
 ### AMD FX-8350 FX-Series 8-Core
 
-![AMD FX-8350 Processor](/uploads/amd-fx-8350.jpg "AMD FX-8350 Processor")
+![AMD FX-8350 Processor](/uploads/amd-fx-8350-fx-series.webp "AMD FX-8350 Processor")
 
 Next is AMD fx-8350 review. The AMD FX-8350 is 8 core desktop processor, and its overclocking is very easy. AMD FX-8350 base clock is 4.0 GHz and has 4.2 GHz turbo max speed.
 
