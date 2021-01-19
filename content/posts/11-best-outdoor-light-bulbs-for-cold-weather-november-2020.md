@@ -110,11 +110,11 @@ On cold winter nights, these bright bulbs will help you brighten the way. For ou
 
 ![ SYLVANIA General Lighting LED Light Bulb](/uploads/sylvania-general-lighting-led-light-bulb.jpg " SYLVANIA General Lighting LED Light Bulb")
 
-First is SYLVANIA bulb review. The bulb lumen strength is 2000 and is called a high lumen count LED Light bulb. The Bulb can save your lots of energy because, at 8.5 watts, each of the bulb emits 800 lumens bright light output, and it will greatly save your energy and is best bulb for outdoor security light. 
+First is SYLVANIA bulb review. The bulb lumen strength is 2000 and is called a high lumen count LED Light bulb. The Bulb can save your lots of energy because, at 8.5 watts, each of the bulb emits 800 lumens bright light output, and it will greatly save your energy and is best bulb for outdoor security light.
 
-Just you have to fit this led Bulb in a holder, and the Bulb will last for ten years easily. The SYLVANIA GENERAL LED bulb can brighten your outdoor area and be used indoors and in the household. The Bulb is not dimmable, and the operating temperature of the SYLVANIA LED Bulb is -20 to +40 °C and color temperature of 2700 kelvin. 
+Just you have to fit this led Bulb in a holder, and the Bulb will last for ten years easily. The SYLVANIA GENERAL LED bulb can brighten your outdoor area and be used indoors and in the household. The Bulb is not dimmable, and the operating temperature of the SYLVANIA LED Bulb is -20 to +40 °C and color temperature of 2700 kelvin.
 
-The SYLVANIA light bulb spread white color soft light and is great for your night-stand, rooms, outdoor, etc.  If you want an LED bulb for a great dinner, then the SYLVANIA GENERAL Lighting bulb is great because it provides 2700k warm white light. 
+The SYLVANIA light bulb spread white color soft light and is great for your night-stand, rooms, outdoor, etc.  If you want an LED bulb for a great dinner, then the SYLVANIA GENERAL Lighting bulb is great because it provides 2700k warm white light.
 
 The Bulb's total lifespan is 11 000 hours, which makes this SYLVANIA bulb perfect for indoor and outdoor usage. The Bulb can substitute a regular 60-watt light bulb. A lot of electric energy can be saved by using this SYLVANIA GENERAL led Bulb and is the best outdoor light bulbs for cold weather.
 
@@ -509,9 +509,9 @@ The bulb installing process is just you have to screw it in a fixture, and there
 
 ![Philips LED Non-Dimmable A19 Frosted Light Bulb](/uploads/philips-led-non-dimmable-a19-frosted-light-bulb.jpg "Philips LED Non-Dimmable A19 Frosted Light Bulb")
 
-Next is the Philips A19 Frosted Light Bulb review. The led bulb cannot be compared with Incandescent Bulbs because it takes less power consumption than Incandescent Bulbs and saves your 80 percent energy. The Kelvin [color temperature](https://en.wikipedia.org/wiki/Color_temperature) is 2700k and provides soft white light. The bulb can fit in a bedside lamp, desk lamp, etc. 
+Next is the Philips A19 Frosted Light Bulb review. The led bulb cannot be compared with Incandescent Bulbs because it takes less power consumption than Incandescent Bulbs and saves your 80 percent energy. The Kelvin [color temperature](https://en.wikipedia.org/wiki/Color_temperature) is 2700k and provides soft white light. The bulb can fit in a bedside lamp, desk lamp, etc.
 
-The non-dim-able light will not have any effect on your eye, and you feel comfortable. The Philips A19 bulb provides stable light with no flicking. The bulb has beautiful shades of white light. The bulb is free of mercury and provides you comfortable lighting. 
+The non-dim-able light will not have any effect on your eye, and you feel comfortable. The Philips A19 bulb provides stable light with no flicking. The bulb has beautiful shades of white light. The bulb is free of mercury and provides you comfortable lighting.
 
 Like other led bulbs, it is also an energy saver and saves you power up to 80 percent. The main use of this bulb is for homes, offices, rooms only for indoor purposes. It is a perfect design led bulb for in house use and for outdoor purpose seems not durable.
 
@@ -595,7 +595,7 @@ The design of the light bulb is made of white plastic and has a cool texture and
 <td>soft white (2500 k) , bright light (5000 K)</td>
 </tr>
 <tr>
-<td>Bulb base		</td>
+<td>Bulb base</td>
 <td>E27</td>
 </tr>
 <tr>
@@ -720,9 +720,9 @@ The 2000 kelvin color temperature elegant amber yellow light is for make day bri
 
 ![Boxlood 12W PIR Motion Sensor Light Bulb](/uploads/boxlood-12w-pir-motion-sensor-light-bulb.jpg "Boxlood 12W PIR Motion Sensor Light Bulb")
 
-Next is the BOXWOOD bulb review. The led bulb comes with an automatic detects motion feature, and the motion sensor will automatically turn on the light when it detects any movement within 20 feet sensor range. 
+Next is the BOXWOOD bulb review. The led bulb comes with an automatic detects motion feature, and the motion sensor will automatically turn on the light when it detects any movement within 20 feet sensor range.
 
-The motion-sensing feature of the led bulb makes it perfect for outdoor usage. The 12W BOXLOOD bulb will give you 1000 lumen flux counts. This BOXWOOD bulb is replaceable with a 100W halogen bulb. 
+The motion-sensing feature of the led bulb makes it perfect for outdoor usage. The 12W BOXLOOD bulb will give you 1000 lumen flux counts. This BOXWOOD bulb is replaceable with a 100W halogen bulb.
 
 In daylight, the bulb automatically off by the Dusk to Dawn Sensor. The dusk to dawn bulb can fit very quickly in any fixture and can be used for indoor, yard, driveway, front door, outdoor, backdoor, Storage Room, Stairs, Courtyard, etc. The bulb is the best outdoor light bulb for cold weather.
 
@@ -791,7 +791,7 @@ In daylight, the bulb automatically off by the Dusk to Dawn Sensor. The dusk to 
 
 ![Comzler 6 Watt Frosted Candelabra LED Bulb](/uploads/comzler-6-watt-frosted-candelabra-led-bulb.webp "Comzler 6 Watt Frosted Candelabra LED Bulb")
 
-Next is Comzler 6 Watt led bulb review. This Modern style light bulb has a 5000K light color temperature and has a 600-lumen flux. The bulb is made of Plastic and Aluminum material and seems much durable. The screw base of the light bulb is standard American E12 candelabra, and you can fit in many types of fixtures very easily. 
+Next is Comzler 6 Watt led bulb review. This Modern style light bulb has a 5000K light color temperature and has a 600-lumen flux. The bulb is made of Plastic and Aluminum material and seems much durable. The screw base of the light bulb is standard American E12 candelabra, and you can fit in many types of fixtures very easily.
 
 The light bulb provides proper safety to you and your respective family, and it does not include lead, UV, Mercury, etc. The energy-saving bulb will save your ninety percent energy. In the 85V-265V AC range, the bright light bulb can efficiently work.
 
