@@ -78,19 +78,19 @@ Our Technikaya team created Best Fx Processor list below and if you don’t have
 <tr>
 <td class="tdimg"><img src="/uploads/amd-fd8320frhkbox-fx-8320-fx-series-8.jpg" alt="AMD FX-8320 " title="AMD FX-8320 "></td>
 <td>AMD FX-8320 </td>
-<td>Processor Good For Gaming</td>
+<td>Best ddr3 processor</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B009O7YU56/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YU56&linkId=8029cc3725386c83d5851513f328558d" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/amd-fx-4300-vishera-–-4-core-processor.jpg" alt="AMD FX-4300 Vishera " title="AMD FX-4300 Vishera "></td>
 <td>AMD FX-4300 Vishera </td>
-<td>GOOD</td>
+<td>Best Cpu For Am3+</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B009O7YU3S/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YU3S&linkId=cbeffad0b42b6a5e21d914d2ebeed2a8" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
 <td class="tdimg"><img src="/uploads/amd-fx-8120-zambezi.jpg" alt="AMD FX-8120 Zambezi" title="AMD FX-8120 Zambezi"></td>
 <td>AMD FX-8120 Zambezi</td>
-<td>GOOD</td>
+<td>Best Am3 Processor For Gaming</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B005UBNKZG/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B005UBNKZG&linkId=d730477a68f920664469e0763eba2a87" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 </tbody>
