@@ -18,11 +18,11 @@ pickName: "Rockville TM80C Tower Speakers "
 pickImg: /uploads/rockville-tm80c-tower-speakers-review.jpg
 pickLink: https://www.amazon.com/gp/product/B0742WXFJ6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0742WXFJ6&linkId=9f683687e6080cf7c76f05688d2f1400
 ---
-Here you find best floor standing speakers under 500 and 200 dollar range and are in this price range these listed floor standing speakers are providing brilliant performance with excellent striking sound quality. 
-
-If you need speakers which matches with you flat-panel TVs, then Yamaha NS-F210BL like speaker will be a perfect choice for your flat-panel TVs. Not only have Brilliant design these listed tower speakers also providing quality sound and have great bass with the superb connectivity options. Some of the speakers also have Beautiful LED lights which glow beautifully and seems fantastic. 
+Here you find Best Floor Standing Speakers Under 500 and 200 dollar range and are in this price range these listed floor standing speakers are providing brilliant performance with excellent striking sound quality. If you need speakers which matches with you flat-panel TVs, then Yamaha NS-F210BL like speaker will be a perfect choice for your flat-panel TVs.
 
 ## Best Floorstanding Speakers Under $500 and $200
+
+Not only have Brilliant design these listed tower speakers also providing quality sound and have great bass with the superb connectivity options. Some of the speakers also have Beautiful LED lights which glow beautifully and seems fantastic.
 
 {{<html-code tag="div">}}
 
@@ -116,13 +116,19 @@ If you need speakers which matches with you flat-panel TVs, then Yamaha NS-F210B
 </table>
 {{</html-code>}}
 
-### Sony SSCS3 3-Way Floor-Standing Speaker (Single) – Black
+### Sony SSCS3 Black 3-Way Floor-Standing Speaker 
 
-![Sony SSCS3 3-Way Floor-Standing Speaker](/uploads/sony-sscs3-review-a-floorstanding-speaker.jpg "Sony SSCS3 3-Way Floor-Standing Speaker")
+![Sony SSCS3 Black 3-Way Floor-Standing Speaker](/uploads/sony-sscs3-review-a-floorstanding-speaker.jpg "Sony SSCS3 Black 3-Way Floor-Standing Speaker")
 
-First Sony SSCS3 review and this affordable tower speaker has excellent bass reflex. The SSCS3 speaker comes with brilliant soften dome-type three-inch and one-inch tweeter and also has dome-type 5-1/4 inch woofers for fantastic frequency range. The 145 watts is the total wattage output of the Sony SSCS3 speakers and 6-ohm radiate appearance. The speaker's range frequency is between 45 kHz to a maximum of 50 kHz, which is excellent for brilliant high-resolution audio. 
+First Sony SSCS3 review and this affordable tower speaker has excellent bass reflex. The SSCS3 speaker comes with brilliant soften dome-type three-inch and one-inch tweeter and also has dome-type 5-1/4 inch woofers for fantastic frequency range.
 
-If you take the closer look to these speakers, then you will elegant speaker design and are perfectly shaped as floor standing speakers. On the speaker's front body design, you will feel soft black mesh material. If you want to attach speaker wires then on the back you will see two red and black holes, and you have to compress them for plugging the cables. 
+The 145 watts is the total wattage output of the Sony SSCS3 speakers and 6-ohm radiate appearance. The speaker's range frequency is between 45 kHz to a maximum of 50 kHz, which is excellent for brilliant high-resolution audio.
+
+If you take the closer look to these speakers, then you will elegant speaker design and are perfectly shaped as floor standing speakers. On the speaker's front body design, you will feel soft black mesh material.
+
+ If you want to attach speaker wires then on the back you will see two red and black holes, and you have to compress them for plugging the cables. The total height these Sony tower speakers are over 36 inches with 9 inches width and has quarter ten depth.
+
+The four footpads on the bottom will protect these floor standing speakers and make a perfect balance for perfectly standing speakers on the floor. Overall the speakers are designed tremendous and will provide you with incredible bass and real audio experience. The Sony SSCS3 are best floor standing speakers under 500 dollars.
 
 #### Specifications
 
@@ -142,7 +148,7 @@ If you take the closer look to these speakers, then you will elegant speaker des
 <td>88dB (2.83V, 1m)</td>
 </tr>
 <tr>
-<td>Maximum input </td>
+<td>Maximum input</td>
 <td>145W</td>
 </tr>
 <tr>
@@ -150,7 +156,7 @@ If you take the closer look to these speakers, then you will elegant speaker des
 <td>6Ω</td>
 </tr>
 <tr>
-<td>Woofer </td>
+<td>Woofer</td>
 <td>TWO 130mmMRC cone type</td>
 </tr>
 <tr>
@@ -165,11 +171,9 @@ If you take the closer look to these speakers, then you will elegant speaker des
 </table>
 {{</html-code>}}
 
-The total height these Sony tower speakers are over 36 inches with 9 inches width and has quarter ten depth. The four footpads on the bottom will protect these floor standing speakers and make a perfect balance for perfectly standing speakers on the floor. Overall the speakers are designed tremendous and will provide you with incredible bass and real audio experience. The Sony SSCS3 are best floor standing speakers under 500 dollars.
-
 {{<pros>}}
 
-<li>Great cabnet material. </li>
+<li>Great cabnet material.</li>
 <li>High-density MDF.</li>
 <li>Coated in black vinyl.</li>
 <li>Natural sounding vocals.</li>
@@ -186,9 +190,17 @@ The total height these Sony tower speakers are over 36 inches with 9 inches widt
 
 ![AR1004WH Wall Powered Bluetooth Tower Speaker](/uploads/ar1004wh-wall-powered-review-a-bluetooth-tower-speaker-with-lights.jpg "AR1004WH Wall Powered Bluetooth Tower Speaker")
 
-Second ART+SOUND speaker review and this Bluetooth powered speaker featuring excellent quality sound and the lighting mood come with blue lighting effect, which seems very elegant. This speaker comes with great Bluetooth technology which makes it a wireless speaker and without any trouble, you can connect your phone with speakers and can enjoy your lovely sound. 
+Second ART+SOUND speaker review and this Bluetooth powered speaker featuring excellent quality sound and the lighting mood come with blue lighting effect, which seems very elegant.
 
-The AR1004WH speaker body designed very slim and pure white painted body will perfectly match with your setup. Using this Bluetooth Tower Speaker, you can stream online music form different kinds of music platforms like Spotify, youtube and iTunes, Pandora etc. It doesn’t have only Bluetooth connectivity, also have wired input connection option and you can also make a wired connection with 3.5mm aux input. 
+ This speaker comes with great Bluetooth technology which makes it a wireless speaker and without any trouble, you can connect your phone with speakers and can enjoy your lovely sound.
+
+The AR1004WH speaker body designed very slim and pure white painted body will perfectly match with your setup. Using this Bluetooth Tower Speaker, you can stream online music form different kinds of music platforms like Spotify, youtube and iTunes, Pandora etc.
+
+ It doesn’t have only Bluetooth connectivity, also have wired input connection option and you can also make a wired connection with 3.5mm aux input. 
+
+On the top of speakers body design, you will find some great controlling options which will help you in switching led light ON/OFF and volume control options.
+
+For charging the speaker has a USB- Charging option on the top and on the side of the charging port, you will also find AUX input. In the price, this white colour in-wall speakers will give brilliant quality sound and are best floorstanding speakers under 500.
 
 #### Specifications
 
@@ -231,8 +243,6 @@ The AR1004WH speaker body designed very slim and pure white painted body will pe
 </table>
 {{</html-code>}}
 
-On the top of speakers body design, you will find some great controlling options which will help you in switching led light ON/OFF and volume control options. For charging the speaker has a USB- Charging option on the top and on the side of the charging port, you will also find AUX input. In the price, this white colour in-wall speakers will give brilliant quality sound and are best floorstanding speakers under 500.
-
 {{<pros>}}
 
 <li>Blue led mood lights.</li>
@@ -249,13 +259,15 @@ On the top of speakers body design, you will find some great controlling options
 <li>No bass modification.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B076XHQY33/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B076XHQY33&linkId=1725cb488509a8a25f9bc7c12069465d{{</button>}}
 
-### Polk Audio Monitor 70 Series II Tower Speaker (Black, Single) for Multichannel Home Theater
+### Polk Audio Series II Tower Speaker
 
-![Polk Audio Monitor 70 Series II Tower Speaker](/uploads/polk-audio-monitor-70-series-ii-tower-speaker-review.jpg "Polk Audio Monitor 70 Series II Tower Speaker")
+![Polk Audio Series II Tower Speaker](/uploads/polk-audio-monitor-70-series-ii-tower-speaker-review.jpg "Polk Audio Series II Tower Speaker")
 
-Third is Polk Audio speaker review, and this series 2-speaker has great tower height which is up to 43-1/4 tower height. If we talk about depth and width, then its depth is 15-3/4 and width is 8-7/8 which make perfect balance on the carpet and keeps the speakers steady.  
+Third is Polk Audio speaker review, and this series 2-speaker has great tower height which is up to 43-1/4 tower height. If we talk about depth and width, then its depth is 15-3/4 and width is 8-7/8 which make perfect balance on the carpet and keeps the speakers steady.
 
-On the height of Polk Audio speaker there, you will see one dome-type balanced tweeter Installed and down to it you will find two balanced 5.25 woofers which will give you rock-solid bass. This tower speaker body design seems elegant and also it has black Oak vinyl pretty look. 
+On the height of Polk Audio speaker there, you will see one dome-type balanced tweeter Installed and down to it you will find two balanced 5.25 woofers which will give you rock-solid bass.
+
+ This tower speaker body design seems elegant and also it has black Oak vinyl pretty look. This Polk CS2 speaker power consumption is 125 watts only, and for Powerful deep bass and quality sound, this Polk speaker is the best floor standing speakers under 500 dollars price. There are also some other variants of Polk Audio speakers like Polk monitor 40, 60, CS1 in a different tag.
 
 #### Specifications
 
@@ -267,7 +279,7 @@ On the height of Polk Audio speaker there, you will see one dome-type balanced t
 <td>Floor Standing</td>
 </tr>
 <tr>
-<td>Manufacturer	</td>
+<td>Manufacturer</td>
 <td>Polk Audio</td>
 </tr>
 <tr>
@@ -298,8 +310,6 @@ On the height of Polk Audio speaker there, you will see one dome-type balanced t
 </table>
 {{</html-code>}}
 
-This Polk CS2 speaker power consumption is 125 watts only, and for Powerful deep bass and quality sound, this Polk speaker is the best floor standing speakers under 500 dollars price. There are also some other variants of Polk Audio speakers like Polk monitor 40, 60, CS1 in a different tag.
-
 {{<pros>}}
 
 <li>Excellent Crisp sound.</li>
@@ -317,13 +327,17 @@ This Polk CS2 speaker power consumption is 125 watts only, and for Powerful deep
 <li>Not Instant Push of Amplifiers.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00631YX62/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00631YX62&linkId=6348c7c14dd23a4e228264567901c4cd{{</button>}}
 
-### Pioneer SP-FS52 Home Audio Andrew Jones Designed Floor Standing Loudspeaker
+### Pioneer Floor Standing Loudspeaker
 
-![Pioneer SP-FS52 Home Audio Andrew Jones Designed Floor Standing Loudspeaker](/uploads/pioneer-sp-fs52-review-home-audio-floor-standing-loudspeaker.jpg "Pioneer SP-FS52 Home Audio Andrew Jones Designed Floor Standing Loudspeaker")
+![Pioneer Floor Standing Loudspeaker](/uploads/pioneer-sp-fs52-review-home-audio-floor-standing-loudspeaker.jpg "Pioneer Floor Standing Loudspeaker")
 
-Next is Pioneer SP-FS52 review, and this elegant floor-standing speaker gives you outstanding performance because it comes with one tweeter, which is of the soft dome and has very high efficiency. 
+Next is Pioneer SP-FS52 review, and this elegant floor-standing speaker gives you outstanding performance because it comes with one tweeter, which is of the soft dome and has very high efficiency.
 
-The cabinet quality of Pioneer SP-FS52 is excellent, and it has curve RF molded cabinet design. If we talk about the power input of SP-FS52, then this speaker takes 130W power input. The woody body design is a perfect match for your wooden tables and it you can put this floor standing speaker anywhere on a flat surface you want because the body design can perfectly balance it. 
+The cabinet quality of Pioneer SP-FS52 is excellent, and it has curve RF molded cabinet design. If we talk about the power input of SP-FS52, then this speaker takes 130W power input.
+
+The woody body design is a perfect match for your wooden tables and it you can put this floor standing speaker anywhere on a flat surface you want because the body design can perfectly balance it.
+
+For speaker plug, this Pioneer SP-FS52 is same as other floor-standing speaker and you will able to find speaker plug on the bottom backside of this tower speaker. In price, this one is the best floor standing speakers under 500 dollars.
 
 #### Specifications
 
@@ -331,11 +345,11 @@ The cabinet quality of Pioneer SP-FS52 is excellent, and it has curve RF molded 
 
 <table>
 <tbody><tr>
-<td>Cabnet </td>
+<td>Cabnet</td>
 <td>RF Molded Curved Cabinet</td>
 </tr>
 <tr>
-<td>Woofers </td>
+<td>Woofers</td>
 <td>Three 5-1/4 structure surfaced</td>
 </tr>
 <tr>
@@ -351,22 +365,20 @@ The cabinet quality of Pioneer SP-FS52 is excellent, and it has curve RF molded 
 <td>130 Watt</td>
 </tr>
 <tr>
-<td>Manufacturer	</td>
+<td>Manufacturer</td>
 <td>Pioneer</td>
 </tr>
 <tr>
-<td>Model Name	</td>
+<td>Model Name</td>
 <td>FBA_SP-FS52</td>
 </tr>
 <tr>
-<td>Speaker Type	</td>
+<td>Speaker Type</td>
 <td>Floorstanding</td>
 </tr>
 </tbody>
 </table>
 {{</html-code>}}
-
-For speaker plug, this Pioneer SP-FS52 is same as other floor-standing speaker and you will able to find speaker plug on the bottom backside of this tower speaker. In price, this one is the best floor standing speakers under 500 dollars.
 
 {{<pros>}}
 
@@ -382,13 +394,15 @@ For speaker plug, this Pioneer SP-FS52 is same as other floor-standing speaker a
 <li>Sub is needed.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B008NCD2S4/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B008NCD2S4&linkId=eab12bb3b829c865048a14c78327bc26{{</button>}}
 
-### Onkyo SKF-4800 2-Way Bass Reflex Floor-standing Speakers
+### Onkyo SKF-4800 Bass Reflex Floor-standing Speakers
 
-![Onkyo SKF-4800 2-Way Bass Reflex Floor-standing Speakers](/uploads/onkyo-skf-4800-review-a-2-way-bass-reflex-floor-standing-speaker.jpg "Onkyo SKF-4800 2-Way Bass Reflex Floor-standing Speakers")
+![Onkyo SKF-4800 Bass Reflex Floor-standing Speakers](/uploads/onkyo-skf-4800-review-a-2-way-bass-reflex-floor-standing-speaker.jpg "Onkyo SKF-4800 Bass Reflex Floor-standing Speakers")
 
-Next is Onkyo SKF-4800a review and it is featuring 16 cm twin cone woofers for brilliant, striking sound.   It has 2.5 soften domed Tweeter for quality sound. The SKF-4800a listed in Stylish Floor-Standing speakers because it comes with elegant black beautiful design. Many speakers produce vibration on the loud sound so the Onkyo company is featuring in this SKF-4800a speaker, the MDF stabilizer for preventing vibration and this speaker also includes woofer equalizer which will help in providing fast and excellent sound accuracy. 
+Next is Onkyo SKF-4800a review and it is featuring 16 cm twin cone woofers for brilliant, striking sound.   It has 2.5 soften domed Tweeter for quality sound. The SKF-4800a listed in Stylish Floor-Standing speakers because it comes with elegant black beautiful design.
 
-The speaker frequency response is between 35 kHz to 55 Hz range with the 6 ohms of Impedance. The connectivity of this speaker with home theatre little different and you have to pair with a sub for home theatre, and overall the speakers' connectivity is easy.  
+Many speakers produce vibration on the loud sound so the Onkyo company is featuring in this SKF-4800a speaker, the MDF stabilizer for preventing vibration and this speaker also includes woofer equalizer which will help in providing fast and excellent sound accuracy. The speaker frequency response is between 35 kHz to 55 Hz range with the 6 ohms of Impedance.
+
+The connectivity of this speaker with home theatre little different and you have to pair with a sub for home theatre, and overall the speakers' connectivity is easy.The ONKYO manufactured these floor standing speakers are brilliant in performance and are best floor standing speakers under 500 dollars.
 
 #### Specifications
 
@@ -435,8 +449,6 @@ The speaker frequency response is between 35 kHz to 55 Hz range with the 6 ohms 
 </table>
 {{</html-code>}}
 
-The ONKYO manufactured these floor standing speakers are brilliant in performance and are best floor standing speakers under 500 dollars.
-
 {{<pros>}}
 
 <li>It Enables Woofer Equalizer.</li>
@@ -454,13 +466,17 @@ The ONKYO manufactured these floor standing speakers are brilliant in performanc
 <li>You need to pair these speaker with sub when you use these speakers for home theater.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00EKJQLSC/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00EKJQLSC&linkId=df707ccf4ce4b42372351d6769f2ed08{{</button>}}
 
-### Samsung TW-J5500 2.2 Channel 350 Watt Wired Audio Sound Tower
+### Samsung Wired Audio Sound Tower
 
-![Samsung TW-J5500 2.2 Channel 350 Watt Wired Audio Sound Tower](/uploads/samsung-tw-j5500-review-a-2.2-channel-350-watt-wired-audio-sound-tower.jpg "Samsung TW-J5500 2.2 Channel 350 Watt Wired Audio Sound Tower")
+![Samsung Wired Audio Sound Tower](/uploads/samsung-tw-j5500-review-a-2.2-channel-350-watt-wired-audio-sound-tower.jpg "Samsung Wired Audio Sound Tower")
 
-Next Samsung TW-J5500 review and this Subwoofer type Wall Mount speaker is presented by Samsung Electronics brand. It includes six-inch Built-In subwoofers and enables you Bluetooth connectivity which will help you in wirelessly connecting these speakers with your mobile devices or laptop etc.  
+Next Samsung TW-J5500 review and this Subwoofer type Wall Mount speaker is presented by Samsung Electronics brand. It includes six-inch Built-In subwoofers and enables you Bluetooth connectivity which will help you in wirelessly connecting these speakers with your mobile devices or laptop etc.
 
-This Samsung floor-standing speaker makes connectivity super easy without the hassle of wires. The TW-J5500 speaker includes different types of inputs which are Anynet + (HDMI-CEC), USB, Optical etc. This wall mount speaker comes with a pre-installed battery which gives you great backup after when you charge it fully.  The Samsung TW-J5500 sleek design body seems an elegant and perfect match for you. 
+This Samsung floor-standing speaker makes connectivity super easy without the hassle of wires. The TW-J5500 speaker includes different types of inputs which are Anynet + (HDMI-CEC), USB, Optical etc.
+
+This wall mount speaker comes with a pre-installed battery which gives you great backup after when you charge it fully.  The Samsung TW-J5500 sleek design body seems an elegant and perfect match for you.
+
+It also includes and enables the remote controlling feature for controlling the speakers and Stream audio properly.  The speakers also include HDMI connectivity option and 2.2-Channel Sound for the enjoyment of full-range rich audio, and overall The TW-J5500 speaker is best floor standing speaker under 500 price.
 
 #### Specifications
 
@@ -484,11 +500,11 @@ This Samsung floor-standing speaker makes connectivity super easy without the ha
 <td>Yes</td>
 </tr>
 <tr>
-<td>Charging </td>
+<td>Charging</td>
 <td>Yes</td>
 </tr>
 <tr>
-<td>Design </td>
+<td>Design</td>
 <td>Sleek design body</td>
 </tr>
 <tr>
@@ -496,19 +512,19 @@ This Samsung floor-standing speaker makes connectivity super easy without the ha
 <td>Inch 350W (2.2 Ch)</td>
 </tr>
 <tr>
-<td>Model Name	</td>
+<td>Model Name</td>
 <td>TW-J5500</td>
 </tr>
 <tr>
-<td>Brand	</td>
+<td>Brand</td>
 <td>Samsung Electronics</td>
 </tr>
 <tr>
-<td>Speaker Type	</td>
+<td>Speaker Type</td>
 <td>Subwoofer</td>
 </tr>
 <tr>
-<td>HDMI Connectivity </td>
+<td>HDMI Connectivity</td>
 <td>Yes</td>
 </tr>
 <tr>
@@ -518,8 +534,6 @@ This Samsung floor-standing speaker makes connectivity super easy without the ha
 </tbody>
 </table>
 {{</html-code>}}
-
-It also includes and enables the remote controlling feature for controlling the speakers and Stream audio properly.  The speakers also include HDMI connectivity option and 2.2-Channel Sound for the enjoyment of full-range rich audio, and overall The TW-J5500 speaker is best floor standing speaker under 500 price.
 
 {{<pros>}}
 
@@ -541,13 +555,17 @@ It also includes and enables the remote controlling feature for controlling the 
 <li>Not Get Loud abundant.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B00UE9NMM0/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00UE9NMM0&linkId=f465775161bb3155b37294616bfde0c5{{</button>}}
 
-### Polk Audio T50 150 Watt Home Theater Floor Standing Tower Speaker
+### Polk Audio T50 150 Theater Floor Standing Tower Speaker
 
-![Polk Audio T50 150 Watt Home Theater Floor Standing Tower Speaker](/uploads/polk-audio-t50.jpg "Polk Audio T50 150 Watt Home Theater Floor Standing Tower Speaker")
+![Polk Audio T50 150 Theater Floor Standing Tower Speaker](/uploads/polk-audio-t50.jpg "Polk Audio T50 150 Theater Floor Standing Tower Speaker")
 
-Next is Polk Audio T50 review and as compared to other variants of Polk audio T30, this variant is much better and providing brilliant dynamic sound clarity up to 24000 Hz. The T50 Polk Audio speakers listed in Surround Sound type speakers and T50 body design seems elegant. It comes with one pre-installed tweeter and two 6.5 bass radiators in the bottom of a tweeter. 
+Next is Polk Audio T50 review and as compared to other variants of Polk audio T30, this variant is much better and providing brilliant dynamic sound clarity up to 24000 Hz.
 
-The height of this Polk Audio T50 tower speaker is 36.5, which seems excellent. For speaker wire connectivity you will find one pair of gold plated on the backside of speakers bottom. 150 Watts is the power out of Polk Audio T50 and its Nominal Impedance of 6 ohms and frequency 60 - 24,000 Hz response. 
+The T50 Polk Audio speakers listed in Surround Sound type speakers and T50 body design seems elegant. It comes with one pre-installed tweeter and two 6.5 bass radiators in the bottom of a tweeter.
+
+The height of this Polk Audio T50 tower speaker is 36.5, which seems excellent. For speaker wire connectivity you will find one pair of gold plated on the backside of speakers bottom. 150 Watts is the power out of Polk Audio T50 and its Nominal Impedance of 6 ohms and frequency 60 - 24,000 Hz response.
+
+For small rooms and small bedroom, these speakers are great, and you will get no connectivity issue will arise, and you can straightly use banana clips, speaker wire and it there is no required any kind of receiver at all. The Polk Audio T50 gives puncher/deeper bass and are best floor standing speakers under 500 dollars.
 
 #### Specifications
 
@@ -555,23 +573,23 @@ The height of this Polk Audio T50 tower speaker is 36.5, which seems excellent. 
 
 <table>
 <tbody><tr>
-<td>Model Name	</td>
+<td>Model Name</td>
 <td>T50</td>
 </tr>
 <tr>
-<td>Brand	</td>
+<td>Brand</td>
 <td>Polk Audio</td>
 </tr>
 <tr>
-<td>Sound clarity	</td>
+<td>Sound clarity</td>
 <td>24000 Hz</td>
 </tr>
 <tr>
-<td>Speaker Type	</td>
+<td>Speaker Type</td>
 <td>Surround Sound</td>
 </tr>
 <tr>
-<td>Speakers Maximum Output Power	</td>
+<td>Speakers Maximum Output Power</td>
 <td>150 Watts</td>
 </tr>
 <tr>
@@ -598,8 +616,6 @@ The height of this Polk Audio T50 tower speaker is 36.5, which seems excellent. 
 </table>
 {{</html-code>}}
 
-For small rooms and small bedroom, these speakers are great, and you will get no connectivity issue will arise, and you can straightly use banana clips, speaker wire and it there is no required any kind of receiver at all. The Polk Audio T50 gives puncher/deeper bass and are best floor standing speakers under 500 dollars.
-
 {{<pros>}}
 
 <li>Has puncher/deeper bass.</li>
@@ -619,13 +635,15 @@ For small rooms and small bedroom, these speakers are great, and you will get no
 <li>Bass response is ok.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B013LIN5W2/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013LIN5W2&linkId=67ffa3442d5bdc6014727cfc65f91190{{</button>}}
 
-### Rockville TM80C Home Theater Tower Speakers 8" Sub/Bluetooth/USB
+### Rockville TM80C Speakers
 
-![Rockville TM80C Tower Speakers](/uploads/rockville-tm80c-tower-speakers-review.jpg "Rockville TM80C Tower Speakers")
+![Rockville TM80C Speakers](/uploads/rockville-tm80c-tower-speakers-review.jpg "Rockville TM80C Speakers")
 
-Next is the Rockville TM80C review, and this floor standing speaker is brilliant. The subwoofer comes in brown colour design and has 31.9” Height, 12.99 Depth and 6.3 Width. We know very well about the oldest home theatre which includes on it a lot of devices like equalizer, subwoofer, speakers, wires etc. 
+Next is the Rockville TM80C review, and this floor standing speaker is brilliant. The subwoofer comes in brown colour design and has 31.9” Height, 12.99 Depth and 6.3 Width. We know very well about the oldest home theatre which includes on it a lot of devices like equalizer, subwoofer, speakers, wires etc.
 
-So, this Rockville TM80C speaker has finished the old theatre's concept, and this modern theatre includes all in one build-in. The TM80C fully made of thicker quality MDF and best Cabinet material. On the top front body design there connecting inputs like RCA, USB and SD, 3.5MM aux input, Mic inputs, RCA outputs etc. 
+So, this Rockville TM80C speaker has finished the old theatre's concept, and this modern theatre includes all in one build-in. The TM80C fully made of thicker quality MDF and best Cabinet material. On the top front body design there connecting inputs like RCA, USB and SD, 3.5MM aux input, Mic inputs, RCA outputs etc.
+
+Rockville TM80C is featuring remote controlling option, and when you're relaxing on the bed, you can easily control this home theatre using a remote controller. It also has a digital display, and you can also increase and decrease brightness levels of TM80C digital display. It is the best floor standing speakers under 500.
 
 #### Specifications
 
@@ -637,7 +655,7 @@ So, this Rockville TM80C speaker has finished the old theatre's concept, and thi
 <td>Response40-20K Hz</td>
 </tr>
 <tr>
-<td>Model Name	</td>
+<td>Model Name</td>
 <td>TM80C</td>
 </tr>
 <tr>
@@ -657,7 +675,7 @@ So, this Rockville TM80C speaker has finished the old theatre's concept, and thi
 <td>200 Watts</td>
 </tr>
 <tr>
-<td>Speaker Type	</td>
+<td>Speaker Type</td>
 <td>Floor Standing, Subwoofer</td>
 </tr>
 <tr>
@@ -665,7 +683,7 @@ So, this Rockville TM80C speaker has finished the old theatre's concept, and thi
 <td>Yes</td>
 </tr>
 <tr>
-<td>Bluetooth </td>
+<td>Bluetooth</td>
 <td>Yes</td>
 </tr>
 <tr>
@@ -676,11 +694,9 @@ So, this Rockville TM80C speaker has finished the old theatre's concept, and thi
 </table>
 {{</html-code>}}
 
-Rockville TM80C is featuring remote controlling option, and when you're relaxing on the bed, you can easily control this home theatre using a remote controller. It also has a digital display, and you can also increase and decrease brightness levels of TM80C digital display. It is the best floor standing speakers under 500.
-
 {{<pros>}}
 
-<li>Dual 8" Subs.</li>
+<li>Dual 8 Subs.</li>
 <li>Built in FM radio.</li>
 <li>crystal clear reception.</li>
 <li>deep bass response.</li>
@@ -702,7 +718,7 @@ Rockville TM80C is featuring remote controlling option, and when you're relaxing
 
 ![Sony SS-CS3 3-Way 4-Driver Speaker](/uploads/sony-ss-cs3-speaker-review.jpg "Sony SS-CS3 3-Way 4-Driver Speaker")
 
-Next is the Sony SS-CS3 review, and this black pair of Sony speakers seems durable. By taking a look at SS-CS3 body design which looks the same as other floor standing speakers but the only difference, you will get two pairs of black SS-CS3. If we talk about Sony speaker Impedance which is same like Polk Audio T50 Impedance of Ohm. 
+Next is the Sony SS-CS3 review, and this black pair of Sony speakers seems durable. By taking a look at SS-CS3 body design which looks the same as other floor standing speakers but the only difference, you will get two pairs of black SS-CS3. If we talk about Sony speaker Impedance which is same like Polk Audio T50 Impedance of Ohm.
 
 After buying this Sony speaker the included polyester main tweeter which is of one inch and ¾ inch super tweeter. The peak power of the Sony SS-CS3 is 145W and has brilliant cabinet quality. Overall the Sony SS-CS3 are best floor standing speakers under 500 dollars.
 
@@ -712,11 +728,11 @@ After buying this Sony speaker the included polyester main tweeter which is of o
 
 <table>
 <tbody><tr>
-<td>Model Name	</td>
+<td>Model Name</td>
 <td>SSCS3</td>
 </tr>
 <tr>
-<td>Brand	</td>
+<td>Brand</td>
 <td>Sony</td>
 </tr>
 <tr>
@@ -803,7 +819,7 @@ For brilliant sound quality, the Yamaha NS-F210BL floor standing speakers comes 
 <td>7/8" balance dome</td>
 </tr>
 <tr>
-<td>Frequency Response </td>
+<td>Frequency Response</td>
 <td>50 Hz - 45 kHz</td>
 </tr>
 <tr>
@@ -819,7 +835,7 @@ For brilliant sound quality, the Yamaha NS-F210BL floor standing speakers comes 
 <td>6 ohms</td>
 </tr>
 <tr>
-<td>Brand	</td>
+<td>Brand</td>
 <td>Yamaha Audio</td>
 </tr>
 </tbody>
@@ -847,11 +863,13 @@ Elegant piano black finish.
 <li>More loudness.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B002JCSG12/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002JCSG12&linkId=75f9d789476da8a31d187666dc370103{{</button>}}
 
-### Dayton Audio T652-AIR Dual 6-1/2" 2-Way Tower Speaker Pair
+### Dayton Audio T652-AIR Tower Speaker
 
-![Dayton Audio T652-AIR Dual 6-1/2" 2-Way Tower Speaker Pair ](/uploads/dayton-audio-t652-air-review.jpg "Dayton Audio T652-AIR Dual 6-1/2\\\" 2-Way Tower Speaker Pair ")
+![Dayton Audio T652-AIR Tower Speaker](/uploads/dayton-audio-t652-air-review.jpg "Dayton Audio T652-AIR Tower Speaker")
 
-Next is Dayton Audio T652-AIR review and this Floorstanding speaker size 6.5 Inches with the Dual woofers size of 6-1/2" for brilliant performance. For accurate reproduction the Audio T652-AIR comes with brilliant 1" AMT tweeter which is installed inside the elegant Slim-profile tower cabinet. You will get fully extended and deep bass which is up to 45 Hz. By the design comparison, the Dayton Audio T652-AIR has the same body design as B652-AIR speaker. It is 30 inches tall and is the best floor standing speakers under 500.
+Next is Dayton Audio T652-AIR review and this Floorstanding speaker size 6.5 Inches with the Dual woofers size of 6-1/2" for brilliant performance. For accurate reproduction the Audio T652-AIR comes with brilliant 1" AMT tweeter which is installed inside the elegant Slim-profile tower cabinet.
+
+You will get fully extended and deep bass which is up to 45 Hz. By the design comparison, the Dayton Audio T652-AIR has the same body design as B652-AIR speaker. It is 30 inches tall and is the best floor standing speakers under 500.
 
 #### Specifications
 
@@ -867,23 +885,23 @@ Next is Dayton Audio T652-AIR review and this Floorstanding speaker size 6.5 Inc
 <td>AMT Tweeter</td>
 </tr>
 <tr>
-<td>Frequency </td>
+<td>Frequency</td>
 <td>45 Hz</td>
 </tr>
 <tr>
-<td>Model Name	</td>
+<td>Model Name</td>
 <td>T652-AIR</td>
 </tr>
 <tr>
-<td>Brand	</td>
+<td>Brand</td>
 <td>Dayton Audio</td>
 </tr>
 <tr>
-<td>Speaker Type	</td>
+<td>Speaker Type</td>
 <td>Floorstanding</td>
 </tr>
 <tr>
-<td>Speaker Size	</td>
+<td>Speaker Size</td>
 <td>6.5 Inches</td>
 </tr>
 <tr>
@@ -915,11 +933,13 @@ Brilliant Performance
 <li>Not very loud.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07777GY34/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07777GY34&linkId=47ddd7d88167efd9b91c17143a158d26{{</button>}}
 
-### Yamaha NS-F150 Floor Standing Speaker – Black
+### Yamaha Floor Standing Speaker
 
 ![Yamaha NS-F150 Floor Standing Speaker – Black](/uploads/yamaha-ns-f150-review.jpg "Yamaha NS-F150 Floor Standing Speaker – Black")
 
-Next are the Yamaha NS-F150 review and the floor standing speakers body looks Piano black mirror design which seems gorgeous. It has the large NS-F150 cabinet which has an excellent black finish and comes with the 6-1/2" cone woofer and single soft dome tweeters which are of 1 inch. The Floor Standing speaker will give you outstanding HD audio quality and Luxurious Presence. As compared to other listed floor speakers, the Yamaha NS-F150 has less frequency range which is up to 37 Hz - 30 kHz and takes the input power of 180 W. 
+Next are the Yamaha NS-F150 review and the floor standing speakers body looks Piano black mirror design which seems gorgeous. It has the large NS-F150 cabinet which has an excellent black finish and comes with the 6-1/2" cone woofer and single soft dome tweeters which are of 1 inch.
+
+The Floor Standing speaker will give you outstanding HD audio quality and Luxurious Presence. As compared to other listed floor speakers, the Yamaha NS-F150 has less frequency range which is up to 37 Hz - 30 kHz and takes the input power of 180 W.
 
 Its total width is 7-7/8 inch and has is 40-1/2 inch heightened with the depth of 14-1/4 inches. It comes with the great sensitivity of 88 dB/2.83 V/1 m with the 6 Ω Impedance and is the best floor standing speakers under 500.
 
@@ -941,7 +961,7 @@ Its total width is 7-7/8 inch and has is 40-1/2 inch heightened with the depth o
 <td>180 W</td>
 </tr>
 <tr>
-<td>Nominal Input Power </td>
+<td>Nominal Input Power</td>
 <td>50 W</td>
 </tr>
 <tr>
@@ -984,11 +1004,13 @@ floor standing speakers body
 <li>Less louder than expected.</li>
 {{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B0058GZWI6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0058GZWI6&linkId=9fdc1f27dd41e7840b7b1aaec1d44f4f{{</button>}}
 
-### Klipsch R-24F Reference Floorstanding Speakers
+### Klipsch Reference Floorstanding Speakers
 
-![Klipsch R-24F Reference Floorstanding Speakers](/uploads/klipsch-r-24f-review-floorstanding-speakers.jpg "Klipsch R-24F Reference Floorstanding Speakers")
+![Klipsch Reference Floorstanding Speakers](/uploads/klipsch-r-24f-review-floorstanding-speakers.jpg "Klipsch Reference Floorstanding Speakers")
 
-Next is Klipsch R-24F review and like other listed floor standing speakers this one has greater Impedance of 8 Ohm. The speaker comes in a black design and has a full length of 35 inches of the front, and the total weight is 64.1lbs. The exciting thing is Basic gold design speakers which are installed inside the speaker cabinet and gives you a brilliant bass response of 18,000Hz and has the excellent speaker sensitivity of 98 dB. The Klipsch R-24F are best floor standing speakers under 500.
+Next is Klipsch R-24F review and like other listed floor standing speakers this one has greater Impedance of 8 Ohm. The speaker comes in a black design and has a full length of 35 inches of the front, and the total weight is 64.1lbs.
+
+The exciting thing is Basic gold design speakers which are installed inside the speaker cabinet and gives you a brilliant bass response of 18,000Hz and has the excellent speaker sensitivity of 98 dB. The Klipsch R-24F are best floor standing speakers under $500.
 
 #### Specifications
 
