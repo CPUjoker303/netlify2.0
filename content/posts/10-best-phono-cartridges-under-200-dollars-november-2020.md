@@ -8,13 +8,140 @@ excrept: Checkout Best Phono Cartridge Accessories Under $200 and 500 Dollars
 metaKeywords: Best Phono Cartridges Under 200
 url: best-phono-cartridge-under-200/
 date: 2020-11-28T08:38:40.191Z
-updateDate: 2020-11-28T08:38:40.283Z
+updateDate: 2021-01-19T19:33:09.226Z
 image: /uploads/best-phono-cartridges-under-200-dollars-cartridge-accessorie.jpg
 tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: cc
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-phono-cartridge-under-200",
+
+  "name": "10 Best Phono Cartridges Under 200 Dollars [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-phono-cartridge-under-200/ortofon-2m-red-moving-magnet-cartridge",
+
+  "@id": "ortofon-2m-red-moving-magnet-cartridge ",
+
+  "name": "Ortofon 2M Red Moving Magnet Cartridge"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-phono-cartridge-under-200/ortofon-2m-blue-moving-magnet-cartridge",
+
+  "@id": "ortofon-2m-blue-moving-magnet-cartridge ",
+
+  "name": "Ortofon 2M Blue Moving Magnet Cartridge"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-phono-cartridge-under-200/ortofon-2m-bronze-moving-magnet-cartridge",
+
+  "@id": "ortofon-2m-bronze-moving-magnet-cartridge ",
+
+  "name": "Ortofon 2M Bronze Moving Magnet Cartridge"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-phono-cartridge-under-200/ortofon-2m-black-moving-magnet-cartridge",
+
+  "@id": "ortofon-2m-black-moving-magnet-cartridge ",
+
+  "name": "Ortofon 2M Black Moving Magnet Cartridge"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-phono-cartridge-under-200/sumiko---pearl-mm-cartridge",
+
+  "@id": "sumiko---pearl-mm-cartridge ",
+
+  "name": "Sumiko - Pearl MM Cartridge"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-phono-cartridge-under-200/nagaoka-mm-mp-cartridge-mp-110",
+
+  "@id": "nagaoka-mm-mp-cartridge-mp-110 ",
+
+  "name": "NAGAOKA MM (MP) Cartridge MP-110"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 7,
+
+  "url":"https://www.technikaya.com/best-phono-cartridge-under-200/shure-m97xe-high-performance-magnetic-phono-cartridge",
+
+  "@id": "shure-m97xe-high-performance-magnetic-phono-cartridge ",
+
+  "name": "Shure M97xE High-Performance Magnetic Phono Cartridge"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 8,
+
+  "url":"https://www.technikaya.com/best-phono-cartridge-under-200/ortofon-concorde-mk2-mix-twin-cartridge",
+
+  "@id": "ortofon-concorde-mk2-mix-twin-cartridge ",
+
+  "name": "Ortofon Concorde MK2 Mix Twin Cartridge"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 9,
+
+  "url":"https://www.technikaya.com/best-phono-cartridge-under-200/shure-m44-7-standard-dj-turntable-cartridge",
+
+  "@id": "shure-m44-7-standard-dj-turntable-cartridge ",
+
+  "name": "Shure M44-7 Standard DJ Turntable Cartridge"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Ortofon 2M Black Moving Magnet Cartridge
 pickImg: /uploads/ortofon-2m-black-review-moving-magnet.jpg
 pickLink: https://www.amazon.com/gp/product/B002SE3H74/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B002SE3H74&linkId=7ba12ba075fcf6e9b5e8cd10c2dbba4d
