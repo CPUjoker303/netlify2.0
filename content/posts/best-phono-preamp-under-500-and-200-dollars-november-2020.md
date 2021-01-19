@@ -13,7 +13,98 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: cc
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-phono-preamp-under-500",
+
+  "name": "Best Phono Preamp Under 500 And 200 Dollars [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-phono-preamp-under-500/pro-ject-tube-box-s2-phono-preamplifier---black",
+
+  "@id": "pro-ject-tube-box-s2-phono-preamplifier---black ",
+
+  "name": "Pro-Ject Tube Box S2 Phono Preamplifier - Black"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-phono-preamp-under-500/puffin-phono-dsp-phono-preamp",
+
+  "@id": "puffin-phono-dsp-phono-preamp ",
+
+  "name": "Puffin Phono DSP Phono preamp"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-phono-preamp-under-500/pro-ject-audio---phono-box-dc---mmmc-phono-preamp-with-line-output--blk",
+
+  "@id": "pro-ject-audio---phono-box-dc---mmmc-phono-preamp-with-line-output--blk ",
+
+  "name": "Pro-Ject Audio - Phono Box DC - MM/MC Phono preamp with line Output – Blk"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-phono-preamp-under-500/emotiva-audio-xps-1-phono-preamp",
+
+  "@id": "emotiva-audio-xps-1-phono-preamp ",
+
+  "name": "Emotiva Audio XPS-1 Phono Preamp"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-phono-preamp-under-500/nobsound-little-bear",
+
+  "@id": "nobsound-little-bear ",
+
+  "name": "Nobsound Little Bear"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-phono-preamp-under-500/parasound-zphono-mmmc-phono-preamplifier",
+
+  "@id": "parasound-zphono-mmmc-phono-preamplifier ",
+
+  "name": "Parasound Zphono MM/MC Phono Preamplifier"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: "Puffin Phono DSP Phono preamp "
 pickImg: /uploads/puffin-phono-dsp-review.jpg
 pickLink: https://www.amazon.com/gp/product/B07DKHM2HS/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07DKHM2HS&linkId=9caab712f8201139916c1d6017db94d0
