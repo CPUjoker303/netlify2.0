@@ -5,7 +5,7 @@ SEOTitle: Best audiophile turntable under $2000 [January 2021]
 excrept: Check out the best audiophile turntable under $2000 on the market which
   you want for a high-end audiophile record player. Click here for best
   turntables.
-metaKeywords: Best audiophile turntable under $2000
+metaKeywords: Best audiophile turntable under 2000
 url: best-audiophile-turntable-under-2000/
 date: 2021-01-17T10:58:22.369Z
 updateDate: 2021-01-17T10:58:22.415Z
@@ -14,7 +14,122 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: cc
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-audiophile-turntable-under-2000",
+
+  "name": "Best audiophile turntable under $2000 [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-audiophile-turntable-under-2000/audio-technica-at-lp60x",
+
+  "@id": "audio-technica-at-lp60x ",
+
+  "name": "Audio Technica AT-LP60X"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-audiophile-turntable-under-2000/turntable-pro-ject-debut-carbon-dc",
+
+  "@id": "turntable-pro-ject-debut-carbon-dc ",
+
+  "name": "Turntable Pro-Ject Debut Carbon DC"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-audiophile-turntable-under-2000/marantz-tt-15s1-turntable",
+
+  "@id": "marantz-tt-15s1-turntable ",
+
+  "name": "Marantz TT-15S1 Turntable"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-audiophile-turntable-under-2000/pro-ject-t1-turntable",
+
+  "@id": "pro-ject-t1-turntable ",
+
+  "name": "Pro-Ject T1 Turntable"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-audiophile-turntable-under-2000/audio-technica--turntable-at-lp120xusb",
+
+  "@id": "audio-technica--turntable-at-lp120xusb ",
+
+  "name": "Audio Technica Turntable (AT-LP120XUSB)"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-audiophile-turntable-under-2000/fluance-rt85-truntable",
+
+  "@id": "fluance-rt85-truntable ",
+
+  "name": "Fluance RT85 Truntable"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 7,
+
+  "url":"https://www.technikaya.com/best-audiophile-turntable-under-2000/u-turn-audio-orbit-plus",
+
+  "@id": "u-turn-audio-orbit-plus ",
+
+  "name": "U-Turn Audio Orbit Plus"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 8,
+
+  "url":"https://www.technikaya.com/best-audiophile-turntable-under-2000/audio-technica-dj-turntable",
+
+  "@id": "audio-technica-dj-turntable ",
+
+  "name": "Audio-Technica Dj Turntable"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Audio Technica Dj Turntable
 pickImg: /uploads/audio-technica-at-lp1240usbxp-review.webp
 pickLink: https://www.amazon.com/gp/product/B079QQ131N/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B079QQ131N&linkId=fda5e57ec536e58a7ca38544d2a250d8
