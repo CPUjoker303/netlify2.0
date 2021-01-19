@@ -13,7 +13,158 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: "\n"
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather",
+
+  "name": "11 Best Outdoor Light Bulbs For Cold Weather [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather/sylvania-general-lighting-led-light-bulb",
+
+  "@id": "sylvania-general-lighting-led-light-bulb ",
+
+  "name": "SYLVANIA General Lighting LED Light Bulb"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather/sansi-18w--led-light-bulbs",
+
+  "@id": "sansi-18w--led-light-bulbs ",
+
+  "name": "SANSI 18W LED Light Bulbs"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather/westinghouse-lighting-par38-white-light",
+
+  "@id": "westinghouse-lighting-par38-white-light ",
+
+  "name": "Westinghouse Lighting PAR38 White Light"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather/bioluz-gu10-led-bulbs",
+
+  "@id": "bioluz-gu10-led-bulbs ",
+
+  "name": "Bioluz GU10 LED Bulbs"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather/govee-dusk-to-dawn-light-bulb",
+
+  "@id": "govee-dusk-to-dawn-light-bulb ",
+
+  "name": "Govee Dusk to Dawn Light Bulb"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather/great-eagle-a19-led-light-bulb",
+
+  "@id": "great-eagle-a19-led-light-bulb ",
+
+  "name": "Great Eagle A19 LED Light Bulb"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 7,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather/philips-led-non-dimmable-a19-frosted-light-bulb",
+
+  "@id": "philips-led-non-dimmable-a19-frosted-light-bulb ",
+
+  "name": "Philips LED Non-Dimmable A19 Frosted Light Bulb"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 8,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather/kasa-smart-light-bulb",
+
+  "@id": "kasa-smart-light-bulb ",
+
+  "name": "Kasa Smart Light Bulb"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 9,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather/lohas-bug-light-bulb-yellow-led-bulbs",
+
+  "@id": "lohas-bug-light-bulb-yellow-led-bulbs ",
+
+  "name": "LOHAS Bug Light Bulb Yellow LED Bulbs"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 10,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather/boxlood-12w-pir-motion-sensor-light-bulb",
+
+  "@id": "boxlood-12w-pir-motion-sensor-light-bulb ",
+
+  "name": "Boxlood 12W PIR Motion Sensor Light Bulb"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 11,
+
+  "url":"https://www.technikaya.com/best-outdoor-light-bulbs-for-cold-weather/comzler-6-watt-frosted-candelabra-led-bulb",
+
+  "@id": "comzler-6-watt-frosted-candelabra-led-bulb ",
+
+  "name": "Comzler 6 Watt Frosted Candelabra LED Bulb"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Boxlood 12W PIR Motion Sensor Light Bulb
 pickImg: /uploads/boxlood-12w-pir-motion-sensor-light-bulb.jpg
 pickLink: https://www.amazon.com/gp/product/B0771MYTBH/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0771MYTBH&linkId=3a26b23b244b770f7074770d498d2a04
