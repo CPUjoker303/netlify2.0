@@ -13,7 +13,110 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: "\n"
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-dac-amp-under-100",
+
+  "name": "Best Dac Amp Under 100 [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-dac-amp-under-100/audioquest-dragonfly-black-v15",
+
+  "@id": "audioquest-dragonfly-black-v15 ",
+
+  "name": "AudioQuest DragonFly Black v1.5"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-dac-amp-under-100/neoteck-35mm-headphone-amplifier",
+
+  "@id": "neoteck-35mm-headphone-amplifier ",
+
+  "name": "Neoteck 3.5mm Headphone Amplifier"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-dac-amp-under-100/smsl-m100-usb-dac",
+
+  "@id": "smsl-m100-usb-dac ",
+
+  "name": "SMSL M100 USB DAC"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-dac-amp-under-100/hidizs-portable-amplifier",
+
+  "@id": "hidizs-portable-amplifier ",
+
+  "name": "Hidizs Portable Amplifier"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-dac-amp-under-100/fiio-i1-dac-for-apple",
+
+  "@id": "fiio-i1-dac-for-apple ",
+
+  "name": "FiiO i1 DAC for Apple"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-dac-amp-under-100/hifi-audio-decoder-amplifier---aimpire-ad10-mini-usb-dac",
+
+  "@id": "hifi-audio-decoder-amplifier---aimpire-ad10-mini-usb-dac ",
+
+  "name": "HIFI Audio Decoder Amplifier - Aimpire AD10 MINI USB DAC"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 7,
+
+  "url":"https://www.technikaya.com/best-dac-amp-under-100/fiio-a3-portable-headphone-amplifier",
+
+  "@id": "fiio-a3-portable-headphone-amplifier ",
+
+  "name": "FiiO A3 Portable Headphone Amplifier"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Neoteck 3.5mm Headphone Amplifier
 pickImg: /uploads/neoteck-headphone-amplifier-review.jpg
 pickLink: https://www.amazon.com/gp/product/B01MS22YWV/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MS22YWV&linkId=b2e847b63e59f3995c2b5c7461e8ec8c
