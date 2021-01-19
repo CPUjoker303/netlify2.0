@@ -809,7 +809,7 @@ finely polished tip
 
 ![Shure M44-7 Standard DJ Turntable Cartridge](/uploads/shure-m44-7-review-standard-dj-turntable.jpg "Shure M44-7 Standard DJ Turntable Cartridge")
 
-Next is [Shure M44-7](https://www.shure.eu/products/dj-phono/m44-7) phono cartridge, which comes with type s cantilever and has low record wear, which is excellent and gives you resonant sound. The installation process of the Shure M44-7 cartridge is straightforward, and its needle can work with most of the turntables and is fully designed for DJ scratching.
+Next is Shure M44-7 phono cartridge, which comes with type s cantilever and has low record wear, which is excellent and gives you resonant sound. The installation process of the Shure M44-7 cartridge is straightforward, and its needle can work with most of the turntables and is fully designed for DJ scratching.
 
 The tracking force of M44-7 is 1.5 to 3 grams, and the resource frequency range is 20 to 20,000 Hz, which is less than 2m black styli. It is much expensive, and we have just listed this M44-7 phono cartridge for providing you best information; and if your budget is good, then the cartridge is best for you, and you can easily buy this Shure M44-7 phono cartridge for the best DJ Music nights and good quality audio. The M44-7 is the best phono cartridge under 500 dollars.
 
