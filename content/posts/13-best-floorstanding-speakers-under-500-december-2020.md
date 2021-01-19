@@ -13,7 +13,182 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: SSss
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-floor-standing-speakers-under-500",
+
+  "name": "13 Best Floorstanding Speakers Under 500 [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-floor-standing-speakers-under-500/sony-sscs3-black-3-way-floor-standing-speaker",
+
+  "@id": "sony-sscs3-black-3-way-floor-standing-speaker ",
+
+  "name": "Sony SSCS3 Black 3-Way Floor-Standing Speaker"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-floor-standing-speakers-under-500/ar1004wh-wall-powered-bluetooth-tower-speaker-with-lights",
+
+  "@id": "ar1004wh-wall-powered-bluetooth-tower-speaker-with-lights ",
+
+  "name": "AR1004WH Wall Powered Bluetooth Tower Speaker with Lights"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-floor-standing-speakers-under-500/polk-audio-series-ii-tower-speaker",
+
+  "@id": "polk-audio-series-ii-tower-speaker ",
+
+  "name": "Polk Audio Series II Tower Speaker"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-floor-standing-speakers-under-500/pioneer-floor-standing-loudspeaker",
+
+  "@id": "pioneer-floor-standing-loudspeaker ",
+
+  "name": "Pioneer Floor Standing Loudspeaker"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-floor-standing-speakers-under-500/onkyo-skf-4800-bass-reflex-floor-standing-speakers",
+
+  "@id": "onkyo-skf-4800-bass-reflex-floor-standing-speakers ",
+
+  "name": "Onkyo SKF-4800 Bass Reflex Floor-standing Speakers"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-floor-standing-speakers-under-500/samsung-wired-audio-sound-tower",
+
+  "@id": "samsung-wired-audio-sound-tower ",
+
+  "name": "Samsung Wired Audio Sound Tower"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 7,
+
+  "url":"https://www.technikaya.com/best-floor-standing-speakers-under-500/polk-audio-t50-150-theater-floor-standing-tower-speaker",
+
+  "@id": "polk-audio-t50-150-theater-floor-standing-tower-speaker ",
+
+  "name": "Polk Audio T50 150 Theater Floor Standing Tower Speaker"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 8,
+
+  "url":"https://www.technikaya.com/best-floor-standing-speakers-under-500/rockville-tm80c-speakers",
+
+  "@id": "rockville-tm80c-speakers ",
+
+  "name": "Rockville TM80C Speakers"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 9,
+
+  "url":"https://www.technikaya.com/best-floor-standing-speakers-under-500/sony-ss-cs3-3-way-4-driver-speaker",
+
+  "@id": "sony-ss-cs3-3-way-4-driver-speaker ",
+
+  "name": "Sony SS-CS3 3-Way 4-Driver Speaker"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 10,
+
+  "url":"https://www.technikaya.com/best-floor-standing-speakers-under-500/yamaha-ns-f210bl-2-way-bass-reflex-floorstanding-speaker",
+
+  "@id": "yamaha-ns-f210bl-2-way-bass-reflex-floorstanding-speaker ",
+
+  "name": "Yamaha NS-F210BL 2-Way Bass-Reflex Floorstanding Speaker"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 11,
+
+  "url":"https://www.technikaya.com/best-floor-standing-speakers-under-500/dayton-audio-t652-air-tower-speaker",
+
+  "@id": "dayton-audio-t652-air-tower-speaker ",
+
+  "name": "Dayton Audio T652-AIR Tower Speaker"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 12,
+
+  "url":"https://www.technikaya.com/best-floor-standing-speakers-under-500/yamaha-floor-standing-speaker",
+
+  "@id": "yamaha-floor-standing-speaker ",
+
+  "name": "Yamaha Floor Standing Speaker"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 13,
+
+  "url":"https://www.technikaya.com/best-floor-standing-speakers-under-500/klipsch-reference-floorstanding-speakers",
+
+  "@id": "klipsch-reference-floorstanding-speakers ",
+
+  "name": "Klipsch Reference Floorstanding Speakers"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: "Rockville TM80C Tower Speakers "
 pickImg: /uploads/rockville-tm80c-tower-speakers-review.jpg
 pickLink: https://www.amazon.com/gp/product/B0742WXFJ6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0742WXFJ6&linkId=9f683687e6080cf7c76f05688d2f1400
