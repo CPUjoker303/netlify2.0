@@ -74,7 +74,7 @@ Our Technikaya team created Best Fx Processor list below and if you don’t have
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B009O7YUF6/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YUF6&linkId=fade07dc9a998142135d40707535f44b" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/amd-fd8320frhkbox-fx-8320-fx-series-8.jpg" alt="AMD FX-8320 " title="AMD FX-8320 "></td>
+<td class="tdimg"><img src="/uploads/amd-fx-8320-processor-300px-v2.webp" alt="AMD FX-8320 " title="AMD FX-8320 "></td>
 <td>AMD FX-8320 </td>
 <td>Best ddr3 processor</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B009O7YU56/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YU56&linkId=8029cc3725386c83d5851513f328558d" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -536,7 +536,7 @@ It comes with AMD Virtualization Technology with IOMMU, which provides the best 
 
 ### AMD FX-8320 Processor
 
-![AMD FX-8320 Processor](/uploads/amd-fd8320frhkbox-fx-8320-fx-series-8.jpg "AMD FX-8320 Processor")
+![AMD FX-8320 Processor](/uploads/amd-fx-8320-processor-300px-v2.webp "AMD FX-8320 Processor")
 
 The AMD FX-8320 is Am3+ socket type desktop processor which comes with 8 cores / 8 threads and 16 Mb (8mb L2 / 8mb L3) total Cache Memory and a budget gaming processor. The processor is providing great performance because it comes 4.0GHz base clock speed. The processor can easily handle mega-tasking and heavy loads like fastest video rendering, editing, gaming etc.
 
