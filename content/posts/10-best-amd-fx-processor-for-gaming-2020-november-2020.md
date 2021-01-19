@@ -38,7 +38,7 @@ Our Technikaya team created Best Fx Processor list below and if you don’t have
 <th><strong>CHECKOUT PRICE</strong></th>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/amd-ryzen-7-2700x.jpg" alt="AMD Ryzen 7 2700X Processor " title="AMD Ryzen 7 2700X Processor "></td>
+<td class="tdimg"><img src="/uploads/amd-ryzen-7-2700x-processor.webp" alt="AMD Ryzen 7 2700X Processor " title="AMD Ryzen 7 2700X Processor "></td>
 <td>AMD Ryzen 7 2700X Processor </td>
 <td>Fastest Fx Processor</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07B428M7F/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07B428M7F&linkId=b520dc04fcc5ffba71576a9b7daf1fa4" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -56,7 +56,7 @@ Our Technikaya team created Best Fx Processor list below and if you don’t have
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B07B41WS48/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07B41WS48&linkId=0632bb069ecd9806443b7268ce8a76eb" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/fx-6300-6-core-processor.jpg" alt="FX-6300 6-Core Processor " title="FX-6300 6-Core Processor "></td>
+<td class="tdimg"><img src="/uploads/fx-6300-6-core-processor.webp" alt="FX-6300 6-Core Processor" title="FX-6300 6-Core Processor "></td>
 <td>FX-6300 6-Core Processor </td>
 <td>Amd Best Gaming Processor</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B009O7YORK/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YORK&linkId=e7431618c92f3a1eaadc9e7305a606c7" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -97,7 +97,7 @@ Our Technikaya team created Best Fx Processor list below and if you don’t have
 
 ### AMD Ryzen 7 2700X Processor 
 
-![AMD Ryzen 7 2700X Processor ](/uploads/amd-ryzen-7-2700x.jpg "AMD Ryzen 7 2700X Processor")
+![AMD Ryzen 7 2700X Processor ](/uploads/amd-ryzen-7-2700x-processor.webp "AMD Ryzen 7 2700X Processor")
 
 The First AMD Ryzen 7 2700x review and for the Ryzen 7 2700x display output, the graphic card is required. Its pins are made of gold, and this AMD Processor speed is 4.2 GHz. By using this AMD processor, you will get 8 cores and 16 threads unlocked.
 
@@ -306,7 +306,7 @@ If we talk about the gaming performance of Ryzen 5 and Intel i5, then we come to
 
 ### AMD FX-6300 Processor
 
-![AMD FX-6300 Processor](/uploads/fx-6300-6-core-processor.jpg "AMD FX-6300 Processor")
+![AMD FX-6300 Processor](/uploads/fx-6300-6-core-processor.webp "AMD FX-6300 Processor")
 
 Next AMD FX-6300 Processor review and FX-6300 is a very popular budget six-core Vishera CPU feels more powerful, and its base clock speed is 3. GHz with supported technologies like Aes, Avx, Fma4, etc.
 
