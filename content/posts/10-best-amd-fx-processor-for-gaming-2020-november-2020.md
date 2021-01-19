@@ -664,7 +664,7 @@ It comes with AMD Virtualization Technology with IOMMU, which provides the best 
 
 ![AMD FX-8320 Processor](/uploads/amd-fx-8320-processor-300px-v2.webp "AMD FX-8320 Processor")
 
-The AMD FX-8320 is Am3+ socket type desktop processor which comes with 8 cores / 8 threads and 16 Mb (8mb L2 / 8mb L3) total Cache Memory and a budget gaming processor. The processor is providing great performance because it comes 4.0GHz base clock speed. The processor can easily handle mega-tasking and heavy loads like fastest video rendering, editing, gaming etc.
+The AMD FX-8320 is Am3+ socket type desktop processor which comes with 8 cores / 8 threads and 16 Mb (8mb L2 / 8mb L3) total Cache Memory and a [budget gaming processor](https://www.tomshardware.com/reviews/best-cheap-cpus,5668.html). The processor is providing great performance because it comes 4.0GHz base clock speed. The processor can easily handle mega-tasking and heavy loads like fastest video rendering, editing, gaming etc.
 
 The processor is AMD Build 8th generation x86 CPU architecture. If you pair Rtx 1070 Gpu with FX-8320, then it will quite a bit bottlenecking the graphics card and is still very decent budget processor, and you can play many games in best frame rate with Zero lag and high settings. Using AMD FX-8320 the multitasking is effortless, and this processor has a great overclocking ability.
 
