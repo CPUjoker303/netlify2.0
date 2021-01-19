@@ -8,7 +8,7 @@ excrept: Check 5 Best Songs for a proper water dance. These songs listed for RGB
 metaKeywords: Best Songs For Water Speakers
 url: best-song-for-water-speakers/
 date: 2020-12-05T18:36:58.222Z
-updateDate: 2020-12-05T18:36:58.429Z
+updateDate: 2021-01-19T20:02:59.159Z
 image: /uploads/best-songs-for-testing-water-speaker.jpg
 tags:
   - Reviews
