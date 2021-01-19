@@ -7,7 +7,7 @@ excrept: Checkout Best Phono Preamps Under $500 AND $200. These are Stereophile,
 metaKeywords: Best Phono Preamp Under 500
 url: best-phono-preamp-under-500/
 date: 2020-11-28T17:20:00.801Z
-updateDate: 2021-01-19T19:53:45.705Z
+updateDate: 2021-01-19T19:59:49.943Z
 image: /uploads/best-phono-preamp-under-500-dollar.jpg
 tags:
   - Reviews
