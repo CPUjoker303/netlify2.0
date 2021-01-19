@@ -13,7 +13,86 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: "\n"
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-closed-back-headphones-under-300",
+
+  "name": "Best Closed Back Headphones Under 300 [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-closed-back-headphones-under-300/beyerdynamic-dt-770-pro-headphones",
+
+  "@id": "beyerdynamic-dt-770-pro-headphones ",
+
+  "name": "Beyerdynamic DT 770 PRO Headphones"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-closed-back-headphones-under-300/sony-mdr7506-professional-large-diaphragm-headphone",
+
+  "@id": "sony-mdr7506-professional-large-diaphragm-headphone ",
+
+  "name": "Sony MDR7506 Professional Large Diaphragm Headphone"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-closed-back-headphones-under-300/audio-technica-ath-m50x-headphones",
+
+  "@id": "audio-technica-ath-m50x-headphones ",
+
+  "name": "Audio-Technica ATH-M50x Headphones"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-closed-back-headphones-under-300/bose-quietcomfort-35-headphone",
+
+  "@id": "bose-quietcomfort-35-headphone ",
+
+  "name": "Bose QuietComfort 35 Headphone"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-closed-back-headphones-under-300/razer-opus-active-headphones",
+
+  "@id": "razer-opus-active-headphones ",
+
+  "name": "Razer Opus Active Headphones"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Sony MDR7506 Professional Large Diaphragm Headphone
 pickImg: /uploads/sony-diaphragm-headphone-review.jpg
 pickLink: https://www.amazon.com/gp/product/B000AJIF4E/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B000AJIF4E&linkId=a79679afd95b6ec7654b8ac1b92698c6
