@@ -80,7 +80,7 @@ Our Technikaya team created Best Fx Processor list below and if you don’t have
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B009O7YU56/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YU56&linkId=8029cc3725386c83d5851513f328558d" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
 </tr>
 <tr>
-<td class="tdimg"><img src="/uploads/amd-fx-4300-vishera-–-4-core-processor.jpg" alt="AMD FX-4300 Vishera " title="AMD FX-4300 Vishera "></td>
+<td class="tdimg"><img src="/uploads/amd-fx-4300-processor.webp" alt="AMD FX-4300 Vishera " title="AMD FX-4300 Vishera "></td>
 <td>AMD FX-4300 Vishera </td>
 <td>Best Cpu For Am3+</td>
 <td><a class="table-button" href="https://www.amazon.com/gp/product/B009O7YU3S/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B009O7YU3S&linkId=cbeffad0b42b6a5e21d914d2ebeed2a8" target="_blank" rel="nofollow noopener noreferrer">CHECK PRICE</a></td>
@@ -601,7 +601,7 @@ The FX-8320 is a good gaming processor for the budget-minded gamers, and overall
 
 ### AMD FX-4300 Processor
 
-![AMD FX-4300 Processor](/uploads/amd-fx-4300-vishera-–-4-core-processor.jpg "AMD FX-4300 Processor")
+![AMD FX-4300 Processor](/uploads/amd-fx-4300-processor.webp "AMD FX-4300 Processor")
 
 The AMD Fx 4300 Vishera CPU Quad-core model is for those smaller computers that not required much power. The Fx 4300 quad-core comes with four cores, and it is 3.80 GHz Processor and can be overclocked upto 4 GHz. You can use this processor for normal tasks and gaming. 
 
