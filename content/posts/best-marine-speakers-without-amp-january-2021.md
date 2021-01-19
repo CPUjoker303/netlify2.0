@@ -13,7 +13,98 @@ tags:
   - Reviews
 categories:
   - Reviews
-schemaMarkup: cc
+schemaMarkup: >-
+  <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
+
+  "@context": "http://schema.org",
+
+  "@type": "ItemList",
+
+  "url": "https://www.technikaya.com/best-marine-speakers-without-amp",
+
+  "name": "Best marine speakers without amp [January 2021]",
+
+  "itemListElement":
+
+  [
+
+  {"@type": "ListItem",
+
+  "position": 1,
+
+  "url":"https://www.technikaya.com/best-marine-speakers-without-amp/sony-xsmp1611-dual-cone-marine-speakers",
+
+  "@id": "sony-xsmp1611-dual-cone-marine-speakers ",
+
+  "name": "Sony XSMP1611 Dual Cone Marine Speakers"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 2,
+
+  "url":"https://www.technikaya.com/best-marine-speakers-without-amp/jbl-ms6510-boat-atv-speakers",
+
+  "@id": "jbl-ms6510-boat-atv-speakers ",
+
+  "name": "JBL MS6510 Boat ATV Speakers"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 3,
+
+  "url":"https://www.technikaya.com/best-marine-speakers-without-amp/kenwood-kfc-1653mrw-boat-speakers",
+
+  "@id": "kenwood-kfc-1653mrw-boat-speakers ",
+
+  "name": "Kenwood KFC-1653MRW Boat Speakers"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 4,
+
+  "url":"https://www.technikaya.com/best-marine-speakers-without-amp/kicker-white-oem-coaxial-speaker",
+
+  "@id": "kicker-white-oem-coaxial-speaker ",
+
+  "name": "Kicker White OEM Coaxial Speaker"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 5,
+
+  "url":"https://www.technikaya.com/best-marine-speakers-without-amp/polk-audio-db522-db-coaxial-speakers",
+
+  "@id": "polk-audio-db522-db-coaxial-speakers ",
+
+  "name": "Polk Audio DB522 DB+ Coaxial Speakers"
+
+  },
+
+  {"@type": "ListItem",
+
+  "position": 6,
+
+  "url":"https://www.technikaya.com/best-marine-speakers-without-amp/boss-audio-mrwt40-waketower-speaker",
+
+  "@id": "boss-audio-mrwt40-waketower-speaker ",
+
+  "name": "Boss Audio MRWT40 Waketower Speaker"
+
+  }
+
+  ]
+
+  }
+
+  </script>
 pickName: Boss MRWT40 Waketower Speaker
 pickImg: /uploads/boss-audio-systems-mrwt40-marine-waketower-speaker.webp
 pickLink: https://www.amazon.com/gp/product/B00VV6YQAW/ref=as_li_tl?ie=UTF8&tag=technikaya-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00VV6YQAW&linkId=2a05c6366e8e682296962021632a536e
