@@ -113,5 +113,24 @@ You can go to **the subscription** link on the Sony PlayStation support websit
 * **S**elect ps4 **account management.**
 * Now scroll down and select **PlayStation subscriptions.**
 * There two options show.
-* PlayStation Plus
-* Playstation Now subscription.
+
+  1. PlayStation Plus.
+  2. Playstation Now subscription.
+
+![Playstation status of subscription](/uploads/playstation-status-of-subscription.webp "Playstation status of subscription")
+
+### Playstation Hardware and repair
+
+On the sony PlayStation support website, you will find Hardware & Repair support (online self-service tools), which will help you repair selected PlayStation devices ( PS4, PS5, PS VR, accessories, PS vita, ps3). You can do PlayStation software updation and solve your PlayStation connecting issues and also go to safe mode.
+
+### What is safe mode in playstation?
+
+For rebuilding your PlayStation database, the safe mode is very beneficial, and this will allow you to start your gaming console (ps4, ps5) with only basic functions.
+
+### How do I start in Safe Mode?
+
+* Hold the PlayStation power button (3 seconds only).
+* After the power indicator blinks, your console will turn off.
+* Once PlayStation off, you have to hold the console power button again.
+* Now release the button when you properly hear the second sound beep.
+* Now you have to connect your USB controller with a USB cable and just press the PS button.
