@@ -28,3 +28,38 @@ In this informative article, we provide you information about the deactivation o
 The method is the go-to method, and before trying anything else with your PlayStation, you first have to try this method.
 
 ### Go-To Method For Deactivation Ps4
+
+**Note** that Playstation support is different per-country and region.
+
+* Open [PlayStation Support Website](https://www.playstation.com/en-us/support/).
+* Go down and click on **Contact Support**.
+* The next screen show Pre-chats.
+* Find the Sony **Account Help** option and then click it
+* Then select the **Contact Us** option and wait for a little while.
+* **Chat** with the support chosen team and tell them your problem.
+* The selected support team will solve your deactivating **issue**. 
+* You can also **Phone Call** to PlayStation support service, which is more responsive instead of **live-chat**.
+
+### What is playstation support
+
+Playstation support is online customer service that helps PlayStation users contact the Sony team for different sorts of issues, download games, read PS Blog, Hardware & Repairs, PS Store & Refunds, Account & Security, etc. On PlayStation support website you will find lots of sony service which helps you for some tasks.
+
+### Playstation Account & Security
+
+You have to secure and protect your PlayStation account. If your sony PlayStation account is secure, then you always get safeguard access for digital purchases like games, videos, service subscriptions you buy, and the main thing your Paypal methods whose information saves in your account.
+
+### Playstaion Account Password Security
+
+You did not have to share your PlayStation account's password or not have to use it with any website.
+
+#### Playstaion Password Recommendation
+
+* Use a random series of words or you have to use a full sentence.
+* Avoid pop culture references.
+* Use a password manager.
+
+#### PlayStation Password 2-steps Verification
+
+Many people use a Sony PlayStation account with that device, which other people can easily access on a shared system of PlayStation. So, the best way is to add a passcode.
+
+### How To Add Passcode For Ps4, Ps5 Profile Protection
