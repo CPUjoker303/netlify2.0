@@ -63,3 +63,55 @@ You did not have to share your PlayStation account's password or not have to use
 Many people use a Sony PlayStation account with that device, which other people can easily access on a shared system of PlayStation. So, the best way is to add a passcode.
 
 ### How To Add Passcode For Ps4, Ps5 Profile Protection
+
+* Go to PS4, PS5 **Settings**.
+
+![Playstation settings](/uploads/playstation-settings.webp "Playstation settings")
+
+* Now go to **Login Settings**
+
+
+
+![Playstation Login Settings](/uploads/playstation-login-settings.webp "Playstation Login Settings")
+
+* Now select **Login Passcode Management**.
+
+
+
+![Playstation Login Passcode Management](/uploads/playstation-login-passcode-management.webp "Playstation Login Passcode Management")
+
+* Now, the **Playstation Dialer's Diagram** will show, and you have to enter four digits of a passcode.
+
+![Playstation Dialer's Diagram](/uploads/playstation-dialer-s-diagram.webp "Playstation Dialer's Diagram")
+
+* Now Enter the password twice.
+
+### How to signing out On a ps4 system
+
+* Go to ps4 **Settings.**
+* Now go to PS4 **Account Management.**
+* Now select **Signout.**
+
+### PS Store & Refunds
+
+You can get refunds of games and download the most popular games from PS Store. There you can buy paid and free games online, and if you need a refund of any game, you can apply for it.
+
+#### Playstaion Subscription Management
+
+You can go to **the subscription** link on the Sony PlayStation support website for ongoing, paid services for the management of subscriptions.
+
+#### For Each Subscription
+
+* verify status
+* Turn auto renew On/off
+* Cancel or extend services
+
+### How To Check Playstaion Subscription Status
+
+* Scroll up the PlayStation **home screen.**
+* Go to **PlayStation settings.**
+* **S**elect ps4 **account management.**
+* Now scroll down and select **PlayStation subscriptions.**
+* There two options show.
+* PlayStation Plus
+* Playstation Now subscription.
