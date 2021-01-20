@@ -1,6 +1,6 @@
 ---
 title: How To Deactivate Ps4 Without Waiting 6 Months
-draft: true
+draft: false
 SEOTitle: How To Deactivate Ps4 Without Waiting 6 Months
 excrept: Read how to deactivate ps4 without waiting 6 months. For the
   deactivation of Ps4, there is a go-to method that will help you in Ps4
