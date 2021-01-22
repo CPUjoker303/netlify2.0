@@ -105,8 +105,7 @@ Mostly streams Resident Evil, and he tried 72 hours streaming for at least three
 
 ### Resident Sleeper Is Removed Why?
 
- Later on, in 2016 Twitch removed Resident Sleeper as a global emote stating that
-We will soon retire some older global emotes and remove or replace some others by request. For many of our older global emotes, we only have low resolution 28x28 images (and no original file to improve), and at some point in the future, this size will be relatively obsolete. This is an ongoing effort.
+ Later on, in 2016 Twitch removed Resident Sleeper as a global emote stating that We will soon retire some older global emotes and remove or replace some others by request. For many of our older global emotes, we only have low resolution 28x28 images (and no original file to improve), and at some point in the future, this size will be relatively obsolete. This is an ongoing effort.
 
 As of today, we have been requested to remove Resident Sleeper and Win Waker. As bummed as we are about these, we’re working on a contest for a new Resident Sleeper. We’ll be making an announcement soon
 After that, no Resident Sleeper contest was happened until now.
