@@ -69,8 +69,8 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
 
   #Header Menu Start (Order By Weight)
 [[menu.mainmenu]]
-  name = "Home"
-  url = "/"
+  name = "ACCESSORIES"
+  url = "/accessories/"
   weight = 1
 
 [[menu.mainmenu]]
