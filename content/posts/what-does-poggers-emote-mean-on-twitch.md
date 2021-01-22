@@ -10,9 +10,9 @@ date: 2020-09-16T10:30:01.495Z
 updateDate: 2020-09-16T10:30:01.746Z
 image: /uploads/what.png
 tags:
-  - Information
+  - INFORMATION
 categories:
-  - Information
+  - INFORMATION
 schemaMarkup: >
   <script type="application/ld+json">
 
