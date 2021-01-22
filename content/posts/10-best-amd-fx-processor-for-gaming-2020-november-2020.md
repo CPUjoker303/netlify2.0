@@ -11,6 +11,7 @@ date: 2020-11-07T18:26:05.676Z
 updateDate: 2021-01-19T18:38:31.723Z
 image: /uploads/best-amd-fx-processor-for-gaming.webp
 tags:
+  - GAMING BUILDS
   - Reviews
 categories:
   - Reviews
