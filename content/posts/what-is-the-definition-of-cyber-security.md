@@ -10,9 +10,9 @@ date: 2020-09-14T17:55:52.652Z
 updateDate: 2021-01-18T17:58:39.428Z
 image: /uploads/cyber.jpg
 tags:
-  - Information
+  - INFORMATION
 categories:
-  - Information
+  - INFORMATION
 schemaMarkup: >-
   <script type="application/ld+json">
 
