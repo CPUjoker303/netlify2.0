@@ -11,9 +11,9 @@ date: 2020-09-22T17:32:02.753Z
 updateDate: 2020-09-22T17:32:02.849Z
 image: /uploads/how-to-fix-discord-not-opening-in-windows.jpg
 tags:
-  - Information
+  - INFORMATION
 categories:
-  - Information
+  - INFORMATION
 schemaMarkup: >-
   <script type="application/ld+json">
 
