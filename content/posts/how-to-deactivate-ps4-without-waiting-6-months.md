@@ -11,9 +11,9 @@ date: 2021-01-20T09:20:19.136Z
 updateDate: 2021-01-20T09:20:19.180Z
 image: /uploads/how-to-deactivate-ps4-without-waiting-6-months.webp
 tags:
-  - Information
+  - INFORMATION
 categories:
-  - Information
+  - INFORMATION
 schemaMarkup: "\n"
 pickName: Sony Diaphragm Headphone
 pickImg: /uploads/sony-diaphragm-headphone-review.jpg
