@@ -33,7 +33,7 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
 [params]
     logo = "/images/logo.png" #Logo of your Website (Put Image in dir /static/images)
     description = "Best Gaming Reviews & News" #SEO Discription of your Website
-    excrept = "TECHNIKAYA SEO DISCRIPTION" #SEO Exprect of Your Website
+    excrept = "At Technikaya, you will get all of the latest technology news and reviews, while for accumulated technology experience, we also cover tech guides." #SEO Exprect of Your Website
     image = "/images/site_banner.png" #Business Cover (1920x1080) Used in SEO
     icon = "/images/favicon.png" #Favicon
 
