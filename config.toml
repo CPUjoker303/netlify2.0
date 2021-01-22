@@ -80,7 +80,7 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
 
 [[menu.mainmenu]]
   name = "Reviews"
-  url = "reviews/"
+  url = "/"
   weight = 3
 
 [[menu.mainmenu]]
