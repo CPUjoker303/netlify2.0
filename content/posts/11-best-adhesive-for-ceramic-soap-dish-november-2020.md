@@ -11,9 +11,9 @@ date: 2020-11-16T17:54:17.613Z
 updateDate: 2020-11-16T17:54:17.694Z
 image: /uploads/adhesives.jpg
 tags:
-  - Reviews
+  - REVIEWS
 categories:
-  - Reviews
+  - REVIEWS
 schemaMarkup: >
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
