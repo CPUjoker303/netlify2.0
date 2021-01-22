@@ -10,9 +10,9 @@ date: 2020-11-28T17:20:00.801Z
 updateDate: 2021-01-19T19:59:49.943Z
 image: /uploads/best-phono-preamp-under-500-dollar.jpg
 tags:
-  - Reviews
+  - ACCESSORIES
 categories:
-  - Reviews
+  - ACCESSORIES
 schemaMarkup: >-
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
