@@ -11,9 +11,9 @@ date: 2020-12-17T17:38:23.952Z
 updateDate: 2020-12-17T17:38:24.137Z
 image: /uploads/how-to-connect-speakers-to-pc-without-amplifiers.jpg
 tags:
-  - Information
+  - INFORMATION
 categories:
-  - Information
+  - INFORMATION
 schemaMarkup: >
   <script type="application/ld+json">
 
