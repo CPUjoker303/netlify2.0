@@ -1,5 +1,5 @@
 ---
 name: Reviews
 excrept: The Reviews
-url: Reviews
+url: reviews/
 ---
