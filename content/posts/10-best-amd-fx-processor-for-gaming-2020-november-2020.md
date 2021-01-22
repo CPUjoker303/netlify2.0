@@ -14,7 +14,7 @@ tags:
   - GAMING BUILDS
   - Reviews
 categories:
-  - Reviews
+  - GAMING BUILDS
 schemaMarkup: >-
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
