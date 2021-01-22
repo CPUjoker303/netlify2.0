@@ -74,8 +74,8 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
   weight = 1
 
 [[menu.mainmenu]]
-  name = "Knowledge Base"
-  url = "/"
+  name = "GAMING BUILDS"
+  url = "/gaming-builds/"
   weight = 2
 
 [[menu.mainmenu]]
@@ -84,16 +84,16 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
   weight = 3
 
 [[menu.mainmenu]]
-  name = "News"
-  url = "/"
+  name = "Information"
+  url = "/information/"
   weight = 4
 
   #Header Menu END
   #Footer Menu Start (Order By Weight)
 
 [[menu.footermenu]]
-  name = "Home"
-  url = "/"
+  name = "Accessories"
+  url = "/accessories/"
   weight = "1"
   
 [[menu.footermenu]]
