@@ -11,9 +11,9 @@ date: 2020-08-31T10:12:28.200Z
 updateDate: 2020-08-31T10:12:28.257Z
 image: /uploads/best-activity-tracker-for-tweens-2021.jpg
 tags:
-  - Information
+  - REVIEWS
 categories:
-  - Reviews
+  - REVIEWS
 schemaMarkup: >
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
