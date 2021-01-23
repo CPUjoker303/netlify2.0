@@ -13,7 +13,7 @@ image: /uploads/best-amd-fx-processor-for-gaming.webp
 tags:
   - GAMING BUILDS
 categories:
-  - GAMING BUILDS
+  - Gaming Builds
 schemaMarkup: >-
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
