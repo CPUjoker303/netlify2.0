@@ -258,7 +258,7 @@ After using this accurate fitness tracker, tweens will count their foot-steps on
 {{</pros>}}
 {{<cons>}}
 <li>No touch screen.</li>
-{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07GLVFVBM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GLVFVBM&linkCode=as2&tag=technikaya-20&linkId=53d5f9e08b96c31a3d95ec116c3afa4ehttps://www.amazon.com/gp/product/B07H6TVHD5/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07H6TVHD5&linkCode=as2&tag=technikaya-20&linkId=6e60f5aedeaa4cfdb600d8335b7e7f72{{</button>}}
+{{</cons>}}{{<button>}}https://www.amazon.com/gp/product/B07GLVFVBM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07GLVFVBM&linkCode=as2&tag=technikaya-20&linkId=53d5f9e08b96c31a3d95ec116c3afa4e{{</button>}}
 
 ### Garmin vivofit Jr 2 Marvel
 
