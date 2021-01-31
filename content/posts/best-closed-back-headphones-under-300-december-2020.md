@@ -10,9 +10,9 @@ date: 2020-12-17T19:11:15.891Z
 updateDate: 2020-12-17T19:11:15.966Z
 image: /uploads/best-closed-back-headphones-under-300-dollars-2021.jpg
 tags:
-  - Reviews
+  - Gaming Builds
 categories:
-  - Reviews
+  - Gaming Builds
 schemaMarkup: >-
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
