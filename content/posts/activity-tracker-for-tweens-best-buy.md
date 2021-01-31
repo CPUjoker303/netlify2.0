@@ -203,7 +203,7 @@ You can check your kids' activity on your mobile devices or tablets in one click
 
 The activity tracker Vivofit Jr comes with a user-replaceable battery. The Vivo jr2 fitness band requires one CR2 battery, and no recharge is needed for one year. The watch comes with a battery installed already. It is a round watch battery. When the battery finishes, you have to purchase a new one.
 
-Let's talk about mobile connectivity with a family fitness tracker. It is very straightforward to connect with mobile devices and smart devices, and it can easily connect with both ios and android devices.
+Let's talk about mobile connectivity with a family fitness tracker. It is very straightforward to connect with mobile devices and smart devices, and it can easily connect with both ios and android device.
 
 The health application helps Parents in tracking all fitness activities of children on the android smartphone easily. The mobile application is not for kids' enjoyment; it is only used to manage fitness tracker watch.
 
