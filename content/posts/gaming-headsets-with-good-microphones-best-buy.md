@@ -10,9 +10,9 @@ date: 2020-09-02T12:12:38.272Z
 updateDate: 2021-01-18T17:20:09.980Z
 image: /uploads/best-studio-headphones-for-gaming.webp
 tags:
-  - Reviews
+  - GAMING BUILDS
 categories:
-  - Reviews
+  - GAMING BUILDS
 schemaMarkup: >+
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
