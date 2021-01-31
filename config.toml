@@ -69,12 +69,12 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
 
   #Header Menu Start (Order By Weight)
 [[menu.mainmenu]]
-  name = "ACCESSORIES"
+  name = "Accessories"
   url = "https://www.technikaya.com/accessories/"
   weight = 1
 
 [[menu.mainmenu]]
-  name = "GAMING BUILDS"
+  name = "Gaming Builds"
   url = "https://www.technikaya.com/gaming-builds/"
   weight = 2
 
