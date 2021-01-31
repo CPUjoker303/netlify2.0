@@ -1,5 +1,5 @@
 ---
 name: ACCESSORIES
 excrept: Best Accessories
-url: /accessories/
+url: accessories/
 ---
