@@ -1,5 +1,5 @@
 ---
-name: INFORMATION
+name: Information
 excrept: Read Best Information
 url: information/
 ---
