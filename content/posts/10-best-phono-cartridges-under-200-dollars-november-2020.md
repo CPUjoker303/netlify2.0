@@ -11,9 +11,9 @@ date: 2020-11-28T08:38:40.191Z
 updateDate: 2021-01-19T19:33:09.226Z
 image: /uploads/best-phono-cartridges-under-200-dollars-cartridge-accessorie.jpg
 tags:
-  - Reviews
+  - ACCESSORIES
 categories:
-  - Reviews
+  - ACCESSORIES
 schemaMarkup: >-
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
