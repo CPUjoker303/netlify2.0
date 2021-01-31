@@ -10,9 +10,9 @@ date: 2020-09-16T08:03:20.366Z
 updateDate: 2021-01-18T19:34:55.411Z
 image: /uploads/best-computers-for-sims-4-2021.jpg
 tags:
-  - Information
+  - GAMING BUILDS
 categories:
-  - Reviews
+  - GAMING BUILDS
 schemaMarkup: >
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
