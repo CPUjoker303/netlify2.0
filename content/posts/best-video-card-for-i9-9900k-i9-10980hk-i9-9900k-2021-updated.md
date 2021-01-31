@@ -11,9 +11,9 @@ date: 2020-09-29T09:54:18.304Z
 updateDate: 2021-01-18T13:57:09.597Z
 image: /uploads/best-video-card-for-i9-9900k.webp
 tags:
-  - Reviews
+  - GAMING BUILDS
 categories:
-  - Reviews
+  - GAMING BUILDS
 schemaMarkup: >-
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
