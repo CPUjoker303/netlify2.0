@@ -1,5 +1,5 @@
 ---
-name: GAMING BUILDS
+name: Gaming Builds
 excrept: Build Your Gaming Pc
-url: gaming-builds
+url: gaming-builds/
 ---
