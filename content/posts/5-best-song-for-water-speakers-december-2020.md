@@ -12,6 +12,7 @@ updateDate: 2021-01-19T20:02:59.159Z
 image: /uploads/best-songs-for-testing-water-speaker.jpg
 tags:
   - Reviews
+  - Information
 categories:
   - Reviews
 schemaMarkup: >-
