@@ -75,7 +75,7 @@ googleAnalytics = "UA-1920" #Google Analytics Tracking ID
 
 [[menu.mainmenu]]
   name = "GAMING BUILDS"
-  url = "/gaming-builds/"
+  url = "https://www.technikaya.com/gaming-builds/"
   weight = 2
 
 [[menu.mainmenu]]
