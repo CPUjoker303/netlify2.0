@@ -10,9 +10,9 @@ date: 2020-11-17T16:32:35.368Z
 updateDate: 2021-01-17T15:48:14.909Z
 image: /uploads/best-outdoor-light-bulbs-for-cold-weather.webp
 tags:
-  - Reviews
+  - REVIEWS
 categories:
-  - Reviews
+  - REVIEWS
 schemaMarkup: >-
   <script type="application/ld+json" class="saswp-custom-schema-markup-output">{
 
