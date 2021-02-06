@@ -7,7 +7,7 @@ excrept: Check out the best audiophile turntable under $2000 on the market which
   turntables.
 metaKeywords: Best audiophile turntable under 2000
 url: best-audiophile-turntable-under-2000/
-date: 2021-01-17T10:58:22.369Z
+date: 2021-02-02T14:25:00.000Z
 updateDate: 2021-01-17T10:58:22.415Z
 image: /uploads/best-audiophile-turntable-under-2000.webp
 tags:
